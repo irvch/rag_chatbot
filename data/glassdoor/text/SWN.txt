@@ -1,0 +1,630 @@
+
+Southwestern Energy is a Mining, Crude-Oil Production company based in 77389 Spring, Texas. 
+The company has 1,118 employees and has a revenue of $15,002 according to Fortune 500.
+The company is valued at $5,506 and has a profit of $1,849. The CEO of the company is Bill Way.
+
+The Company has the following ratings: 
+Average ratings for Southwestern Energy:
+Business Outlook: 0.54
+
+Career Opportunities: 3.5
+Distribution: 
+	1: 23 
+	2: 38 
+	3: 63 
+	4: 59 
+	5: 22 
+
+CEO: 0.44
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 2 
+	2: 6 
+	3: 38 
+	4: 88 
+	5: 72 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 22 
+	2: 21 
+	3: 42 
+	4: 52 
+	5: 57 
+
+Diversity and Inclusion: 3.5
+Distribution: 
+	1: 8 
+	2: 3 
+	3: 14 
+	4: 11 
+	5: 13 
+
+Overall: 3.8
+Distribution: 
+	1: 17 
+	2: 23 
+	3: 50 
+	4: 82 
+	5: 56 
+
+Senior Management: 3.1
+Distribution: 
+	1: 41 
+	2: 53 
+	3: 37 
+	4: 49 
+	5: 23 
+
+Work Life Balance: 4
+Distribution: 
+	1: 17 
+	2: 17 
+	3: 45 
+	4: 64 
+	5: 63 
+
+Review Count: 229
+
+Recommend to Friend: 
+	RECOMMEND: 114
+	WONT RECOMMEND: 57
+
+
+
+
+The company has 252 reviews on Glassdoor. The last review was posted on 2024-04-11T18:56:23.220. 
+There are 20 Reviews for Southwestern Energy:
+
+Review 1:
+	Job Title: Accountant III
+	Location: Spring, TX
+	Review Date: 2024-03-12T07:12:33.700
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Growing company with strong culture
+
+
+	Cons: 
+		Part of a cyclical industry that's subject to consolidation
+
+
+	Summary: 
+		SWN is Great
+
+
+Review 2:
+	Job Title: Engineer
+	Location: Houston, TX
+	Review Date: 2024-04-11T18:56:23.220
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		9/80 schedule is nice. Good benefits.
+
+
+	Cons: 
+		Senior management is not as receptive to change.
+
+
+	Summary: 
+		Solid Compaby
+
+
+Review 3:
+	Job Title: Engineer
+	Location: Lafayette, LA
+	Review Date: 2024-03-14T09:30:06.143
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Long Term incentive are nice but are golden shackles at the end
+
+
+	Cons: 
+		Employees are quite subservient and only go with the flow for their own sake and convenience. Like everybody else in America, they just gave up.
+
+
+	Summary: 
+		Shrinking to extinction.
+
+
+Review 4:
+	Job Title: Staff Geologist
+	Location: Spring, TX
+	Review Date: 2024-03-12T05:00:43.670
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		nice facility, 980 great pay and benefits.
+
+
+	Cons: 
+		layoffs constantly hanging due to upper management poor handling of company finances, except when it comes to their own massive pay, Poor board oversight of upper management.
+
+
+	Summary: 
+		great place but needs competent upper management and oversight.
+
+
+Review 5:
+	Job Title: Accountant
+	Location: Spring, TX
+	Review Date: 2024-01-27T10:26:42.287
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		People are great! Market downstairs with great, reasonably priced food.
+
+
+	Cons: 
+		IT is a bit of a nightmare
+
+
+	Summary: 
+		Great place to work
+
+
+Review 6:
+	Job Title: Senior Manager
+	Location: Spring, TX
+	Review Date: 2024-01-15T13:24:54.533
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		People... People... People.
+		Benefits, Campus and Pay
+		Formula and Culture
+
+
+	Cons: 
+		Unclear vision and uncertainty in the industry.
+
+
+	Summary: 
+		It was a great ride.
+
+
+Review 7:
+	Job Title: Foreman
+	Location: Shreveport, LA
+	Review Date: 2024-01-08T14:09:38.180
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good Pay. Solid Culture. Advancement opperatunities.
+
+
+	Cons: 
+		Red Tape. Location. Old Vehicle.
+
+
+	Summary: 
+		Solid Company
+
+
+Review 8:
+	Job Title: None
+	Location: None
+	Review Date: 2023-12-29T15:41:29.843
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great family and work balance
+
+
+	Cons: 
+		As with all large public companies, it sways too much with the political atmosphere
+
+
+	Summary: 
+		Yes
+
+
+Review 9:
+	Job Title: Senior HR Business Partner
+	Location: Spring, TX
+	Review Date: 2023-11-27T14:57:55.700
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Work culture creates an environment to thrive 
+		People -always willing to lend a helping hand
+		Collaboration 
+		Great benefits
+
+
+	Cons: 
+		No remote work, which is minor compared to the excellent work environment and all of the other positive things about working here.
+
+
+	Summary: 
+		Great place to work.
+
+
+Review 10:
+	Job Title: Staff Accountant
+	Location: Houston, TX
+	Review Date: 2023-12-19T19:18:20.147
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Good people, decent pay, enjoyable work environment
+
+
+	Cons: 
+		Opportunity for growth, rumor mill
+
+
+	Summary: 
+		Good people
+
+
+Review 11:
+	Job Title: Sr, HR Analyst
+	Location: Spring, TX
+	Review Date: 2023-11-27T08:56:18.283
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Leadership, co-workers, compensation, benefits, convenient location, opportunity to move up and learn new skills.
+
+
+	Cons: 
+		Traffic in the area tends to be heavy
+
+
+	Summary: 
+		All 3
+
+
+Review 12:
+	Job Title: None
+	Location: None
+	Review Date: 2023-11-16T07:00:23.940
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Company Culture 
+		People 
+		Beautiful Office
+		9/80 Schedule
+
+
+	Cons: 
+		No remote or hybrid work
+
+
+	Summary: 
+		Great Place to Work
+
+
+Review 13:
+	Job Title: None
+	Location: None
+	Review Date: 2023-10-18T11:33:38.987
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Company has great benefits and perks.
+
+
+	Cons: 
+		None that causes me concerns
+
+
+	Summary: 
+		Good Company
+
+
+Review 14:
+	Job Title: None
+	Location: Houston, TX
+	Review Date: 2023-09-18T11:26:20.393
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great teams, leadership cares, culture is amazing
+
+
+	Cons: 
+		Meeting heavy, communication can be better
+
+
+	Summary: 
+		Great company!
+
+
+Review 15:
+	Job Title: Engineering Technician
+	Location: The Woodlands, TX
+	Review Date: 2023-09-19T14:18:59.983
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Good benefits and great LTI incentives
+
+
+	Cons: 
+		Culture needs work. Management is not great at communication. Walled gardens everywhere.
+
+
+	Summary: 
+		SWN
+
+
+Review 16:
+	Job Title: None
+	Location: Wheeling, WV
+	Review Date: 2023-08-21T17:04:14.380
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		bonus were good after 4 years but they eliminated the pension to save them money
+
+
+	Cons: 
+		salary employees expected to work a ton of hours without compensation. Employees use to be the focus until they started acquiring multiple companies then their focus turned to their investors not employees.
+
+
+	Summary: 
+		If your a robot this is the place for you
+
+
+Review 17:
+	Job Title: Analyst
+	Location: Spring, TX
+	Review Date: 2023-06-27T12:52:07.587
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: DISAPPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Benefits at SWN were great and the LTI was so nice.
+
+
+	Cons: 
+		Lack of advancement opportunities in most departments. Seemed like the only moves that could be made were lateral. Lots of middle managers that only attended meetings all day and didn't have much time for their team.
+
+
+	Summary: 
+		Good total compensation, lack of career growth
+
+
+Review 18:
+	Job Title: Sr. Reservoir Engineer
+	Location: Spring, TX
+	Review Date: 2023-08-15T14:22:13.780
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great building, great location, great gas assets
+
+
+	Cons: 
+		No oil assets, pure gas play
+
+
+	Summary: 
+		Great building
+
+
+Review 19:
+	Job Title: Software Developer
+	Location: Spring, TX
+	Review Date: 2023-07-17T21:30:26.170
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Management is understanding, will teach you tons, and want to help you grow
+
+
+	Cons: 
+		I cannot think of any
+
+
+	Summary: 
+		Great people, great environment!
+
+
+Review 20:
+	Job Title: Analyst
+	Location: Houston, TX
+	Review Date: 2023-05-13T16:36:26.403
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		I really love working at Southwestern, my only complaint is that they do not offer any hybrid/remote work options. It is a 9/80 schedule, but that's a small consolation.
+
+
+	Cons: 
+		No flexible work schedule. Natural gas marker is volatile, hard to feel like I have long-term job security.
+
+
+	Summary: 
+		Great People, But No Hybrid Work
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,629 @@
+
+J.M. Smucker is a Food Consumer Products company based in 44667 Orrville, Ohio. 
+The company has 6,700 employees and has a revenue of $7,999 according to Fortune 500.
+The company is valued at $16,781 and has a profit of $632. The CEO of the company is Mark T. Smucker.
+
+The Company has the following ratings: 
+Average ratings for J.M. Smucker:
+Business Outlook: 0.62
+
+Career Opportunities: 3.3
+Distribution: 
+	1: 81 
+	2: 108 
+	3: 188 
+	4: 167 
+	5: 138 
+
+CEO: 0.69
+
+Compensation and Benefits: 3.7
+Distribution: 
+	1: 31 
+	2: 67 
+	3: 175 
+	4: 233 
+	5: 171 
+
+Culture and Values: 3.6
+Distribution: 
+	1: 93 
+	2: 70 
+	3: 102 
+	4: 149 
+	5: 250 
+
+Diversity and Inclusion: 3.5
+Distribution: 
+	1: 48 
+	2: 42 
+	3: 61 
+	4: 74 
+	5: 95 
+
+Overall: 3.7
+Distribution: 
+	1: 71 
+	2: 97 
+	3: 161 
+	4: 257 
+	5: 230 
+
+Senior Management: 3
+Distribution: 
+	1: 127 
+	2: 102 
+	3: 142 
+	4: 179 
+	5: 121 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 71 
+	2: 65 
+	3: 134 
+	4: 190 
+	5: 215 
+
+Review Count: 821
+
+Recommend to Friend: 
+	RECOMMEND: 420
+	WONT RECOMMEND: 196
+
+
+
+
+The company has 995 reviews on Glassdoor. The last review was posted on 2024-04-15T10:07:37.200. 
+There are 20 Reviews for J.M. Smucker:
+
+Review 1:
+	Job Title: Senior Financial Analyst
+	Location: Orrville, OH
+	Review Date: 2024-04-01T09:17:53.987
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Work life balance
+		Management
+		Team focus
+
+
+	Cons: 
+		Depends on your preference over the hybrid work environment
+
+
+	Summary: 
+		Great company
+
+
+Review 2:
+	Job Title: Category Manager
+	Location: Cleveland, OH
+	Review Date: 2024-04-01T18:36:56.877
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Great company culture. Immediate team leadership is great to work with and cares about you as a person.
+
+
+	Cons: 
+		Too many changes! Between buying and selling brands, it is hard to stay focused and keep momentum.
+
+
+	Summary: 
+		Great company, but brace yourself for CONSTANT change!
+
+
+Review 3:
+	Job Title: R & D Manager
+	Location: Orrville, OH
+	Review Date: 2024-04-09T02:00:43.467
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Pay, work / life, can actually have a 40 hr week
+
+
+	Cons: 
+		They are a large company, and act like a large company. Change is constant
+
+
+	Summary: 
+		They are becoming their own company
+
+
+Review 4:
+	Job Title: Head Processor
+	Location: Orville, PA
+	Review Date: 2024-04-15T10:07:37.200
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good retirement for employees who work there for years
+
+
+	Cons: 
+		Low pay for most operations
+
+
+	Summary: 
+		Decent
+
+
+Review 5:
+	Job Title: Process Engineer
+	Location: Buffalo, NY
+	Review Date: 2024-04-08T09:51:52.617
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		I really like working for smuckers. The people are great and there are people that want you to succeed there
+
+
+	Cons: 
+		9 hour work days and working weekends sometimes.
+
+
+	Summary: 
+		Awesome Place to work
+
+
+Review 6:
+	Job Title: Integrated Analyst
+	Location: Akron, OH
+	Review Date: 2024-04-11T20:08:59.860
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Okay place to work. Nice people.
+
+
+	Cons: 
+		Nothing to share just okay
+
+
+	Summary: 
+		Okay place for a start
+
+
+Review 7:
+	Job Title: Processor
+	Location: Buffalo, NY
+	Review Date: 2024-04-08T05:57:16.610
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay and pension for retirement
+
+
+	Cons: 
+		You are there all the time, forced overtime
+
+
+	Summary: 
+		Good place to work 
+
+
+Review 8:
+	Job Title: Category Analyst
+	Location: Orrville, OH
+	Review Date: 2024-04-04T16:05:44.833
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Work-life balance, culturee/people, ID&amp;E, ESG, ethical values, great brands
+
+
+	Cons: 
+		Location, pay, job titles, career movement
+
+
+	Summary: 
+		?
+
+
+Review 9:
+	Job Title: Technician
+	Location: Scottsville, KY
+	Review Date: 2024-03-11T08:14:54.143
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Only positive is I get a paycheck.
+
+
+	Cons: 
+		Scottsville Plant. Everything. You work your butt off and employee next to you can be on there cellphone all day long playing games. This place is a joke. And you have to kiss butt to get promoted.
+
+
+	Summary: 
+		Joke
+
+
+Review 10:
+	Job Title: None
+	Location: Memphis, TN
+	Review Date: 2024-04-03T15:32:23.370
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Good benefits. 401k fully vested immediately. Vacation 3 weeks with option to purchase.
+
+
+	Cons: 
+		Leadership is biased and afraid of the PM. The PM has no clue on how to manage people let along a plant. Diversity diminishing at the leadership level
+
+
+	Summary: 
+		Going downhill 
+
+
+Review 11:
+	Job Title: Financial Analyst
+	Location: None
+	Review Date: 2024-03-27T07:39:54.273
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		An absolutely amazing place to work. Great workplace culture. Very inclusive. Amazing work-life balance. Tons of opportunities and support.
+
+
+	Cons: 
+		None! It’s a great place to work.
+
+
+	Summary: 
+		Great Place to Work
+
+
+Review 12:
+	Job Title: Developer
+	Location: Orrville, OH
+	Review Date: 2024-02-19T09:23:17.467
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		The people who work here are genuinely kind and easy to work with
+		The benefits are pretty good
+		Career trajectory isn't bad (for now)
+
+
+	Cons: 
+		Leadership has no direction for the company
+		No job security, reorganized 3 times in the past 3 years 
+		Pay is middle of the road
+
+
+	Summary: 
+		Kind of a mess, but not the worst
+
+
+Review 13:
+	Job Title: Senior Analyst Commerical Development
+	Location: Orrville, OH
+	Review Date: 2024-03-27T17:17:27.927
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Kind people, good culture, work life balance
+
+
+	Cons: 
+		Not a lot of room for career growth
+
+
+	Summary: 
+		Good employer
+
+
+Review 14:
+	Job Title: Communications
+	Location: Orrville, OH
+	Review Date: 2024-03-22T16:30:01.723
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		The company is filled with talented, kind, hardworking people. Pay is competitive.
+
+
+	Cons: 
+		The corporate headquarters is located in a rural area, far from any city center.
+
+
+	Summary: 
+		Special Company
+
+
+Review 15:
+	Job Title: Shared Services
+	Location: Orrville, OH
+	Review Date: 2024-03-18T17:30:01.350
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great work life balance and good benefits
+
+
+	Cons: 
+		Lack of equal opportunity for all employees. Lack of growth opportunities and promotions unless it's your turn in line.
+
+
+	Summary: 
+		Great Flexibility
+
+
+Review 16:
+	Job Title: Senior Data Scientist
+	Location: Cleveland, OH
+	Review Date: 2024-03-20T13:14:43.143
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great People and Great Culture where everyone is cared
+
+
+	Cons: 
+		Tech stack in CPG is dated compared to industry
+
+
+	Summary: 
+		Great Place to work, Love the culture
+
+
+Review 17:
+	Job Title: Production Supervisor
+	Location: Ripon, WI
+	Review Date: 2024-03-26T02:50:05.590
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		The insurance benefits are great
+
+
+	Cons: 
+		The rate of pay and management
+
+
+	Summary: 
+		Pay review
+
+
+Review 18:
+	Job Title: Lead Financial Analyst
+	Location: Orrville, OH
+	Review Date: 2024-03-14T07:24:19.983
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Flexible work with a lot of opportunities within to grow.
+
+
+	Cons: 
+		Constant change and the pay scale seems to be trailing industry averages.
+
+
+	Summary: 
+		Great Place to Work
+
+
+Review 19:
+	Job Title: National Account Manager
+	Location: Orrville, OH
+	Review Date: 2024-03-14T20:21:36.463
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Flexible, good pay, ID&amp;E, professional development
+
+
+	Cons: 
+		Your normal cliques that occur when working at a large corporation
+
+
+	Summary: 
+		Great Company
+
+
+Review 20:
+	Job Title: Logistics Technician
+	Location: Scottsville, KY
+	Review Date: 2024-03-16T01:51:53.207
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Potential growth opportunities.
+		Raises for learning new skills.
+
+
+	Cons: 
+		12.5 hour work day with unpaid lunch.
+
+
+	Summary: 
+		Pretty good employer
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

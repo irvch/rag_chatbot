@@ -1,0 +1,638 @@
+
+Watsco is a Wholesalers: Diversified company based in 33133 Miami, Florida. 
+The company has 7,238 employees and has a revenue of $7,274 according to Fortune 500.
+The company is valued at $12,354 and has a profit of $601. The CEO of the company is Albert H. Nahmad.
+
+The Company has the following ratings: 
+Average ratings for Watsco:
+Business Outlook: 0.75
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 6 
+	2: 7 
+	3: 5 
+	4: 7 
+	5: 15 
+
+CEO: 0.86
+
+Compensation and Benefits: 3.2
+Distribution: 
+	1: 7 
+	2: 8 
+	3: 9 
+	4: 8 
+	5: 9 
+
+Culture and Values: 3.3
+Distribution: 
+	1: 12 
+	2: 5 
+	3: 2 
+	4: 7 
+	5: 16 
+
+Diversity and Inclusion: 3.6
+Distribution: 
+	1: 4 
+	2: 0 
+	3: 2 
+	4: 2 
+	5: 9 
+
+Overall: 3.6
+Distribution: 
+	1: 7 
+	2: 6 
+	3: 5 
+	4: 10 
+	5: 19 
+
+Senior Management: 3.4
+Distribution: 
+	1: 11 
+	2: 2 
+	3: 6 
+	4: 6 
+	5: 16 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 4 
+	2: 4 
+	3: 9 
+	4: 9 
+	5: 16 
+
+Review Count: 47
+
+Recommend to Friend: 
+	RECOMMEND: 22
+	WONT RECOMMEND: 16
+
+
+
+
+The company has 50 reviews on Glassdoor. The last review was posted on 2024-01-15T19:44:13.613. 
+There are 20 Reviews for Watsco:
+
+Review 1:
+	Job Title: Software Engineer
+	Location: Miami, FL
+	Review Date: 2023-12-17T08:33:52.383
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Long term company, hasn’t adjusted with the time fully
+
+
+	Cons: 
+		Needs to adjust with the times
+
+
+	Summary: 
+		Great company 
+
+
+Review 2:
+	Job Title: Accountant
+	Location: Coconut Grove, FL
+	Review Date: 2023-12-14T08:25:47.527
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Stable company that has no losses and has a strong business model which allows the company to grow. However, none of the growth and success of the company is translated into the company's employees or their benefits. Pro is the company isn't going anywhere.
+
+
+	Cons: 
+		Company is outdated and stuck in the past and will not modernize for their corporate employees. Watsco Ventures is a completely separate company run by different people; be weary of the positive reviews you read on Glassdoor if it comes from Watsco Ventures. The two companies are run completely differently. 
+		
+		Watsco Corporate has little to no flexibility and is a very hierarchy type of  environment.  Benefits are very bad borderline non existent (in terms of 401K match, PTO or Holidays).
+
+
+	Summary: 
+		Old school company to work for. Leadership needs to change in order for the company to catch up.
+
+
+Review 3:
+	Job Title: Accounting
+	Location: Coconut Grove, FL
+	Review Date: 2024-01-15T19:44:13.613
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Stable company to work for
+
+
+	Cons: 
+		- There is lack of communication from the management team
+		- They do not have a formal review and raise process done
+		- Company benefits are very poor
+		- No growth opportunities
+		- Management does not have the proper skill set to train and coach 
+		 employees to better themselves
+
+
+	Summary: 
+		Poor management and lack of communication
+
+
+Review 4:
+	Job Title: Counter Staff
+	Location: Savannah, GA
+	Review Date: 2023-09-17T16:47:38.287
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		This is a decent company for entering into the HVACR wholesale side of the business.
+
+
+	Cons: 
+		You will constantly be looking for the things you need to sell in season; and not being able to find then until the season has passed.
+
+
+	Summary: 
+		Inventory issues
+
+
+Review 5:
+	Job Title: Accounting
+	Location: Atlanta, GA
+	Review Date: 2023-09-22T14:33:16.050
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Small family owned business. Everyone works well together.
+
+
+	Cons: 
+		Small company. They were bought out.
+
+
+	Summary: 
+		Excellent
+
+
+Review 6:
+	Job Title: Territory Manager
+	Location: Miami, FL
+	Review Date: 2023-06-15T07:15:49.973
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		- none that I can think of
+
+
+	Cons: 
+		- all of the above - very poor management
+
+
+	Summary: 
+		poor management
+
+
+Review 7:
+	Job Title: None
+	Location: None
+	Review Date: 2023-01-18T14:27:02.703
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Startup feel and a global presence, with an affinity for embracing technology to optimize the distribution business.
+
+
+	Cons: 
+		I can't really think of any at this point.
+
+
+	Summary: 
+		Fast Moving IT company in the business of HVAC Distribution
+
+
+Review 8:
+	Job Title: Customer Success Specialist
+	Location: None
+	Review Date: 2022-12-21T20:32:00.363
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Flexible work, remote/hybrid Nice people and work environment
+
+
+	Cons: 
+		Terrible benefits and PTO. Minimal holidays. Unclear HR department.
+
+
+	Summary: 
+		Watsco Ventures Review
+
+
+Review 9:
+	Job Title: Junior Web Developer
+	Location: Miami, FL
+	Review Date: 2022-09-29T09:25:30.337
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Very employee friendly, will do things to help employee feel at home
+
+
+	Cons: 
+		Pay is not always great and to industry standards
+
+
+	Summary: 
+		Great culture and people
+
+
+Review 10:
+	Job Title: Junior IT Auditor
+	Location: Miami, FL
+	Review Date: 2022-09-19T11:49:35.950
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Leadership is by far the best one I have been a part of. Very dynamic and friendly environment.
+
+
+	Cons: 
+		None as of this moment.
+
+
+	Summary: 
+		Great Company
+
+
+Review 11:
+	Job Title: Customer assurance manager
+	Location: None
+	Review Date: 2022-09-21T07:55:04.117
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Look out for their employees
+
+
+	Cons: 
+		They do not ave many issues
+
+
+	Summary: 
+		Great Company
+
+
+Review 12:
+	Job Title: None
+	Location: None
+	Review Date: 2022-08-04T12:06:37.680
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		The Company is in a full technology transformation, E-commerce, salesforce and other great project
+
+
+	Cons: 
+		like any other place some time not good roadmaps in some areas, employee compensation, benefits etc.
+
+
+	Summary: 
+		Overall a good company to work
+
+
+Review 13:
+	Job Title: None
+	Location: Miami, FL
+	Review Date: 2021-10-10T07:47:09.853
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		- Nice people. The team I was on in particular had amazing, smart, and funny people.
+
+
+	Cons: 
+		- Barely anything was modern. After a year of Covid, nobody knew how to properly use Zoom.
+		- Forced to work long hours with no incentives or benefits. “Just trying to meet deadlines.”
+		- Low salary. Even during my interview process, I told them my salary requirements and HR lowballed me and said “people on Glassdoor lie and put their salaries up higher than they really are.” This should’ve been a major red flag, but I was desperate.
+		- Bad employee insurance. High co-pays.
+		- Not great cross-team communication. I only knew my team but barely anybody else. Company is so huge, it’s impossible.
+		- No company-wide activities to keep people engaged. Every day was boring.
+
+
+	Summary: 
+		Not so great.
+
+
+Review 14:
+	Job Title: Quality Assurance Tester
+	Location: Miami, FL
+	Review Date: 2022-03-04T10:34:03.307
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Opportunity for growth in many areas
+
+
+	Cons: 
+		Lack of transparency for most employees
+
+
+	Summary: 
+		Nice place
+
+
+Review 15:
+	Job Title: None
+	Location: Miami, FL
+	Review Date: 2022-01-04T18:03:12.697
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		You will be working with very talented people, in general it's a nice place to work!!
+
+
+	Cons: 
+		All good so far ..
+
+
+	Summary: 
+		Very nice company
+
+
+Review 16:
+	Job Title: None
+	Location: Miami, FL
+	Review Date: 2021-09-13T23:37:35.773
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Excellent workplace, co-workers, strategy, etc.
+
+
+	Cons: 
+		No cons while working at watsco as a developer.
+
+
+	Summary: 
+		Developer at Watsco
+
+
+Review 17:
+	Job Title: Program Manager
+	Location: Miami, FL
+	Review Date: 2019-06-27T08:46:58.620
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		I've been at Watsco for 5 years and have seen it grow and change. We are constantly looking how to improve our services to our customers and how to improve internally on delivering those, and the company has been heavily investing in technology and resources. It's a relatively flat organization with very little bureaucracy, so making project decisions is quick and easy. The team is fun to work with and we get on very well both professionally and socially. It's fast paced and challenging, but you also have a lot of freedom.
+
+
+	Cons: 
+		Although they are somewhat flexible with vacation time, would like to see a more official policy where you are rewarded with more days off the longer you've worked there.
+
+
+	Summary: 
+		Good place to work, large company with small company vibe
+
+
+Review 18:
+	Job Title: Software Engineer
+	Location: Miami, FL
+	Review Date: 2019-07-18T21:30:02.383
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		I have been working in Watsco for the last 5 years, where I have participated in the development of several technological projects. 
+		I’ve had the opportunity to see how the company is evolving, growing and expanding in their market and how they are pushing to apply Information Technology to their core business as well as investing in ventures capital.   	
+		
+		Headquarter office has an amazing location in Miami, very open space and tremendous view. In addition, challenging technological environment and qualified personnel will drive you to improve your skills in many areas, as well as boost your career.
+
+
+	Cons: 
+		401K matching could be better.
+		Remote work location flexibility is not the best.
+
+
+	Summary: 
+		Fighter pilot experience!
+
+
+Review 19:
+	Job Title: None
+	Location: Miami, FL
+	Review Date: 2016-01-24T18:40:12.167
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		They talk a solid game, draw out a very good long-term vision and story. They could with some top level executive training turn into a much better organization.
+
+
+	Cons: 
+		Always worrying  about the share price which makes them very short sighted. Lots of high level decisions are made with leaders with very low skills pero like, lot's of B2B HVAC experience.  It is an environment built on who you know and how long you have worked here.  Very old boyz club here.
+
+
+	Summary: 
+		Pretending
+
+
+Review 20:
+	Job Title: Manager, Product Information
+	Location: Deerfield Beach, FL
+	Review Date: 2019-06-27T06:22:30.490
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The company is great at recognizing people for their hard work, and show appreciation and thanks for the employees and their work.  They have a solid 401k plan and have have a solid track record for helping to grow ones future retirement plan.  They are an industry leader with technology and always pushing the competition to follow the Watsco lead.
+
+
+	Cons: 
+		While some companies offer extended vacation days after tiered levels of years, Watsco does not.
+
+
+	Summary: 
+		A company that will end my resume list of companies employed by.
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

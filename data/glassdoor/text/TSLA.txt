@@ -1,0 +1,755 @@
+
+Tesla is a Motor Vehicles & Parts company based in 78725 Austin, Texas. 
+The company has 127,855 employees and has a revenue of $81,462 according to Fortune 500.
+The company is valued at $656,425 and has a profit of $12,556. The CEO of the company is None.
+
+The Company has the following ratings: 
+Average ratings for Tesla:
+Business Outlook: 0.62
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 875 
+	2: 842 
+	3: 1414 
+	4: 1635 
+	5: 2467 
+
+CEO: 0.69
+
+Compensation and Benefits: 3.7
+Distribution: 
+	1: 577 
+	2: 773 
+	3: 1687 
+	4: 1982 
+	5: 2181 
+
+Culture and Values: 3.3
+Distribution: 
+	1: 1157 
+	2: 927 
+	3: 1401 
+	4: 1487 
+	5: 2146 
+
+Diversity and Inclusion: 3.8
+Distribution: 
+	1: 484 
+	2: 332 
+	3: 746 
+	4: 1045 
+	5: 1950 
+
+Overall: 3.6
+Distribution: 
+	1: 921 
+	2: 1019 
+	3: 2025 
+	4: 2410 
+	5: 2779 
+
+Senior Management: 3
+Distribution: 
+	1: 1673 
+	2: 1119 
+	3: 1457 
+	4: 1346 
+	5: 1500 
+
+Work Life Balance: 2.8
+Distribution: 
+	1: 2003 
+	2: 1360 
+	3: 1685 
+	4: 979 
+	5: 1127 
+
+Review Count: 9181
+
+Recommend to Friend: 
+	RECOMMEND: 4059
+	WONT RECOMMEND: 2540
+
+
+
+
+The company has 11352 reviews on Glassdoor. The last review was posted on 2024-04-18T00:19:52.263. 
+There are 20 Reviews for Tesla:
+
+Review 1:
+	Job Title: Data Annotation Specialist
+	Location: Palo Alto, CA
+	Review Date: 2024-03-26T14:51:50.870
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Managers work with you to help with growth.
+
+
+	Cons: 
+		No Work from Home or flexible hours
+
+
+	Summary: 
+		Good Place To Work
+
+
+Review 2:
+	Job Title: None
+	Location: Fremont, CA
+	Review Date: 2017-04-27T00:00:06.067
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Completely casual dress code
+		
+		Flexibility to work from home when needed
+		
+		Always interesting to work at the factory
+		
+		If you look at the SEC filings, you can see that the top people are basically compensated the same as the other employees, which is a pleasant surprise.
+		
+		Many “beautiful people” here (male and female). Lots of eye candy.
+		
+		A lot of people complain about the pay, but they paid me more than my last company, where I had the same title
+		
+		LGBT friendly
+		
+		The product is cool, and really fun to drive
+		
+		If you’re in the right department, you might be able to drive a Tesla somewhat regularly. If not, there is an ongoing contest where you can be randomly selected to take one home for a couple of nights
+		
+		The company is still growing
+		
+		There is room to move geographically within Service, since Tesla owns the Service Centers
+		
+		Lots of “car guy” coworkers to keep conversations interesting
+		
+		Benefits actually got better and cheaper every year from 2012-2015, and stayed similar after that. I guess this was due to the company growing and getting better group rates. Regardless, not many people can say that.
+		
+		You’ll frequently come to work that day expecting to work on a certain project and end up on something totally different. This can be good and bad.
+		
+		Starting hours are typically flexible, which is a really nice perk. Nobody is making sure you’re in your seat at a certain time.
+		
+		Most employees are surprisingly responsive and friendly.
+		
+		Very heavy email-based communication, and it mostly works quite well.
+		
+		You get good at doing the best you can with the resources you have, rather than doing the best possible job. This isn’t necessarily a complaint, since it’s a valuable skill to have, but you should consider if you’re going to be okay in that kind of environment before applying.
+
+
+	Cons: 
+		Rare to be recognized, let alone thanked, for going above and beyond to accomplish something out of the ordinary. Once you've "done the impossible", it's just assumed that you can and will do it again and again from now on. 
+		
+		Literally hundreds of people in one room, desks on top of each other, as many as possible in every little space. Companies claim that they’re being “modern” and “progressive” by not having offices and cubicles, but they’re just being cheap. Look at pictures of offices from the 1950’s. You’ll see the same hundreds of desks in a room.
+		
+		Yearly raises are typically less than the cost of living
+		
+		Work/life balance is mediocre at best
+		
+		Smallish yearly bonuses in the form of golden handcuffs. RSUs that vest over 4 years, so you’ll wait a long time to benefit from them
+		
+		Those who were hired before mid-2013 made a lot of money off stock options, but many of those people are leaving now that all of their options are used up. 
+		
+		Revolving door. It’s hard to last more than a couple of years here. 
+		
+		It’s always seemingly a few steps away from massive failure
+		
+		Very few processes in place, so work is done extremely inefficiently
+		
+		Very common to compose an email and see “This is no longer a valid Tesla address”
+		
+		The entire Service organization shares one budget. I am scrimping to save $50 on software while a barely-related manager wastes literally tens of thousands of dollars a week on cool toys, and it all comes from the same place.
+		
+		Everything’s urgent, and people try to name-drop that Elon’s watching this very project so I need to stop everything for them. Luckily those of us who have been around for a while see right through that charade.
+		
+		Technically, no 401(k) match, though if you’re careful with the health benefits you choose, you can end up with some leftover that can be diverted into the 401(k).
+		
+		Middle managers are very hit-and-miss. Many were promoted because a manager was needed and they were the only one who knew anything about the department. Much room for improvement here.
+		
+		Minimal leadership training. No real employee development opportunities. The results are just as bad as you’d expect.
+		
+		Massive inter-departmental struggles. Most of my problems can be traced to one power-hungry manager of a sister department. It only takes one person to ruin the work lives of many people. 
+		
+		There are more meetings than I expected from this kind of company. Elon sent a great email about how wasteful meetings are, but people have fallen into old bad habits.
+		
+		Completely ineffective HR department
+		
+		Every department is grossly understaffed, just barely above the point of collapse. Nearly everyone has to work harder than they would if they were doing the same job at another company.
+		
+		Anything that they can do in house, they’ll do, rather than outsourcing to a supplier. There are people who spend their whole careers deciding “make vs. buy”… no need for them here, it seems. This is corporate arrogance, and it reduces quality, wastes human resources, and slows time to market in many cases. A positive side effect is that more products are made here in California than would be if they were outsourced.
+		
+		Inadequate parking
+		
+		Note to hiring managers at other companies: Watch out if someone from Tesla has “Project Manager” on their title. Many of these people are just general office workers with no skills beyond harassing people via email.
+
+
+	Summary: 
+		A unique company, but it’s hard to last more than a couple of years here.
+
+
+Review 3:
+	Job Title: Tesla Advisor
+	Location: Carlsbad, CA
+	Review Date: 2024-03-30T10:30:14.267
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Loved the atmosphere and the entire team. We all got along great and it just felt like a nice group. The managers would give good feedback and let you know when they felt you were doing great / not so great. It was a place that really welcomed innovation within the store rather than sticking to what a manual told us was best.
+
+
+	Cons: 
+		Unfortunately, I was laid off without notice in the middle of my shift one day. The managers looked truly upset that they were having to let a few of us go. Apparently some people at HQ looked at some metrics from their office and decided who they would let go without consulting with the local managers for their input.
+		
+		This is a company that has a great local atmosphere at all of the stores I worked at in Southern California, and it can be swept out from under you for absolutely no legitimate reason at any time. If you are going to work here, my best advice is to not be concerned with going above and beyond with helping out around the store and impressing your immediate superiors. You should only be concerned with the metrics you are being judged on for your ONE specific role at the location. If you start helping out with other departments,making the store more cohesive in general, and learning other aspects of the jobs at a location, this may impress your managers, but has zero impact on whether or not you will stay at the company. It will merely give you a false sense of confidence from people who ultimately do not decide if you stay or go.
+
+
+	Summary: 
+		Great people to work with. Terrible company to work for.
+
+
+Review 4:
+	Job Title: Senior Recruiter
+	Location: Austin, TX
+	Review Date: 2024-04-15T13:59:41.177
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		I was fortunate to have an incredible team with excellent leadership during my time at Tesla. The amount of work and required commitment well exceeded 40 hours/week, which I was fine to do as I was invested in the company. Candidates that applied for roles were great, which makes recruiting a bit easier, and we recently have an inhouse ATS that is constantly getting better. Open door communication with leadership as well as great support system, truly bummed I was part of the lay off, but hope to return in the future, if they will have me!
+
+
+	Cons: 
+		Depending on your attitude, the amount of required work can be a con. This is a high demand job that goes outside the standard 8-5PM in order to be successful. It can be a little chaotic, you really need to have a solid understanding of recruiting and basic processes in order to excel here. Tesla targets the best of the best, so when recruiting, it can be challenging to hire people away from other companies due to compensation, at Tesla relies heavily on their equity offering to compensate for lower salaries.
+
+
+	Summary: 
+		Disappointed, but Grateful
+
+
+Review 5:
+	Job Title: Data Annotation Specialist
+	Location: Palo Alto, CA
+	Review Date: 2024-03-30T21:54:16.370
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		$15 daily just to bike to work. That is awesome.
+		
+		Food trucks with a lot of options.
+		
+		Great coworkers, understanding management.
+		
+		You get to see that your work actually makes a difference within Tesla.
+		
+		Great teambuilding. We take walks together, etc.
+		
+		You're actually an EMPLOYEE.
+		
+		There is a huge bonus if you stick around. which I did not.
+
+
+	Cons: 
+		Annoying EDM/Trance played on Saturdays and Sundays.
+		
+		Repetitive work that was below my talents.
+		
+		Pay is okay, but not something you can live off unless you live far or have other sources of income.
+		
+		[WED-SUN ONLY] The food is terrible on weekends. All the good snacks are gone and there are no food trucks.
+		
+		No non-energy drinks [gatorade/body armour] it's just energy drinks! [I biked to work, and I'd have to get a red bull because it's the only one with enough vitamins]
+		
+		The bonus is a bit misleading. You have to work several years to ge the whole thing.
+		
+		
+		Overpriced Michigan Market that got me hooked on snacks. Costs more than a 7-Eleven.
+
+
+	Summary: 
+		Great job, except the Wednesday through Sunday schedule.
+
+
+Review 6:
+	Job Title: Senior Controls Engineer
+	Location: Fremont, CA
+	Review Date: 2024-04-07T10:32:49.087
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Lots of room for growth here. It is often you will have to preform work outside of your typical scope for role. This will grow you as engineer but will make your pay feel a bit unfair.
+
+
+	Cons: 
+		Its hard to get promotion. Even if well deserved, it is unlikely you will get promotion without "mandatory" time in role. I say in quotes because this is only enforced in some orgs and you can threaten to leave and they make break this claim.
+
+
+	Summary: 
+		Lot of work. Less pay than deserved but good growth opportunities
+
+
+Review 7:
+	Job Title: Process Technician
+	Location: Austin, TX
+	Review Date: 2024-04-09T20:12:00.283
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Honestly hard to say what the pros are. Maybe health benefits thats about it.
+
+
+	Cons: 
+		Company doesn’t care about work life balance. Will literally give hour notice of schedule change and expect us to not have issues with it. They dont recognize hard work or even promote it. If you are exceeding expectations expect the bar to change and be given higher expectations so you cannot promote or level up. A lot of people do not push team work or sharing of information. If you get hired expect to have to figure everything out for yourself unless you are deemed as “worthy” of the knowledge.
+		Also company doesnt support the technician roles getting pay bumps. So expect WAY less technical roles to be making as much or more if you are applying as a technician or even as an engineer. Pay scale is really unbalanced between positions.
+
+
+	Summary: 
+		No work life balance
+
+
+Review 8:
+	Job Title: Production Associate
+	Location: Fremont, CA
+	Review Date: 2024-02-29T19:58:32.840
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		The pay at Tesla was outstanding for an entry level position.
+		There are many great resources and opportunities for growth.
+		The Training staff are very honest and nice people.
+
+
+	Cons: 
+		Timeliness is VERY important at tesla and that can be hard to deal with if you are using public transportation. I had been 10 minutes late due to a delay from BART and was immediately sent home and told to complete a reschedule form and that I would be contacted shortly. Long story short 2 weeks later and I got a letter of termination. The Situation was out of my control as the bart train I took was the earliest train possible. All it took was one day of being late by 10 minutes for me to be bounced from tesla and I cannot re apply for 6 months. 
+		
+		Other than that there weren't any cons that come to mind, however I would recommend buying your own boots as the Tesla provided boots can be very uncomfortable. So beware if you will be relying on public transport and always have a backup plan if there are any delays as even with proof of what had happened I was still turned away.
+
+
+	Summary: 
+		Great Company, Bad Experience
+
+
+Review 9:
+	Job Title: Autopilot Engineer
+	Location: Draper, UT
+	Review Date: 2024-04-15T16:51:13.093
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Next to no pros other than adding a fancy title to a resume
+
+
+	Cons: 
+		- lacking and underqualified leadership
+		- little to no care about employees (offers lyra therapy sessions, but employees must take pto in order to use them among others)
+		- lots of promises, but never staying true to their word
+		- extreme levels of nepotism
+		- recruiters either straight up lie or have no idea what they are talking about
+		- will lay off even if you are overqualified or more qualified than leadership's favorites
+
+
+	Summary: 
+		THINK TWICE
+
+
+Review 10:
+	Job Title: Driver
+	Location: Austin, TX
+	Review Date: 2024-04-17T08:56:59.097
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Very streamlined easy work, amazing training team , great benefits
+
+
+	Cons: 
+		Laid off after only 2 weeks of being hired , they said they had too many duplicate roles and my position was affected
+
+
+	Summary: 
+		Great company however 
+
+
+Review 11:
+	Job Title: Driver
+	Location: Austin, TX
+	Review Date: 2024-04-17T08:56:59.097
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Very streamlined easy work, amazing training team , great benefits
+
+
+	Cons: 
+		Laid off after only 2 weeks of being hired , they said they had too many duplicate roles and my position was affected
+
+
+	Summary: 
+		Great company however 
+
+
+Review 12:
+	Job Title: Senior Mechanical Design Engineer
+	Location: Palo Alto, CA
+	Review Date: 2024-04-17T10:37:29.067
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Crazy company and cool products, doesn't pay as well as other, good company mission, a lot of exposure and free marketing from Elon
+
+
+	Cons: 
+		Elon can be unpredictable. and rent in Palo Alto is expensive, and it's full of nimbys, Tesla doesn't pay that well, hard to find parking if you get later than 8:30 to the office, public transportation to the office sucks!
+
+
+	Summary: 
+		Kinda crazy company
+
+
+Review 13:
+	Job Title: Tesla Advisor
+	Location: Chicago, IL
+	Review Date: 2024-04-05T15:55:45.287
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		I really liked most of my team members, including my immediate 1st-level management. Probably 90-95% were great to work with &amp; get through the challenges of the day.
+		Insurance benefits are pretty good, with a few perks.
+		Pay is another story. Be considerate in how you rationalize the pros vs. cons of their compensation modeling.
+		If you get a manager that you feel good about being his/her direct report, stick with them. Management will make/break your experience
+
+
+	Cons: 
+		Tesla consumers can be some of the singularly most entitled people on the face of the earth, even when their argument is completely illogical. Smh..
+		You'll definitely meet at least 1 person in management that makes you scratch your head in wondering 'who the heck in high-level managment deemed this person to be competent enough for a management role'..
+		Don't be surprised if you get one of those managers that tries to normalize constant ridiculous pressure(s). The cult-like mentality around the product, or the CEO can be very real.
+		If you get a manager that you feel good about being his/her direct report, stick with them. Management will make/break your experience
+		Questionable, unethical things can start to emerge or become glaringly apparent with a fair amount of unbiased, critical thinking. Especially the farther upwards you look. It's kind of littered all throughout the company, just depends on who you know &amp; is willing to talk about it.
+
+
+	Summary: 
+		Cult-ish with some good, level-headed people scattered throughout the company
+
+
+Review 14:
+	Job Title: Vehicle Operator
+	Location: Farmers Branch, TX
+	Review Date: 2024-04-15T14:26:03.253
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Local communication is fantastic
+		Benefits are insane
+		The work isn't difficult
+		No customers
+
+
+	Cons: 
+		High level communication is non-existent(last business trip I took had I think 36 hours' notice and was 21 days long.
+
+
+	Summary: 
+		A great workplace with an insane CEO
+
+
+Review 15:
+	Job Title: Operations Advisor
+	Location: Costa Mesa, CA
+	Review Date: 2024-04-18T00:19:52.263
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Health benefits are best in the industry. $20 bucks for Kaiser Platinum
+
+
+	Cons: 
+		No work life balance. Don't ever expect weekends off. expect to always be over worked. the pay doesn't match the effort. you can easily be repolaced.
+
+
+	Summary: 
+		There Is no work life balance
+
+
+Review 16:
+	Job Title: Sr. Software Engineer
+	Location: Palo Alto, CA
+	Review Date: 2023-11-29T11:29:15.117
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		The company absolutely loves to take risk, which is great if you're an engineer that is keen to really test and build your skills. Tesla does greatly value strong technical talent. Best way to learn here is FAFO. Tesla is a good place to work for a short period of time but it depends what you want / value. So depending on your circumstance, Tesla will either be a great or a terrible place to work. So i'm not sure what to put for the "recommend to a friend" option below but it really depends on the friend and what they want. I have referred old colleagues to Tesla in the past so its definitely an individual question.
+
+
+	Cons: 
+		There's basically no mentorship so you have to learn most things on your own. Engineers are generally viewed as a commodity and the culture is also becoming more zero sum as time goes on, which means people at a Director level now either fire or give a minimum number of people a bad review for every performance review cycle. They want to fit everything to a bell curve. So far it seems to dis-incentivize collaboration because we're now all competing with each other.
+
+
+	Summary: 
+		No Mentorship but Plenty of Interesting Technical Problems
+
+
+Review 17:
+	Job Title: Data annotation lead
+	Location: Buffalo, NY
+	Review Date: 2023-11-18T14:16:08.430
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Benefits are good, people will think your job is interesting, very casual dress code, stock awards
+
+
+	Cons: 
+		- micromanagement is their middle name
+		- employees treated like children: one employee does something stupid or unprofessional, whole department pays the price
+		- management will throw entire workflows under the bus because of their poor decisions to cover themselves
+		- very boring, unfulfilling work. Think assembly line, production work. 
+		- stated in job description that exposure to machine learning/engineers: not true at all, unless you mean in the most peripheral way possible. TLDR: the skills gained as a annotator or lead will not serve you in any other company as they are so specific to your workflow
+		PTO is a joke: 2 weeks vacation. Whether you are there 1 day or 15 years. It never increases unless you get to salaried position, and even they rarely took time because there was ALWAYS some frantic push or deadline to be reached.
+		- Culture is horrible: clicky, high school feeling culture, constant team changes and turnover. I had 5 different managers in less than a year.
+		In short, I’ve never worked with so many good people who were so miserable and desperate for change or a way out.
+
+
+	Summary: 
+		Not Great
+
+
+Review 18:
+	Job Title: Associate Manager
+	Location: Fremont, CA
+	Review Date: 2024-04-05T15:49:10.493
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great opportunities to move up
+		They teach you a lot
+
+
+	Cons: 
+		Once you get to salary they don’t care about your home life. They will over work and under pay you while constantly asking for you to work off shift for no extra pay (so basically for free).
+
+
+	Summary: 
+		No boundaries
+
+
+Review 19:
+	Job Title: None
+	Location: None
+	Review Date: 2016-03-09T16:17:35.300
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 1
+
+	Pros: 
+		* A lot of room for growth
+		* Great work environment
+		* Free coffee/snacks/beverages
+
+
+	Cons: 
+		* Management - not enough employee/manager relation. a lot of processes are still up in the air. Too much hierarchy (too many power trips from managers). A lot of managers do NOT lead by example.
+
+
+	Summary: 
+		Service Advisor
+
+
+Review 20:
+	Job Title: Retail Sales Associate
+	Location: Austin, TX
+	Review Date: 2024-04-15T14:25:04.987
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		enjoyed working here. the managers were conscientious.
+
+
+	Cons: 
+		Tesla stores do not sell cars directly - when prospects are ready to pull the trigger, you bring them over to a computer, they order online, and your store will (hopefully) get credited in a roundabout way.
+
+
+	Summary: 
+		tesla store
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

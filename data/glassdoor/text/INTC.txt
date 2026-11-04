@@ -1,0 +1,668 @@
+
+Intel is a Semiconductors and Other Electronic Components company based in 95054 Santa Clara, California. 
+The company has 131,900 employees and has a revenue of $63,054 according to Fortune 500.
+The company is valued at $136,268 and has a profit of $8,014. The CEO of the company is Patrick P. Gelsinger.
+
+The Company has the following ratings: 
+Average ratings for Intel:
+Business Outlook: 0.6
+
+Career Opportunities: 3.9
+Distribution: 
+	1: 267 
+	2: 433 
+	3: 1491 
+	4: 2673 
+	5: 3297 
+
+CEO: 0.88
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 202 
+	2: 436 
+	3: 1657 
+	4: 2834 
+	5: 2982 
+
+Culture and Values: 4.1
+Distribution: 
+	1: 296 
+	2: 352 
+	3: 1060 
+	4: 2245 
+	5: 4126 
+
+Diversity and Inclusion: 4.3
+Distribution: 
+	1: 176 
+	2: 228 
+	3: 792 
+	4: 2088 
+	5: 4731 
+
+Overall: 4.1
+Distribution: 
+	1: 233 
+	2: 367 
+	3: 1599 
+	4: 3893 
+	5: 4756 
+
+Senior Management: 3.6
+Distribution: 
+	1: 526 
+	2: 711 
+	3: 1766 
+	4: 2549 
+	5: 2444 
+
+Work Life Balance: 4.1
+Distribution: 
+	1: 367 
+	2: 469 
+	3: 1259 
+	4: 2290 
+	5: 3668 
+
+Review Count: 26303
+
+Recommend to Friend: 
+	RECOMMEND: 6062
+	WONT RECOMMEND: 1080
+
+
+
+
+The company has 31888 reviews on Glassdoor. The last review was posted on 2024-04-18T02:57:52.147. 
+There are 20 Reviews for Intel:
+
+Review 1:
+	Job Title: Module Development Engineer
+	Location: Hillsboro, OR
+	Review Date: 2024-04-15T15:01:04.513
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		There are so many learning opportunities.
+
+
+	Cons: 
+		You will most likely work beyond the regular 8-5 time.
+
+
+	Summary: 
+		Nice place to work
+
+
+Review 2:
+	Job Title: Technician
+	Location: Hillsboro, OR
+	Review Date: 2024-02-28T16:44:49.160
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		-Decent pay
+		-Beautiful area
+		-Good benefits
+		-Large company, so lots of places to go in terms of career advancement and relocation 
+		-If you're a nerd like me who loves to learn and is interested in advanced manufacturing and cutting edge technology, the fab is a heaven
+
+
+	Cons: 
+		-Company too large for it's own good
+		-Contractors and vendors are treated like second class citizens--this bothered me even from an outsider's perspective
+		-Inter-organizational collaboration/relations can be VERY bad
+		-Career advancement entirely at the hand of your direct manager as a technician
+		-Managers imposed arbitrary limits/time-gating on advancement/promotion that aren't even written in policy
+		-Working in a full bunny suit much of the day
+		-Work can be very hard and fast-paced, or very, very slow (most days are very slow). Can't expect much consistency in R&amp;D
+		-Even though the work is largely, blue collar, you will get a lot of office politics and white collar passive aggressiveness in the work culture. You'll find there are many unfriendly, and conniving coworkers. This culture seems to be encouraged. You can end up feeling lonely at work or falling into weird clicks like a high school due to this lack of personability.
+
+
+	Summary: 
+		Technology Development Bad Company Culture 
+
+
+Review 3:
+	Job Title: Module Process Engineer
+	Location: Hillsboro, OR
+	Review Date: 2024-03-20T22:01:21.097
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good benefits and pay. Great opportunity to learn many different systems outside of the chemical process you own.
+
+
+	Cons: 
+		Old company with bad work culture. A lot of “well back in my day we stayed awake for 48 hours. . “ 
+		
+		Being attached to the 24/7 fab causes work life balance to be really bad unless you really fight for healthy hours. No effort is put into guiding employees on how to put in healthy hours.
+		
+		Very limited training. You will have to get used to not knowing enough on every job you take otherwise you will burn out.
+		
+		Due to limited organizational foresight, life can be amazing or a living nightmare depending on the type of tools you own.
+		
+		Also, the company long term outlook is not great. The CEO and board should have spun off the fabs in 2021. Now they are losing there value in the billions each year because we get further and further away from the leading edge nodes of TSMC.
+
+
+	Summary: 
+		Old company
+
+
+Review 4:
+	Job Title: Maintenance Technician
+	Location: Chandler, AZ
+	Review Date: 2024-04-12T16:40:07.323
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Things change over the years therefore you never get bored. If you accept the challenge, you get more than monetary rewards.
+
+
+	Cons: 
+		Variable challenges can be stressful. You're often required to go outside of the box for solutions. If you aren't flexible enough you can get left behind.
+
+
+	Summary: 
+		Win Win and Have Fun
+
+
+Review 5:
+	Job Title: Integration Engineer
+	Location: Rio Rancho, NM
+	Review Date: 2024-01-30T11:38:48.093
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Exposure to state of the art manufacturing practices and technology. World class talent and teams at higher levels of technical ladder. Strong emphasis on cultural aspects like inclusion and diversity, work-life balance (at this site). Generally friendly work environment. Some flexibility in hybrid work model (depending on role). Compensation is competitive for the area, enough to live comfortably.
+
+
+	Cons: 
+		Sublinear career development, have to be here 10-20 years to get anywhere internally. Seniority valued, esteemed, and promoted more than talent. Compared to higher profile sites in Oregon and Santa Clara, treated like 3rd class citizens in terms of overall compensation and quality of onsite amenities- site heavily hit by cost cutting at the expense of quality of life. Most managers will not go out of their way to help develop your career or you personally, many more task managers than mentor types. Escalation ladder is unhealthy for interpersonal disputes, often encouraged to go straight to HR instead of emphasizing paths through individual and manager level.
+
+
+	Summary: 
+		Great opportunity for world class experience, but don't linger too long unless you just want comfort and stability
+
+
+Review 6:
+	Job Title: Process Engineer
+	Location: Chandler, AZ
+	Review Date: 2024-02-24T19:52:29.290
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Sabbatical, benefits, stock purchase plan, flexibility of hours (lots of people pick their kids up from school), stability
+
+
+	Cons: 
+		Lack of growth based on diversity requirements - The current leadership has a goal to get more female minorities into upper-management (this was verbally talked about at a QGS). This leads to diversity out-weighing performance when promotions come around. I could overlook all other cons, but this is unacceptable in my book.
+		Consistency of work - most engineers get burnt out after 2-3 years. Every high-performing engineer I've looked up to has left the company. This has made it difficult for those who want to be challenged at work.
+
+
+	Summary: 
+		Good Starting Point... Bad Mid-Career
+
+
+Review 7:
+	Job Title: Manufacturing Technician
+	Location: Hillsboro, OR
+	Review Date: 2024-04-15T00:29:26.337
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		High pay, annual performance bonuses, quarterly bonuses, 401k matching, good healthcare
+
+
+	Cons: 
+		Lack of management communication, miscommunication with contracted workers, situational and infrequent incompetence
+
+
+	Summary: 
+		One of the best, compared to similar companies
+
+
+Review 8:
+	Job Title: Process Integration Engineer
+	Location: Hillsboro, OR
+	Review Date: 2024-03-24T21:18:51.440
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		The problems you get to solve are truly exciting and interesting. You can be sure of your contributions to the future Intel products and the semiconductor industry in general will be significant.
+
+
+	Cons: 
+		The company culture seems too much rooted on overwork leading to poor work-life balance. Some people seem to take pride on working even during their vacations and weekends. This I feel has a negative effect on moral, affecting quality.
+
+
+	Summary: 
+		Exciting problem statements. Poor work-life balance!
+
+
+Review 9:
+	Job Title: Applications Software Engineer
+	Location: Hillsboro, OR
+	Review Date: 2024-04-16T11:55:44.643
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Some people there are really great
+
+
+	Cons: 
+		Leadership there is hit or miss. Some are there for their own agenda. Some are there to really lead and grow you.
+
+
+	Summary: 
+		At least WLB was great.
+
+
+Review 10:
+	Job Title: Communications Manager
+	Location: Folsom, CA
+	Review Date: 2024-04-15T23:15:13.440
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		The pay is great and there is a lot of great innovation. However, the culture is difficult and definitely not conducive to growth.
+
+
+	Cons: 
+		Hard culture, bureaucracy, if you haven't worked their for 10+ years, you're not valued as much
+
+
+	Summary: 
+		Great pay, tough culture
+
+
+Review 11:
+	Job Title: Product Development Engineer
+	Location: Hillsboro, OR
+	Review Date: 2024-04-16T20:21:46.140
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		1.Good Health benefit
+		2.Hybrid Mode plus allow working from different country
+
+
+	Cons: 
+		1. Bad management
+		2. Not using industrial standard tool
+		3.no WLB
+
+
+	Summary: 
+		Good and Bad, think before join
+
+
+Review 12:
+	Job Title: Sr Finance Business Analyst
+	Location: Hillsboro, OR
+	Review Date: 2024-04-16T14:32:12.567
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good finance team, has continued to help through the years even post intel
+
+
+	Cons: 
+		difficult matrix org to understand and navigate
+
+
+	Summary: 
+		Sr Finance Biz Analyst
+
+
+Review 13:
+	Job Title: Operations Manager
+	Location: Hillsboro, OR
+	Review Date: 2024-04-17T11:02:18.887
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The benefits are very good.
+
+
+	Cons: 
+		As with all corporations, the pay probably isn't as competitive as it could be.
+
+
+	Summary: 
+		On the right track
+
+
+Review 14:
+	Job Title: Mechanical R&D Engineer
+	Location: Chandler, AZ
+	Review Date: 2024-03-18T09:44:23.240
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Intel employees are very helpful and go-getters. They were endless hours to do their job flawlessly. They really do follow the company values. Medical, financial, and vacation benefits are stellar. Everyone I knew was incredibly helpful and wanted to work as a team. Intel is big and stable, so the threat of job loss is minimal.
+
+
+	Cons: 
+		The expected overperformance is tiring. I spent most of my days managing people rather than doing any engineering work. Intel's documentation processes made innovation very slow and tedious. Intel is very aggressive in their product timeline, making life hell for everyone downstream who is left to just figure out how to make it work.
+
+
+	Summary: 
+		All Type-A people: Extremely effective, but also tiring
+
+
+Review 15:
+	Job Title: Soc Design Verification Engineer
+	Location: Hudson, MA
+	Review Date: 2024-04-10T08:45:14.560
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great work life balance, very accommodating to the employees needs, decent benefits, good people
+
+
+	Cons: 
+		Compensation is behind the competition due to the hiccups in execution in the past decade. Company also feels bloated, feels like we could be making more money with fewer people, like most of out competitors.
+
+
+	Summary: 
+		Great WLB, not so great TC
+
+
+Review 16:
+	Job Title: Soc Design Engineer
+	Location: Hillsboro, OR
+	Review Date: 2024-02-05T22:10:21.417
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Nice perks and the sabbatical is a big plus(1 month after 4 years, 2 months after 7 years) + 15 days of vacation.
+
+
+	Cons: 
+		Silos are prominent. Middle management will only get in your way for growth as a lot of manager are there only for their growth and not for the ICs under them. Not all managers are like this but there are enough of them. 
+		
+		You will get stuck into your role, takes a long time to change area even inside the organization and in comparison, to other semiconductor companies, you get so specialized at something that you are not useful anywhere else. 
+		
+		Old legacy tools. Organizations are trying to modernize the tools but we are behind about 8 years in easy. Management is hesitant in spending time on improvements.
+		
+		Non-Merit promotions, most promotions are because of the years that you have been in the company.
+
+
+	Summary: 
+		Careful with middle management
+
+
+Review 17:
+	Job Title: Manufacturing Engineer
+	Location: Phoenix, AZ
+	Review Date: 2024-04-15T09:03:39.373
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good pay and benefits. Not too stressful of work
+
+
+	Cons: 
+		Constantly changing WFH requirements. Very poor yearly raises (does not support company loyalty)
+
+
+	Summary: 
+		Constantly changing WFH Requirements
+
+
+Review 18:
+	Job Title: IT Lead
+	Location: None
+	Review Date: 2024-04-10T19:27:48.633
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Easy to get new opportunities 
+		Smart, motivated people
+		Ethical, people generally are wired to do the right thing
+
+
+	Cons: 
+		A lot of competing priorities 
+		Reorgs, change is the norm
+		Driving change can be challenging
+
+
+	Summary: 
+		Always growing
+
+
+Review 19:
+	Job Title: Senior Staff Hardware Engineer
+	Location: Folsom, CA
+	Review Date: 2024-03-18T22:42:48.310
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good Benefits, Easier to transitions jobs within Intel while maintaining confidentiality, 1m/2m sabbatical every 4/7 yrs.
+		Intel prioritizes employee health &amp; safety. You can find challenging engineering work if you are motivated to look for it.
+
+
+	Cons: 
+		Large company, diluted work load, pareto effect - 25% people own 75% of work. Socialized reward structure, reward variation between high and low performing employees is very small.
+
+
+	Summary: 
+		Struggling to move quickly, as expected from a large ship
+
+
+Review 20:
+	Job Title: Senior IT Engineer
+	Location: Hillsboro, OR
+	Review Date: 2024-01-06T01:58:28.430
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		In 1995, I started in the Aloha Campus fab as a technician. One of the first things the engineer that I worked for told me, was that I own my employability. 
+		
+		I took that to heart and took every training opportunity and educational assistance so that I could to keep relevant. 
+		
+		By my 10 year point, I transitioned to Factory IT Engineering. 
+		
+		17 years of being on the cutting edge of semiconductor technology and providing the IT services to enable the whole thing, I retired as a Senior IT Engineer.
+		
+		Great Teams throughout Factory IT.
+
+
+	Cons: 
+		Long hours, I worked with teams all around the globe. Early morning meetings with Europe, late evening meetings with Asia the same day happened every week.
+		
+		Late and sometimes no acknowledgement of the work to bring up a new factory. 
+		
+		The expectation that managing systems in 7 small factories is less impactful than managing systems in a mega-factory.
+
+
+	Summary: 
+		Retired From Intel 100% Worth It
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

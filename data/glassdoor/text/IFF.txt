@@ -1,0 +1,631 @@
+
+International Flavors & Fragrances is a Chemicals company based in 10019 New York, New York. 
+The company has 24,600 employees and has a revenue of $12,440 according to Fortune 500.
+The company is valued at $23,456 and has a profit of -$1,871. The CEO of the company is Frank Clyburn.
+
+The Company has the following ratings: 
+Average ratings for International Flavors & Fragrances:
+Business Outlook: 0.54
+
+Career Opportunities: 3.2
+Distribution: 
+	1: 106 
+	2: 169 
+	3: 244 
+	4: 204 
+	5: 160 
+
+CEO: 0.58
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 47 
+	2: 98 
+	3: 241 
+	4: 288 
+	5: 208 
+
+Culture and Values: 3.6
+Distribution: 
+	1: 101 
+	2: 98 
+	3: 189 
+	4: 209 
+	5: 263 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 36 
+	2: 43 
+	3: 88 
+	4: 148 
+	5: 238 
+
+Overall: 3.7
+Distribution: 
+	1: 83 
+	2: 95 
+	3: 230 
+	4: 358 
+	5: 274 
+
+Senior Management: 3.1
+Distribution: 
+	1: 147 
+	2: 134 
+	3: 208 
+	4: 197 
+	5: 128 
+
+Work Life Balance: 3.5
+Distribution: 
+	1: 97 
+	2: 100 
+	3: 224 
+	4: 239 
+	5: 219 
+
+Review Count: 1041
+
+Recommend to Friend: 
+	RECOMMEND: 527
+	WONT RECOMMEND: 256
+
+
+
+
+The company has 1345 reviews on Glassdoor. The last review was posted on 2024-04-16T06:11:11.667. 
+There are 20 Reviews for International Flavors & Fragrances:
+
+Review 1:
+	Job Title: Customer Service Representative
+	Location: Wilmington, DE
+	Review Date: 2024-03-21T12:26:22.717
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Have great support from managers.
+
+
+	Cons: 
+		Too many changes happening in the company.
+
+
+	Summary: 
+		Great place to work
+
+
+Review 2:
+	Job Title: Process Technician II
+	Location: Palo Alto, CA
+	Review Date: 2024-04-02T09:21:21.890
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Co workers are great
+		Opportunities to learn other skills are there, you just have to push for them
+
+
+	Cons: 
+		lack of trust in employees schedules, using badge to link to your timecard is not okay.
+		merit increase can be somewhat lacking without reasonable feedback as to why or how to boost in the future. And if you can do the things suggest (and more) no guarantee for good review/merit increase or promotions.
+
+
+	Summary: 
+		Pro/con list
+
+
+Review 3:
+	Job Title: Customer Service Representative
+	Location: Rochester, NY
+	Review Date: 2024-04-15T16:46:51.703
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Leadership and team is excellent.
+
+
+	Cons: 
+		Executive committee has not been good.
+
+
+	Summary: 
+		Great office and team, company is a mess
+
+
+Review 4:
+	Job Title: Data Analyst
+	Location: South Brunswick Terrace, NJ
+	Review Date: 2024-04-03T17:45:16.153
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		It's a good company if team is right.
+
+
+	Cons: 
+		Unorganized and not everyone is on the same page. Some of the systems and ways of working are very old schooled and that impacts the effectivity of the tasks.
+
+
+	Summary: 
+		Company Culture
+
+
+Review 5:
+	Job Title: Process Technician
+	Location: Rochester, NY
+	Review Date: 2024-04-06T06:41:20.660
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		workers are cool and get along with.
+
+
+	Cons: 
+		long hours and pay is low. mangers should not be mangers. they are inexperienced.
+
+
+	Summary: 
+		long hours low pay. 
+
+
+Review 6:
+	Job Title: Operations
+	Location: South Brunswick Terrace, NJ
+	Review Date: 2024-03-07T10:34:58.527
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		The people who I work with are really good people
+
+
+	Cons: 
+		Leadership is very poor.. Seem to be lack of vision or plan. Seems like they keep letting people go
+
+
+	Summary: 
+		Outlook
+
+
+Review 7:
+	Job Title: Quality Scientist I
+	Location: None
+	Review Date: 2024-03-17T18:07:23.687
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Very flexible, 3 weeks paid vacation to start
+
+
+	Cons: 
+		annual pay raises could be better
+
+
+	Summary: 
+		Rating
+
+
+Review 8:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-13T07:05:30.610
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Local people are great, supportive.
+
+
+	Cons: 
+		Terrible leadership. A lot of knee-jerk reactions with no follow-through.
+
+
+	Summary: 
+		Not a good place to work.
+
+
+Review 9:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-19T05:01:48.707
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Successfully manage to upset everyone across organization.
+
+
+	Cons: 
+		More focused on Diversity &amp; Inclusion vs managing a company successfully. Will not take you long to find the issues. Local management is holding everything together.
+
+
+	Summary: 
+		Concerning
+
+
+Review 10:
+	Job Title: Manager
+	Location: New York, NY
+	Review Date: 2024-02-28T19:44:21.490
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Nice culture
+		Good flexibility
+		Global company
+		Good opportunities in the company
+
+
+	Cons: 
+		Executive leadership changed often
+		Many M&amp;As / divestitures
+		Average vacation / 401k plan / medical
+
+
+	Summary: 
+		Great overall
+
+
+Review 11:
+	Job Title: PPO
+	Location: Madison, WI
+	Review Date: 2024-02-24T10:07:29.623
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good amount of time off, instant benefits
+
+
+	Cons: 
+		Pay increases could be better
+
+
+	Summary: 
+		Could be worse
+
+
+Review 12:
+	Job Title: Microbiologist II
+	Location: None
+	Review Date: 2024-01-21T17:33:02.227
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Work is interesting, people are collaborative, pay is decent, bonuses offered upon company performance
+
+
+	Cons: 
+		Benefits are not that great but most likely in scope with what is offered these days
+
+
+	Summary: 
+		Good job/people, benefits sketchy
+
+
+Review 13:
+	Job Title: Research Investigator
+	Location: Union Beach, NJ
+	Review Date: 2024-01-21T18:36:36.990
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Great people
+		Deep Technical work
+		Great culture
+
+
+	Cons: 
+		Best to never dream about a promotion or raise
+
+
+	Summary: 
+		Lay back, technical, no room to move up
+
+
+Review 14:
+	Job Title: Sr. Scientist
+	Location: New Century, KS
+	Review Date: 2024-01-29T08:25:11.567
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Technology being developed and management
+
+
+	Cons: 
+		Very concentrated in the flavoring segment
+
+
+	Summary: 
+		IFF
+
+
+Review 15:
+	Job Title: Senior Product Manager
+	Location: Madison, WI
+	Review Date: 2023-12-19T11:54:54.057
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Truly an international company where the culture is an amalgam of people from all over the world. Can lead from anywhere.
+
+
+	Cons: 
+		They aren’t investing in new science. They are pushing combinations of old and old technology to make things look new, but since there’s nothing really new there they are bleeding talent and historical knowledge.
+
+
+	Summary: 
+		In a cycle of no new innovation 
+
+
+Review 16:
+	Job Title: Quality Assurance
+	Location: Dallas, TX
+	Review Date: 2024-02-12T12:33:56.893
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		There are some great people that work to make great products
+
+
+	Cons: 
+		Management is more concerned with money than quality
+
+
+	Summary: 
+		Money &gt; everything
+
+
+Review 17:
+	Job Title: Chemical Operator
+	Location: Union Beach, NJ
+	Review Date: 2024-01-17T17:27:11.623
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		5 weeks of vacation. ~2 weeks off for Christmas shutdown.
+
+
+	Cons: 
+		Not a place for job advancement for my position.
+
+
+	Summary: 
+		Chemical Operator
+
+
+Review 18:
+	Job Title: Quality Control Technician
+	Location: Rochester, NY
+	Review Date: 2023-11-14T15:57:28.410
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		I love the people at IFF. Most work hard and will help each other out. The job gives a lot of variety and opportunities-just not within the team.
+
+
+	Cons: 
+		Benefits get worse each year. Maybe a cultural thing but it seems you can no longer fire under performers. They are just a drain on everyone else. Management could care less about you.
+
+
+	Summary: 
+		Going through changes
+
+
+Review 19:
+	Job Title: Sales Manager
+	Location: None
+	Review Date: 2024-01-16T16:59:20.893
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good People, interesting work, people oriented
+
+
+	Cons: 
+		benefits can always be better everywhere not just here
+
+
+	Summary: 
+		Good Company
+
+
+Review 20:
+	Job Title: Account Executive
+	Location: New York, NY
+	Review Date: 2024-01-11T14:57:33.293
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		your learn new things every day, creative enviroment
+
+
+	Cons: 
+		a lot of fast management changes
+
+
+	Summary: 
+		good company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,637 @@
+
+Entergy is a Utilities: Gas and Electric company based in 70113 New Orleans, Louisiana. 
+The company has 11,707 employees and has a revenue of $13,764 according to Fortune 500.
+The company is valued at $22,851 and has a profit of $1,103. The CEO of the company is Andrew S. Marsh.
+
+The Company has the following ratings: 
+Average ratings for Entergy:
+Business Outlook: 0.59
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 74 
+	2: 83 
+	3: 171 
+	4: 189 
+	5: 169 
+
+CEO: -1
+
+Compensation and Benefits: 3.8
+Distribution: 
+	1: 25 
+	2: 52 
+	3: 135 
+	4: 243 
+	5: 230 
+
+Culture and Values: 3.3
+Distribution: 
+	1: 86 
+	2: 88 
+	3: 173 
+	4: 151 
+	5: 154 
+
+Diversity and Inclusion: 3.7
+Distribution: 
+	1: 36 
+	2: 30 
+	3: 58 
+	4: 69 
+	5: 140 
+
+Overall: 3.6
+Distribution: 
+	1: 64 
+	2: 88 
+	3: 198 
+	4: 273 
+	5: 219 
+
+Senior Management: 3
+Distribution: 
+	1: 135 
+	2: 102 
+	3: 188 
+	4: 138 
+	5: 120 
+
+Work Life Balance: 3.3
+Distribution: 
+	1: 110 
+	2: 105 
+	3: 154 
+	4: 171 
+	5: 145 
+
+Review Count: 844
+
+Recommend to Friend: 
+	RECOMMEND: 402
+	WONT RECOMMEND: 193
+
+
+
+
+The company has 945 reviews on Glassdoor. The last review was posted on 2024-04-16T06:08:31.900. 
+There are 20 Reviews for Entergy:
+
+Review 1:
+	Job Title: Data Engineer
+	Location: The Woodlands, TX
+	Review Date: 2024-03-18T15:45:20.800
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Work life balance is great.
+
+
+	Cons: 
+		Salary isn't bad but can improve.
+
+
+	Summary: 
+		Great company to work
+
+
+Review 2:
+	Job Title: Sr Analyst Business Systems
+	Location: None
+	Review Date: 2024-04-16T06:08:31.900
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Meanful work and feel apart of your community
+		Volneering is fun and great with Entergy
+
+
+	Cons: 
+		If you haven't worked for company over 20 years or related to someone forget moving up. The most clickish workplace I've ever worked for. Very bad management who hoard work then write you up because you’re not doing work. I worked in to different departments and the same experience in both. OCE talks about how they are creating an inclusive culture and "path to premier" are a joke. Leadership waste so much money on stupid stuff like private jets and making you travel for training when it can be done online. They do not promote or hire the best employees only the ones with the right connections.
+
+
+	Summary: 
+		Poor Management and Cluture
+
+
+Review 3:
+	Job Title: Instructor
+	Location: Port Gibson, MS
+	Review Date: 2023-12-08T12:50:09.840
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Employee safety is a priority
+		The job security is top-notch
+		The upward mobility for promotions is excellent*
+		The company will train workers in-house to allow them to move to other positions.
+		The benefits are decent.
+		Many positions pay well enough for one person to support their family.**
+
+
+	Cons: 
+		*(see above upward-mobility issues) Senior leadership often refuses to accept that retention/turnover is a major issue stressing out employees, and when they do they don't accept that they're a major part of the problem.
+		**The pay is not competitive for the stress level compared to what equivalent companies pay. It is not only the rigor of Nuclear Power that you have to deal with, but the company cutting corners when it comes to employee management and work-life balance.
+		Some locations are not ideal, resulting in long commutes.
+		Many in senior leadership view remote-work as "taking a day off" and discourage it despite it being a company policy for many positions.
+
+
+	Summary: 
+		Amazing Job Security v. Poor Work/Life Balance
+
+
+Review 4:
+	Job Title: Analyst
+	Location: None
+	Review Date: 2023-12-25T13:55:26.613
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Remote working in most departments still as of 2023. Pay tends to be higher than the industry. The company does offer 9/80 work schedule, but you never get the alternate Fridays completely off. By and large, you can skate by most days doing minimal work since management is always in their own management calls and meetings. This can lead to many days where you don’t have any work at all. If you love to attend parties in the evenings, numerous social events, and doing anything other than actual work, it’s great.
+
+
+	Cons: 
+		Every department has multiple managers, but no people to manage. There is no work balance. You will get emails constantly at night and on the weekends and holidays where you are expected to drop what you are doing and respond. The company spends money frivolously as management understands it has a captive customer base that has no choice for service, but seemingly is always unable to make necessary investments in its facilities or individuals. None of the management is able to make a decision for themselves or their departments by themselves. Every decision has to be ran by every other manager for review. If you have heard of the meme “this meeting should have been an email” then you understand Entergy Texas.
+
+
+	Summary: 
+		Great if you want a job to coast, terrible if you want to develop your career
+
+
+Review 5:
+	Job Title: Developer
+	Location: New Orleans, LA
+	Review Date: 2024-04-11T08:46:58.670
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		The benefits and company amenities
+
+
+	Cons: 
+		Problematic leadership. The infrastructure is not interconnected so mid-level management act without repercussions.
+
+
+	Summary: 
+		Experience at Entergy
+
+
+Review 6:
+	Job Title: Financial Analyst
+	Location: Killona, LA
+	Review Date: 2024-04-10T12:02:29.157
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Not really sure. I used to love what I do.
+
+
+	Cons: 
+		No real growth opportunity. Continued denial
+
+
+	Summary: 
+		.
+
+
+Review 7:
+	Job Title: Armed Nuclear Security Officer
+	Location: Killona, LA
+	Review Date: 2024-04-04T17:50:47.863
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Good benefits 
+		Secure
+		Decent Wages
+
+
+	Cons: 
+		Long Hours
+		Lots of Overtime
+
+
+	Summary: 
+		Decent Job
+
+
+Review 8:
+	Job Title: Human Resources Business Partner HRBP
+	Location: None
+	Review Date: 2024-01-15T16:02:42.567
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Some managers allow flexibility, good 401k match, decent benefits, DIBS efforts
+
+
+	Cons: 
+		Depends on what manager your working for if they walk the walk of the Entergy values of “family come first” or if it’s just a “thing” they say but when it comes down to it, they chastise you for it. Performance management - can be done right with a great manager, but for the most part, they will place you on a PIP with no warning and BAM, your job is on the line, even if you’re a great employee - depending on the manager, it may come down to comparing you to the favorites. And this is coming from an HR professional.
+
+
+	Summary: 
+		Depends on your organization and management
+
+
+Review 9:
+	Job Title: ROW Agent
+	Location: Lake Charles, LA
+	Review Date: 2024-04-02T08:29:04.160
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Good Benefits, Hybrid work schedule
+
+
+	Cons: 
+		Sr. Managers make insane salaries while their people are barely getting by. Contractors making $200k plus per year / 200%+ more than actual employees
+
+
+	Summary: 
+		Lowest pay in the ROW Industry
+
+
+Review 10:
+	Job Title: IT Specialist II
+	Location: Jackson, MS
+	Review Date: 2024-03-18T11:54:54.830
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Work/Life Balance
+		Flexibility
+		Pay
+		Hybrid
+
+
+	Cons: 
+		I have honestly not had any Cons as of yet but i have only been here 6 months.
+
+
+	Summary: 
+		Best Job Ever
+
+
+Review 11:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-16T14:59:22.997
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good team culture among peers
+
+
+	Cons: 
+		There is Heavy Procedures in place
+
+
+	Summary: 
+		Overall great company to work for.
+
+
+Review 12:
+	Job Title: Operations Technician
+	Location: Bridge City, TX
+	Review Date: 2023-10-28T10:00:48.793
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Relaxed environment for an industrial job. Civilian work clothes if desired. Rotating DuPont schedule allows for 7 days break and mini-vacations. Only forced when under-staffed. OT is there if you want it. Typical year for someone who works OT when it comes up, but is not a complete hog, is around 140k. Base is 101-103k ish with built in OT and depending on your years of service and paygrade. Laid back and family atmosphere. If you want to make it into the upper 180-200k range, a refinery or chemical plant is best. Very few chemicals at the plant, so more safe, considering high power steam and electricity, which should never be touched. Longevity may be issue, unless working at the new build coming soon. Did not and does not require vaccination. Hourly wage is only slightly behind industry standards by $2-$3. But less competition makes up for it.
+
+
+	Cons: 
+		No pension. But 401k match at 100% for up to 6%. Vested after 3 years. Not a lot of upward mobility, unless you want to move around in the system, which could be to Arkansas or Mississippi. Typical politics and corporate agenda pushing.
+
+
+	Summary: 
+		Low-Key with Good Pay &amp; Decent Benefits
+
+
+Review 13:
+	Job Title: Category Specialist
+	Location: None
+	Review Date: 2024-02-05T10:31:12.937
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Most of the workforce has been here for 2+ years great in terms of retention, and if you plan to retire
+
+
+	Cons: 
+		Management has no experience on how to really do changing management. It’s a favoritism circle you make management if you’ve been with the company for a long time. People that have worked in nuclear tend to have preferential treatment, and therefore more career development, opportunities, and leadership opportunities to further them
+
+
+	Summary: 
+		Transformation? Highly unlikely.
+
+
+Review 14:
+	Job Title: Distribution Designer
+	Location: Jackson, MS
+	Review Date: 2024-03-12T07:41:15.663
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good benefits and hours offered
+
+
+	Cons: 
+		Large workload can be overwhelming
+
+
+	Summary: 
+		Good benefits and hours
+
+
+Review 15:
+	Job Title: Administrative
+	Location: Austin, TX
+	Review Date: 2024-01-30T19:54:12.077
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Remote work, beverages and snacks for staff, Pay is not bad.
+
+
+	Cons: 
+		Made me take a test to qualify as a candidate, felt like I was taking the SAT/ACT and was completely useless for the tasks I performed. Only one required to take the test, was shocked by this. Was told would pay for parking when taking the test, didn't. Job descriptions do not match job duties. Was bored, did not have enough work to do.
+
+
+	Summary: 
+		Austin
+
+
+Review 16:
+	Job Title: Engineer
+	Location: Houston, TX
+	Review Date: 2024-03-07T19:46:19.100
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good place to work I would say
+
+
+	Cons: 
+		Lots of politics involved in growth
+
+
+	Summary: 
+		Good
+
+
+Review 17:
+	Job Title: Engineer III
+	Location: Baton Rouge, LA
+	Review Date: 2023-09-29T21:56:36.613
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		-At River Bend management rewards good performance with raises/promotions pretty well -Above Average Pay and Annual Bonus for Engineering -4 day workweek with 1 day remote and most supervisors don't make a big deal about working hours if you get your work done as expected. -Close to Baton Rouge is a plus as most nuclear sites are in the middle of nowhere and you can't live in a city.
+
+
+	Cons: 
+		-On call at least every 8 weeks and cannot leave within 1 hr drive of the plant or drink. Subject to callout at any hour day or night during this week even if you haven't gotten sleep to prepare for nights. -Outages require 60-72 hr work weeks possibly on night shift. You must dedicate your life to work during outages. Depending on level of seniority/expertise outage can be very boring if you don't have enough work to fill these hours or you can be overwhelmed with too much since people will go to you for everything. -Keep changing organizational structure and direction in ways that don't make sense in an effort to reduce costs. They've increased number of supervisors and reduced number of engineers in latest reorganization despite same amount of work.
+
+
+	Summary: 
+		Good Place to Work
+
+
+Review 18:
+	Job Title: Account Manager
+	Location: West Monroe, LA
+	Review Date: 2024-02-14T11:27:33.567
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Nice coworkers, easy jobs, good environment
+
+
+	Cons: 
+		Low pay, poor management, clique mentality, if you’re not bffs with management, you’re not getting anywhere.
+
+
+	Summary: 
+		Eh
+
+
+Review 19:
+	Job Title: Sr. Engineer
+	Location: None
+	Review Date: 2024-02-19T04:34:54
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		company strives to do the right thing.
+
+
+	Cons: 
+		long working hours during outages
+
+
+	Summary: 
+		safely operate the nuke plant for a breaker to breaker run is the mail goal
+
+
+Review 20:
+	Job Title: Line Mechanic
+	Location: New Orleans, LA
+	Review Date: 2024-02-05T11:44:09.127
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		To be honest the money is okay..and you get alot of PTO and sick leave..thats about it.
+
+
+	Cons: 
+		Don't expect to get any bucket time if you're not in the click.
+
+
+	Summary: 
+		Pro/cons
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

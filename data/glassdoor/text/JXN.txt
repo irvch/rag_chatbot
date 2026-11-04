@@ -1,0 +1,336 @@
+
+Jackson Financial is a Insurance: Life, Health (Stock) company based in 48951 Lansing, Michigan. 
+The company has 3,435 employees and has a revenue of $14,551 according to Fortune 500.
+The company is valued at $3,078 and has a profit of $5,697. The CEO of the company is Laura L. Prieskorn.
+
+The Company has the following ratings: 
+Average ratings for Jackson Financial:
+Business Outlook: 0.48
+
+Career Opportunities: 3
+Distribution: 
+	1: 2 
+	2: 1 
+	3: 2 
+	4: 0 
+	5: 4 
+
+CEO: 0.48
+
+Compensation and Benefits: 2.7
+Distribution: 
+	1: 3 
+	2: 0 
+	3: 2 
+	4: 2 
+	5: 2 
+
+Culture and Values: 3.1
+Distribution: 
+	1: 1 
+	2: 2 
+	3: 2 
+	4: 1 
+	5: 3 
+
+Diversity and Inclusion: 2.8
+Distribution: 
+	1: 1 
+	2: 1 
+	3: 2 
+	4: 0 
+	5: 1 
+
+Overall: 2.8
+Distribution: 
+	1: 3 
+	2: 0 
+	3: 1 
+	4: 2 
+	5: 3 
+
+Senior Management: 2.7
+Distribution: 
+	1: 3 
+	2: 0 
+	3: 2 
+	4: 2 
+	5: 2 
+
+Work Life Balance: 2.9
+Distribution: 
+	1: 2 
+	2: 0 
+	3: 3 
+	4: 3 
+	5: 1 
+
+Review Count: 9
+
+Recommend to Friend: 
+	RECOMMEND: 6
+	WONT RECOMMEND: 3
+
+
+
+
+The company has 9 reviews on Glassdoor. The last review was posted on 2023-11-21T17:34:50.253. 
+There are 9 Reviews for Jackson Financial:
+
+Review 1:
+	Job Title: Systems Engineer/Field Engineer
+	Location: None
+	Review Date: 2023-11-21T17:34:50.253
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		If you are looking for growth in the IT Field, You NEED to work here. i say this as a person who loves IT. SSR has helped me hone skills I never knew i needed. The leaders in place, Angela is an amazing HR Resource, she is always willing to work with you and make things right, Andy who is in charge of the NOC(Network Operations Center) has great direction and leadership and Sarit has the vision that spearheads the company. You have some amazing Engineers on the team such as Scott who is smart and humbles himself before any trial and is quick to tackle the challenge and assist when team members needs a hand or a candle in the dark of situations that seem lost. there are several others i could name but wanted to point out a few. this place is a treasure and the work day in and day out to make this one of the best places to work in Milwaukee. i would recommend this place if you are seeking a good employer.
+
+
+	Cons: 
+		Not a whole lot i can say on the bad side of things, this place is a gem in a workforce that lacks.
+		only thing is on call but that comes with the Turf
+
+
+	Summary: 
+		Amazing Place to Work - Please Consider
+
+
+Review 2:
+	Job Title: Operations
+	Location: Brookfield, WI
+	Review Date: 2023-08-28T17:51:23.497
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Some of the staff was good to work with.
+
+
+	Cons: 
+		CEO and Leadership is messed up. They talk a good game to hire you and let you think you can run your team like you need to, then fight you every chance they get. CEO never shuts his mouth. Thinks he is the only one in the industry that knows anything, but just got lucky. I spent the first few weeks feeling like a psychotherapist just listening to employees say how horrible management was and how terrible the CEO was. I should have listened. They pay large sums of money to leaders that don't lead more then 2 people, and I rarely ever saw either other them. Seems like I was a diversity hire. Run as fast as you can! This place is a a people mill, get em in, use them until they cant take it anymore then move onto the next.
+
+
+	Summary: 
+		Worst Decision, AVOID at all costs
+
+
+Review 3:
+	Job Title: None
+	Location: None
+	Review Date: 2023-06-18T20:28:08.957
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Very friendly coworkers and a relaxing office environment
+
+
+	Cons: 
+		It feels like the "little guys" get swept aside, whilst the higher-ups get all of the spotlight. The people who sacrifice so much, go above and beyond, and spend countless hours to help the company out are ignored and unappreciated. Management is so disconnected from what's actually going on, and important changes that benefit employees are never made. Requests and feedback are routinely ignored from management which puts more pressure on staff. There are so many major issues within this company which have existed for years, but somehow they are never addressed.
+
+
+	Summary: 
+		Not recommended for the faint of heart
+
+
+Review 4:
+	Job Title: None
+	Location: Brookfield, WI
+	Review Date: 2023-04-15T16:11:52.793
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Friendly and professional people working hard every day to take care of customers in a toxic working environment.
+
+
+	Cons: 
+		Senior leadership is narcissistic, unprofessional, and routinely demeans associates publicly. Constantly changing goals, metrics, and priorities resulting in a "whack a mole" effort to hit the latest emergency issue of the day. No real HR efforts in place to change this culture as senior leadership is surrounded by "YES" people who will not push back on the madness. Pay and benefits are well below par for the IT services industry. If you have any other job opportunity outside this cesspool, take them.
+
+
+	Summary: 
+		Do not walk....RUN AWAY....TOXIC
+
+
+Review 5:
+	Job Title: Computer Programmer
+	Location: None
+	Review Date: 2021-08-28T14:08:56.623
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		The Job was fun and trained me well. I learned a lot about being a programmer there.
+
+
+	Cons: 
+		The contracted programmer out to a different company dynamic was a little strange.
+
+
+	Summary: 
+		Good for Early Experience
+
+
+Review 6:
+	Job Title: None
+	Location: Brookfield, WI
+	Review Date: 2016-12-27T18:43:34.583
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Awesome Workplace with individual decision opportunities and uses advanced technology stack
+
+
+	Cons: 
+		I feel every company has it's Pros and Cons and this has very minute which are not considerable.
+
+
+	Summary: 
+		Software Engineer
+
+
+Review 7:
+	Job Title: Engineer
+	Location: Brookfield, WI
+	Review Date: 2017-06-14T15:55:47.650
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Health insurance
+		Vision insurance
+		Dental insurance
+		401k retirement plan
+		Profit sharing
+		Quarterly Bonus
+		Christmas gift
+		Friendly working environment
+		Growing company
+
+
+	Cons: 
+		Not competitive starting salary
+		No salary raise which depreciates with the increase of cost of living
+		Just ok holiday policy
+
+
+	Summary: 
+		Engineer
+
+
+Review 8:
+	Job Title: None
+	Location: None
+	Review Date: 2018-08-03T16:57:11.707
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Immense growth  and learning opportunities
+
+
+	Cons: 
+		Heavy work load , but get to learn a lot
+
+
+	Summary: 
+		Software Developer
+
+
+Review 9:
+	Job Title: None
+	Location: None
+	Review Date: 2019-04-04T14:34:31.423
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Variety of technologies to work with.
+
+
+	Cons: 
+		No enterprise exposure, mainly small businesses.
+
+
+	Summary: 
+		Not a bad company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,627 @@
+
+Boise Cascade is a Wholesalers: Diversified company based in 83702 Boise, Idaho. 
+The company has 6,840 employees and has a revenue of $8,387 according to Fortune 500.
+The company is valued at $2,506 and has a profit of $858. The CEO of the company is None.
+
+The Company has the following ratings: 
+Average ratings for Boise Cascade:
+Business Outlook: 0.58
+
+Career Opportunities: 3.4
+Distribution: 
+	1: 36 
+	2: 38 
+	3: 45 
+	4: 45 
+	5: 46 
+
+CEO: 0.65
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 22 
+	2: 20 
+	3: 50 
+	4: 57 
+	5: 61 
+
+Culture and Values: 3.1
+Distribution: 
+	1: 32 
+	2: 25 
+	3: 48 
+	4: 36 
+	5: 61 
+
+Diversity and Inclusion: 3.4
+Distribution: 
+	1: 16 
+	2: 11 
+	3: 17 
+	4: 25 
+	5: 34 
+
+Overall: 3.5
+Distribution: 
+	1: 27 
+	2: 27 
+	3: 60 
+	4: 70 
+	5: 81 
+
+Senior Management: 2.8
+Distribution: 
+	1: 42 
+	2: 31 
+	3: 41 
+	4: 47 
+	5: 44 
+
+Work Life Balance: 3.1
+Distribution: 
+	1: 38 
+	2: 34 
+	3: 42 
+	4: 45 
+	5: 48 
+
+Review Count: 266
+
+Recommend to Friend: 
+	RECOMMEND: 125
+	WONT RECOMMEND: 67
+
+
+
+
+The company has 291 reviews on Glassdoor. The last review was posted on 2024-04-15T17:58:35.813. 
+There are 20 Reviews for Boise Cascade:
+
+Review 1:
+	Job Title: Engineer
+	Location: Boise, ID
+	Review Date: 2024-04-07T22:26:45.213
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good culture of safety, excellent promotion opportunities for production
+
+
+	Cons: 
+		needs to take more risks as a company
+
+
+	Summary: 
+		Good company
+
+
+Review 2:
+	Job Title: Utility Production
+	Location: Elgin, OR
+	Review Date: 2024-04-11T16:03:08.993
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Pay is good, but not as good as it should be for all the work they put you to do
+
+
+	Cons: 
+		Discrimination and racism, people in there feel superior to new employees.
+
+
+	Summary: 
+		Not the greatest place to work if you are working production
+
+
+Review 3:
+	Job Title: Material Handler
+	Location: None
+	Review Date: 2024-04-15T17:58:35.813
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great people. Great environment. Great management.
+
+
+	Cons: 
+		Some immaturity from coworkers and leadership.
+
+
+	Summary: 
+		Great company
+
+
+Review 4:
+	Job Title: Forklift Driver
+	Location: Chapman, AL
+	Review Date: 2024-03-26T10:21:28.653
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Coworkers are friendly. You can drink all the bottled water you want for free
+
+
+	Cons: 
+		If you don’t mind working in extreme heat the summer and being cold in the winter
+
+
+	Summary: 
+		Ok job
+
+
+Review 5:
+	Job Title: Truck Driver
+	Location: None
+	Review Date: 2024-03-04T13:16:09.273
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		hours are convenient for my schedule
+
+
+	Cons: 
+		management can be a little short sighted
+
+
+	Summary: 
+		Good company
+
+
+Review 6:
+	Job Title: Production Technician III
+	Location: Alexandria, LA
+	Review Date: 2024-01-28T17:50:33.210
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Wonderful coworkers and good pay for the work.
+
+
+	Cons: 
+		Can be very hot in the summer and there is a lot of mandatory overtime.
+
+
+	Summary: 
+		Can be a good place
+
+
+Review 7:
+	Job Title: Material Handler
+	Location: Tulsa, OK
+	Review Date: 2024-02-27T17:44:32.400
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great Pay
+		Great Hours
+		Good Management
+
+
+	Cons: 
+		Working Outside
+		Bad communication sometimes
+
+
+	Summary: 
+		Solid Job
+
+
+Review 8:
+	Job Title: Associate
+	Location: Oakdale, LA
+	Review Date: 2024-01-18T15:15:13.720
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Some supervisors actually care about you’re wellbeing
+
+
+	Cons: 
+		No heads up to when schedules changes if they post one at all
+		Supervisors treat you like the machines you’re running and not human
+		Little compassion
+
+
+	Summary: 
+		Ok place to work I guess
+
+
+Review 9:
+	Job Title: National Accounts Representative
+	Location: Milton, FL
+	Review Date: 2024-02-21T18:08:00.477
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great management, good environment, inclusive, friendly
+
+
+	Cons: 
+		Not always enough to do
+
+
+	Summary: 
+		Great management 
+
+
+Review 10:
+	Job Title: Middle Man
+	Location: Oakdale, LA
+	Review Date: 2024-02-10T10:11:27.220
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Great benefits and fair pay
+
+
+	Cons: 
+		Sometimes long hours and relatively short breaks
+
+
+	Summary: 
+		Career
+
+
+Review 11:
+	Job Title: Inside Sales Representative
+	Location: None
+	Review Date: 2024-01-17T14:05:01.993
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Coworkers, knowledge, training, interesting occasionally
+
+
+	Cons: 
+		Slow movement, old fashioned, can be boring
+
+
+	Summary: 
+		OK, not the fastest changing company
+
+
+Review 12:
+	Job Title: Laborer
+	Location: None
+	Review Date: 2024-01-03T14:10:52.100
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		All of the hours you want.
+
+
+	Cons: 
+		Expensive benefits and poor management.
+
+
+	Summary: 
+		Just OK
+
+
+Review 13:
+	Job Title: Manager
+	Location: Minneapolis, MN
+	Review Date: 2023-12-19T18:31:07.300
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Benefits, Vacation time, understanding managers, good work environment, relaxed environment
+
+
+	Cons: 
+		Corporate processes slow things down
+
+
+	Summary: 
+		Great Company
+
+
+Review 14:
+	Job Title: Mill Worker
+	Location: Lancaster, TX
+	Review Date: 2023-11-02T17:25:09.660
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Only postive thing I can say is the restroom have good A/C
+
+
+	Cons: 
+		None climate control very hot warehouse. Employees overworked. If you are a women you will come 2nd to men as they are favored. Managment and HR is a joke and do fraudulent things. Low pay and no opportunities to move up.
+
+
+	Summary: 
+		Unorganized work place
+
+
+Review 15:
+	Job Title: None
+	Location: None
+	Review Date: 2023-09-08T08:23:59.373
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Decent salary but not worth the work if you're a go getter. You get paid the same as the lazy folks
+
+
+	Cons: 
+		Company has embraced DEI. Actively discriminating against normal people and hard workers who want to win and succeed. New Woke ceo and Head of HR leading the charge and runing a once great company. Be careful
+
+
+	Summary: 
+		Gone woke be careful
+
+
+Review 16:
+	Job Title: Cdl A Driver
+	Location: Denver, CO
+	Review Date: 2023-09-10T20:12:01.520
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		They have adequate pay, good benefits and amazing pto (4 weeks per year to start). Some other pros are they have auto chains (with manual chains as a backup), a mechanic on-site, and no driver-facing cameras (they have the outward facing dash cam and one rear facing camera on each door, which I was totally fine with. It's the driver facing camera I don't agree with so I really appreciated their decision in this area). Another pro for me is I was regularly getting about 8-10 hours of overtime per week. So, there are definitely some good things about working for Boise.
+
+
+	Cons: 
+		1: The loads: I understand in this industry, there's a lot of varying materials of different shapes, sizes, etc... so it can be a challenge to load the trailers. It's understandable to have some funky loads sometimes. But you shouldn't be dealing with these issues on a regular basis: -Units that aren't flush, but just thrown on there sloppily; stickers left on top the the load or in places you couldn't see from the ground; items on top of the load that needed to be shifted or rearranged so they could be properly strapped (I was regularly climbing on the load to rearrange or move something because it would've been dangerous to ignore or strap it like it was). -Having material scattered throughout the load so the receiver you're delivering to has to move a bunch of stuff to get to theirs. Sometimes this can't be helped due to size and weight of material, but there were many many times that it just wasn't necessary. It's as though some of the loaders use their paperwork to gather all the delivery items and then they ignore the paperwork delivery order and just throw everything on the trailer to get it done, rather than taking the time to try to keep items in a certain order. -Pallets falling apart because they weren't properly and securely wrapped, so they'd end up falling apart while driving down the road, leaving loose boxes and hardware on the trailer. 2: Management: They pretend to care about your input but then ignore or downplay what you have to say. They listened to my concerns and those brought up by other drivers, but they didn't make any improvements or changes. I tried to brainstorm with them how the pallets could better be wrapped - nothing changed. They kept wrapping the same way. For all their preaching about "safety", you would think they'd take these issues seriously, when there's a huge potential for hardware or boxes to fall off the truck into traffic. 3: The trucks: They have all automatic T880's with terrible Paccar motors - constant check engine lights, break downs, wear and tear. I think they are moving in the right direction because their newest truck has a Cummins so hopefully they keep ordering those. When I received the truck I was taking over, it was disgusting - FILTHY from the previous driver. It needed a deep clean which the company should've taken care of - a new driver shouldn't be the one scrubbing and cleaning and fixing things to make it presentable. The windshield was cracked along the entire length and wouldn't have passed inspection. The insurance and registration paperwork was disorganized and missing the registration papers for half the trailers, one of the internal cab lights was dangling from the ceiling, the driver's seat was broken, etc. I spent several hours cleaning it, fixed what I could and to their credit, the Boise mechanic ordered and installed a new seat... But I mean, COME ON PEOPLE. Very unprofessional.
+
+
+	Summary: 
+		Ok pay, good benefits, great pto, but terrible loads, unreliable trucks
+
+
+Review 17:
+	Job Title: Production Superintendent
+	Location: Chapman, AL
+	Review Date: 2023-12-05T16:05:20.317
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Can't give a good reason.
+
+
+	Cons: 
+		Management is deceptive and not very informative.
+
+
+	Summary: 
+		N/A
+
+
+Review 18:
+	Job Title: Associate
+	Location: Boise, ID
+	Review Date: 2023-12-05T12:36:44.810
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good place to gain experience
+
+
+	Cons: 
+		Poor management, I don't like some colleagues
+
+
+	Summary: 
+		Working environment
+
+
+Review 19:
+	Job Title: Material Handler/Forklift Operator
+	Location: Atlanta, GA
+	Review Date: 2023-12-03T19:32:53.513
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Plenty of overtime every week, great benefits
+
+
+	Cons: 
+		Unrealistic expectations, not much room for advancement
+
+
+	Summary: 
+		Hours
+
+
+Review 20:
+	Job Title: Production Technician III
+	Location: Lena, LA
+	Review Date: 2023-11-20T14:32:55.997
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Benefits are great and cost are low.
+
+
+	Cons: 
+		Mandatory overtime given little notice. They will edit your timecard without permission and steal time from you.
+
+
+	Summary: 
+		It's a job
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

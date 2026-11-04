@@ -1,0 +1,625 @@
+
+Sanmina is a Semiconductors and Other Electronic Components company based in 95134 San Jose, California. 
+The company has 36,000 employees and has a revenue of $7,891 according to Fortune 500.
+The company is valued at $3,559 and has a profit of $256. The CEO of the company is Jure Sola.
+
+The Company has the following ratings: 
+Average ratings for Sanmina:
+Business Outlook: 0.44
+
+Career Opportunities: 3
+Distribution: 
+	1: 307 
+	2: 287 
+	3: 428 
+	4: 295 
+	5: 185 
+
+CEO: 0.69
+
+Compensation and Benefits: 2.9
+Distribution: 
+	1: 292 
+	2: 324 
+	3: 438 
+	4: 282 
+	5: 164 
+
+Culture and Values: 3.1
+Distribution: 
+	1: 323 
+	2: 230 
+	3: 397 
+	4: 296 
+	5: 197 
+
+Diversity and Inclusion: 3.4
+Distribution: 
+	1: 75 
+	2: 76 
+	3: 162 
+	4: 159 
+	5: 199 
+
+Overall: 3.3
+Distribution: 
+	1: 255 
+	2: 254 
+	3: 525 
+	4: 463 
+	5: 246 
+
+Senior Management: 2.9
+Distribution: 
+	1: 362 
+	2: 226 
+	3: 314 
+	4: 223 
+	5: 144 
+
+Work Life Balance: 3.1
+Distribution: 
+	1: 270 
+	2: 248 
+	3: 433 
+	4: 327 
+	5: 219 
+
+Review Count: 1745
+
+Recommend to Friend: 
+	RECOMMEND: 736
+	WONT RECOMMEND: 603
+
+
+
+
+The company has 1906 reviews on Glassdoor. The last review was posted on 2024-04-17T11:26:56.290. 
+There are 20 Reviews for Sanmina:
+
+Review 1:
+	Job Title: Software Engineer
+	Location: New York, NY
+	Review Date: 2024-02-01T21:06:30.437
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		every thing is great really
+
+
+	Cons: 
+		none no such cons till now
+
+
+	Summary: 
+		review
+
+
+Review 2:
+	Job Title: Mechanical Assembler
+	Location: None
+	Review Date: 2024-03-25T19:39:47.090
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		first shift hours: 6am to 2:30pm. Breaks two 15 minute breaks in the morning, lunch at noon, and then only 2 hours till you are out. Pretty decent managers. As long as you get your 40 hours in, and your work done, they won't hassle you.
+
+
+	Cons: 
+		People are always watching, and will go and say things to your supervisor. Like if you look at your phone. Or think you're coming in late. Absolutely no training procedures in place, except for an attachment that gives you bare minimum Instructions. With pictures of the piece you are working on, either upside down or have parts added thar shouldn't be there yet. Exprience is a must, or you will lose your mind looking for missing pieces to your kit. Most of the tools are broken, worn out. Very unorganized, team leads do not have time to help you. They do not allow people to NCR things, the team leader must do it. Along with a list of things that you should be able to do on your own. Leaving your lead always running around, aggravated, and tired. It is supposed to be lean manufacturing, but they are always missing parts from kits. There is no tool set specific to your bench. You either have to hide the tools you need, or pray that you can find them in the morning.
+
+
+	Summary: 
+		Knowing how to swim
+
+
+Review 3:
+	Job Title: Operations
+	Location: Turtle Lake, WI
+	Review Date: 2024-02-07T10:44:56.523
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		I worked at one of the smallest Sanmina facilities: Turtle Lake, WI. The people are amazing there, and work great together and put in tremendous effort. Many investments in upgrading and replacing aged equipment, so much of the machinery there is state of the art, They're investing heavily in automation to make jobs easier, and help with the challenge of finding enough employees.
+
+
+	Cons: 
+		Sanmina pays terrible. People can go up the street to the gas station or McDonalds and get better pay, better benefits, scheduling flexibility, and not have to deal with the upper management at this site. The management seems lost. Turtle Lake is chopping heads steady. And they aren't replacing them. It feels like Sanmina Turtle Lake is dying a slow death. There's more layoff than business the last year. And upper management at the Turtle Lake facility is completely out of touch with the people. Few ever see him, and when they do he's just buzzing through the plant on his phone.
+
+
+	Summary: 
+		Good parent company, poor oversight of the factories
+
+
+Review 4:
+	Job Title: Technician
+	Location: Fort Mill, SC
+	Review Date: 2024-04-01T08:41:46.737
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Flexible in asking for time off. Supervisor is fair and easy going
+
+
+	Cons: 
+		No pay raises and job uncertainy
+
+
+	Summary: 
+		No raises
+
+
+Review 5:
+	Job Title: CNC Machinist
+	Location: Austin, TX
+	Review Date: 2024-04-03T12:54:35.037
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		It’s a job, they pay when it’s busy.
+
+
+	Cons: 
+		Too many to list. Just don’t come here.
+
+
+	Summary: 
+		Don’t come here.
+
+
+Review 6:
+	Job Title: Assembler I
+	Location: Turtle Lake, WI
+	Review Date: 2024-03-12T07:00:52.323
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		the people are nice to work with
+
+
+	Cons: 
+		nobody tells us anything. you have to ask over and over again.
+
+
+	Summary: 
+		ok
+
+
+Review 7:
+	Job Title: Production
+	Location: Huntsville, AL
+	Review Date: 2024-01-26T03:22:46.657
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		I liked some of the people there
+
+
+	Cons: 
+		the management will lie to you to suit their own agenda. Manager comes in smelling like alochol, The supervisors will tell you anything to keep you working. Heaven forbid you ask for FMLA, they will lay you off faster than you can say FMLA. They say you are eligible for rehire when in fact you are not. If you are not a family member or part of the clic then you won't last.
+
+
+	Summary: 
+		Not a good place to work
+
+
+Review 8:
+	Job Title: Full Stack Web Developer
+	Location: Madison, AL
+	Review Date: 2024-03-18T18:28:15.160
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		None that comes to mind
+
+
+	Cons: 
+		Too many cons... 10 years and no pay increase in this company. Unheard of in this inflationary environment.
+
+
+	Summary: 
+		Bad place
+
+
+Review 9:
+	Job Title: Supply Chain
+	Location: Huntsville, AL
+	Review Date: 2024-03-04T13:45:07.787
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		None. Only thing you get is PTSD from the verbal abuse
+
+
+	Cons: 
+		Director belittles, screams at employees, uses retaliation and HR backs her up
+
+
+	Summary: 
+		Horrible place to work
+
+
+Review 10:
+	Job Title: Engineer
+	Location: None
+	Review Date: 2024-02-22T18:16:49.520
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		OK to work with at Sanmina
+
+
+	Cons: 
+		Not so good benifits to start with
+
+
+	Summary: 
+		OK
+
+
+Review 11:
+	Job Title: Inspector
+	Location: Fort Mill, SC
+	Review Date: 2024-01-24T16:30:32.660
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		My experience at Sanmina was incredibly fulfilling, largely due to the excellent team dynamics, proficient management, employee-friendly policies, positive work culture, and an unwavering commitment to excellence.
+
+
+	Cons: 
+		I do not remember any negative situation. I just miss my job, team, and good time.
+
+
+	Summary: 
+		The best place to work
+
+
+Review 12:
+	Job Title: Material Planner
+	Location: Huntsville, AL
+	Review Date: 2024-02-15T04:34:37.440
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Decent place to work for.
+
+
+	Cons: 
+		Lots of overtime for production
+
+
+	Summary: 
+		No
+
+
+Review 13:
+	Job Title: Material Handler
+	Location: Huntsville, AL
+	Review Date: 2024-03-02T04:55:47.227
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Light work in a cool building
+
+
+	Cons: 
+		No raises in years with constant lay offs and mandatory overtime
+
+
+	Summary: 
+		Don’t
+
+
+Review 14:
+	Job Title: None
+	Location: Huntsville, AL
+	Review Date: 2024-01-31T16:54:01.470
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		I like the people that work there.
+
+
+	Cons: 
+		They won’t give a raise even if you are essential to the program. Upper management don’t care if they loose you!
+
+
+	Summary: 
+		Eh
+
+
+Review 15:
+	Job Title: Sr. Account Manager
+	Location: Salt Lake City, UT
+	Review Date: 2024-01-12T15:45:48.333
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Career level growth possible from every position
+		Access to industry leading talent and technology
+		Competitive local salary
+
+
+	Cons: 
+		The industry is taxing based on it's nature. 
+		A lot of jobs that turn into careers specialize in handling the inevitable difficulties, more of a note than a con really.
+
+
+	Summary: 
+		10+ year employee and grateful
+
+
+Review 16:
+	Job Title: Manager
+	Location: San Francisco, CA
+	Review Date: 2024-02-07T10:02:50.940
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		executive team, best tech equipment in industry, decent pay
+
+
+	Cons: 
+		no career progression, workforce is aged
+
+
+	Summary: 
+		former manager
+
+
+Review 17:
+	Job Title: Manufacturing Engineer
+	Location: Newark, CA
+	Review Date: 2024-01-06T09:00:12.037
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		There is a good work life balance.
+
+
+	Cons: 
+		Management was not clear on direction of projects. Pay is severely low for location.
+
+
+	Summary: 
+		Experience 
+
+
+Review 18:
+	Job Title: Finance Manager
+	Location: Queensbury, NY
+	Review Date: 2024-01-06T07:01:03.233
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good salary plus benefits and health
+
+
+	Cons: 
+		Hard job and demanding boss
+
+
+	Summary: 
+		Work load
+
+
+Review 19:
+	Job Title: Lab Technician
+	Location: San Jose, CA
+	Review Date: 2024-01-03T16:01:32.220
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		a lot of hours 6 days
+
+
+	Cons: 
+		no time to really be social outside of work
+
+
+	Summary: 
+		hired pay
+
+
+Review 20:
+	Job Title: Technical Assembler
+	Location: Manchester, NH
+	Review Date: 2023-10-28T08:22:15.570
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		- Friendly coworkers - Great supervisors
+
+
+	Cons: 
+		- No raises - Lots of downtime
+
+
+	Summary: 
+		No Raises
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

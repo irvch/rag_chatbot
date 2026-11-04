@@ -1,0 +1,680 @@
+
+Block is a Financial Data Services company based in 94103 San Francisco, California. 
+The company has 12,428 employees and has a revenue of $17,532 according to Fortune 500.
+The company is valued at $41,329 and has a profit of -$541. The CEO of the company is Jack Dorsey.
+
+The Company has the following ratings: 
+Average ratings for Block:
+Business Outlook: 0.55
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 69 
+	2: 85 
+	3: 196 
+	4: 316 
+	5: 467 
+
+CEO: 0.69
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 33 
+	2: 63 
+	3: 220 
+	4: 385 
+	5: 432 
+
+Culture and Values: 4
+Distribution: 
+	1: 58 
+	2: 48 
+	3: 106 
+	4: 234 
+	5: 673 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 21 
+	2: 37 
+	3: 62 
+	4: 122 
+	5: 386 
+
+Overall: 3.9
+Distribution: 
+	1: 68 
+	2: 85 
+	3: 151 
+	4: 348 
+	5: 718 
+
+Senior Management: 3.3
+Distribution: 
+	1: 111 
+	2: 101 
+	3: 157 
+	4: 295 
+	5: 457 
+
+Work Life Balance: 4.1
+Distribution: 
+	1: 60 
+	2: 63 
+	3: 155 
+	4: 318 
+	5: 526 
+
+Review Count: 1374
+
+Recommend to Friend: 
+	RECOMMEND: 891
+	WONT RECOMMEND: 184
+
+
+
+
+The company has 1485 reviews on Glassdoor. The last review was posted on 2024-04-15T18:10:39.043. 
+There are 20 Reviews for Block:
+
+Review 1:
+	Job Title: Android Engineer
+	Location: Atlanta, GA
+	Review Date: 2024-04-03T13:02:09.770
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great Android dev culture and libraries
+
+
+	Cons: 
+		Promo depends on manager. Some politics involved in engineering decisions.
+
+
+	Summary: 
+		Great for Android devs
+
+
+Review 2:
+	Job Title: Executive Assistant
+	Location: None
+	Review Date: 2024-03-03T16:27:38.730
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great people work at Block and there are super smart, talented and very helpful teammates in the Executive Operations department; Plenty side projects to work on when you have the bandwidth; Compensation is great; working for Block is awesome because the company mission is pretty legit; the Block office spaces are wonderful and visiting them is always a treat.
+
+
+	Cons: 
+		Very clear/obvious favoritism in the EO department; if you're a favorite of the leads then you'll have great opportunities for advancement and even to get away with things other EAs would never do/be able to do; too easy to fall out of someone's "good graces"; drama every time the group meets in person at an offsite / someone honestly gets fired after nearly every EO offsite because of it; diversity in leadership hardly exists; if you don't live in California - good luck trying to advance in the company and in levels; advancing in levels is nearly impossible now. After the team favorites were promoted the promo rules magically changed. Now you need a "business need" for your promotion so you're essentially stuck in your level unless you switch roles or your exec is promoted; I supported some of the worst execs in my EA career at Block, Inc. which is crazy because Block has great people but some of the senior leaders (across the company) aren't so great and are instead super problematic with poor internal reputations. Before the layoffs, politics in the EO department was insane. Some leads give a lot of lip service and will act like they support you and are "there" for you but actually aren't. Some leads literally don't respect confidentiality and run their mouths like teenagers in high school.
+
+
+	Summary: 
+		Was a great work experience until it wasn't
+
+
+Review 3:
+	Job Title: Engineer
+	Location: None
+	Review Date: 2024-01-27T14:03:37.163
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Still has decent collaboration between employees, though that is declining.
+
+
+	Cons: 
+		Negative turn for the company culture.
+		
+		It's easy to "do the right thing" and be magnanimous when things are going well. The true test of character (for both people and companies) is when things get difficult.
+		
+		Block talks a big game about economic empowerment and valuing its people. But their 2023 layoffs demonstrate that their rhetoric has become threadbare. When they are done with you they don’t hesitate to discard you with little to show for it. 
+		
+		Layoffs are a fact of life. But decent companies treat their people decently, even when those people are on the way out. 
+		
+		Yes, the odds of you getting laid off are slim. But Block’s recent stingy exit packages are not consistent with their past. It is indicative of a cultural shift away from valuing people.
+		
+		Here is a table of the relative size of exit packages compared to the company’s size (a measure of the depth of their finances). The data are normalized so Block = 100%.
+		
+		Block, Market cap = 100%, Exit package = 100% 
+		Stripe, Market cap =125%, Exit package = 375% 
+		DoorDash, Market cap = 63%, Exit package = 288%
+		Plaid, Market cap = 34%, Exit package = 325%
+		Lyft, Market cap = 10%, Exit package = 325%
+		Coursera, Market cap = 5%, Exit package = 341%
+		
+		“Exit package” includes the notification period (period where you are no longer working but still on the payroll), any stock vested or bonus paid after notification of layoff, and severance.
+		
+		Naturally, Block’s package also pales in comparison to those of larger companies. Salesforce's severance was 6x Block's, Alphabet's was more than 4x, and Meta's was 3.5x Block's exit package.
+
+
+	Summary: 
+		This is no longer a culture that values its people
+
+
+Review 4:
+	Job Title: Communications Specialist
+	Location: None
+	Review Date: 2024-03-20T13:01:55.397
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		-Work with some insanely intelligent kind people
+		-Supportive atmospher, no one ever was bothered by me asking advice
+		-Benefits were cushy up until 2024
+		-Still pretty cushy benefits to be honest.
+		-Interesting projects to work on
+		-Room for career mobility
+		-Good and compelling mission (helping your favorite coffee shop take credit cards)
+
+
+	Cons: 
+		-CEO kind of has head in the clouds with crypto/defi/etc
+		-Lots of silo-fication. Cash-app is too cool for everybody else, Square is too "corporate" and poor Tidal is only there because Jay Z is friends with Dorsey
+		-They laid me off lol
+		-Management woes at many levels. I had a great manager for my first 2 years and it was all downhill from there.
+
+
+	Summary: 
+		Really great company benefits, lots of smart people, mixed identity and kooky leadership
+
+
+Review 5:
+	Job Title: Executive Assistant
+	Location: New York, NY
+	Review Date: 2024-02-09T18:11:13.957
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Working at CashApp at Block was great. It has changed very much now that they are standardizing things across all the different business units: CashApp, Square, Tidal etc. Every business branch/arm had its unique culture and CashApp was all about celebrating how you work, providing you with a lot of autonomy.
+		
+		The company has great extended health benefits
+		
+		Remote work environment
+		
+		Ability to travel and work abroad
+		
+		Great communities to foster culture in a distributed work environment e.g. faith, background, hobbies, etc.
+
+
+	Cons: 
+		Block as a whole is becoming more hierachical 
+		
+		Difficult to get promoted or merit increase
+		
+		Really large range in salary and compensation pending on where you are based
+		
+		Staff reduction and layoffs are done without accounting for impact, skill sets, experience, and existing projects (value add).
+
+
+	Summary: 
+		Great culture when business units had autonomy! CashApp is amazing!
+
+
+Review 6:
+	Job Title: Customer Success Advocate
+	Location: Atlanta, GA
+	Review Date: 2024-04-15T18:10:39.043
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Atmosphere, benefits, hr, flexibility, wellness
+
+
+	Cons: 
+		Constant layoffs you cannot plan a long term career comfortably
+
+
+	Summary: 
+		There for a good time not a long time
+
+
+Review 7:
+	Job Title: Compliance Program Manager
+	Location: San Francisco, CA
+	Review Date: 2024-04-11T21:38:54.200
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		The company treats employees with respect and make very big efforts to provide resources and great compensation and benefits.
+
+
+	Cons: 
+		Change is hard, even when several people believe it's needed, there are a lot of politics that prevent change from happening.
+
+
+	Summary: 
+		Great company, too much Red Tape
+
+
+Review 8:
+	Job Title: Operations Specialist
+	Location: San Francisco, CA
+	Review Date: 2024-03-04T00:37:07.797
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Remote Work: The company embraces remote work, allowing employees the flexibility to work from various locations, promoting work-life balance and productivity.
+		Unlimited PTO: Employees enjoy the benefit of unlimited paid time off, fostering a culture of trust and autonomy, and encouraging a healthy approach to time off.
+
+
+	Cons: 
+		Authenticity of Relationships with Upper Management: While interactions with upper management may initially appear friendly, there's a noted disparity between appearances and reality. It's crucial for employees to maintain awareness of the professional nature of these relationships.
+		Formation of Exclusive Groups: An "in" group formed during the inception of the payroll division, potentially creating challenges for those who weren't part of the initial cohort to integrate fully. This dynamic can impact collaboration and morale.
+		Fear-Based Management: Upper management may exhibit tendencies of prioritizing self-preservation when faced with pressure from higher authorities, potentially leading to instances where individuals are unfairly scapegoated.
+		Limited Opportunities for Career Advancement: Despite efforts or aspirations to advance within the company, there may be perceived or actual barriers hindering upward mobility. This aspect can affect employee morale and long-term commitment to the organization.
+
+
+	Summary: 
+		Ehhhh 
+
+
+Review 9:
+	Job Title: Software Analyst
+	Location: Scottsdale, AZ
+	Review Date: 2024-01-29T14:59:54.013
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		The culture they create at Block is really something else. Unfortunately it's the best place I've ever worked
+
+
+	Cons: 
+		The business decisions the company makes are illogical and Block is often times behind new products, designs and marketing. In face, Block's marketing budget is really low compared to all other ecommerce platforms. 
+		
+		The company also heavily sends out emails of inclusiveness and has a clear political stance on modern political issues. The company spend a lot of time and money towards special minority groups and singles out all other groups of people. 
+		
+		The company spends too much money on buildings for CS reps who don't even go into the office. The office can hold 200+ people and only 3+ are there at any time. The company has done away from team builders, so to get to know anyone on your team (while working remote) there is none. 
+		
+		While the culture was a pro, it is actually on a decline.
+
+
+	Summary: 
+		Benefits are Great People are Great, Future of Company: Decline
+
+
+Review 10:
+	Job Title: Senior Software Engineer
+	Location: San Francisco, CA
+	Review Date: 2024-03-28T17:41:04.913
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		A history of engineering excellence. Solid best practices around operations and communication. Nimble leadership. One of the most diverse teams I've ever been a part of (in every way).
+
+
+	Cons: 
+		A lot of strong talent has left and it's unclear if the company can innovate the way it used to.
+
+
+	Summary: 
+		Growing behemoth
+
+
+Review 11:
+	Job Title: Senior Data Science Manager
+	Location: San Francisco, CA
+	Review Date: 2024-04-02T09:30:20.820
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		The business model is good. Many people are working hard and creating cool products.
+
+
+	Cons: 
+		Hired too many people during the boom time and cut people ruthlessly when the market was not good. I don't like the unhealthy competitions within the team and company.
+
+
+	Summary: 
+		A good business with bad culture
+
+
+Review 12:
+	Job Title: Senior Software Engineer
+	Location: San Francisco, CA
+	Review Date: 2024-04-10T10:08:23.740
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Work life balance, comp (for how much we work), somewhat interesting projects
+
+
+	Cons: 
+		It's not a FAANG? *shrug* 
+		Mileage highly varies depending on the team
+
+
+	Summary: 
+		Haters gonna hate, but I kinda like it here
+
+
+Review 13:
+	Job Title: Sales Associate
+	Location: Atlanta, GA
+	Review Date: 2024-04-14T06:23:36.610
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Not bad, lots of room for growth.
+
+
+	Cons: 
+		Typical big tech corporate atmosphere.
+
+
+	Summary: 
+		Good
+
+
+Review 14:
+	Job Title: Head of Data
+	Location: None
+	Review Date: 2024-01-31T16:05:56.363
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 0
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Block used to value people and emphasized on talent development.
+
+
+	Cons: 
+		Not a stable company any more. Stock is doing bad still. With the company resource constraint 12K announcement and the recent layoffs (thousands folks), employees has been demotivated and were lack of motivation working in the midst of uncertainty and pressure. Management and HR had been keeping their mouths shut. The recent massive layoff was rough. Former employees felt like they were garage and dumped to waste. Termination was cruel and was communicated through 1 email with no human interaction. Post employment info session was prerecorded. All access were blocked in the morning and no one to/can reach out and say good bye. Severance packing was just okay. It felt betrayed despite being a long time (over 6 years) employee. I still gave 2 stars considering this company provided growth opportunities in the past. I feel sorry for folks who survive. 
+
+
+	Summary: 
+		Going downhill
+
+
+Review 15:
+	Job Title: Counsel
+	Location: New York, NY
+	Review Date: 2024-04-05T14:01:41.307
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 0
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Excellent benefits, and some really great people! Great DEI initiatives and great people ops, too.
+
+
+	Cons: 
+		It is quite decentralized, and your fate seems to be in the hands of your manager, which can be positive or negative.
+
+
+	Summary: 
+		Excellent benefits, depends on your manager
+
+
+Review 16:
+	Job Title: Customer Success Advocate
+	Location: Atlanta, GA
+	Review Date: 2024-03-15T10:18:01.310
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Majorly inclusive, with afro, muslim, and LGBT communities within the company
+
+
+	Cons: 
+		They started finding any excuse to terminate as much as their staff as they could. Things were already becoming insufferable with the increase in micromanagement and the removal of benefits (removing covid protections, limited PTO, penalized for tech issues or bathroom breaks), and HR doesn't protect against really petty staff when they don't like how they were talked to and will start rumors that put others careers in danger at times.
+
+
+	Summary: 
+		Went Downhill Fast
+
+
+Review 17:
+	Job Title: Senior Stock Administrator
+	Location: Washington, DC
+	Review Date: 2024-02-11T08:15:48.083
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Remarkable and inclusive culture
+		Generous compensation and benefits
+		Purpose of economic empowerment 
+		Employees given flexibility and encouragement to impact company
+
+
+	Cons: 
+		Jack's leadership is a double edged sword. He's a major factor in the company's success story and is also major factor in it's decline. Though there are many things to admire about his performance, it is harder to be confident in his stewardship seeing him position company to chase currency trends and seeing him place trust in individuals like Elon Musk or Robert Kennedy Jr, etc. Though he has surrounded himself with excellent leaders at Block, his growing distance from the experiences of every day people and what impacts their lives hurts the organization. What happened to Twitter and their employees is an uneasy thing to consider.
+
+
+	Summary: 
+		Dream Employer - Concerned about CEO
+
+
+Review 18:
+	Job Title: Event Manager
+	Location: Oakland, CA
+	Review Date: 2024-04-08T19:59:03.903
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Lots of room to move around
+
+
+	Cons: 
+		Management constantly contradicts decisions made leaving team members questioning everything.
+
+
+	Summary: 
+		Great team, questionable management
+
+
+Review 19:
+	Job Title: Quality Assurance Engineer
+	Location: Scottsdale, AZ
+	Review Date: 2024-04-04T10:48:07.883
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		benefits, work life balance, and good people
+
+
+	Cons: 
+		Mostly just poor management and leadership
+
+
+	Summary: 
+		One step forward, two steps back
+
+
+Review 20:
+	Job Title: Senior Software Engineer
+	Location: Seattle, WA
+	Review Date: 2024-04-08T10:54:18.930
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Good work life balance. Startup experience.
+
+
+	Cons: 
+		Business growth relatively slow. Lagging behind in their market capture.
+
+
+	Summary: 
+		Work experience
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

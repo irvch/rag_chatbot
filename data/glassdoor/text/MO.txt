@@ -1,0 +1,629 @@
+
+Altria Group is a Tobacco company based in 23230 Richmond, Virginia. 
+The company has 6,300 employees and has a revenue of $20,688 according to Fortune 500.
+The company is valued at $79,672 and has a profit of $5,764. The CEO of the company is Billy Gifford.
+
+The Company has the following ratings: 
+Average ratings for Altria Group:
+Business Outlook: 0.6
+
+Career Opportunities: 3.4
+Distribution: 
+	1: 127 
+	2: 168 
+	3: 266 
+	4: 258 
+	5: 209 
+
+CEO: 0.84
+
+Compensation and Benefits: 4.2
+Distribution: 
+	1: 12 
+	2: 21 
+	3: 124 
+	4: 384 
+	5: 483 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 88 
+	2: 110 
+	3: 167 
+	4: 222 
+	5: 306 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 25 
+	2: 22 
+	3: 49 
+	4: 66 
+	5: 122 
+
+Overall: 3.9
+Distribution: 
+	1: 63 
+	2: 121 
+	3: 287 
+	4: 372 
+	5: 350 
+
+Senior Management: 3.4
+Distribution: 
+	1: 129 
+	2: 135 
+	3: 255 
+	4: 300 
+	5: 200 
+
+Work Life Balance: 4
+Distribution: 
+	1: 66 
+	2: 116 
+	3: 213 
+	4: 293 
+	5: 335 
+
+Review Count: 1196
+
+Recommend to Friend: 
+	RECOMMEND: 622
+	WONT RECOMMEND: 280
+
+
+
+
+The company has 1428 reviews on Glassdoor. The last review was posted on 2024-04-10T04:11:03.860. 
+There are 20 Reviews for Altria Group:
+
+Review 1:
+	Job Title: Sales Manager
+	Location: Albany, NY
+	Review Date: 2024-02-06T19:11:05.503
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Treat employees very well
+		Company car
+
+
+	Cons: 
+		Tough industry, not knowing what the government is going to do
+		More work for sales managers each year
+
+
+	Summary: 
+		Great company
+
+
+Review 2:
+	Job Title: Account Manager
+	Location: Dallas, TX
+	Review Date: 2024-04-09T10:54:44.223
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Vacation package and bonus structure
+
+
+	Cons: 
+		Can not negotiate salary internally
+
+
+	Summary: 
+		Account Manager
+
+
+Review 3:
+	Job Title: Territory Sales Manager
+	Location: Richmond, VA
+	Review Date: 2024-04-03T04:28:24.983
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Benefits, work flexibility, horizontal leadership structure, the people you work with
+
+
+	Cons: 
+		Upward mobility is limited as many people come to retire here.
+
+
+	Summary: 
+		Great Company
+
+
+Review 4:
+	Job Title: None
+	Location: Richmond, VA
+	Review Date: 2024-02-20T13:57:01.207
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Strong financials performance, at least in the near future.
+		Great teammates.
+		Good pay.
+
+
+	Cons: 
+		Lack of structure, ineffective communication within cross functional teams, deficiency in expertise to drive innovation, and poor management in understanding and effectively addressing gaps.
+
+
+	Summary: 
+		Strong Company with Poor Management
+
+
+Review 5:
+	Job Title: Sr Manager, Finance
+	Location: Richmond, VA
+	Review Date: 2024-03-12T19:32:03.540
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Hybrid work opportunities and great benefits
+
+
+	Cons: 
+		Very competitive work environment and fast paced
+
+
+	Summary: 
+		Accounting &amp; Finance
+
+
+Review 6:
+	Job Title: Territory Sales Manager
+	Location: Miami, FL
+	Review Date: 2024-03-10T11:29:21.043
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		- company car 
+		- healthcare 
+		-
+
+
+	Cons: 
+		- long hours 
+		- stressful environment at times
+
+
+	Summary: 
+		Great company
+
+
+Review 7:
+	Job Title: Corporate Affairs
+	Location: New York, NY
+	Review Date: 2024-03-05T22:30:46.597
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Amazing benefits, lots of extras
+
+
+	Cons: 
+		None that I can think of
+
+
+	Summary: 
+		Associate
+
+
+Review 8:
+	Job Title: Sales Manager
+	Location: Georgia, AL
+	Review Date: 2024-03-03T23:10:19.893
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Work was easy. Great benefits
+
+
+	Cons: 
+		There’s a lot of driving
+
+
+	Summary: 
+		Great
+
+
+Review 9:
+	Job Title: Sales Manager
+	Location: Phoenix, AZ
+	Review Date: 2024-02-26T11:49:48.083
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		I love working here, stress is low and work life balance is great.
+
+
+	Cons: 
+		Cigarette industry is declining which stresses me out
+
+
+	Summary: 
+		Great company
+
+
+Review 10:
+	Job Title: Sales Manager
+	Location: Dallas, TX
+	Review Date: 2024-02-26T07:56:06.957
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Company car, great work/life balance.
+
+
+	Cons: 
+		Career development and inability to bring new ideas through middle management.
+
+
+	Summary: 
+		Great perks, difficult to advance/grow
+
+
+Review 11:
+	Job Title: Territory Sales Manager (TSM)
+	Location: New York, NY
+	Review Date: 2024-02-13T15:37:29.297
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Interesting organization that is focused on cigs. Interesting work that culminated in good outcomes.
+
+
+	Cons: 
+		Bad bonus structure and timing of benefits was tough. Team culture lacked
+
+
+	Summary: 
+		Great but not good
+
+
+Review 12:
+	Job Title: Territory Sales Manager (TSM)
+	Location: Boston, MA
+	Review Date: 2024-02-19T07:13:31.020
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great training and amazing people
+
+
+	Cons: 
+		Bottleneck in development with advanced development in sales
+
+
+	Summary: 
+		Great company
+
+
+Review 13:
+	Job Title: Territory Sales Manager
+	Location: None
+	Review Date: 2023-08-03T13:58:00.043
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Company Car, free gas, good only if you are coming out of college.
+
+
+	Cons: 
+		Over worked, work life balance does not exist, only offer annual bonuses that are taxed of course so you don't get as much as you think. No growth opportunities unless you go to corporate so no Territory Manager 2 or 3 positions. All Territory Managers get paid the same so if you live in California, a TM in Mississippi is getting paid the same as you even though the cost of living is wayyy more in California. The CEO does not care to pay TMs in California more, its never going to happen. The bonuses are not the best the max is $8000 for a Territory Manager of your pay grade but of course if you work in a higher paid grade the bonuses are higher. There is NO COMMISSION! In California TMs should start off at the least $100k but tobacco will be banned in California eventually and all SMs will be out of a job the next few years maybe sooner. The state is trying to ban all tobacco which is why it has so many restrictions. I am currently looking for another TM position somewhere else!
+
+
+	Summary: 
+		Not worth it!
+
+
+Review 14:
+	Job Title: Sales Manager
+	Location: Atlanta, GA
+	Review Date: 2023-10-04T07:32:18.757
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Altria is a great company for anyone who is just starting in the corporate world. They do an amazing job training their employees and allowing them to grow within the company. Also I meant some of my closet friend here and everyone at Altria is really really nice. I got the chance to do their internship program and I learned a lot of new skills and a gained a lot of new experiences.
+
+
+	Cons: 
+		Although (altria) is a great starting company. I do believe that it’s extremely hard to grow within the company. In order to level up, you need a lot of years of experience within (altria), and although you do have a great conduct, it will still be extremely hard to level up to a new position. Also I had some unfair treatment while being at Altria and I honestly did not feel heard, which was really sad because most of people I’ve met have been really nice.
+
+
+	Summary: 
+		Great starting job
+
+
+Review 15:
+	Job Title: Sales Manager
+	Location: Little Rock, AR
+	Review Date: 2024-01-28T22:53:37.903
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great teamwork and flexible work schedule
+
+
+	Cons: 
+		Vacation, didn’t consider previous employment history
+
+
+	Summary: 
+		Good place to work
+
+
+Review 16:
+	Job Title: Sales Manager
+	Location: Cincinnati, OH
+	Review Date: 2024-01-11T09:52:44.557
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great people within company, work-life balance is a huge plus.
+
+
+	Cons: 
+		Not clear on career growth. Excelling in your metrics won’t cut it. Strong politics
+
+
+	Summary: 
+		Great company
+
+
+Review 17:
+	Job Title: Sales Representative
+	Location: Lexington, KY
+	Review Date: 2024-01-26T09:00:24.383
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		It was fun to work there
+
+
+	Cons: 
+		Nothing. It was fine. THank you
+
+
+	Summary: 
+		Great Job
+
+
+Review 18:
+	Job Title: Senior Market Manager
+	Location: Seattle, WA
+	Review Date: 2024-01-24T20:26:43.540
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		People, investment in your development, growth opportunities, autonomy
+
+
+	Cons: 
+		Very few cons to list.
+
+
+	Summary: 
+		SMM
+
+
+Review 19:
+	Job Title: Engineer
+	Location: Richmond, VA
+	Review Date: 2024-01-19T10:57:16.343
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Good opportunities, chances to travel, diverse work
+
+
+	Cons: 
+		Declining industry and unexpected org changes
+
+
+	Summary: 
+		Good
+
+
+Review 20:
+	Job Title: Sales Manager
+	Location: Dallas, TX
+	Review Date: 2023-10-30T13:37:02.467
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Decent salary, company car, great benefits.
+
+
+	Cons: 
+		Poor management, lack of direction, declining industry, and ever-evolving expectations. The company continues to hemorrhage money and then asks the sales force to get retailers to accept a bunch of crap they almost certainly will never sell so that the company can continue to pay shareholder dividends. ID&amp;E initiatives are shoved down your throat. The company culture is on the liberal end of things.
+
+
+	Summary: 
+		Not Bad
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

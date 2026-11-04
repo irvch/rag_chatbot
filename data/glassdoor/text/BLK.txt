@@ -1,0 +1,640 @@
+
+BlackRock is a Securities company based in 10001 New York, New York. 
+The company has 19,800 employees and has a revenue of $17,873 according to Fortune 500.
+The company is valued at $100,526 and has a profit of $5,178. The CEO of the company is None.
+
+The Company has the following ratings: 
+Average ratings for BlackRock:
+Business Outlook: 0.72
+
+Career Opportunities: 3.9
+Distribution: 
+	1: 288 
+	2: 392 
+	3: 944 
+	4: 1268 
+	5: 1187 
+
+CEO: 0.82
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 228 
+	2: 488 
+	3: 1207 
+	4: 1258 
+	5: 893 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 287 
+	2: 292 
+	3: 662 
+	4: 1042 
+	5: 1490 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 111 
+	2: 106 
+	3: 265 
+	4: 532 
+	5: 976 
+
+Overall: 3.9
+Distribution: 
+	1: 272 
+	2: 431 
+	3: 971 
+	4: 1857 
+	5: 1693 
+
+Senior Management: 3.5
+Distribution: 
+	1: 443 
+	2: 438 
+	3: 898 
+	4: 1163 
+	5: 1092 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 406 
+	2: 480 
+	3: 961 
+	4: 1168 
+	5: 1042 
+
+Review Count: 5236
+
+Recommend to Friend: 
+	RECOMMEND: 2652
+	WONT RECOMMEND: 836
+
+
+
+
+The company has 6081 reviews on Glassdoor. The last review was posted on 2024-04-17T17:57:40.073. 
+There are 20 Reviews for BlackRock:
+
+Review 1:
+	Job Title: Business Analyst
+	Location: New York, NY
+	Review Date: 2024-02-18T14:56:13.423
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good lateral communication and opportunities for learning
+
+
+	Cons: 
+		Longer hours out of the week
+
+
+	Summary: 
+		Good experience
+
+
+Review 2:
+	Job Title: Program Analyst
+	Location: Wilmington, DE
+	Review Date: 2024-04-16T09:18:18.607
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		-People are the best
+		-Free coupons and internal study academies to advance knowledge and give exams 
+		-Internal coaching community and organizations
+
+
+	Cons: 
+		-Internal mobility not the best 
+		-Have to stay 18 months before changing teams
+		-Some teams are overloaded and not proper work structure esp. technology operations
+
+
+	Summary: 
+		Experience @ Blackrock Financial Inc
+
+
+Review 3:
+	Job Title: None
+	Location: San Francisco, CA
+	Review Date: 2024-02-08T10:25:41.130
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Has a good team dynamic.
+
+
+	Cons: 
+		-Your manager might be nice and understanding, but skip-level and top-level managers do not care about your well-being.
+		-If you take maternity leave or require postpartum accommodation and you are not a Director+ level, you will be penalized. Your bonus and salary will be negatively impacted. It will delay any promotion that you have in the running.
+		-Upper management does not care about you or your baby's health. If you try to work from home, it will go through a form process but then end up rejected. If your baby can't take a bottle, you'll need to choose between nursing your baby or working. Working moms - BEWARE!!!
+		-No office party or food. They are really stingy, especially post-pandemic. They even ask you to bring your own mug if you want to drink water. They make it seem as if should be thankful you can actually drink filtered water there.
+
+
+	Summary: 
+		Working moms beware - Maternity and Postpartum accommodation is terrible
+
+
+Review 4:
+	Job Title: Associate
+	Location: Atlanta, GA
+	Review Date: 2024-04-17T17:57:40.073
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Benefits, unlimited FTO upon managers approval
+
+
+	Cons: 
+		Low yearly bonus, raise based on team
+
+
+	Summary: 
+		NA
+
+
+Review 5:
+	Job Title: Senior Product Manager
+	Location: New York, NY
+	Review Date: 2024-04-16T17:36:27.153
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Flexibility is nice same with benefits
+
+
+	Cons: 
+		4 days in office or you get flagged
+
+
+	Summary: 
+		Fine place to work
+
+
+Review 6:
+	Job Title: Associate
+	Location: New York, NY
+	Review Date: 2024-04-17T11:52:02.753
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 2
+
+	Pros: 
+		Lot of technology to learn from
+
+
+	Cons: 
+		Work load May be on upper side
+
+
+	Summary: 
+		Very good company
+
+
+Review 7:
+	Job Title: Analyst
+	Location: New York, NY
+	Review Date: 2024-04-16T18:02:24.327
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		good culture and employee camaraderie
+
+
+	Cons: 
+		longer hours depending on the team you join
+
+
+	Summary: 
+		Good experience 
+
+
+Review 8:
+	Job Title: Internal Wholesaler
+	Location: Boston, MA
+	Review Date: 2024-04-15T10:19:16.050
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Smart people and a great culture.
+
+
+	Cons: 
+		Very corporate. Difficult to make changes because of the various levels of management.
+
+
+	Summary: 
+		Wholesaler
+
+
+Review 9:
+	Job Title: Associate
+	Location: New York, NY
+	Review Date: 2024-04-13T10:23:57.823
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Exposure to really knowledgeable and talented people
+
+
+	Cons: 
+		In my field no room for advancement.
+
+
+	Summary: 
+		Good Company
+
+
+Review 10:
+	Job Title: Investment Analyst
+	Location: New York, NY
+	Review Date: 2024-04-13T16:14:37.103
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		good benefits and good pto
+
+
+	Cons: 
+		none at all it was very nice experience
+
+
+	Summary: 
+		Investment analyst
+
+
+Review 11:
+	Job Title: Administrative Business Partner
+	Location: Princeton, NJ
+	Review Date: 2024-04-05T21:03:35.817
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		BlackRock's culture is inclusive and welcoming. Colleagues collaborate well with each other through teamwork. There are many networking opportunities to meet other people from different departments.
+
+
+	Cons: 
+		Hybrid work/life balance has changed to 4 days in office + 1 day at home
+
+
+	Summary: 
+		Great place to work!
+
+
+Review 12:
+	Job Title: Senior Software Engineer
+	Location: None
+	Review Date: 2024-04-10T17:19:51.493
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		work culture
+		projects
+		work life balance
+		food
+		unlimited leaves
+
+
+	Cons: 
+		can't think of any
+		can't think of any
+		can't think of any
+		can't think of any
+		can't think of any
+
+
+	Summary: 
+		Best place to work at
+
+
+Review 13:
+	Job Title: Associate
+	Location: Wilmington, DE
+	Review Date: 2024-04-11T14:59:15.003
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good Work Environment and definitely sugggest
+
+
+	Cons: 
+		Nothing in particular - all good
+
+
+	Summary: 
+		Good
+
+
+Review 14:
+	Job Title: Associate
+	Location: New York, NY
+	Review Date: 2024-04-11T11:01:16.730
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		They run a strong analyst program
+
+
+	Cons: 
+		Frequent layoffs can hurt company culture
+
+
+	Summary: 
+		Great job out of college
+
+
+Review 15:
+	Job Title: Vice President
+	Location: New York, NY
+	Review Date: 2024-04-01T13:15:33.413
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Cutting edge work with driven team.
+
+
+	Cons: 
+		Too many layers with decision-making and re-explaining at every layer. 
+		Extremely cheap on comp and rely on name even for top performers.
+
+
+	Summary: 
+		Bureaucratic
+
+
+Review 16:
+	Job Title: Associate Project Manager
+	Location: Atlanta, GA
+	Review Date: 2024-02-12T09:58:00.020
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Lots of opportunities to get involved in different causes, nonprofit work, learning sessions, fireside chats with senior leaders, and networking opportunities. You will learn a lot and you will be exposed to a lot. You can make the experience what you want it to be.
+
+
+	Cons: 
+		Lots of competition both at your level and management level. Lots of nepotism. People are often moved up based on likeability and backdoor agreements as opposed to qualifications/work ethic. Feedback can be skewed as an individual manager is responsible for obtaining it. Feedback should be systematic as opposed to being delivered to managers directly. Your manager can make or break your experience and oftentimes, managers are chosen based on their desires to get promoted as opposed to being qualified and supportive managers. There is a LOT of bureaucracy. Formally did not exist but now, there are a million guardrails to get things done. Qualified and competent leadership turnover and layoffs have been consistent leading to operating events because of junior less experienced employees being asked to backfill tasks formally managed by more experienced leaders. The culture of layoffs right before compensation is intimidation and does not lead to a healthy work environment. Compensation has not increased in the last few years but layoffs continue to increase. Do not work here if you want to have a personal life. It is a hard place to work and you will be expected to sacrifice a lot of time for your job. If you are not mentally or emotionally strong enough or have a lot of outside desires/obligations, it's probably not the best choice for you.
+
+
+	Summary: 
+		Former BLK
+
+
+Review 17:
+	Job Title: Data Analytics
+	Location: San Francisco, CA
+	Review Date: 2024-03-04T21:19:31.093
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		1. You can take few projects spending 10% of your time to build the career in the direction you want
+		2. FTO &amp; team change (after 18 months) are best things here!
+
+
+	Cons: 
+		1. Too much politics - be careful when you read job description so that you don't land into jobs which has lot of manual work 
+		2. Too many re-orgs happening - don't trust them when they say reorgs won't affect your role but it does
+
+
+	Summary: 
+		Work Life
+
+
+Review 18:
+	Job Title: Analyst
+	Location: None
+	Review Date: 2024-02-20T13:51:50.743
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		I appreciated the flexibility to manage my schedule and take breaks as needed for appointments or personal time. My manager struck a good balance between being available for support while also allowing autonomy for myself and fellow analysts to carry out our tasks. The company had a flexible time off policy, which was granted 97% of the time, and unlimited sick days, fostering a supportive environment for maintaining work-life balance. Additionally, being part of the Graduate Analyst Program provided valuable opportunities for professional development, including global orientation and a signing bonus. The open-door policy and emphasis on skill and talent made it easy to collaborate and take on additional projects, contributing to a sense of camaraderie among colleagues. I worked in financial technology and they hired me with no financial education or experience as well as there was several months of training in the beginning. Taking into account the industry, it is definitely a great place to work by comparison. I also did receive overtime as well as money for dinner while working in the office.
+
+
+	Cons: 
+		One major issue was the subpar training and lack of continued development opportunities, which made it challenging to keep up with the fast pace of the job and understand complex financial concepts. The long hours and high expectations added to the pressure, and despite the camaraderie among colleagues, there was also a sense of unprofessionalism and pettiness at times. Additionally, disparities in pay and bonuses whether an analyst was in the Graduate Analyst Program or not, felt unfair and contributed to a feeling of disrespect. Ultimately, while I appreciated the understanding of work-life balance from management, the overall fit and culture of the company were not aligned with my professional goals and values. Even though they hired me without financial training and there were several months of training, it was not effective at all especially in an office outside of the headquarters. Long, long hours. Weekend work. Strong internal HR desire to not have overtime paid. 
+
+
+	Summary: 
+		Good Benefits, Aggressive Learning Curve, Long Hours, Open-Minded Managers
+
+
+Review 19:
+	Job Title: Vice President
+	Location: New York, NY
+	Review Date: 2024-04-01T08:38:22.370
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Strong pay and benefits. New headquarters
+
+
+	Cons: 
+		ESPP is weak. A lot of layoffs in the past two years
+
+
+	Summary: 
+		Layoffs
+
+
+Review 20:
+	Job Title: Analyst
+	Location: Princeton, NJ
+	Review Date: 2024-03-30T18:31:14.270
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		work-life balance was pretty good
+
+
+	Cons: 
+		management is slow to respond to grievances. lots of office politics.
+
+
+	Summary: 
+		Not great
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

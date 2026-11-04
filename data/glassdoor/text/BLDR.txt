@@ -1,0 +1,630 @@
+
+Builders FirstSource is a Building Materials, Glass company based in 75201 Dallas, Texas. 
+The company has 29,000 employees and has a revenue of $22,726 according to Fortune 500.
+The company is valued at $12,253 and has a profit of $2,749. The CEO of the company is Dave Rush.
+
+The Company has the following ratings: 
+Average ratings for Builders FirstSource:
+Business Outlook: 0.72
+
+Career Opportunities: 3.5
+Distribution: 
+	1: 88 
+	2: 57 
+	3: 119 
+	4: 123 
+	5: 130 
+
+CEO: 0.85
+
+Compensation and Benefits: 3.8
+Distribution: 
+	1: 47 
+	2: 61 
+	3: 121 
+	4: 126 
+	5: 157 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 89 
+	2: 54 
+	3: 88 
+	4: 97 
+	5: 185 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 37 
+	2: 17 
+	3: 80 
+	4: 75 
+	5: 182 
+
+Overall: 3.9
+Distribution: 
+	1: 67 
+	2: 64 
+	3: 112 
+	4: 166 
+	5: 208 
+
+Senior Management: 3.5
+Distribution: 
+	1: 109 
+	2: 61 
+	3: 91 
+	4: 81 
+	5: 168 
+
+Work Life Balance: 3.5
+Distribution: 
+	1: 87 
+	2: 59 
+	3: 96 
+	4: 156 
+	5: 114 
+
+Review Count: 617
+
+Recommend to Friend: 
+	RECOMMEND: 295
+	WONT RECOMMEND: 165
+
+
+
+
+The company has 642 reviews on Glassdoor. The last review was posted on 2024-04-15T14:37:17.087. 
+There are 20 Reviews for Builders FirstSource:
+
+Review 1:
+	Job Title: Warehouse Worker
+	Location: None
+	Review Date: 2024-03-14T16:26:36.237
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good workout kept me in shape
+
+
+	Cons: 
+		Having to wear pants in summer
+
+
+	Summary: 
+		Good
+
+
+Review 2:
+	Job Title: Project Manager
+	Location: Coppell, TX
+	Review Date: 2024-02-28T15:08:07.653
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Great place to work. Money is terrific, managers are so flexible with you and your outside-work needs. Good benefits. Great people who care about you as a person (everyone is slammed 24/7 though which leads to the cons...)
+
+
+	Cons: 
+		Work is demanding. Training is pretty much D.I.Y. Once you get full up and running your outside salesman might take some liberties and throw you to the wolves with lack of responsiveness and unavailability. I would still be here if some of those concerns seemed to be addressed. I could be wrong and they did address this with the outside salesman, but nothing seemed to change on my end and the stress mounted pretty heavily.
+
+
+	Summary: 
+		Great Place To Work, Great People, But...
+
+
+Review 3:
+	Job Title: Kitchen & Bath Designer
+	Location: Flagstaff, AZ
+	Review Date: 2024-02-19T14:12:56.557
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 1
+
+	Pros: 
+		The resources are endless with a company as large as BFS. As it goes with design, mistakes are bound to happen whether from user or client error. It was never a question on if we would be able to cover those mistakes.
+
+
+	Cons: 
+		Base compensation was incredibly low. Taking on the role of both designer and sales rep took away the focus from both roles respectively. I never felt I could put my all into the design work or the sales work therefore falling short of both design and sales expectations. I believe the roles should be separated and base compensation be improved. Over the pandemic and during supply chain issues, meeting a monthly quota in sales was nearly impossible making earned income unpredictable and often lower than was necessary to survive.
+
+
+	Summary: 
+		Kitchen &amp; Bath Designer/Outside Sales Rep
+
+
+Review 4:
+	Job Title: Assembler
+	Location: None
+	Review Date: 2024-04-15T14:37:17.087
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Fast paced, great people, coworkers will help you if you just ask unlike some other places I've been at.
+
+
+	Cons: 
+		Squat for raises, and there is no room to move up or go anywhere, you're just stuck in the same spot
+
+
+	Summary: 
+		It's Alright
+
+
+Review 5:
+	Job Title: Manager In Training (MIT)
+	Location: Rapid City, SD
+	Review Date: 2024-03-13T05:46:16.523
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		They are great people to work with.
+		Day to day can be very fast passed but in a good way.
+		There is lots of growth potential in the Store.
+
+
+	Cons: 
+		Some reading between the lines with the management gets frustrating. Also, a bit of micro-management within the store.
+
+
+	Summary: 
+		Great People to work with
+
+
+Review 6:
+	Job Title: Associate Analyst
+	Location: Dallas, TX
+	Review Date: 2024-03-28T16:26:30.897
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		PayCheck and learning opportunity about the industry.
+
+
+	Cons: 
+		A lot of politics and favoritism.
+
+
+	Summary: 
+		Depends on your Manager
+
+
+Review 7:
+	Job Title: Dispatcher
+	Location: Bowling Green, KY
+	Review Date: 2024-03-27T00:18:03.520
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay, benefits, and coworkers.
+
+
+	Cons: 
+		Lack of cohesive corporate culture and outdated operating software.
+
+
+	Summary: 
+		Good Company to work for
+
+
+Review 8:
+	Job Title: OUTSIDE SALES
+	Location: None
+	Review Date: 2024-03-20T13:59:07.327
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Lots of opportunities in sales to move up quickly and make money
+
+
+	Cons: 
+		Lack of execution on the operations side makes the job a headache
+
+
+	Summary: 
+		Fast Growth but Slow Solutions
+
+
+Review 9:
+	Job Title: Warehouse Worker
+	Location: None
+	Review Date: 2024-03-24T17:31:38.940
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Good hours, friendly staff, consistent
+
+
+	Cons: 
+		Pay was not reasonable for todays economy
+
+
+	Summary: 
+		Good Place To Work
+
+
+Review 10:
+	Job Title: Senior Product Owner
+	Location: Clarksville, TN
+	Review Date: 2024-02-08T05:42:04.717
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Genuine care for employees. Flexible when remote. Positive people and culture. BFS promotes training to gain new skills and grow inside the company.
+
+
+	Cons: 
+		I do not have any CONs for working at BFS.
+
+
+	Summary: 
+		Great Place to Work
+
+
+Review 11:
+	Job Title:  ISR II
+	Location: Round Rock, TX
+	Review Date: 2024-03-22T11:34:49.817
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Great insurance, PTO, flexible schedule
+
+
+	Cons: 
+		Overworked, limited knowledgeable staff, very limited hours for walk ins
+
+
+	Summary: 
+		Overworked
+
+
+Review 12:
+	Job Title: Outside Sales Representative
+	Location: Jacksonville, FL
+	Review Date: 2024-03-14T19:36:15.017
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good pay and they work with your schedule when needed
+
+
+	Cons: 
+		Job can be very stressful dealing with customers
+
+
+	Summary: 
+		Great company but not for everyone
+
+
+Review 13:
+	Job Title: Office Administrator III
+	Location: Meridian, ID
+	Review Date: 2024-03-11T12:10:24.370
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Great Upper Management team
+		Decent Health Insurance
+		8-5 work schedule 
+		Employee perks include hawks games etc
+
+
+	Cons: 
+		Not a ton of room for upper promotion growth without relocation
+
+
+	Summary: 
+		Awesome place to work
+
+
+Review 14:
+	Job Title: Outside Sales Representative
+	Location: Denver, CO
+	Review Date: 2024-03-13T09:36:43.470
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		they are the biggest fish in the pond
+
+
+	Cons: 
+		employees are just a revenue stream for upper management
+
+
+	Summary: 
+		outside sales compensation
+
+
+Review 15:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-04T17:50:51.330
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Secure job being corporate setting.
+		Networking opportunities within the industry.
+
+
+	Cons: 
+		Slow moving to improving software, processes and normal business improvements
+
+
+	Summary: 
+		Corporate Setting
+
+
+Review 16:
+	Job Title: Inventory Specialist
+	Location: None
+	Review Date: 2024-02-28T13:29:59.727
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good culture, good hours and pay and the benefits are awesome
+
+
+	Cons: 
+		I dont have any cons to this position
+
+
+	Summary: 
+		Great workplace
+
+
+Review 17:
+	Job Title: Director
+	Location: Dallas, TX
+	Review Date: 2024-03-01T20:10:13.357
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		lots of growth - fast moving company
+
+
+	Cons: 
+		lots of acquisitions and culture change
+
+
+	Summary: 
+		review
+
+
+Review 18:
+	Job Title: Delivery Driver
+	Location: West Jordan, UT
+	Review Date: 2024-02-04T08:58:50.857
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good people around but lots of drama and stress trying to get positive results for delivery drivers
+
+
+	Cons: 
+		Lots of bs on these job sites and no good communication
+
+
+	Summary: 
+		Not worth the stress
+
+
+Review 19:
+	Job Title: Assembly Line Worker
+	Location: Middlesex, NC
+	Review Date: 2024-02-20T18:01:01.817
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Just the benefits and some pto
+
+
+	Cons: 
+		Management is terrible, at least in the middlesex location it is.
+
+
+	Summary: 
+		Job experience there
+
+
+Review 20:
+	Job Title: Key Account Representative
+	Location: Vancouver, WA
+	Review Date: 2024-02-25T06:21:25.160
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good benefits
+		Decent salary
+		Solid leadership
+
+
+	Cons: 
+		I currently do not have any Cons
+
+
+	Summary: 
+		Great company to work for
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

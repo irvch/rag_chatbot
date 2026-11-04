@@ -1,0 +1,641 @@
+
+Fox is a Entertainment company based in 10036 New York, New York. 
+The company has 10,600 employees and has a revenue of $13,974 according to Fortune 500.
+The company is valued at $17,551 and has a profit of $1,205. The CEO of the company is Lachlan K. Murdoch.
+
+The Company has the following ratings: 
+Average ratings for Fox:
+Business Outlook: 0.57
+
+Career Opportunities: 3.4
+Distribution: 
+	1: 18 
+	2: 16 
+	3: 27 
+	4: 36 
+	5: 32 
+
+CEO: 0.72
+
+Compensation and Benefits: 3.7
+Distribution: 
+	1: 11 
+	2: 15 
+	3: 32 
+	4: 32 
+	5: 38 
+
+Culture and Values: 3.4
+Distribution: 
+	1: 26 
+	2: 12 
+	3: 25 
+	4: 23 
+	5: 41 
+
+Diversity and Inclusion: 3.6
+Distribution: 
+	1: 16 
+	2: 9 
+	3: 25 
+	4: 20 
+	5: 42 
+
+Overall: 3.6
+Distribution: 
+	1: 23 
+	2: 12 
+	3: 28 
+	4: 39 
+	5: 52 
+
+Senior Management: 3.3
+Distribution: 
+	1: 32 
+	2: 15 
+	3: 14 
+	4: 31 
+	5: 35 
+
+Work Life Balance: 3.3
+Distribution: 
+	1: 25 
+	2: 17 
+	3: 22 
+	4: 29 
+	5: 34 
+
+Review Count: 154
+
+Recommend to Friend: 
+	RECOMMEND: 69
+	WONT RECOMMEND: 46
+
+
+
+
+The company has 190 reviews on Glassdoor. The last review was posted on 2024-04-15T10:40:37.197. 
+There are 20 Reviews for Fox:
+
+Review 1:
+	Job Title: Finance Manager
+	Location: Los Angeles, CA
+	Review Date: 2024-02-21T13:27:52.250
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great Environment to work in
+
+
+	Cons: 
+		Pay could be a little better
+
+
+	Summary: 
+		Great place to work
+
+
+Review 2:
+	Job Title: Studio Technician
+	Location: Bethesda, MD
+	Review Date: 2024-02-25T07:01:34.017
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good for experience and having a big name on your resume. Some people move on and have amazing career trajectories.
+
+
+	Cons: 
+		Benefits are not the best, limited time off. Toxic environment. Many can't wait to quit. Pay is just high enough for many to stay because some other places don't pay as high though pay is still not the best for the cost of living especially if single and living alone. You better not get sick a lot because you only get a few sick days. Company tries hard to be diverse but lacks equity and good ethics. Some people leave and quit the business all together after being here. High turnover.
+
+
+	Summary: 
+		Good for Experience
+
+
+Review 3:
+	Job Title: Software Engineer
+	Location: Nashville, TN
+	Review Date: 2024-04-15T10:40:37.197
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Remote work is a great benefit
+
+
+	Cons: 
+		Pigeon Holed as far as knowledge and upward mobility
+
+
+	Summary: 
+		SDE I 
+
+
+Review 4:
+	Job Title: Anonymous
+	Location: New York, NY
+	Review Date: 2024-03-10T23:16:14.657
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		It’s a job but those are everywhere
+
+
+	Cons: 
+		Toxic work environment. You’d think it’s a small market newsroom the way it operates and how chaotic it is.
+		
+		Low employee morale and constant turnover in both Phoenix and Orlando. What truly is the problem?? 
+		
+		DJ role is five jobs simultaneously. Overworked. Left alone during breaking news to fend for themselves. Some coworkers are condescending and rude.
+		
+		Inconsistent, inconsiderate schedules 
+		
+		LiveNOW is where broadcast dreams end. Several talented people left the industry after working here. 
+		
+		Dishonest and inattentive EPs. Human Resources covers for them. 
+		
+		Unsupportive management 
+		
+		It might seem like an innovative concept, but think twice before working here. It’s awful.
+
+
+	Summary: 
+		LiveNOW from FOX 
+
+
+Review 5:
+	Job Title: Director
+	Location: None
+	Review Date: 2024-02-07T18:17:37.667
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		This has been a journey of empowerment and appreciation. I appreciate the trust placed in me to shape our team's strategy and execute without micromanagement. There is a recognition of my efforts from my team, the org I belong to, and the org I support. I genuinely feel like I work for a well funded start-up with the level of ambition, collaboration, and technical innovation.
+
+
+	Cons: 
+		We run lean teams. Small teams bring opportunity for high levels of visibility and impact, but also hard work and longer hours. Not asked to run a marathon daily, but we sprint frequently.
+
+
+	Summary: 
+		Small teams = high visibility, ownership, impact, and some longer hours
+
+
+Review 6:
+	Job Title: Manager
+	Location: New York, NY
+	Review Date: 2024-03-28T21:31:11.500
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Depending on the position, the pay may seem intriguing.
+
+
+	Cons: 
+		Extremely toxic work environment. Employees are very cliquey. Bullying and harassment complaints are the norm across the company. A lot of nepotism.
+
+
+	Summary: 
+		Toxic Work Environment. Outdated Business Model. Do not recommend.
+
+
+Review 7:
+	Job Title: None
+	Location: New York, NY
+	Review Date: 2024-03-28T11:18:24.227
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Respectful
+		Nice People
+		Kind
+		Smart Staff
+
+
+	Cons: 
+		Not easy to move up within the company
+
+
+	Summary: 
+		Good
+
+
+Review 8:
+	Job Title: Product Manager
+	Location: Los Angeles, CA
+	Review Date: 2023-09-29T10:06:13.797
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		- Remote - Brand - Visibility - Benefits - Impact
+
+
+	Cons: 
+		- When you meet people to work with based on job description and org chart, you find their skillset does not match the job description (either they give bogus information (transparent) or you find out later they gave you inaccurate information because they were unqualified to even think critically about what they were saying. - There are many cons @ Fox, but the above issues represent a company that is completely broken and unqualified to action on anything unless some kind of political posse is formed to tackle a problem like gangbusters from the 70s - great example (those of us @ Fox know this too well): they use data in 2023 as ammunition but it's in the form of some excel (or junior ML analysis performed by a manager of data science who is just googling for answers and speaking word salad) that is sent over slack that someone at a higher rank likes because it enables them the argument of having more budget.
+
+
+	Summary: 
+		Lowest of the low in terms of workplaces
+
+
+Review 9:
+	Job Title: Digital Marketing Specialist
+	Location: New York, NY
+	Review Date: 2024-02-18T07:30:11.653
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great benefits and company match for 401K
+
+
+	Cons: 
+		doesn't give all holidays off
+
+
+	Summary: 
+		Company Overview
+
+
+Review 10:
+	Job Title: IT Executive Support
+	Location: New York, NY
+	Review Date: 2024-01-22T13:21:09.077
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Total Great work life balance
+
+
+	Cons: 
+		None at all at this time
+
+
+	Summary: 
+		Great place to work
+
+
+Review 11:
+	Job Title: Engineer, Broadcast Technology
+	Location: New York, NY
+	Review Date: 2024-01-14T13:18:47.560
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		IT and Engineering Departments were great.
+
+
+	Cons: 
+		Organizational Restructuring deterred career growth throughout the years.
+
+
+	Summary: 
+		Great Company Great Teams
+
+
+Review 12:
+	Job Title: Coordinator
+	Location: None
+	Review Date: 2024-01-03T21:09:26.807
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Never a dull moment, supportive co-workers and great leadership
+
+
+	Cons: 
+		Nothing so far has bothered me about working here.
+
+
+	Summary: 
+		Great place to work
+
+
+Review 13:
+	Job Title: Director of Technology
+	Location: Los Angeles, CA
+	Review Date: 2023-10-28T22:13:38.660
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Marquee events like Super Bowl, World Cup, &amp; World Series are fun to work on.
+
+
+	Cons: 
+		Corporate politics at their worst, leadership chases it's tail with no vision just trying to maintain perceptions. The current strategy is about outsourcing tech work to India. What was once a strong company 21CF is a shell of what it use to be. Executives are completely checked out, usually looking for scape goats or to take credit for others work. A nice place to get some experience but no where to grow a career unless you plan to play the game of "Succession" with equally awful characters. HR exists to protect the bad behavior of the executives.
+
+
+	Summary: 
+		Soulless Organization who's best days are behind it
+
+
+Review 14:
+	Job Title: Manager
+	Location: New York, NY
+	Review Date: 2023-12-04T16:39:08.813
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great people, atmosphere, and opportunities
+
+
+	Cons: 
+		It can take a while to move up.
+
+
+	Summary: 
+		Fox Salary
+
+
+Review 15:
+	Job Title: Associate
+	Location: New York, NY
+	Review Date: 2023-11-22T11:24:16.357
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great network of people
+		Work/life balance
+		Compensation
+
+
+	Cons: 
+		Not really any cons I can think of
+
+
+	Summary: 
+		Great Environment
+
+
+Review 16:
+	Job Title: Benefits Manager
+	Location: None
+	Review Date: 2023-11-07T17:54:50.607
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Flexible work/life; opportunities for growth. Organization puts it's people first.
+
+
+	Cons: 
+		Limited offices or locations nationally.
+
+
+	Summary: 
+		Great employer
+
+
+Review 17:
+	Job Title: Product Manager
+	Location: New York, NY
+	Review Date: 2023-09-24T07:34:19.210
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Most people are friendly. Good benefits. It is somewhat flexible work with most teams being hybrid.
+
+
+	Cons: 
+		The women work 10 times harder than the men. Leadership is lazy. Tech salaries are below market.
+
+
+	Summary: 
+		Sexism is Rampant. Poor leadership. Low Tech Salaries
+
+
+Review 18:
+	Job Title: Data Engineer II
+	Location: San Francisco, CA
+	Review Date: 2023-10-28T10:28:39.470
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good work-life balance and culture
+
+
+	Cons: 
+		Nothing as such. Comp can be higher
+
+
+	Summary: 
+		Nice Place
+
+
+Review 19:
+	Job Title: Software Engineer
+	Location: New York, NY
+	Review Date: 2023-09-14T22:12:45.757
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The work environment is positive, colleagues are readily available to assist with challenges, and ample free time is provided to pursue personal projects.
+
+
+	Cons: 
+		At times, you may find yourself preoccupied due to challenging deadlines
+
+
+	Summary: 
+		Generally good with a good work environment
+
+
+Review 20:
+	Job Title: Digital Account Manager
+	Location: New York, NY
+	Review Date: 2023-09-28T14:55:53.827
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		- great people - great benefits - competitive pay - work - life balance -great time off
+
+
+	Cons: 
+		Not a lot of mobility for promotions
+
+
+	Summary: 
+		Digital Account Manager
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

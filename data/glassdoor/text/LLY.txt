@@ -1,0 +1,633 @@
+
+Eli Lilly is a Pharmaceuticals company based in 46285 Indianapolis, Indiana. 
+The company has 39,000 employees and has a revenue of $28,541 according to Fortune 500.
+The company is valued at $326,351 and has a profit of $6,245. The CEO of the company is David A. Ricks.
+
+The Company has the following ratings: 
+Average ratings for Eli Lilly:
+Business Outlook: 0.83
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 352 
+	2: 492 
+	3: 940 
+	4: 911 
+	5: 843 
+
+CEO: 0.9
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 121 
+	2: 274 
+	3: 812 
+	4: 1231 
+	5: 1085 
+
+Culture and Values: 4
+Distribution: 
+	1: 241 
+	2: 249 
+	3: 498 
+	4: 841 
+	5: 1437 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 85 
+	2: 95 
+	3: 199 
+	4: 438 
+	5: 884 
+
+Overall: 4.1
+Distribution: 
+	1: 215 
+	2: 305 
+	3: 777 
+	4: 1437 
+	5: 1517 
+
+Senior Management: 3.6
+Distribution: 
+	1: 426 
+	2: 409 
+	3: 783 
+	4: 962 
+	5: 765 
+
+Work Life Balance: 3.9
+Distribution: 
+	1: 212 
+	2: 284 
+	3: 655 
+	4: 1061 
+	5: 1309 
+
+Review Count: 4261
+
+Recommend to Friend: 
+	RECOMMEND: 2377
+	WONT RECOMMEND: 713
+
+
+
+
+The company has 5081 reviews on Glassdoor. The last review was posted on 2024-04-18T00:50:38.957. 
+There are 20 Reviews for Eli Lilly:
+
+Review 1:
+	Job Title: Sales
+	Location: Houston, TX
+	Review Date: 2024-04-17T19:21:53.043
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great benefits, time off, take care of employees
+
+
+	Cons: 
+		there is no cons to working there
+
+
+	Summary: 
+		Great
+
+
+Review 2:
+	Job Title: Director
+	Location: None
+	Review Date: 2024-04-17T17:04:44.207
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Flexible, caring co-workers, a lot of different kinds of positions and dedication to helping people develop careers.
+
+
+	Cons: 
+		Constantly wanting people to do more with less.
+
+
+	Summary: 
+		Good people
+
+
+Review 3:
+	Job Title: Production Operator III
+	Location: Indianapolis, IN
+	Review Date: 2024-03-16T17:47:08.507
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Recently they have started giving equity shares to employees, they have decent benefits and quite a few perks like Prime membership and a decent health program.
+
+
+	Cons: 
+		Operations is not a great place to be, the burdens on employees are intolerable at times and the production schedule and hours are overworking and hurting its employees, especially those who have stuck with the company for 10+ years. They don't hire competent supervisors with people skills, they have other metrics that hurt the morale of their company and they wonder why they can't get their in-house morale metrics up.
+
+
+	Summary: 
+		Eli Lilly Doesn't start out at adaquate pay but has recently made improvements. 
+
+
+Review 4:
+	Job Title: Clinical Trial Manager
+	Location: None
+	Review Date: 2024-04-18T00:50:38.957
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		No pros for this company. One of the worst companies I have worked at.
+
+
+	Cons: 
+		The pay is extremely low compared to industry standards. There is no room for growth. Management tried every possible way to put a stop to my promotion, growth opportunities and even short term assignments in other areas. Toxic culture. Company departments run by toxic people. 
+
+
+	Summary: 
+		Toxic culture, no room for growth, low pay, toxic management
+
+
+Review 5:
+	Job Title: Senior Territory Manager
+	Location: None
+	Review Date: 2024-04-12T18:52:00.880
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		The company is a leader in the pharma industry and has an amazing pipeline. Everyone supports each other and there are tons of opportunities to grow within the company
+
+
+	Cons: 
+		If you don’t like your manager you may not have as positive of an experience as others
+
+
+	Summary: 
+		Great company with a great pipeline
+
+
+Review 6:
+	Job Title: Scientist
+	Location: Indianapolis, IN
+	Review Date: 2024-04-15T16:59:58.743
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		everyone is very nice to work with.
+
+
+	Cons: 
+		Lilly is not very big on expanding head count right now even though it could be useful
+
+
+	Summary: 
+		good company
+
+
+Review 7:
+	Job Title: Learning and Development Manager
+	Location: Indianapolis, IN
+	Review Date: 2024-03-16T20:24:40.640
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great people 
+		Great benefits
+		Lots of lifers 
+		Unlimited career growth opportunities
+
+
+	Cons: 
+		Team culture varies , lots of drama and negativity can be harbored by folks that have vocalized they are just waiting to retire and currently dealing with management not educated in the field they manage. Lots of conflicting messaging by management and enforcing 3 day in-person weeks with mandatory hours impacting team culture negatively.
+
+
+	Summary: 
+		Great company, department cultures vary
+
+
+Review 8:
+	Job Title: Healthcare Administrator
+	Location: None
+	Review Date: 2024-04-16T06:41:04.827
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Valuable experience, great skills you get to master 
+
+
+	Cons: 
+		Management can be toxic, workload can be a lot at times 
+
+
+	Summary: 
+		Valuable experience 
+
+
+Review 9:
+	Job Title: Territory Manager
+	Location: Baton Rouge, LA
+	Review Date: 2024-04-12T19:18:22.617
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Set up appointments on own time and not much oversight by manager. Company phone card car
+
+
+	Cons: 
+		Pointless “trainings” and meetings that could be emails. Almost like a cult.
+
+
+	Summary: 
+		Ok job
+
+
+Review 10:
+	Job Title: Operator
+	Location: Indianapolis, IN
+	Review Date: 2024-04-02T12:59:12.077
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Pay
+		Time off
+		Bonus
+		Pension
+
+
+	Cons: 
+		Operators with years of in house experience can have earned a college degree and Lilly will still hire outside instead of promoting those who worked hard to better themselves.
+
+
+	Summary: 
+		Operations
+
+
+Review 11:
+	Job Title: Operator
+	Location: Indianapolis, IN
+	Review Date: 2024-04-02T12:59:12.077
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Pay
+		Time off
+		Bonus
+		Pension
+
+
+	Cons: 
+		Operators with years of in house experience can have earned a college degree and Lilly will still hire outside instead of promoting those who worked hard to better themselves.
+
+
+	Summary: 
+		Operations
+
+
+Review 12:
+	Job Title: Operations Associate
+	Location: Indianapolis, IN
+	Review Date: 2024-03-26T16:59:16.030
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Decent learning experience and depending on your goals, ability to climb the corporate ladder
+
+
+	Cons: 
+		Lots of red tape, hard to make impactful changes. Ops gets put in situations where they are set up for failure, and you are the one who needs to address it.
+
+
+	Summary: 
+		Just a stepping stone
+
+
+Review 13:
+	Job Title: Machine Operator
+	Location: Indianapolis, IN
+	Review Date: 2024-03-30T16:06:13.310
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Benefits, time off, breaks, and resources.
+
+
+	Cons: 
+		Bias is still an issue. The drive to create a more diverse workplace should not overlook character and morals pertaining to diversity candidates the company chooses to promote.
+
+
+	Summary: 
+		Lilly is trying to do the right thing, but should try harder!
+
+
+Review 14:
+	Job Title: Quality Assurance
+	Location: Indianapolis, IN
+	Review Date: 2024-04-12T13:09:29.237
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Diverse perspectives appreciated,
+		Respectful Environment,
+		Strategic
+
+
+	Cons: 
+		if you have a great manager then it's wonderful.
+
+
+	Summary: 
+		Great people
+
+
+Review 15:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-27T17:06:34.270
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Pay, benefits, time off are great
+
+
+	Cons: 
+		A handful of leaders are bullies, but it only takes a few bad apples to tank the culture. These leaders are well known for their behavior but are not held accountable. It is not safe to speak up, even though the company claims a speak up culture.
+
+
+	Summary: 
+		Not as inclusive as they claim, very toxic to those who don’t “fit in”
+
+
+Review 16:
+	Job Title: Senior Territory Sales Manager
+	Location: Austin, TX
+	Review Date: 2024-04-10T00:04:49.893
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The culture at Eli Lilly is unparalleled to other companies in the industry
+
+
+	Cons: 
+		Healthcare insurance could be better
+
+
+	Summary: 
+		Great Benefits
+
+
+Review 17:
+	Job Title: QA/QC Engineer
+	Location: None
+	Review Date: 2024-04-04T14:26:47.820
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Company is doing well and supports employees.
+
+
+	Cons: 
+		DEI programs are overwhelming and career topics are heavily focused on DEI objectives.
+
+
+	Summary: 
+		Great company and leadership
+
+
+Review 18:
+	Job Title: Director
+	Location: Indianapolis, IN
+	Review Date: 2024-04-03T06:56:14.950
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Culture, people, training, career, leadership,
+
+
+	Cons: 
+		Compensation not top of the range
+
+
+	Summary: 
+		Great company with great career opportunities 
+
+
+Review 19:
+	Job Title: Principal Scientist
+	Location: Indianapolis, IN
+	Review Date: 2024-04-02T07:24:12.600
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Fair-ish pay. Great benefits. Pension!!!
+
+
+	Cons: 
+		What is work life balance?
+
+
+	Summary: 
+		So Far So Far
+
+
+Review 20:
+	Job Title: Director
+	Location: Indianapolis, IN
+	Review Date: 2024-03-26T14:19:21.503
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great company to work for. Great culture.
+
+
+	Cons: 
+		Heavy management structure and can be slow on decisions
+
+
+	Summary: 
+		Great company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

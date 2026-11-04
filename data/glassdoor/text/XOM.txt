@@ -1,0 +1,622 @@
+
+Exxon Mobil is a Petroleum Refining company based in 75039 Irving, Texas. 
+The company has 62,000 employees and has a revenue of $413,680 according to Fortune 500.
+The company is valued at $446,424 and has a profit of $55,740. The CEO of the company is Darren W. Woods.
+
+The Company has the following ratings: 
+Average ratings for Exxon Mobil:
+Business Outlook: 0.61
+
+Career Opportunities: 3.5
+Distribution: 
+	1: 658 
+	2: 980 
+	3: 1894 
+	4: 2014 
+	5: 1698 
+
+CEO: 0.61
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 333 
+	2: 682 
+	3: 1745 
+	4: 2416 
+	5: 2052 
+
+Culture and Values: 3.4
+Distribution: 
+	1: 940 
+	2: 952 
+	3: 1542 
+	4: 1748 
+	5: 1761 
+
+Diversity and Inclusion: 3.8
+Distribution: 
+	1: 441 
+	2: 459 
+	3: 841 
+	4: 1108 
+	5: 1433 
+
+Overall: 3.6
+Distribution: 
+	1: 640 
+	2: 890 
+	3: 2272 
+	4: 3039 
+	5: 2069 
+
+Senior Management: 3
+Distribution: 
+	1: 1298 
+	2: 1203 
+	3: 1853 
+	4: 1620 
+	5: 983 
+
+Work Life Balance: 3.4
+Distribution: 
+	1: 768 
+	2: 962 
+	3: 1849 
+	4: 1929 
+	5: 1700 
+
+Review Count: 8924
+
+Recommend to Friend: 
+	RECOMMEND: 4136
+	WONT RECOMMEND: 2198
+
+
+
+
+The company has 10644 reviews on Glassdoor. The last review was posted on 2024-04-18T00:20:58.010. 
+There are 20 Reviews for Exxon Mobil:
+
+Review 1:
+	Job Title: Reservoir Engineer
+	Location: Houston, TX
+	Review Date: 2023-12-20T09:06:50.707
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Variety of the opportunities there
+
+
+	Cons: 
+		Difficulty working in a volatile commodity environment
+
+
+	Summary: 
+		Salary
+
+
+Review 2:
+	Job Title: Janitor
+	Location: Headquarters, KY
+	Review Date: 2023-12-04T17:14:15.373
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		I started working here after a hotshot from Exxon went up to the drive thru that I worked at when I was 16. He ordered a burger, no tomato cause only wusses don’t eat tomato’s, but what do I know?!?! Anyways, he gets a burger, he is on his hardwired cellular phone in his car, takes a big bite of his burger, and glances over at me, where my jaw is dropped as I wait for him to take the change from my hand that’s been extended for a minute, and he says “keep the change eh? You need it if you are gonna work for me someday!” Tomorrow, 8am sharp! Bring a mop!” So I got the job. I didn’t tell him I only worked the cashier and I didn’t make his burger. Oh well.
+
+
+	Cons: 
+		Every time I turn around somebody needs something! It can be annoying. Oh, there was this one time, they brought some barrels of oil in, and I happened to be mopping around them, and my buddy sends me a text, but while reaching for my phone, the mop drops and punctures a hole in the side of the barrel. My boss saw me pull the mop out, and called me an idiot. He made me plug the hole with my mop, but I thought my finger would make more sense. Well, I waited there all day until they got someone in to drain the barrel. I ended up missing my lunch.
+
+
+	Summary: 
+		There’s a hole in the bucket! 
+
+
+Review 3:
+	Job Title: Fixed Equipment Engineer
+	Location: None
+	Review Date: 2024-04-17T19:50:52.410
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Flexible schedule, excellent benefits and pay
+
+
+	Cons: 
+		Can be a heavy workload, ranking system isn’t ideal
+
+
+	Summary: 
+		Good place to work
+
+
+Review 4:
+	Job Title: Software Engineer
+	Location: Baton Rouge, LA
+	Review Date: 2024-04-14T14:03:11.680
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Nice poeple and good environment
+
+
+	Cons: 
+		Low pay and interesting leadeership
+
+
+	Summary: 
+		Good work
+
+
+Review 5:
+	Job Title: Systems Engineering Intern
+	Location: Baytown, TX
+	Review Date: 2024-04-10T18:07:39.363
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great team, hard-working and give you alot of independence to figure out problems.
+
+
+	Cons: 
+		Can be a bit overwhelming, huge area and alot of stuff to learn.
+
+
+	Summary: 
+		Good Internship
+
+
+Review 6:
+	Job Title: Cost Engineer
+	Location: Netcong, NJ
+	Review Date: 2024-04-13T09:50:58.137
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great benefits to work there
+
+
+	Cons: 
+		Nothing to be very honest
+
+
+	Summary: 
+		Great company to work for!
+
+
+Review 7:
+	Job Title: Operator
+	Location: Butler, PA
+	Review Date: 2024-04-13T03:21:51.537
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Pension benefits steady work week
+
+
+	Cons: 
+		You are just a number
+
+
+	Summary: 
+		Watch out for yourself
+
+
+Review 8:
+	Job Title: IT Project Manager
+	Location: Houston, TX
+	Review Date: 2024-04-13T16:29:47.770
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Global company. Good start, leave after 3 years.
+
+
+	Cons: 
+		Stagnant after initial experience. Too process oriented and minimal investment in employee on a long term basis. Too focused on cost control with human capital.
+
+
+	Summary: 
+		ExxonMobil project Manager Review
+
+
+Review 9:
+	Job Title: Sales Associate/Cashier
+	Location: Palm Beach Gardens, FL
+	Review Date: 2024-03-20T07:06:46.260
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Alone for the majority of the time.
+
+
+	Cons: 
+		Working solo shift being responsible for cash register stocking deliveries and clean up every day by yourself. And when the other shifts do nothing and you are working the morning shift you must restock the entire fridge running back and forth to help customers. And because management refused to hire others we were forced to take extra shifts working 70hr weeks
+
+
+	Summary: 
+		Managing an entire location on your own
+
+
+Review 10:
+	Job Title: Account Executive
+	Location: None
+	Review Date: 2024-04-08T17:30:48.920
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Liked it a lot good experience
+
+
+	Cons: 
+		None I really can't say anything bad
+
+
+	Summary: 
+		Good place to work
+
+
+Review 11:
+	Job Title: Project Engineer
+	Location: None
+	Review Date: 2024-04-04T17:14:33.067
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good pay, good workplace flexibility (not including working from home)
+
+
+	Cons: 
+		Culture has much to be desired. Smart people but lots of ego.
+
+
+	Summary: 
+		Culture improvement needed
+
+
+Review 12:
+	Job Title: Human Resources
+	Location: Beaumont, TX
+	Review Date: 2024-04-06T13:57:52.597
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Great pay and benefits. Fast pace learning
+
+
+	Cons: 
+		Work culture is non-existent. Arrogant Management
+
+
+	Summary: 
+		Great Experience, Bad Culture
+
+
+Review 13:
+	Job Title: Marketing Director
+	Location: None
+	Review Date: 2024-04-09T18:17:44.787
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Location and career expansion is limited
+
+
+	Cons: 
+		Long hours, if you are not sponsor limited upward mobility
+
+
+	Summary: 
+		Great company
+
+
+Review 14:
+	Job Title: Analyst
+	Location: Joliet, IL
+	Review Date: 2024-03-29T08:52:35.230
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Benefits, people, flexibility and career longevity
+
+
+	Cons: 
+		lack of transparency with career progression and the ranking system
+
+
+	Summary: 
+		Career not a Job
+
+
+Review 15:
+	Job Title: Contracts Manager
+	Location: Houston, TX
+	Review Date: 2024-03-28T17:47:16.683
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Competitive salaries, great benefits, 401K Matching
+
+
+	Cons: 
+		Yearly reviews are determined on a specific scale.
+
+
+	Summary: 
+		Great Employer
+
+
+Review 16:
+	Job Title: Project Manager
+	Location: Spring, TX
+	Review Date: 2024-03-12T16:43:33.023
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Workforce is highly competent and motivated to deliver
+
+
+	Cons: 
+		Lots of re-org and layoffs under CEO. He prefers downstream and is not inspiring.
+
+
+	Summary: 
+		Highly competent
+
+
+Review 17:
+	Job Title: Fuel Clerk
+	Location: Houston, TX
+	Review Date: 2024-03-28T16:35:16.430
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Nice benefits for the family
+
+
+	Cons: 
+		Nothing to complain about my job
+
+
+	Summary: 
+		Nice benefits 
+
+
+Review 18:
+	Job Title: Process Technician
+	Location: Baytown, TX
+	Review Date: 2024-03-10T15:51:12.710
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 5
+
+	Pros: 
+		You are trained best well. Management has your back if you make a mistake. They can handle anything but do not lie. If you lie you’re gone. Tell the truth, you’re building trust and together work the problem out.
+
+
+	Cons: 
+		No annual bonus given to employees
+
+
+	Summary: 
+		Great place to work.
+
+
+Review 19:
+	Job Title: Project Manager
+	Location: None
+	Review Date: 2024-03-26T12:28:35.980
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Growth, travel, learning, impact, great people
+
+
+	Cons: 
+		Ranking is difficult and discouraging
+
+
+	Summary: 
+		Great
+
+
+Review 20:
+	Job Title: Finance Manager
+	Location: Houston, TX
+	Review Date: 2024-03-05T10:24:37.040
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Strong pay and great people
+
+
+	Cons: 
+		Bad culture, loss of caring about its people, decreasing number of US-based Finance jobs over next 4-5 years so little opportunity and folks trying to just hold on until retirement
+
+
+	Summary: 
+		Run while you can
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

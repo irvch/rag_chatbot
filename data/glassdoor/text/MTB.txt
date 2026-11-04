@@ -1,0 +1,642 @@
+
+M&T Bank is a Commercial Banks company based in 14203 Buffalo, New York. 
+The company has 22,509 employees and has a revenue of $8,604 according to Fortune 500.
+The company is valued at $20,093 and has a profit of $1,992. The CEO of the company is Rene F. Jones.
+
+The Company has the following ratings: 
+Average ratings for M&T Bank:
+Business Outlook: 0.59
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 231 
+	2: 308 
+	3: 531 
+	4: 469 
+	5: 413 
+
+CEO: 0.76
+
+Compensation and Benefits: 3.4
+Distribution: 
+	1: 214 
+	2: 396 
+	3: 681 
+	4: 431 
+	5: 232 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 239 
+	2: 213 
+	3: 368 
+	4: 456 
+	5: 577 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 83 
+	2: 87 
+	3: 177 
+	4: 201 
+	5: 388 
+
+Overall: 3.6
+Distribution: 
+	1: 221 
+	2: 287 
+	3: 659 
+	4: 737 
+	5: 480 
+
+Senior Management: 3.2
+Distribution: 
+	1: 361 
+	2: 302 
+	3: 444 
+	4: 475 
+	5: 356 
+
+Work Life Balance: 3.7
+Distribution: 
+	1: 200 
+	2: 210 
+	3: 431 
+	4: 508 
+	5: 605 
+
+Review Count: 2391
+
+Recommend to Friend: 
+	RECOMMEND: 1024
+	WONT RECOMMEND: 669
+
+
+
+
+The company has 2578 reviews on Glassdoor. The last review was posted on 2024-04-17T18:55:11.853. 
+There are 20 Reviews for M&T Bank:
+
+Review 1:
+	Job Title: Relationship Manager
+	Location: Virginia Beach, VA
+	Review Date: 2024-04-12T06:19:30.970
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Pay is competitive with other banks
+
+
+	Cons: 
+		No bonus awards in your first year
+
+
+	Summary: 
+		Pay
+
+
+Review 2:
+	Job Title: Universal Banker
+	Location: Alexandria, VA
+	Review Date: 2024-03-31T21:29:37.450
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Training in lots of transferrable skills such as costumer service, cash handling, time management and communication skills.
+		They offer bilingual differential pay 
+		Paid training.
+
+
+	Cons: 
+		Bank is very conservative and they will not allow you to have overtime under any circumstance. This also affects your schedule if you work at a location that is open on Saturdays. You may have to work 6 days a week to reach just shy of 40 hours. 
+		Quarterly goals are not realistic for some locations and you miss out on quarterly incentive pay. 
+		Community service is an expectation from you.
+		Pay raises are not very good even with a promotion. People coming from outside the bank get paid better than internal employees who have long tenures.
+
+
+	Summary: 
+		Great for Resume
+
+
+Review 3:
+	Job Title: Universal Banker
+	Location: Annapolis, MD
+	Review Date: 2024-04-13T12:58:43.940
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		I like that M&amp;T provides 40 hours of paid volunteer time. I also like that we have a quarterly community engagement event. I feel like I can talk to my manager without fear of being reprimanded.
+
+
+	Cons: 
+		We’re expected to do cold calling and it’s monitored to make sure notes are being taken. The pay isn’t as competitive in comparison to other banks.
+
+
+	Summary: 
+		Universal Banker
+
+
+Review 4:
+	Job Title: Relationship Banker
+	Location: York, PA
+	Review Date: 2024-04-10T11:42:20.837
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		I have worked at several large banks, and M&amp;T is one of the best workplaces I have been in my career. The compensation is lower than the competition, but it is worth it to me. I also feel management is willing to go to bat for you in regard to moving up if you show growth, interest, and potential.
+
+
+	Cons: 
+		Lower pay, less remote opportunities
+
+
+	Summary: 
+		Trade a good workplace for lower pay
+
+
+Review 5:
+	Job Title: Mortgage Loan Processor
+	Location: Ballston Lake, NY
+	Review Date: 2024-04-04T14:28:23.070
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Great co-workers, friendly environment, hybrid remote
+
+
+	Cons: 
+		Corporate does not appreciate their employees, raises are almost non-existent, mandatory overtime during busy seasons, insufficient PTO
+
+
+	Summary: 
+		Great Co-Workers, Garbage Corporate
+
+
+Review 6:
+	Job Title: Treasury Management Sales Associate
+	Location: Cherry Hill, NJ
+	Review Date: 2024-04-17T18:55:11.853
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		flexibility, community involvement, compensation, PTO, HSA
+
+
+	Cons: 
+		senior management, processes, morale, health insurance, systems
+
+
+	Summary: 
+		Review
+
+
+Review 7:
+	Job Title: Workforce IAM Analyst
+	Location: None
+	Review Date: 2024-01-12T08:39:16.337
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		None that I can think of.
+
+
+	Cons: 
+		Never in my nearly 20 years of working, have I encountered a more toxic work environment. From the day I started, I felt as if I was not wanted. My manager made no effort to get to know me, or even train me. Instead she kept passing me off to other people, claiming that she never had the time, but she had plenty of time walking around the building with her headphones on listening to music. The WIAM group is indoctrinated by former HSBC employees pushing their toxic work culture onto everyone else in the team. There is no job security, people are being let go almost every other week. If you care about your mental health, avoid this toxic Workforce IAM team. Managers sit across and take turns walking by, watching your every move. You’ll have less freedom than school or any other job you’ve had prior. Managers are constantly belittling their team, and people are crying at their desks after their meetings with their managers on this Workforce IAM team. My manager ignored me, acted like I didn’t exist and I was a constant bother to her, but sent me long lists of things she was unhappy with, without ever telling me what she wanted in the first place. Avoid this toxic Workforce IAM team within End User Computing (EUC), your mental health will thank you.
+
+
+	Summary: 
+		WIAM Group is a disaster
+
+
+Review 8:
+	Job Title: Technical Engineer
+	Location: Buffalo, NY
+	Review Date: 2024-02-01T12:24:34.680
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		The tech employees that I've worked with at M&amp;T Bank are almost unilaterally great, and I like the flexibility individuals have in moving around internally and learning new things. I've never really been asked to do too much, and my work has been appreciated continually. In addition, management has always been understanding and flexible in terms of work/life balance.
+
+
+	Cons: 
+		The company rarely promotes from within, and has archaic HR policies that they use as an excuse to prevent pay raises and promotions. While they have taken strides to become more in line with industry standards, they are still lagging in base pay. In addition, most tech teams are required to report into office at least three days a week, into the city, and parking is not provided.
+
+
+	Summary: 
+		Great Employees; Inept HR
+
+
+Review 9:
+	Job Title: Senior Relationship Banker
+	Location: Philadelphia, PA
+	Review Date: 2024-03-31T15:51:42.287
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Decent base pay and pto...
+
+
+	Cons: 
+		Everything else. There at least 10 years behind the most advanced credit union and 20 behind any of the big 3 banks for technology and process.
+
+
+	Summary: 
+		Terrible
+
+
+Review 10:
+	Job Title: Digital Banking
+	Location: Bridgeport, CT
+	Review Date: 2024-04-14T19:32:47.843
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Decent pay poor management needs help
+
+
+	Cons: 
+		Poor management and poor teaching they want you out and make a paper trail on you
+
+
+	Summary: 
+		Poor
+
+
+Review 11:
+	Job Title: Vice President
+	Location: Buffalo, NY
+	Review Date: 2024-03-12T12:54:05.400
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Work life balance, "culture", coworkers
+
+
+	Cons: 
+		Pay, leadership priorities (especially decisions regarding employee pay and bonuses), attitude of leadership
+
+
+	Summary: 
+		Decent, but not great place to work
+
+
+Review 12:
+	Job Title: Universal Banker
+	Location: Milford, CT
+	Review Date: 2024-04-07T10:29:33.833
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Learning opportunities, career advancement, career growth
+
+
+	Cons: 
+		- politics between co workers 
+		-some people do not take customers religiously and management do nothing about it
+
+
+	Summary: 
+		Satisfied to work here
+
+
+Review 13:
+	Job Title: Universal Banker
+	Location: Baltimore, MD
+	Review Date: 2024-04-15T13:02:03.500
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good company all together. Good benefits
+
+
+	Cons: 
+		Slow with technology. Everything by hand
+
+
+	Summary: 
+		Universal
+
+
+Review 14:
+	Job Title: Online Banker
+	Location: None
+	Review Date: 2024-01-29T10:24:28.107
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		M&amp;t has good benefits, you are able to swap shifts , and utilize 
+		your pto balance sometimes throughout the day such as early release , or unplanned .
+
+
+	Cons: 
+		They hire you for one position , and then add other things such as taking calls from other departments , which adds confusion , and can be too much when it is high volume . Each department doesn’t only
+		take their calls. Online takes everyone’s calls, oppose
+		to other departments. They don’t really have to take too much of online calls. In addition, if you use all of your PTO you still have a sick balance that you cannot
+		Use without pto which doesn’t make sense.
+
+
+	Summary: 
+		Good Company But Needs To Listen More To Employees Needs
+
+
+Review 15:
+	Job Title: Bank Teller
+	Location: Concord, NH
+	Review Date: 2024-04-11T14:38:24.790
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Benefits are well if utilized.
+
+
+	Cons: 
+		You don't receive fair compensation for how traditionally strict they are and the flexibility for PTO is fairly low as they give more to their senior employees. No growth is seen unless the manager sees you as an asset in their own eyes.
+
+
+	Summary: 
+		Ok
+
+
+Review 16:
+	Job Title: Universal Banker
+	Location: Frederick, MD
+	Review Date: 2024-01-17T17:07:05.790
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		- Good benefits
+		- They can train you even if you don't have experience working at a bank &amp; even after train they provide more opportunities for you to develop your skills &amp; talents
+		- You are able open bank accounts with them &amp; gain access to information to better help you learn about money &amp; more.
+		- You are able to move around in the company &amp; they show care about their bankers by having appreciation days &amp; more
+
+
+	Cons: 
+		- Can feel like you don't always know what you're doing after training
+		- customers don't play about their money &amp; can somteimes lack empathy towards you due to their financial/bank problems
+		- if you aren't a self starter &amp; you don't like cold calling customers then this role isn't for you 
+		- you have appointment targets that you need to meet weekly which can be stressful
+		- your job is pretty two in 1 which can feel stressful to juggle.
+
+
+	Summary: 
+		a Company that cares about developing talent
+
+
+Review 17:
+	Job Title: Infrastructure Analyst
+	Location: Buffalo, NY
+	Review Date: 2024-04-11T07:56:16.413
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		They care about their employees
+
+
+	Cons: 
+		Didn't feel as part of the team
+
+
+	Summary: 
+		M&amp;T
+
+
+Review 18:
+	Job Title: None
+	Location: None
+	Review Date: 2024-04-08T13:27:42.917
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		good work life balance and decent pay for area
+
+
+	Cons: 
+		there is micro managing on some teams
+
+
+	Summary: 
+		good workplace
+
+
+Review 19:
+	Job Title: Bilingual Relationship Banker
+	Location: Hartford, CT
+	Review Date: 2024-04-09T03:45:55.220
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Tuition Reimbursement
+		5% 401k match
+		Good insurance options
+
+
+	Cons: 
+		Outdated software
+		Not ideal referal process
+
+
+	Summary: 
+		Good benefits
+
+
+Review 20:
+	Job Title: Personal Banker II
+	Location: Buffalo, NY
+	Review Date: 2024-04-03T08:22:51.013
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Absolutely amazing staff, supervisors, trainer's, fairly easy job once you get the hang of it.
+
+
+	Cons: 
+		I can't find one single con.
+
+
+	Summary: 
+		Absolutely amazing!!! 
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

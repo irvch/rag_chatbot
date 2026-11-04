@@ -1,0 +1,627 @@
+
+Eversource Energy is a Utilities: Gas and Electric company based in 01104 Springfield, Massachusetts. 
+The company has 9,626 employees and has a revenue of $12,289 according to Fortune 500.
+The company is valued at $27,287 and has a profit of $1,405. The CEO of the company is Joseph R. Nolan.
+
+The Company has the following ratings: 
+Average ratings for Eversource Energy:
+Business Outlook: 0.69
+
+Career Opportunities: 3.5
+Distribution: 
+	1: 71 
+	2: 50 
+	3: 107 
+	4: 149 
+	5: 191 
+
+CEO: 0.67
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 14 
+	2: 38 
+	3: 93 
+	4: 202 
+	5: 226 
+
+Culture and Values: 3.3
+Distribution: 
+	1: 89 
+	2: 64 
+	3: 103 
+	4: 128 
+	5: 180 
+
+Diversity and Inclusion: 3.5
+Distribution: 
+	1: 26 
+	2: 40 
+	3: 53 
+	4: 72 
+	5: 128 
+
+Overall: 3.6
+Distribution: 
+	1: 64 
+	2: 75 
+	3: 124 
+	4: 179 
+	5: 246 
+
+Senior Management: 3
+Distribution: 
+	1: 126 
+	2: 63 
+	3: 116 
+	4: 108 
+	5: 149 
+
+Work Life Balance: 3.1
+Distribution: 
+	1: 85 
+	2: 73 
+	3: 117 
+	4: 125 
+	5: 167 
+
+Review Count: 690
+
+Recommend to Friend: 
+	RECOMMEND: 376
+	WONT RECOMMEND: 156
+
+
+
+
+The company has 805 reviews on Glassdoor. The last review was posted on 2024-04-16T04:38:23.190. 
+There are 20 Reviews for Eversource Energy:
+
+Review 1:
+	Job Title: Associate Analyst
+	Location: Berlin, CT
+	Review Date: 2024-02-24T18:31:22.950
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Pay is great
+		Plenty of PTO/easy to use
+
+
+	Cons: 
+		None applicable at this time
+
+
+	Summary: 
+		Wonderful way to start
+
+
+Review 2:
+	Job Title: Field Engineer
+	Location: Waltham, MA
+	Review Date: 2024-04-03T16:05:18.990
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Pay. Union Benefits. Job Security.
+
+
+	Cons: 
+		Bureaucracy. Newer management doesn’t understand work.
+
+
+	Summary: 
+		Good
+
+
+Review 3:
+	Job Title: IT Manager
+	Location: Berlin, CT
+	Review Date: 2024-04-03T10:42:36.947
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Company is stable and staff is capable and seasoned.
+
+
+	Cons: 
+		There are too many projects and not enough staff to complete any of them. Upper management has been told many times by many people but continue to ignore the cries of burnout. We are pushed to the edge and at a breaking point.
+
+
+	Summary: 
+		Too much work not enough resources
+
+
+Review 4:
+	Job Title: Manager
+	Location: Berlin, CT
+	Review Date: 2024-04-16T04:38:23.190
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Opportunities for advancement available in company.
+
+
+	Cons: 
+		Not any that I can report.
+
+
+	Summary: 
+		Great company
+
+
+Review 5:
+	Job Title: Traffic Flagger
+	Location: Middletown, CT
+	Review Date: 2024-04-10T08:08:21.877
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		It’s good if you like to be outside.
+
+
+	Cons: 
+		It’s bad you can get laid off.
+
+
+	Summary: 
+		Eversource energy
+
+
+Review 6:
+	Job Title: Senior Analyst
+	Location: Westwood, MA
+	Review Date: 2024-04-10T13:27:09.777
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Good pay, good work life balance
+
+
+	Cons: 
+		a little monotonous. little career advancement
+
+
+	Summary: 
+		Solid place to work
+
+
+Review 7:
+	Job Title: Customer Service Training Coordinator
+	Location: Windsor, CT
+	Review Date: 2024-03-24T15:38:14.100
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great collaboration and support. They strive to improve the culture every day with new programs, supports, and volunteerism.
+
+
+	Cons: 
+		It's a lot to learn in a short amount of time. People are pulled regularly for new projects without a guarantee that their position is back-filled
+
+
+	Summary: 
+		A good place with good people
+
+
+Review 8:
+	Job Title: Gas Engineer
+	Location: Berlin, CT
+	Review Date: 2024-04-03T16:35:30.540
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		-Flexible schedule, hybrid, good pay, stable profession.
+
+
+	Cons: 
+		-Juggling multiple projects. Dealing with multiple parties.
+
+
+	Summary: 
+		Gas Engineer
+
+
+Review 9:
+	Job Title: EEC
+	Location: Berlin, CT
+	Review Date: 2024-03-24T11:54:53.800
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Less stressful, growth opportunities, hybrid
+
+
+	Cons: 
+		Micro management, OK salary, storm duty, less SMEs
+
+
+	Summary: 
+		Job overview
+
+
+Review 10:
+	Job Title: Manager - Engineering
+	Location: None
+	Review Date: 2024-03-27T13:44:12.130
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		good employees and good detailed company process
+
+
+	Cons: 
+		can be hard to get a direct action desision
+
+
+	Summary: 
+		good company
+
+
+Review 11:
+	Job Title: Supervisor
+	Location: Dorchester, MA
+	Review Date: 2024-03-17T07:53:30.813
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Compensation is good. Opportunities for growth.
+
+
+	Cons: 
+		Career advancement appears to be political. Much complacency at manager level.
+
+
+	Summary: 
+		Fast paced job
+
+
+Review 12:
+	Job Title: IT Product Owner
+	Location: Westwood, MA
+	Review Date: 2024-01-22T19:10:21.677
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great Company Environment, Helpful and friendly staff where you won't find a cut throat environment but rather a place where everyone works as a team to build each other and the company together. Company focus is to hire and keep people who will want to make it their permanent job till they retire.
+
+
+	Cons: 
+		Promotion opportunities are limited since it's a company that has and wants to encourage low turnover,
+
+
+	Summary: 
+		Great Company Environment
+
+
+Review 13:
+	Job Title: Lead Engineer
+	Location: Southborough, MA
+	Review Date: 2023-12-22T18:52:57.790
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		People, Team Accountability, Goal Oriented
+
+
+	Cons: 
+		Work/Life Balance, Hybrid Working, Lack of Training
+
+
+	Summary: 
+		Great people, accountability, continuous improvement
+
+
+Review 14:
+	Job Title: Consultant
+	Location: None
+	Review Date: 2024-03-05T15:44:02.867
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Decent pay
+		Flexible work from home
+
+
+	Cons: 
+		Poor management
+		No onboarding
+		Lack of accountability
+
+
+	Summary: 
+		Keep searching elsewhere
+
+
+Review 15:
+	Job Title: Associate Engineer
+	Location: Berlin, CT
+	Review Date: 2024-03-11T09:45:38.113
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Supportive management, good opportunity for growth
+
+
+	Cons: 
+		No full time work from home opportunity
+
+
+	Summary: 
+		Great place
+
+
+Review 16:
+	Job Title: Program Manager
+	Location: Berlin, CT
+	Review Date: 2024-02-28T07:53:34.707
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Benefits, pay, culture, work life balance
+
+
+	Cons: 
+		Storm duty, executive communications, and parking
+
+
+	Summary: 
+		Great place
+
+
+Review 17:
+	Job Title: DER Planning Engineer
+	Location: Berlin, CT
+	Review Date: 2024-02-27T16:19:22.913
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good benefits and competitive pay
+
+
+	Cons: 
+		Hard work will go unseen
+
+
+	Summary: 
+		Solid company
+
+
+Review 18:
+	Job Title: Associate Analyst
+	Location: Berlin, CT
+	Review Date: 2024-02-24T18:31:22.950
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Pay is great
+		Plenty of PTO/easy to use
+
+
+	Cons: 
+		None applicable at this time
+
+
+	Summary: 
+		Wonderful way to start
+
+
+Review 19:
+	Job Title: Associate Engineer
+	Location: Westwood, MA
+	Review Date: 2024-02-26T15:42:05.353
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Pretty good benefits and pay
+
+
+	Cons: 
+		Occasionally will have storm duty
+
+
+	Summary: 
+		Good place to work
+
+
+Review 20:
+	Job Title: IT Manager
+	Location: Berlin, CT
+	Review Date: 2024-02-22T13:19:45.640
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Collaborative environment, friendly and helpful staff
+
+
+	Cons: 
+		Taking advantage of new opportunities can be difficult for existing employees
+
+
+	Summary: 
+		IT Leadership
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

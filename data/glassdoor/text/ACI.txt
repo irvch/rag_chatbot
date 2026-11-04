@@ -1,0 +1,636 @@
+
+Albertsons is a Food and Drug Stores company based in 83706 Boise, Idaho. 
+The company has 195,750 employees and has a revenue of $71,887 according to Fortune 500.
+The company is valued at $11,132 and has a profit of $1,620. The CEO of the company is Vivek Sankaran.
+
+The Company has the following ratings: 
+Average ratings for Albertsons:
+Business Outlook: 0.44
+
+Career Opportunities: 3.2
+Distribution: 
+	1: 487 
+	2: 497 
+	3: 810 
+	4: 535 
+	5: 534 
+
+CEO: 0.63
+
+Compensation and Benefits: 3.3
+Distribution: 
+	1: 390 
+	2: 527 
+	3: 818 
+	4: 644 
+	5: 469 
+
+Culture and Values: 3.2
+Distribution: 
+	1: 506 
+	2: 439 
+	3: 662 
+	4: 541 
+	5: 541 
+
+Diversity and Inclusion: 3.6
+Distribution: 
+	1: 180 
+	2: 131 
+	3: 287 
+	4: 317 
+	5: 494 
+
+Overall: 3.4
+Distribution: 
+	1: 402 
+	2: 513 
+	3: 1042 
+	4: 983 
+	5: 722 
+
+Senior Management: 3
+Distribution: 
+	1: 686 
+	2: 467 
+	3: 646 
+	4: 553 
+	5: 459 
+
+Work Life Balance: 3.1
+Distribution: 
+	1: 530 
+	2: 443 
+	3: 763 
+	4: 555 
+	5: 556 
+
+Review Count: 3672
+
+Recommend to Friend: 
+	RECOMMEND: 1317
+	WONT RECOMMEND: 1192
+
+
+
+
+The company has 3801 reviews on Glassdoor. The last review was posted on 2024-04-17T22:44:54.083. 
+There are 20 Reviews for Albertsons:
+
+Review 1:
+	Job Title: Front End Manager
+	Location: None
+	Review Date: 2024-04-11T06:38:06.337
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Love working with this Company
+
+
+	Cons: 
+		Young Employee's that do not want to work
+
+
+	Summary: 
+		Great Company
+
+
+Review 2:
+	Job Title: System Support Technician
+	Location: None
+	Review Date: 2024-03-07T20:46:01.907
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Laid back working environment, generally hands-off management, Flexible schedule (but you must work on-site). Decent benefits. Good for students.
+		
+		This job is a rut disguised as a hammock. You think you're relaxing in a hammock. You won't be micro-managed and are given plenty of autonomy. Lots of down time in-between work tasks. But your life is wasting away as your skills atrophy. Years pass as you're stuck in a rut.
+
+
+	Cons: 
+		Low pay. Management finally adds a cost of living adjustment commensurate with similar positions in the local job market, and acts like it's an undeserved, incredibly generous raise.
+		
+		Zero investment from the company in your career. No career path. Very little training or documentation for the systems you'll be responsible for maintaining. Scope of work keeps expanding, but the pay does not.
+		
+		Chaotic organizational structure and communications norms which causes unnecessary drama and extra work. Constant ad-hoc tasks from those in other departments who can't do their jobs correctly and are paid better than you.
+
+
+	Summary: 
+		Dead End
+
+
+Review 3:
+	Job Title: Cashier
+	Location: Boise, ID
+	Review Date: 2024-04-05T17:51:47.457
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Creating friendships at work, working with the public
+
+
+	Cons: 
+		Females mgrs are mean, disrespectful
+
+
+	Summary: 
+		Female mgrs
+
+
+Review 4:
+	Job Title: All Purpose Clerk
+	Location: Las Vegas, NV
+	Review Date: 2024-04-10T17:13:48.730
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Full benefits, union job, 2 breaks 1 lunch, employee discount, employee appreciation days, sometimes company will give out free items for holidays
+
+
+	Cons: 
+		Unstable working hours, management doesn't really respect schedule restrictions, understaffed and often left alone to run a dept by yourself at night. Customers can be a hassle as can management.
+
+
+	Summary: 
+		All Purpose Clerk
+
+
+Review 5:
+	Job Title: Grocery Checker
+	Location: Ashland, OR
+	Review Date: 2024-04-17T22:44:54.083
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Friendly coworkers
+		Flexible hours
+		Good location
+
+
+	Cons: 
+		Some long hours for the pay
+
+
+	Summary: 
+		Good place to work
+
+
+Review 6:
+	Job Title: Cashier
+	Location: Port Orchard, WA
+	Review Date: 2024-04-15T15:52:12.807
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Like to promote from within, accommodating schedules
+
+
+	Cons: 
+		Customer-service intensive, policies don't always back up the employee
+
+
+	Summary: 
+		Good Company for Entry-Level
+
+
+Review 7:
+	Job Title: Night Stocker
+	Location: Bakersfield, CA
+	Review Date: 2024-04-17T01:27:43.427
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Easy job but it is repetitive
+
+
+	Cons: 
+		The hours and sometimes management
+
+
+	Summary: 
+		Night Crew
+
+
+Review 8:
+	Job Title: Pharmacist
+	Location: Mill Valley, CA
+	Review Date: 2024-04-01T13:52:23.707
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		There are very few good reasons to work in retail, period.
+
+
+	Cons: 
+		The retail workers are not appreciated or treated fairly. No annual raises. The process for requesting PTO is humiliating and dehumanizing. Management makes no efforts to make the work environment safer and more ergonomic for retail workers. Workers get various physical injuries, not to mention the psychological toll of dealing with customers.
+		
+		The person responsible for scheduling pharmacy staff (her name starts with W) is utterly incompetent and should be fired immediately.
+
+
+	Summary: 
+		Company managed by boomers
+
+
+Review 9:
+	Job Title: Dairy Stocker
+	Location: Phoenix, AZ
+	Review Date: 2024-04-11T18:01:12.430
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Consistent schedule and better pay than the front.
+
+
+	Cons: 
+		Early start times and lots of heavy lifting for long periods + cold temps can be a deterrent but are easy to cope with.
+
+
+	Summary: 
+		n
+
+
+Review 10:
+	Job Title: Courtesy Clerk
+	Location: None
+	Review Date: 2024-04-12T18:46:06.927
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Clean environment, nice people and customers
+
+
+	Cons: 
+		Difficult to get hours you would like
+
+
+	Summary: 
+		Good first job
+
+
+Review 11:
+	Job Title: Starbucks-Barista
+	Location: Portland, OR
+	Review Date: 2024-04-09T16:37:53.463
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Coworkers were really great. All departments were very nice
+
+
+	Cons: 
+		Everything else. Theft issues. Verbally harrassed by customers. Physical altercations between employees and customers (who were stealing).
+
+
+	Summary: 
+		Starbucks
+
+
+Review 12:
+	Job Title: Cashier
+	Location: Tucson, AZ
+	Review Date: 2024-03-24T14:01:42.523
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Out of a lot of entry level jobs this place is pretty great to work for, they will work you like a dog if you agree to it but wont demean or get mad at you for not wanting to work more
+
+
+	Cons: 
+		they do call you in a lot because i think they get scheduling confused alot which can be seen as a downside i will agree
+
+
+	Summary: 
+		Pretty good company to work for
+
+
+Review 13:
+	Job Title: Cashier
+	Location: Provo, UT
+	Review Date: 2024-04-10T20:31:40.847
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great people to work for
+
+
+	Cons: 
+		Sometimes it gets boring to do the same thing
+
+
+	Summary: 
+		Great starting job
+
+
+Review 14:
+	Job Title: Asst. Grocery Manager 
+	Location: Boise, ID
+	Review Date: 2024-04-08T15:35:36.277
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Flexible hours, overtime opportunities, good coworkers
+
+
+	Cons: 
+		Albertsons has begun to cut hours to save labor even when it means tasks are not completed
+
+
+	Summary: 
+		Albertsons 4th key
+
+
+Review 15:
+	Job Title: Product Manager
+	Location: Pleasanton, CA
+	Review Date: 2024-03-22T06:40:28.307
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		I work with a lot of very talented people at Albertsons. It is fun to collaborate on work that helps people shop for their groceries. Albertsons has a good vision for their customer experience.
+
+
+	Cons: 
+		The culture at Albertsons is deteriorating. Leadership is not listening to the feedback the associates are providing. Bias and corporate politics is driving daily decision making.
+
+
+	Summary: 
+		Culture is rotting
+
+
+Review 16:
+	Job Title: Sales Associate/Cashier
+	Location: Las Vegas, NV
+	Review Date: 2024-04-17T17:47:42.900
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good workers, that’s really it
+
+
+	Cons: 
+		Poor management, bad pay, bad hours
+
+
+	Summary: 
+		Good
+
+
+Review 17:
+	Job Title: Sales Associate/Cashier
+	Location: Sheridan, WY
+	Review Date: 2024-04-07T15:16:26.757
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Easy to make friends and the people are good to work with.
+
+
+	Cons: 
+		Some times they will need you alot of hours.
+
+
+	Summary: 
+		Great Atmosphere
+
+
+Review 18:
+	Job Title: Overnight Stocker
+	Location: Clearwater, FL
+	Review Date: 2024-04-03T06:55:46.243
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		they give you benefits 
+		cool management 
+		really accessible
+
+
+	Cons: 
+		its a big store with many things so its pretty easy to get lost.
+
+
+	Summary: 
+		best job
+
+
+Review 19:
+	Job Title: Courtesy Clerk
+	Location: None
+	Review Date: 2024-04-08T16:32:12.057
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Coworkers, discount groceries, Easy work
+
+
+	Cons: 
+		Unattentive management, Impossible to get a raise
+
+
+	Summary: 
+		Okay for a Temporary job
+
+
+Review 20:
+	Job Title: Produce Specialist
+	Location: Mansfield, MA
+	Review Date: 2024-04-07T18:14:00.397
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Flexible hours
+		Good pay
+		Union benefits
+
+
+	Cons: 
+		Too much corporate rules and regulations
+
+
+	Summary: 
+		Good job for young kids
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

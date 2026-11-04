@@ -1,0 +1,635 @@
+
+Brighthouse Financial is a Insurance: Life, Health (Stock) company based in 28277 Charlotte, North Carolina. 
+The company has 1,500 employees and has a revenue of $8,473 according to Fortune 500.
+The company is valued at $2,986 and has a profit of $5. The CEO of the company is None.
+
+The Company has the following ratings: 
+Average ratings for Brighthouse Financial:
+Business Outlook: 0.65
+
+Career Opportunities: 3.3
+Distribution: 
+	1: 16 
+	2: 24 
+	3: 33 
+	4: 32 
+	5: 41 
+
+CEO: 0.79
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 6 
+	2: 13 
+	3: 30 
+	4: 51 
+	5: 47 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 16 
+	2: 10 
+	3: 17 
+	4: 31 
+	5: 70 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 7 
+	2: 7 
+	3: 7 
+	4: 20 
+	5: 57 
+
+Overall: 3.7
+Distribution: 
+	1: 16 
+	2: 9 
+	3: 34 
+	4: 37 
+	5: 83 
+
+Senior Management: 3.5
+Distribution: 
+	1: 17 
+	2: 13 
+	3: 20 
+	4: 39 
+	5: 55 
+
+Work Life Balance: 4.2
+Distribution: 
+	1: 6 
+	2: 7 
+	3: 20 
+	4: 42 
+	5: 72 
+
+Review Count: 181
+
+Recommend to Friend: 
+	RECOMMEND: 105
+	WONT RECOMMEND: 38
+
+
+
+
+The company has 209 reviews on Glassdoor. The last review was posted on 2024-04-10T16:10:59.107. 
+There are 20 Reviews for Brighthouse Financial:
+
+Review 1:
+	Job Title: Escalation Analyst
+	Location: Charlotte, NC
+	Review Date: 2023-07-27T12:41:30.040
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		This company is the most employee focused company I've ever worked for. From your supervisor all the way up to thw CEO.
+
+
+	Cons: 
+		Zero, none, nada, zilch, absolutely nothing to complain about.
+
+
+	Summary: 
+		Amazingly generous company
+
+
+Review 2:
+	Job Title: AVP- Business Development
+	Location: Charlotte, NC
+	Review Date: 2024-04-10T16:10:59.107
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The culture, the people, the vision
+
+
+	Cons: 
+		Pretty level organization so there is not always a direct career path.
+
+
+	Summary: 
+		Wonderful place to work
+
+
+Review 3:
+	Job Title: Manager of Product Marketing Content
+	Location: None
+	Review Date: 2024-04-09T08:30:19.710
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		It's a great place to work with corporate culture as a priority. Outstanding senior leadership trickles down and results in an environment where everyone's opinion matters and very few a-holes lurk.
+
+
+	Cons: 
+		Can't think of any at the moment.
+
+
+	Summary: 
+		Excellent Workplace
+
+
+Review 4:
+	Job Title: Analyst
+	Location: Charlotte, NC
+	Review Date: 2024-04-06T21:54:07.163
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Culture is good, decent pay
+
+
+	Cons: 
+		Hard to level up since smaller company
+
+
+	Summary: 
+		Ok
+
+
+Review 5:
+	Job Title: Director
+	Location: Charlotte, NC
+	Review Date: 2024-03-27T05:41:29.397
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great general culture and work at home options
+
+
+	Cons: 
+		Difficult to get promoted past a certain level
+
+
+	Summary: 
+		Great culture up to a certain level
+
+
+Review 6:
+	Job Title: Director, Actuary
+	Location: Morristown, NJ
+	Review Date: 2024-04-02T20:24:30.057
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		full time WFH
+		laid back work culture
+
+
+	Cons: 
+		Almost no growth space for mid-career
+		Below average market pay
+		Dead sea effect company
+		All C-level executives have left except CEO, it says a lot
+
+
+	Summary: 
+		Company with no future
+
+
+Review 7:
+	Job Title: Business Management
+	Location: Charlotte, NC
+	Review Date: 2024-01-27T05:46:37.210
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Met some great people at the organization. Remote.
+
+
+	Cons: 
+		Very 'woke' organization. They believe if they tell you enough times about how great the culture is, you'll begin to believe it.
+		Not consistent with their policies across departments. Leader shares political views and claims to not be judgmental when your views are not same or similar...yet, claims to be inclusive. Keep politics out of the work place.
+		Some senior leaders are hanging on until they will be asked to leave. ($$) Can't blame them.
+
+
+	Summary: 
+		Looking elsewhere
+
+
+Review 8:
+	Job Title: Actuarial Associate
+	Location: Morristown, NJ
+	Review Date: 2024-03-04T19:18:41.233
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 5
+
+	Pros: 
+		Great people! Great Company to work for
+
+
+	Cons: 
+		none that I know of
+
+
+	Summary: 
+		Great WLB
+
+
+Review 9:
+	Job Title: Internal Sales Associate
+	Location: Charlotte, NC
+	Review Date: 2024-02-26T05:16:54.937
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		-remote work
+		-growth opportunities
+		-good company culture
+
+
+	Cons: 
+		-low pay
+		-occasional lack of communication
+
+
+	Summary: 
+		great company
+
+
+Review 10:
+	Job Title: None
+	Location: Charlotte, NC
+	Review Date: 2023-10-30T10:40:15.810
+	Business Outlook: NEUTRAL
+	Career Opportunities: 0
+	CEO: NO_OPINION
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		- Remote Work, with hybrid option - PTO - Benefits
+
+
+	Cons: 
+		- Extremely Low pay - ZERO opportunity for growth - Encourages growing within the company but it’s also frowned upon when you apply to internal postings - Way too much work. When you lose team members and/or do well at your job, you just acquire more work. -Lots of antiquated processes and systems
+
+
+	Summary: 
+		Good Company, still working out kinks
+
+
+Review 11:
+	Job Title: Director, Product Development
+	Location: Charlotte, NC
+	Review Date: 2023-08-30T13:28:22.593
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Feels almost like a startup with lots of enthusiasm for success after the spin-off from MetLife. Lot's of energy around strategy and innovation. Fosters a culture of youth and opportunity
+
+
+	Cons: 
+		Experience is diminished and older employees are not valued, especially women. Tenured employees get passed over while inexperience younger employees are elevated. Definite brain drain happening causing chaos, lack of established processes and delays in getting projects off the ground.
+
+
+	Summary: 
+		Questionable Culture
+
+
+Review 12:
+	Job Title: Actuarial Associate
+	Location: New York, NY
+	Review Date: 2023-11-22T10:31:00.040
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		company is simple and good
+
+
+	Cons: 
+		everything ok for this company
+
+
+	Summary: 
+		good
+
+
+Review 13:
+	Job Title: Wholesaler
+	Location: Charlotte, NC
+	Review Date: 2023-06-01T14:27:34.467
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Excellent benefits like 6% 401k matching, ESPP, low cost and relatively low deductible health insurance options, term life insurance, $500 HSA contributions, 15 days of backup childcare or pet care, prepaid legal, volunteer and military pto, generous pto package and paid holidays, etc
+
+
+	Cons: 
+		The sales desk leadership doesn't appear to be as open minded and open to change as the rest of the company is. Their management techniques are very old school whereas the Brighthouse culture over all seems to be more modern. The pay for internals is low for the amount and quality of work that is expected.
+
+
+	Summary: 
+		Great company overall
+
+
+Review 14:
+	Job Title: Accountant
+	Location: None
+	Review Date: 2023-10-20T11:03:46.370
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Culture, pay, benefits, flexibility, pto
+
+
+	Cons: 
+		Not a lot of opportunity to move up
+
+
+	Summary: 
+		Great culture
+
+
+Review 15:
+	Job Title: Data Scientist
+	Location: None
+	Review Date: 2023-09-14T18:24:01.377
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The company really cares about employee work life balance. Great benefits. Very collaborative culture.
+
+
+	Cons: 
+		Things may get a bit slow, but this is typical for an insurance company
+
+
+	Summary: 
+		Great work life Balance
+
+
+Review 16:
+	Job Title: Technology
+	Location: Charlotte, NC
+	Review Date: 2023-09-27T07:03:24.623
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		100 percent Remote full-time opportunities
+
+
+	Cons: 
+		*Tribalism seems to rule. 
+		*It's very important who you aligned with. 
+		*Very close minded regarding outside ideas or approaches 
+		*Enterprise goals/processes either do not exist or are not well communicated. 
+		*Poor, almost risky approach to data
+
+
+	Summary: 
+		Challenging Work Environment
+
+
+Review 17:
+	Job Title: Escalation Analyst
+	Location: Charlotte, NC
+	Review Date: 2023-07-27T12:41:30.040
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		This company is the most employee focused company I've ever worked for. From your supervisor all the way up to thw CEO.
+
+
+	Cons: 
+		Zero, none, nada, zilch, absolutely nothing to complain about.
+
+
+	Summary: 
+		Amazingly generous company
+
+
+Review 18:
+	Job Title: Scheduler
+	Location: Charlotte, NC
+	Review Date: 2023-08-22T12:02:51.160
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great culture and great company to work at.
+
+
+	Cons: 
+		I can’t think of any Cons. Everyone is welcoming and there is a great work/life balance.
+
+
+	Summary: 
+		Great company!
+
+
+Review 19:
+	Job Title: Vice President
+	Location: Charlotte, NC
+	Review Date: 2023-07-22T04:17:43.157
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Enjoyed my years there. Good culture and leadership depending on the department.
+
+
+	Cons: 
+		Some areas of the company don’t have the same core culture the company was built on.
+
+
+	Summary: 
+		Great place
+
+
+Review 20:
+	Job Title: None
+	Location: None
+	Review Date: 2023-05-23T10:49:46.877
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		The ability to work from home
+
+
+	Cons: 
+		Unfair pay, hiring practices, and advancement opportunities. Focuses on hiring diverse talent but doesn’t care about diverse retention. Typical corporate environment in which opportunities are based on who you mix and mingle with.
+
+
+	Summary: 
+		Wouldn’t recommend for the long haul
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

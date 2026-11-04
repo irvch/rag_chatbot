@@ -1,0 +1,670 @@
+
+Fiserv is a Financial Data Services company based in 53045 Brookfield, Wisconsin. 
+The company has 41,000 employees and has a revenue of $17,737 according to Fortune 500.
+The company is valued at $70,997 and has a profit of $2,530. The CEO of the company is Frank J. Bisignano.
+
+The Company has the following ratings: 
+Average ratings for Fiserv:
+Business Outlook: 0.45
+
+Career Opportunities: 3
+Distribution: 
+	1: 1502 
+	2: 1246 
+	3: 2004 
+	4: 1735 
+	5: 1173 
+
+CEO: 0.39
+
+Compensation and Benefits: 3.1
+Distribution: 
+	1: 1015 
+	2: 1271 
+	3: 2287 
+	4: 1966 
+	5: 1110 
+
+Culture and Values: 2.9
+Distribution: 
+	1: 1652 
+	2: 1034 
+	3: 1559 
+	4: 1632 
+	5: 1419 
+
+Diversity and Inclusion: 3.5
+Distribution: 
+	1: 599 
+	2: 384 
+	3: 817 
+	4: 1186 
+	5: 1304 
+
+Overall: 3
+Distribution: 
+	1: 1518 
+	2: 1309 
+	3: 2292 
+	4: 2401 
+	5: 1541 
+
+Senior Management: 2.6
+Distribution: 
+	1: 2341 
+	2: 1273 
+	3: 1637 
+	4: 1392 
+	5: 926 
+
+Work Life Balance: 2.9
+Distribution: 
+	1: 1481 
+	2: 1013 
+	3: 1718 
+	4: 1829 
+	5: 1578 
+
+Review Count: 9088
+
+Recommend to Friend: 
+	RECOMMEND: 3465
+	WONT RECOMMEND: 3283
+
+
+
+
+The company has 9531 reviews on Glassdoor. The last review was posted on 2024-04-17T21:27:03.607. 
+There are 20 Reviews for Fiserv:
+
+Review 1:
+	Job Title: Military Trainee
+	Location: Omaha, NE
+	Review Date: 2023-12-20T12:30:27.923
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Since day one, the team at Fiserv greeted us with so much warmth and made us feel welcomed. Entering the company with over 100 people is very hard to achieve this level of service and inclusion, but Fiserv knocked out of the park!
+
+
+	Cons: 
+		With so many departments and areas of opportunity, it can be overwhelming trying to find the right path to take.
+
+
+	Summary: 
+		Fantastic experience and training
+
+
+Review 2:
+	Job Title: Business Consultant
+	Location: Los Angeles, CA
+	Review Date: 2024-03-13T09:25:30.080
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Pay is great and so is work life balance
+
+
+	Cons: 
+		Expected stress to carry quota
+
+
+	Summary: 
+		Good company
+
+
+Review 3:
+	Job Title: Technical Business Analyst
+	Location: None
+	Review Date: 2021-10-02T22:49:47.853
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Pay is decent, great team mates
+
+
+	Cons: 
+		New CEO is ravaging the company from inside out. Layoffs, frozen job postings, and revoking all WFH privileges.
+
+
+	Summary: 
+		Was great until FirstData came along
+
+
+Review 4:
+	Job Title: Senior Recruiter
+	Location: Alpharetta, GA
+	Review Date: 2019-09-17T11:49:05.050
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Positive environment; talented people; supportive colleagues; flexibility and work/life balance; plenty of opportunity for self-development (but you have to take the initiative). Strong work environment for people who are good at setting boundaries.
+
+
+	Cons: 
+		Weak work environment for people who have a tough time setting boundaries or are inclined to say yes to too much work. 
+		
+		We were told we were going to keep our awesome culture after acquiring First Data but that doesn't seem to be happening. Morale is declining because of the complete lack of communication between top leadership and front line operations.
+
+
+	Summary: 
+		FirstData Merger is gutting the awesome culture
+
+
+Review 5:
+	Job Title: Analyst
+	Location: None
+	Review Date: 2023-08-16T23:02:30.090
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 0
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 3
+
+	Pros: 
+		Being able to make connections with the clients. Traveling to the client site.
+
+
+	Cons: 
+		The downward spiral of morale can be pointed to post merger with FirstData and the change of CEOs. The regression of tech has been seen by everyone. Company issued phones were discontinued and we are now required to install company apps on our personal devices with no monthly compensation. Then WFH was eliminated and remote workers unable or unwilling to relocate were fired. The WFH is due to tax breaks the company gets to fill the NJ office. This office does not need to exist and there are plenty of others across the country but the CEO refused to move the the Milwaukee headquarters so he moved the headquarters closer to him. Now we are all forced to work in the office 4 days a week, management thinks it's a compromise since they received so much backlash over return to office. When we are now I'm the office there is a sapience app on our PCs that spies on what we do during the day. We also have to swipe our badge out so they can monitor that we are coming into the office and not leaving early. It feels like management starting at the very top does not trust their employees. This lack of trust and constant monitoring of our every move has caused a spike in the lack of moral.
+
+
+	Summary: 
+		The downhill morale
+
+
+Review 6:
+	Job Title: Sr. Manager
+	Location: Omaha, NE
+	Review Date: 2024-04-05T08:40:57.573
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		The pay and benefits are good, especially for recent hires. Individual teams can be great to work with. I enjoy my team, all the way up through our EVP.
+
+
+	Cons: 
+		Executive leadership is terrible. They are old school and want to micro-manage every employee. In the past year, we've gone from flexible WFH options, to mandated in-office M-Th and WFH only on Fridays, and now they have implemented very intrusive computer logging software that tracks everything you do (Look up Sapience - Workforce Analytics). They spin it as a tool for everyone to use as a way to improve their productivity, but we all know that's BS. It's a tool to spy on every employee. The lack of trust in employees is ridiculous.
+
+
+	Summary: 
+		Going downhill - stay away
+
+
+Review 7:
+	Job Title: Financial/Billing Analyst
+	Location: Omaha, NE
+	Review Date: 2024-04-05T07:54:29.110
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Managerial training seems to be above par. A very 'PC' workplace. Which contributes to a non-toxic workplace.
+
+
+	Cons: 
+		behind the 'PC' curtain you will still see a corporate monopoly doing whatever they can to appease shareholders. Associates are pawns in this massive game of chess. Over the past year some frustrating things FISERV has done.
+		They took away one of our remote days, even though Fiserv had one of their best performances from a shareholder standpoint.
+		They hired a TON of people over the past couple of months, and are now starting the process of doing mass layoffs. To do this, they have implemented a software called Sapience Analytics, this tool tracks your activity, providing massive data to you and your superiors.
+
+
+	Summary: 
+		Average
+
+
+Review 8:
+	Job Title: Analyst
+	Location: None
+	Review Date: 2024-03-11T18:33:38.733
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Pay is decent. Co-workers are awesome.
+
+
+	Cons: 
+		No work life balance whatsoever. Work from office 4 days a week required, no exception for doctor's appointments, sick children etc.
+		
+		Sapience spy tool tracks EVERYTHING!!! You must be continually typing or moving a mouse time will be reported as unaccounted time. If you visit a non-work related website, it flags that. If you take a bathroom break, it's reported as unaccounted. To get 8 hours Sapience time you have to actually have to work 10+ hours.
+		
+		Any work you do at home does not count towards the 8 hours you must put in at the office.
+		
+		Constant layoffs.
+		
+		Forced relocation to one of the centers of excellence.
+		
+		Massive move to offshoring the jobs that are still in existence.
+		
+		Absolutely the most stressful work environment I have ever been involved with.
+
+
+	Summary: 
+		Modern Day Sweatshop
+
+
+Review 9:
+	Job Title: Account Executive
+	Location: None
+	Review Date: 2024-03-27T14:34:25.940
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Great teammates and challenging work
+
+
+	Cons: 
+		TERRIBLE MANAGEMENT - micro managers - SR Leaders threatening jobs ALL the time - they create a hostile work environment which has caused employees massive panic attacks and anxiety - Instead of understanding the solutions at Fiserv suck and FI's are leaving, they blame employees instead and threaten that if anymore FI's within portfolios leave, you will be fired - Heaven forbid they take a look at themselves, but because they have to answer to shareholders they blame employees and do layoffs so it looks like they are growing - Sr Leaders want a calendar of all meetings that employees have with their FI's (micro managing at its finest) - They pull a report to check call logs to see how many calls you are having with your FI's (again, micro managing at its finest) - They changed the commission structure to only receiving 75% at close vs 100% they are screwing employees of their commission - They hate remote work - There are so many other great Fintech companies out there, I beg you to please think twice before coming here.
+
+
+	Summary: 
+		RUN - DO NOT COME HERE
+
+
+Review 10:
+	Job Title: CardPointe Technical Support
+	Location: King of Prussia, PA
+	Review Date: 2024-03-05T23:16:02.353
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		-Good People (for the most part)
+
+
+	Cons: 
+		-Managers are powerless as most issues are caused by higher ups
+		
+		-Most complaints are ignored because agendas pushed by company executives outweigh what the other 99.99% of the company actually needs. 
+		
+		-Work from Home mostly gone because the CEO doesn't like it
+		
+		-Near impossible to get promotions currently (except for the higher ups) because the company is spending more time inside of hiring freezes than outside.
+		
+		-Fortune 500 company who pays their CEO 1.4 million dollars a year (without bonuses calculated) told us they couldn't afford snacks or two meals a week for the hundreds of employees they force to come into the office. 
+		
+		-Company is well aware of how unhappy the workers are, as they directly ask them to not ask questions about hot-button issues during Town Hall meetings. 
+		
+		Need I say more? 
+		
+		Very obvious structure of the people at the top making millions and millions of dollars telling everyone below them to essentially shut up and do more work. All while raising their own pay checks by 6+ figures and barely giving everyone else enough of a yearly raise to cover inflation.
+
+
+	Summary: 
+		Stay Away if You Value Your Mental Health
+
+
+Review 11:
+	Job Title: Project Management Office (PMO)
+	Location: None
+	Review Date: 2024-04-03T20:31:39.893
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Teammates are only reason to stay and not lose your mind here.
+
+
+	Cons: 
+		CEO could care less about employees. They are all a widget and an expense to him. Mr Scrooge at his finest. 
+		
+		Terrible or no wage increases. 
+		Reduced benefits year after year.
+		Termination of 10-20+ year employees. The uncaring and loss of knowledge capital is vast....huge impact to moral and ability to execute for our clients. It's so unnecessary and quite honestly evil to do to your best long-term &amp; loyal employees.
+
+
+	Summary: 
+		Terrible moral due to horrid CEO
+
+
+Review 12:
+	Job Title: Full Stack Developer
+	Location: None
+	Review Date: 2024-04-03T08:53:55.333
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		There are many opportunities to learn new skills because people are leaving Fiserv like the plague.
+
+
+	Cons: 
+		Do not believe what you’re told in the hiring process. You are required to be in office 4 days a week with most departments going to 5 days. Time in office is tracked by badging in and out and you’re required to be in office 9 hours a day. Unlimited PTO is a lie—it’s more like 30 days which includes sick time, vacation, and any remote days. Don’t bother coming into the office unless you’re going to hit 8 hours in office, otherwise it’ll count against you. Activity is tracked via salience with reports constantly being sent to management. 
+		
+		Managers do not effectively manage, and the feeling of constantly being monitored and told you aren’t working enough has devastated morale. Promotions are given without any compensation increase.
+
+
+	Summary: 
+		Corporate Culture Failure
+
+
+Review 13:
+	Job Title: Senior Business Analyst
+	Location: Alpharetta, GA
+	Review Date: 2023-07-30T08:49:45.920
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		They recently went to an unlimited PTO policy if you are at a certain pay grade or higher (but they only did that because they are requiring everyone to return to the office).
+
+
+	Cons: 
+		I’ve worked for Fiserv for 10 years. I’ve been remote for the last 8. When leadership changed to Frank Bisignano the entire organization started on a downward spiral. This list is long so I will try to keep it succinct 1. Pay has not kept up with either the market or inflation. 2. No flexibility in work arrangements. Remote is no longer an option. Relocation is a requirement and working onsite from a local office instead of moving is not an accepted compromise. 3. They practice “quiet promotions”(more responsibility with no official or financial recognition). Requests for the title and raise are ignored. 4. Retirement benefits are not competitive with other FinTechs. 5. Management is unconcerned with employee morale and will gloss over concerns by spouting corporate catch phrases and HR spin. 6. Financial gains in the company do not make their way to employees or teams. Stock price has risen dramatically but no change to working conditions or pay.
+
+
+	Summary: 
+		It’s sad what they’ve done to this place
+
+
+Review 14:
+	Job Title: IT Manager Infrastructure
+	Location: King of Prussia, PA
+	Review Date: 2024-04-09T17:37:05.303
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The company seems to be tightening its focusing on certain aspects of the Financial Services industry
+
+
+	Cons: 
+		If you're not in an area that it's focusing on, there isn't much support or leadership.
+		From a technical perspective, there are attempts to standardize and modernize across the company, but they appear fractured and are often at odds with each other, leading to frustration and confusion for the rank and file.
+
+
+	Summary: 
+		Not what it used to be
+
+
+Review 15:
+	Job Title: Technical Support
+	Location: Berkeley Heights, NJ
+	Review Date: 2024-03-12T05:31:16.750
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Unlimited holiday .. but again depends on manager
+
+
+	Cons: 
+		Mandatory 4 days office 
+		
+		Micromanagement ( or cheap mentality) specially top mgmt like ceo,cto, hr head checking office swap in/out data to find if person is in office for 8 hr or not.
+		
+		Top mgmt is also installing tool on laptop to monitor all activity on laptop to make sure person is really working for 8 hr and not playing games (lol)
+		
+		Worst management decisions like variable pay split changed from 50/50 ( cash/stock) to 30/70 percent in one year.
+		
+		Worst HR/HRBP i have seen in my entire career, they simply use hire and fire language in every communication, i am full time employee and applied for wfh due to son’s health issue and the hr comment on the request was like “your employment is at- will and company can terminate you during this wfh period” .. so in short when you are in problem, they help you to make it bigger and worse for you.
+
+
+	Summary: 
+		Worst HRBP
+
+
+Review 16:
+	Job Title: Director Account Management
+	Location: None
+	Review Date: 2024-02-05T17:16:59.490
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good colleagues on average, decent benefits, decent pay IF you negotiate and move around, promising framework that could be so much better
+
+
+	Cons: 
+		Problems start at the top. CEO is an old school sales shark and out of touch with the modern work environment. Gutted the WFH policy. Will not approve budgets for projects that improve client satisfaction or employee satisfaction. All money goes to Sales. Stretches operational staff to the point of no return. If you work here you must really be able to say no to more work and to track your productivity so you can justify it. Most middle-management have to be yes-people to those above them. You can choose to be a good leader or a good follower, but not both. CEO knows how to play the shareholders and the general vibe is he's squeezing the company as long as he can to pad his retirement before it bursts. Avoid this company and look again after senior leadership turns over.
+
+
+	Summary: 
+		FJB and his cronies need to go.
+
+
+Review 17:
+	Job Title: Technology Analyst
+	Location: Atlanta, GA
+	Review Date: 2024-04-15T10:26:18.053
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Experience different career paths in a short amount of time to see what best fits your needs
+
+
+	Cons: 
+		Management is very strict on workforce analytics and gets to a point where its too much
+
+
+	Summary: 
+		Good Stepping Stone
+
+
+Review 18:
+	Job Title: None
+	Location: Alpharetta, GA
+	Review Date: 2024-03-29T09:35:18.890
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Not much these days outside of some really kind and hardworking people. The top talent has left for opportunities with companies that value their employees.
+
+
+	Cons: 
+		Fiserv is all about cost-cutting and micromanaging these days. They track badge swipes, keystrokes, time in the office down to the minute. There are no backfills, they use cost cutting to up the share price, so everyone ends up having to do two people's jobs. Customer are suffering from lack of support due to the company being short staffed. I could not recommend this as a good place to work.
+
+
+	Summary: 
+		Went downhill after leadership change
+
+
+Review 19:
+	Job Title: Fraud Analyst
+	Location: Omaha, NE
+	Review Date: 2024-04-15T19:05:55.750
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Zero to no leadership or direction. Rarely see managers and when you do it is to convey anything negative. Knew nothing about my manager or teammates. NO CULTURE
+
+
+	Cons: 
+		Everything except flexible schedule and benefits
+
+
+	Summary: 
+		No leadership
+
+
+Review 20:
+	Job Title: Human Resources Analyst
+	Location: Berkeley Heights, NJ
+	Review Date: 2024-04-15T06:17:50.223
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		- Great analyst program that senior leadership invests a lot of time and energy to
+		- Fiserv cultivates a positive working environment that motivates associates to help one another
+		- I feel heard and listened to my upper management
+		- Incredible internal mobility
+
+
+	Cons: 
+		- I have no cons
+
+
+	Summary: 
+		Great company to work for
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

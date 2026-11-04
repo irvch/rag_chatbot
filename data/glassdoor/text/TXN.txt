@@ -1,0 +1,637 @@
+
+Texas Instruments is a Semiconductors and Other Electronic Components company based in 75243 Dallas, Texas. 
+The company has 33,000 employees and has a revenue of $20,028 according to Fortune 500.
+The company is valued at $168,775 and has a profit of $8,749. The CEO of the company is Haviv Ilan.
+
+The Company has the following ratings: 
+Average ratings for Texas Instruments:
+Business Outlook: 0.76
+
+Career Opportunities: 4
+Distribution: 
+	1: 177 
+	2: 361 
+	3: 935 
+	4: 1284 
+	5: 1112 
+
+CEO: 0.87
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 85 
+	2: 223 
+	3: 883 
+	4: 1526 
+	5: 1145 
+
+Culture and Values: 4.1
+Distribution: 
+	1: 169 
+	2: 233 
+	3: 568 
+	4: 1010 
+	5: 1448 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 67 
+	2: 70 
+	3: 196 
+	4: 440 
+	5: 817 
+
+Overall: 4.1
+Distribution: 
+	1: 144 
+	2: 261 
+	3: 877 
+	4: 1839 
+	5: 1583 
+
+Senior Management: 3.7
+Distribution: 
+	1: 329 
+	2: 488 
+	3: 1027 
+	4: 1146 
+	5: 832 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 279 
+	2: 421 
+	3: 941 
+	4: 1153 
+	5: 1054 
+
+Review Count: 4713
+
+Recommend to Friend: 
+	RECOMMEND: 2749
+	WONT RECOMMEND: 616
+
+
+
+
+The company has 5868 reviews on Glassdoor. The last review was posted on 2024-04-17T19:17:30.210. 
+There are 20 Reviews for Texas Instruments:
+
+Review 1:
+	Job Title: Software Engineer
+	Location: Richardson, TX
+	Review Date: 2023-07-23T12:23:32.757
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		- One of the main thing I love about TI is good work-life balance. Company always promotes for family-first. No matter how critical the deadline is family is always the first priority. Obviously have to communicate this to our internal stakeholders, but everyone is understanding and supportive including the managers. - Everyone helps out one another. During my 6 years at TI, whenever I have been stuck on a challenging task, i have always had team-members be there for me and vice-versa. - Great rewards and recognition. You get recognized and evaluated annually. You do great job, you will be rewarded immensely. Additionally, TI has profit-sharing program which employees get up to additional amount of $$$ - Always opportunity for moving to different roles or trying out new things. For example, work in a different IT area or perhaps try out a whole new different role not related to your field.
+
+
+	Cons: 
+		There not too much of disadvantage of working for TI. It's great company overall. I have seen people comment that i can get stressful; however, I know in the IT section everyone is willing to help and listen to you. If your getting burned out or work being stressful, then that should be communicated to your manager. Manager is always listening and supportive!
+
+
+	Summary: 
+		Great Company with Great rewards
+
+
+Review 2:
+	Job Title: Equipment Technician
+	Location: Dallas, TX
+	Review Date: 2024-04-08T12:57:40.323
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The people I worked with generally liked their jobs, didn't complain, and had plenty of opportunities for growth. The benefits were great, and they were very lenient about getting the time off as needed to deal with personal issues.
+
+
+	Cons: 
+		Sometimes, you'd have to work with people who should have been fired. They seem very hesitant to fire people. I guess that could be a positive though, depending on your work ethic.
+
+
+	Summary: 
+		Fantastic Company
+
+
+Review 3:
+	Job Title: Equipment Engineer
+	Location: Lehi, UT
+	Review Date: 2024-04-01T10:13:55.853
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		It's a big company and for some that is a con. For me at least, I love working at a large company because I have a narrow scope of work that I get to focus on. I don't have to get bogged down with extra tasks because those tasks are done by someone else (who's entire job is to do that task). They have great benefits, health, 401k matching, ESPP, up to 20% profit sharing bonus (which we've got the last 6 or 7 years), 4 week paid parental leave, good PTO.
+
+
+	Cons: 
+		Because it's a large company, the ship turns slowly, change is slow, and things take time. But because of that, it is a very stable work environment.
+
+
+	Summary: 
+		Great Company, Great potential for growth
+
+
+Review 4:
+	Job Title: Technician Supervisor
+	Location: None
+	Review Date: 2024-04-12T21:27:26.927
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Bonus is great at up to 20%
+		Solid hold on the Market
+
+
+	Cons: 
+		Benefits sub-par
+		Lax rules enforcement
+		Chaotic infrastructure
+
+
+	Summary: 
+		Solid Company with Room for Improvement
+
+
+Review 5:
+	Job Title: Validation Intern
+	Location: Santa Clara, CA
+	Review Date: 2024-04-17T16:40:16.253
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 1
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great work life balance in a good location
+
+
+	Cons: 
+		Hard to move up the corporate ladder
+
+
+	Summary: 
+		Validation Intern
+
+
+Review 6:
+	Job Title: Maintenance Technician Supervisor
+	Location: Richardson, TX
+	Review Date: 2024-04-07T19:17:50.200
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Amazing Bonus, 20% of Base pay generally (8 years running)
+		Competitive pay
+		401K Matching
+
+
+	Cons: 
+		Understaffing
+		Lax enforcement of rules
+		Medical Benefits are sub-par compared to other Semiconductor companies.
+
+
+	Summary: 
+		Good Place to work
+
+
+Review 7:
+	Job Title: Industrial Engineer
+	Location: Lehi, UT
+	Review Date: 2024-02-15T09:59:57.353
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		-Hybrid Role (Great for Life Balance)
+		- Solid Salary Out of College
+		- Good raise even in tight market
+		- Generous PTO
+		- Management listens fairly well
+		-LFAB people are great
+
+
+	Cons: 
+		Texas Instruments (LFAB) is PAINFULLY cheap. The market is rough right now, but buy your people a lunch every once in awhile for putting in tons and tons of work. LFAB is not making their site a fun place to come in to work.
+		
+		I wish they would move people around better to prevent painful understaffing. Overall just need to hire to fulfill an old position instead of wair 8 months to hire a New Grad
+
+
+	Summary: 
+		Exciting/Challenging Time to Begin a Career
+
+
+Review 8:
+	Job Title: Senior Engineer
+	Location: Dallas, TX
+	Review Date: 2024-04-12T05:33:51.600
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Challenging technology space presents good opportunities
+
+
+	Cons: 
+		Sometimes management does not understand domain well
+
+
+	Summary: 
+		Challenging times 
+
+
+Review 9:
+	Job Title: Product Marketing Manager
+	Location: Dallas, TX
+	Review Date: 2024-04-13T02:44:17.780
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Respectful environment, smart people, result oriented
+
+
+	Cons: 
+		Politics given complex organization structure
+
+
+	Summary: 
+		Good company
+
+
+Review 10:
+	Job Title: TSR
+	Location: Texas City, TX
+	Review Date: 2024-04-11T08:02:12.343
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Hard working and glow up a lot
+
+
+	Cons: 
+		Low income
+		no Work and life balance
+
+
+	Summary: 
+		Tiny income
+
+
+Review 11:
+	Job Title: Senior Applications Engineer
+	Location: Dallas, TX
+	Review Date: 2024-03-26T02:20:10.987
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Owns their fabs and foundries. Opportunities to work in many types of end equipment.
+
+
+	Cons: 
+		Reluctant to hire from outside leads to less new ideas. Big and slow moving, not always able to pivot quickly. Lack of positions outside of Texas.
+
+
+	Summary: 
+		Runs Lean, Wide range of opportunities
+
+
+Review 12:
+	Job Title: Applications Engineer
+	Location: Santa Clara, CA
+	Review Date: 2024-04-08T20:53:18.050
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		great managers who are eager to teach and mentor you
+
+
+	Cons: 
+		very conservative and not willing to to take risks
+
+
+	Summary: 
+		good company
+
+
+Review 13:
+	Job Title: Equipment Engineer
+	Location: Dallas, TX
+	Review Date: 2024-04-03T16:31:35.523
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Pay is decent for new grads
+
+
+	Cons: 
+		Not a lot of growth available. Very old technology. Bottom tier chip manufacturer.
+
+
+	Summary: 
+		Work at another semi company
+
+
+Review 14:
+	Job Title: Process Engineering Intern
+	Location: Dallas, TX
+	Review Date: 2024-04-05T11:29:56.570
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		free food, good experience, nice people
+
+
+	Cons: 
+		there are no cons that i can think of
+
+
+	Summary: 
+		Intern
+
+
+Review 15:
+	Job Title: Product Engineering Manager
+	Location: None
+	Review Date: 2024-03-16T18:23:55.773
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Stable company to work for and has a clear long term vision
+
+
+	Cons: 
+		Will try to ring out every ounce of resources before adding head count. IT infrastructure and engineering tools are lacking.
+
+
+	Summary: 
+		String company with long term vision
+
+
+Review 16:
+	Job Title: Equipment Engineering Technician
+	Location: Richardson, TX
+	Review Date: 2024-04-03T00:42:32.807
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great opportunity to make money
+
+
+	Cons: 
+		shift work but you work a cww.
+
+
+	Summary: 
+		Well run company
+
+
+Review 17:
+	Job Title: Industrial Hygienist
+	Location: Dallas, TX
+	Review Date: 2024-04-01T07:28:09.337
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Very good growth and development opportunities for new hires.
+
+
+	Cons: 
+		Compensation is not competitive with the market
+
+
+	Summary: 
+		Old Tech
+
+
+Review 18:
+	Job Title: Mechanical Engineer
+	Location: None
+	Review Date: 2024-03-24T22:04:35.037
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Lots of steps taken at work, managers are chill and flexible. Good compensation and benefits.
+
+
+	Cons: 
+		Lack of structure, team culture and organization can vary widely, office building has poor ventilation.
+
+
+	Summary: 
+		Can be what you make of it
+
+
+Review 19:
+	Job Title: Party Host
+	Location: Garland, TX
+	Review Date: 2024-04-01T16:27:27.977
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Good owners, weird managers fun music
+
+
+	Cons: 
+		Expected to work nights and weekends.
+
+
+	Summary: 
+		Great place 
+
+
+Review 20:
+	Job Title: Engineer
+	Location: Dallas, TX
+	Review Date: 2024-03-22T20:27:07.510
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		You get to work at your own pace and keep learning a lot everyday
+
+
+	Cons: 
+		During critical parts of a project, you'll be putting in a lot more hours.
+
+
+	Summary: 
+		Great Company to Work For
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

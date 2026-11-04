@@ -1,0 +1,626 @@
+
+Markel is a Insurance: Property and Casualty (Stock) company based in 23060 Glen Allen, Virginia. 
+The company has 20,900 employees and has a revenue of $11,675 according to Fortune 500.
+The company is valued at $17,094 and has a profit of -$214. The CEO of the company is Thomas S. Gayner.
+
+The Company has the following ratings: 
+Average ratings for Markel:
+Business Outlook: 0.81
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 49 
+	2: 50 
+	3: 77 
+	4: 86 
+	5: 72 
+
+CEO: 0.94
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 17 
+	2: 44 
+	3: 101 
+	4: 113 
+	5: 60 
+
+Culture and Values: 4
+Distribution: 
+	1: 42 
+	2: 33 
+	3: 55 
+	4: 68 
+	5: 126 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 13 
+	2: 17 
+	3: 39 
+	4: 53 
+	5: 64 
+
+Overall: 4
+Distribution: 
+	1: 34 
+	2: 44 
+	3: 71 
+	4: 129 
+	5: 127 
+
+Senior Management: 3.7
+Distribution: 
+	1: 49 
+	2: 55 
+	3: 46 
+	4: 91 
+	5: 85 
+
+Work Life Balance: 4.1
+Distribution: 
+	1: 34 
+	2: 21 
+	3: 61 
+	4: 92 
+	5: 122 
+
+Review Count: 406
+
+Recommend to Friend: 
+	RECOMMEND: 192
+	WONT RECOMMEND: 87
+
+
+
+
+The company has 450 reviews on Glassdoor. The last review was posted on 2024-04-14T06:02:35.110. 
+There are 20 Reviews for Markel:
+
+Review 1:
+	Job Title: Manager
+	Location: New York, NY
+	Review Date: 2024-04-14T06:02:35.110
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Stock purchase plan is favorable to others
+
+
+	Cons: 
+		Corporate rebranding can we hard to navigate at times
+
+
+	Summary: 
+		Great Culture 
+
+
+Review 2:
+	Job Title: Claims Specialist II
+	Location: Houston, TX
+	Review Date: 2024-04-13T10:42:50.840
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Very flexible with remote working
+
+
+	Cons: 
+		Caseload too high for adjusters
+
+
+	Summary: 
+		Flexibility is keeping me here
+
+
+Review 3:
+	Job Title: Underwriter
+	Location: None
+	Review Date: 2024-03-27T16:18:41.317
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		The culture around the office is great.  My co-workers are friendly and I don't feel micromanaged by my bosses and my coworkers are supportive of each other and always learning
+
+
+	Cons: 
+		I've only been here a year so I haven't found any of the cons yet
+
+
+	Summary: 
+		Great Culture Great People
+
+
+Review 4:
+	Job Title: Manager
+	Location: Richmond, VA
+	Review Date: 2024-03-29T02:37:21.413
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Stable company.
+		Good benefits.
+		Hybrid work environment.
+
+
+	Cons: 
+		Cult like atmosphere. People are generally nice but there is little transparency and few growth opportunities. People sell the Markel style but the work environment can be toxic under the surface.
+
+
+	Summary: 
+		Lack of Growth Opportunities 
+
+
+Review 5:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-14T14:01:38.073
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Great 401k match, Great work life balance
+
+
+	Cons: 
+		Markels compensation structure is terrible, they pay below Markel value. Markels Bonus incentive is also terrible, they almost never pay 100 percent of the bonus, although they tout it as a recruiting tool.
+		
+		Growth can be impossible depending on the department you're in.
+
+
+	Summary: 
+		Markel MNA
+
+
+Review 6:
+	Job Title: Claims Manager
+	Location: Richmond, VA
+	Review Date: 2024-03-19T17:41:47.793
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 4
+
+	Pros: 
+		Great bonus, decent enough salary.
+
+
+	Cons: 
+		Systems difficult. Too many of them. Flat company hard to find space to move up.
+
+
+	Summary: 
+		Good Salary/Benefits
+
+
+Review 7:
+	Job Title: Senior Actuarial Analyst
+	Location: New York, NY
+	Review Date: 2024-01-17T01:29:53.803
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Great company culture. Actuarial is a hard-working team, well respected by UW. A lot of work to go around. You get exposed to both pricing and reserving for your lines, and there is always ad-hoc type work too. Management respects employee work-life balance, burn-out is relatively uncommon. Fairly standard actuarial student program.
+
+
+	Cons: 
+		Zero severance for PIP termination. This came particularly hard as the Markel style #214 gives emphasis to employees being a family.
+
+
+	Summary: 
+		Overall positive experience working in Actuarial
+
+
+Review 8:
+	Job Title: Senior Underwriter
+	Location: Dallas, TX
+	Review Date: 2024-01-27T14:14:28.377
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Leaders are strong. We have solid plans for underwriting profit and always looking for long term solutions. Culture is great.
+
+
+	Cons: 
+		Bonus structure isn't always the most favorable and can lead to being underpaid to market value. Raises/cost of living increases don't follow inflation so when looking at total compensation package we are gradually becoming underpaid or have effectively taken pay cuts.
+
+
+	Summary: 
+		Great company
+
+
+Review 9:
+	Job Title: Solution Architect
+	Location: Richmond, VA
+	Review Date: 2024-02-21T20:36:23.163
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Its well known as baby Berkshire . Great business model and leadership
+
+
+	Cons: 
+		A bit conservative in the digital age selling digital product (insurance) but adopting modern tech fast
+
+
+	Summary: 
+		Company culture
+
+
+Review 10:
+	Job Title: Senior Tax Director
+	Location: Glen Allen, VA
+	Review Date: 2024-02-16T10:00:53.877
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great company and great culture
+
+
+	Cons: 
+		Not comments at this time
+
+
+	Summary: 
+		Great Company
+
+
+Review 11:
+	Job Title: Claims Examiner
+	Location: Omaha, NE
+	Review Date: 2024-01-26T21:11:32.200
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Hybrid office 3 days in office, 3 days out of office.
+
+
+	Cons: 
+		Pay should be more comparable
+
+
+	Summary: 
+		Review
+
+
+Review 12:
+	Job Title: Insurance Agent
+	Location: Richmond, VA
+	Review Date: 2024-01-09T19:50:38.090
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Various career opportunities, great benefits, decent pay
+
+
+	Cons: 
+		Staffing issues (most departments understaffed)
+
+
+	Summary: 
+		Decent job
+
+
+Review 13:
+	Job Title: Product Owner
+	Location: None
+	Review Date: 2024-01-03T06:33:00.963
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		This is a good company to work for.
+
+
+	Cons: 
+		Nothing negative to say about the company 
+
+
+	Summary: 
+		1 year Experienced Prouduct Owner
+
+
+Review 14:
+	Job Title: Senior Business Analyst
+	Location: Glen Allen, VA
+	Review Date: 2023-10-08T06:18:37.527
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		The stock performs well. Senior management has been in place for decades.
+
+
+	Cons: 
+		I’ve been here long enough to see the formula: if you are 45 or older (I’m 39) and you are not in a protected DEI category, realize that you are first in the queue for pending downsize or reorg. It’s primarily a culling of the high earners. A strategic business decision, I get it, but then we have to listen to the propaganda re how much we are treasured and valued, knowing that will not matter if you are 45+.
+
+
+	Summary: 
+		If age 45+, keep resume current and close by
+
+
+Review 15:
+	Job Title: Senior Business Analyst
+	Location: Richmond, VA
+	Review Date: 2023-12-11T11:05:25.503
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		High level exposure to directors, creating opportunities to support many key members of Claims Dept.
+
+
+	Cons: 
+		Little support at the time for moving key initiatives forward, key dependency as only member of team at time.
+
+
+	Summary: 
+		Claims Dept specific
+
+
+Review 16:
+	Job Title: None
+	Location: None
+	Review Date: 2023-12-07T16:55:21.063
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		The people are really nice. Very casual environment. Execs engage with people at all levels.
+
+
+	Cons: 
+		Comp heavily weighted to bonuses, which are in turn tied to nearly impossible profit targets.
+
+
+	Summary: 
+		Great people
+
+
+Review 17:
+	Job Title: Senior Managing Partner
+	Location: Atlanta, GA
+	Review Date: 2023-12-17T13:49:23.157
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great people - good compensation
+
+
+	Cons: 
+		I cannot think of any
+
+
+	Summary: 
+		Great job
+
+
+Review 18:
+	Job Title: Software Engineer
+	Location: None
+	Review Date: 2023-11-29T19:37:45.203
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Good leadership, but the pay could be better.
+
+
+	Cons: 
+		When asked about pay transparency questions should be answered not left with smoke and mirrors.
+
+
+	Summary: 
+		A  mixed bag
+
+
+Review 19:
+	Job Title: Underwriter
+	Location: New York, NY
+	Review Date: 2023-11-07T20:56:03.860
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		great culture and leadership. broad appetite. great benefits
+
+
+	Cons: 
+		low pay, can't be promoted more than 1 level at a time so increasing pay takes time. bonus unpredictable but can be very large on overall good years for company
+
+
+	Summary: 
+		Good Company, Below Average Salary with above average bonus
+
+
+Review 20:
+	Job Title: Underwriting Assistant
+	Location: Richmond, VA
+	Review Date: 2023-12-05T20:21:16.860
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Cares about employees and the people are really nice
+
+
+	Cons: 
+		Typical desk job, it can be monotonous
+
+
+	Summary: 
+		Great Company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

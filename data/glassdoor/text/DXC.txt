@@ -1,0 +1,655 @@
+
+DXC Technology is a Information Technology Services company based in 20147 Ashburn, Virginia. 
+The company has 130,000 employees and has a revenue of $16,265 according to Fortune 500.
+The company is valued at $5,820 and has a profit of $718. The CEO of the company is None.
+
+The Company has the following ratings: 
+Average ratings for DXC Technology:
+Business Outlook: 0.56
+
+Career Opportunities: 3.3
+Distribution: 
+	1: 1258 
+	2: 1345 
+	3: 2780 
+	4: 2911 
+	5: 2027 
+
+CEO: 0.7
+
+Compensation and Benefits: 3
+Distribution: 
+	1: 1524 
+	2: 1852 
+	3: 3153 
+	4: 2385 
+	5: 1319 
+
+Culture and Values: 3.6
+Distribution: 
+	1: 1123 
+	2: 1058 
+	3: 2196 
+	4: 3032 
+	5: 2778 
+
+Diversity and Inclusion: 3.8
+Distribution: 
+	1: 770 
+	2: 665 
+	3: 2129 
+	4: 3175 
+	5: 3345 
+
+Overall: 3.6
+Distribution: 
+	1: 1054 
+	2: 1289 
+	3: 3582 
+	4: 4177 
+	5: 2867 
+
+Senior Management: 3.2
+Distribution: 
+	1: 1766 
+	2: 1393 
+	3: 2468 
+	4: 2531 
+	5: 1962 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 905 
+	2: 801 
+	3: 2069 
+	4: 2991 
+	5: 3407 
+
+Review Count: 25343
+
+Recommend to Friend: 
+	RECOMMEND: 5332
+	WONT RECOMMEND: 2940
+
+
+
+
+The company has 26512 reviews on Glassdoor. The last review was posted on 2024-04-18T02:42:54.913. 
+There are 20 Reviews for DXC Technology:
+
+Review 1:
+	Job Title: Senior Business Analyst
+	Location: None
+	Review Date: 2024-04-17T19:04:19.587
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great team, good benefits, good guidance from management
+
+
+	Cons: 
+		Difficult to switch to a different project internally
+
+
+	Summary: 
+		Great place to work !
+
+
+Review 2:
+	Job Title: Global Product Manager
+	Location: Tysons Corner
+	Review Date: 2017-05-06T06:48:32.080
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Company just born out of a merger of CSC and the old EDS spun off by HPE
+		Seems to be a good match of size and capabilities
+		A lot more business opportunities, a much larger sales and delivery capability
+		Great people in the trenches, smart, talented, experienced
+		Stock price through the roof for three years straight...but options no longer given out to employees
+		Brilliant CTO
+
+
+	Cons: 
+		Same CEO as CSC, which means no raises or bonuses, constant cutting (value retention)
+		Drive for more off-shoring, landed resources (Indians brought to America on bogus visa justifications, for six month intervals).
+		Replacing people with software as fast as possible
+		Replacing experienced people with inexperienced people as fast as possible
+		Ridiculous sales goals set by people who have never sold anything in their lives
+
+
+	Summary: 
+		A New Hope...
+
+
+Review 3:
+	Job Title: Associate Manager Service Delivery
+	Location: Irving, TX
+	Review Date: 2024-04-16T19:42:13.793
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Easily DXC can find projects
+
+
+	Cons: 
+		No growth even after working for almost 8 yrs.
+
+
+	Summary: 
+		Service Consulting company
+
+
+Review 4:
+	Job Title: Social Worker
+	Location: American Fork, UT
+	Review Date: 2024-04-18T02:42:54.913
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		good ok its okaY nice
+
+
+	Cons: 
+		long hours labor difficulty okay
+
+
+	Summary: 
+		soc analyst
+
+
+Review 5:
+	Job Title: Associate Professional Software Engineer
+	Location: None
+	Review Date: 2024-04-09T20:22:14.120
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Friendly and helpful co-workers that pace us to the good work envinorment and developing the our core skills.
+
+
+	Cons: 
+		I think i never came across any cons in my case at DXC.
+
+
+	Summary: 
+		The best for a beginner to start after under grad.
+
+
+Review 6:
+	Job Title: Associate Professional Applications Developer
+	Location: New Orleans, LA
+	Review Date: 2024-04-08T13:33:25.383
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		It is a job that made an offer.
+
+
+	Cons: 
+		- Raises are not possible unless you apply for a new job at a higher position. 
+		- Most of insurance paid by employee. 
+		- Mass layoffs.
+		- A lot of work is unable to be shown on resumes or portfolios.
+
+
+	Summary: 
+		I regret my degree.
+
+
+Review 7:
+	Job Title: Customer Service Representative
+	Location: None
+	Review Date: 2024-02-25T18:54:33.700
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 1
+
+	Pros: 
+		20 vacations days, 10 paid holidays 
+		Paid training including time to prep for FINRA exams and licensing
+
+
+	Cons: 
+		You will NEVER see a pay increase. DXC doesn’t give merit-based raises, opting for all-or-none increases for the entire company only IF the prior year is profitable enough 
+		You accrue 80 hours sick time per year but you can’t use that time without being penalized. Every day you take is an “occurrence” with 8 occurrences with verbal, written and final warnings at 5, 6, and 7 occurrences and termination at 8. The attendance policy says sick time can be used for medical appointments with at least 2 weeks notice to avoid occurrences but requests of this type are denied more often than not 
+		Nearly impossible to get time off outside of the 2 weeks vacation you choose at the beginning of every calendar year. If you have any health needs that require visits to the doctor or dentist, this is not the job for you.
+
+
+	Summary: 
+		Ok for a year if you need experience
+
+
+Review 8:
+	Job Title: Senior Computer Operator
+	Location: Tulsa, OK
+	Review Date: 2023-11-29T23:35:37.777
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The people who worked beside you are really great and helpful when on the job. 
+		The direct supervisors were not only helpful when learning new things, they are also have a wealth of knowledge.
+		The pay was decent.
+
+
+	Cons: 
+		The upper management doesn't care at all about the employees.
+		Upper management will often force decisions down that you know are bad for the system. Even if you voice your concerns, they don't care.
+		They've had to duct tape the system together so much that nothing is consistent. This is because of TPF changing over the years, but also because of upper managements lack of foresight.
+		The hours are horrible. A rotating 7 day schedule isn't easy to do.
+		TPF is going out of the IT world pretty soon. So learning anything about it won't benefit you very much outside of a very niche market.
+		There's no opportunities to move up in the company because upper management won't hire new employees.
+		They recently announced that they were having "financial issues". Due to this, management has forced down cost cutting measures and put off hiring much needed help for the desk.
+
+
+	Summary: 
+		I would not recommend working here
+
+
+Review 9:
+	Job Title: Senior Assistant Customer Support
+	Location: None
+	Review Date: 2023-10-04T19:34:12.510
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		The ability to build your resume with knowledge of the annuity new business process. Flexible vacation, but NOT flexible vacation Full time work from home
+
+
+	Cons: 
+		Low salary with no chance of raises (even though at one point we were told raise and bonus information would come shortly) and 9+ months later were told in a townhall (after 55 of the 60 min meeting was about nothing that pertained to you or your job) that actually no, raises and bonuses won’t be happening and also, be glad you aren’t getting laid off. That was 3 years ago. Zero consistency amongst fellow teams in regards to how you are measured by productivity stats. Zero consistency in now PTO is approved/declined due to its “unlimited” status. It is 100% manager discretion, and depending on their mood for the day, the policy also changes daily. Gaslighted in how any and all stats are calculated, because it is all manager discretion. While other teams doing the exact same work as your team are getting by with doing the bare minimum, you are being told your stats are terrible (but still better than other teams), auditing and basically being micromanaged is next. Only a matter of time before all work will eventually be moved offshore. You may even be asked to train offshore reps your job, just before you are laid off. If you are wanting to make a claim with HR on management, good luck. It’s a never ending maze that will eventually make you so frustrated, you give up.
+
+
+	Summary: 
+		Great resume builder, but move on
+
+
+Review 10:
+	Job Title: Principal Architect
+	Location: Tysons Corner, VA
+	Review Date: 2024-04-12T07:25:15.957
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Pay was decent for the location.
+
+
+	Cons: 
+		Everyday you wondered who around you would be let go.
+
+
+	Summary: 
+		Didn't care about their employees
+
+
+Review 11:
+	Job Title: Associate Manager
+	Location: None
+	Review Date: 2024-04-10T13:02:27.200
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great people
+		Unlimited vacation 
+		Great accounts supported
+
+
+	Cons: 
+		Pay is low for the current market
+		No type of bonuses
+		Salary increases are rare
+
+
+	Summary: 
+		In my opinion
+
+
+Review 12:
+	Job Title: SR ANALYST
+	Location: Hartford, CT
+	Review Date: 2024-02-07T11:47:09.583
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		The only good things about DXC is remote first culture and the time off.
+
+
+	Cons: 
+		Management has no clue. I've been working for DXC formally CSC for 13 years. It was hard to move positions within the company. Once you get in they don't let you move, they say it all the time but barely ever happens. New job titles to try to make employees happy but doesn't work. no raises. I haven't seen a raise in years even during our pay restructure. Have gotten great reviews. I got thrown more and more work because I actually do work. Most of the company are just freeloaders. I could go on about the cutlure. Its best to stay away or use as a quick stop, stepping stone. I'm looking to leave. i should have a long time ago.
+
+
+	Summary: 
+		Stay Away
+
+
+Review 13:
+	Job Title: IT Technician II
+	Location: Philadelphia, PA
+	Review Date: 2024-01-24T05:34:54.847
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Experience in industry. Working with large companies
+
+
+	Cons: 
+		Mostly every aspect of the job is a con. No member of management really seemed to care for your well-being. Penalized for having hospital emergency and had HR meeting to find ways to deal with my poor attendance even though it was 2 sick days and one hospital visit. Many people quit without notice because of poor treatment from HR. My direct manager was a good man. Everyone else in the chain was very rude at every interaction. Was given 2x original work duties as reward for my good work. No extra compensation associated with it and nothing to show for it. They have a reward system in place but it was strongly biased to client facing employees. So many of the harder working employees never saw any rewards for their work. While one single employee would receive rewards multiple times each week.
+
+
+	Summary: 
+		HR sucks
+
+
+Review 14:
+	Job Title: Program Manager
+	Location: Detroit, MI
+	Review Date: 2024-04-06T17:08:09.833
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Autonomy
+		Few other pros in MW
+
+
+	Cons: 
+		Wouldn't come through on a promised promotion
+		Good ratings do not lead to salary increases
+		In MW Delivery, decent managers but lack of quality leaders
+		Would be better off working elsewhere
+
+
+	Summary: 
+		Dysfunctional in Modern Workplace
+
+
+Review 15:
+	Job Title: Analyst
+	Location: San Francisco, CA
+	Review Date: 2024-04-08T09:13:49.240
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good management. Opportunity to advance.
+
+
+	Cons: 
+		No major cons to mention
+
+
+	Summary: 
+		Good place to work
+
+
+Review 16:
+	Job Title: Senior Business Analyst
+	Location: None
+	Review Date: 2024-01-25T18:02:26.307
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		I worked with some truly spectacular colleagues, oh some fascinating projects. I learned a great deal. Colleagues were mostly very open and supportive. Management mostly gets out of the way and lets you do. your thing.
+
+
+	Cons: 
+		In almost 5 years I got a 3% pay raise. Not per year. TOTAL. VERY stingy raises. I was promised a promotion for a year by FOUR different managers. It never happened. Then they laid me off claiming there was no business.
+		
+		I worked with a lot of great people at DXC but the pay is below par, opportunities for advancement are few and 6 years on, DXC is still dealing with the fallout from the CSC/HPE merger in ways that hamper the company with things large and small.
+
+
+	Summary: 
+		Sometimes great sometimes a nightmare
+
+
+Review 17:
+	Job Title: Senior Technical Consultant
+	Location: Europa, MO
+	Review Date: 2024-03-26T02:16:04.643
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		You’re able to work remote (at home).
+
+
+	Cons: 
+		DXC expected its shares to rise faster and communicated this to stakeholders. Hence the shares dropped. Even though the employees worked just as hard as last year, none of them got a raise in this time of inflation due to disappointing numbers.
+
+
+	Summary: 
+		Would avoid
+
+
+Review 18:
+	Job Title: Account Delivery Manager
+	Location: Orlando, FL
+	Review Date: 2024-04-15T11:17:30.087
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good people working on good relationships
+
+
+	Cons: 
+		Management has very stringent methods
+
+
+	Summary: 
+		No salary change
+
+
+Review 19:
+	Job Title: Practice Partner
+	Location: New York, NY
+	Review Date: 2024-03-14T11:52:52.613
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		A few smart people remain but most of the genuinely good people have left.
+
+
+	Cons: 
+		The fundamental business model is flawed. Commitments are made to clients with zero resources with which to meet those commitments. Raises and bonuses have been promised for 8 years and the promises have proven to be as good as DXC's on time payments to vendors.
+
+
+	Summary: 
+		Astonishingly bad company
+
+
+Review 20:
+	Job Title: None
+	Location: Austin, TX
+	Review Date: 2024-03-24T13:06:17.910
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Great people that came from Fruition. Good talent
+
+
+	Cons: 
+		ServiceNow was an afterthought when becoming part of the CSC HP merger that made DXC. A lot of big management changes in the 2 years I was there.
+
+
+	Summary: 
+		The ServiceNow part of DXC was a mess
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

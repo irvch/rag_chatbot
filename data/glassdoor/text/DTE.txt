@@ -1,0 +1,635 @@
+
+DTE Energy is a Utilities: Gas and Electric company based in 48226 Detroit, Michigan. 
+The company has 10,250 employees and has a revenue of $19,228 according to Fortune 500.
+The company is valued at $22,577 and has a profit of $1,083. The CEO of the company is Gerardo Norcia.
+
+The Company has the following ratings: 
+Average ratings for DTE Energy:
+Business Outlook: 0.54
+
+Career Opportunities: 3.4
+Distribution: 
+	1: 63 
+	2: 73 
+	3: 133 
+	4: 147 
+	5: 177 
+
+CEO: 0.61
+
+Compensation and Benefits: 3.7
+Distribution: 
+	1: 22 
+	2: 42 
+	3: 120 
+	4: 196 
+	5: 210 
+
+Culture and Values: 3.6
+Distribution: 
+	1: 63 
+	2: 54 
+	3: 84 
+	4: 125 
+	5: 233 
+
+Diversity and Inclusion: 3.7
+Distribution: 
+	1: 37 
+	2: 23 
+	3: 42 
+	4: 45 
+	5: 149 
+
+Overall: 3.7
+Distribution: 
+	1: 51 
+	2: 65 
+	3: 145 
+	4: 232 
+	5: 282 
+
+Senior Management: 3
+Distribution: 
+	1: 101 
+	2: 78 
+	3: 122 
+	4: 136 
+	5: 147 
+
+Work Life Balance: 3.4
+Distribution: 
+	1: 78 
+	2: 58 
+	3: 107 
+	4: 148 
+	5: 199 
+
+Review Count: 782
+
+Recommend to Friend: 
+	RECOMMEND: 379
+	WONT RECOMMEND: 156
+
+
+
+
+The company has 1174 reviews on Glassdoor. The last review was posted on 2024-04-17T16:15:34.323. 
+There are 20 Reviews for DTE Energy:
+
+Review 1:
+	Job Title: Buyer
+	Location: Detroit, MI
+	Review Date: 2024-04-11T12:29:53.453
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Big on safety 
+		Good work life balance
+
+
+	Cons: 
+		We have to return to in office work 3 days a week
+
+
+	Summary: 
+		Great company
+
+
+Review 2:
+	Job Title: Gas Engineer
+	Location: Detroit, MI
+	Review Date: 2024-04-12T11:57:54.837
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		I generally enjoy the people I work with. Not many difficult personalities. 
+		Stable career. Company is stubborn about not laying people off.
+		Hybrid work structure. WFH on Mondays and Fridays
+
+
+	Cons: 
+		Salary could be a little better, particularly compared to other gas utilities.
+		Recent financial struggles of the company have caused some frustration. Promotions were frozen, tuition repayment program was paused, and open positions were left open leading to understaffing. This “lean mode” period is gradually getting better but still a challenge.
+
+
+	Summary: 
+		Solid company
+
+
+Review 3:
+	Job Title: Associate Engineer
+	Location: Detroit, MI
+	Review Date: 2024-04-15T18:33:11.267
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Every Group is different. One group can be amazing to work in &amp; Another group can be TOXIC.
+
+
+	Cons: 
+		Certain Leadership is non-existent in certain groups. Starting from Supervisors to Managers to Directors.
+
+
+	Summary: 
+		Entry Level Engineer (Southwest )
+
+
+Review 4:
+	Job Title: Technical Writer
+	Location: Westland, MI
+	Review Date: 2024-04-17T16:15:34.323
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Good benefits, decent pay, fine.
+
+
+	Cons: 
+		Micro managey, lack of communication. Leaders lack vision and drive.
+
+
+	Summary: 
+		Not great
+
+
+Review 5:
+	Job Title: Customer Service Representative
+	Location: Detroit, MI
+	Review Date: 2024-04-16T13:05:58.123
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Work from home, computer provided
+
+
+	Cons: 
+		Back to back calls, promise of advancements, but no opportunities.
+
+
+	Summary: 
+		Remote Work
+
+
+Review 6:
+	Job Title: Specialist
+	Location: Detroit, MI
+	Review Date: 2024-04-13T22:58:47.757
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good company. Overall cares about employees
+
+
+	Cons: 
+		Depending on department - work life balance may not be the best
+
+
+	Summary: 
+		Good Company
+
+
+Review 7:
+	Job Title: Product Specialist
+	Location: Detroit, MI
+	Review Date: 2024-04-08T13:38:28.357
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Storms bring out the best in our company, working long hours to restore energy to affected customers
+
+
+	Cons: 
+		Detroit city taxes, hybrid work
+
+
+	Summary: 
+		Great people and leadership, lots of creative solutions in works 
+
+
+Review 8:
+	Job Title: Student Co-Op
+	Location: Grand Rapids, MI
+	Review Date: 2024-04-11T09:44:39.860
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Flexibility and understanding from leadership.
+
+
+	Cons: 
+		Lack of face to face time with co-workers.
+
+
+	Summary: 
+		Student Co-Op Salary review
+
+
+Review 9:
+	Job Title: Engineer Associate
+	Location: Detroit, MI
+	Review Date: 2024-04-11T16:03:22.173
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Lots of experience and responsibility
+
+
+	Cons: 
+		Responsibility doesn't match pay and lots of expected OT
+
+
+	Summary: 
+		Good Place to work but Retirement Approaches
+
+
+Review 10:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-14T13:37:25.753
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Well they started will full remote...
+
+
+	Cons: 
+		They are mandating a return to work and offering VSIPs to get rid of employees. They say they arent going to lay anyone off but the policies they are implementing is trying to get employees to leave so they don't have to. They continue to say how they are going to grow but refuse to hire and are ona spending freeze.
+
+
+	Summary: 
+		Could be better
+
+
+Review 11:
+	Job Title: Analyst
+	Location: None
+	Review Date: 2024-04-09T21:15:40.913
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The job security is good
+
+
+	Cons: 
+		They pay rate is not the best
+
+
+	Summary: 
+		NA
+
+
+Review 12:
+	Job Title: None
+	Location: Detroit, MI
+	Review Date: 2024-03-26T16:20:26.113
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Great pay
+		Excellent community involvement
+		Good job security
+
+
+	Cons: 
+		Lack of advancement opportunities
+		Ineffective leadership
+		Ancient compensation structure and benefits
+		Union dominated
+		Employee entitlement mindset
+		Doesn’t know what it wants to be when it grows up
+		Good ol’ boys club mentality
+		Wastes money at customers’ expense
+
+
+	Summary: 
+		Great pay, Poor Leadership
+
+
+Review 13:
+	Job Title: Customer Service Representative
+	Location: Michigan Center, MI
+	Review Date: 2024-04-05T08:52:52.267
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		good pay and great benefits
+
+
+	Cons: 
+		Analysts are lazy and ignore your requests
+
+
+	Summary: 
+		Stressful
+
+
+Review 14:
+	Job Title: None
+	Location: Detroit, MI
+	Review Date: 2024-03-27T11:48:14.490
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		good pay, has been stable
+
+
+	Cons: 
+		old management believes only in management styles they grew in, can't understand how people connect without the potential of seeing someone you know in an elevator.
+
+
+	Summary: 
+		good pay, old-school management style
+
+
+Review 15:
+	Job Title: Analyst
+	Location: Detroit, MI
+	Review Date: 2024-04-02T16:35:38.780
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Good benefits and good work-life balance
+
+
+	Cons: 
+		Upward mobility is difficult to achieve
+
+
+	Summary: 
+		Good benefits
+
+
+Review 16:
+	Job Title: Project Manager
+	Location: Detroit, MI
+	Review Date: 2023-12-24T07:48:10.750
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Mature Work force with hard working employees
+
+
+	Cons: 
+		Young talent should look elsewhere until changes are made. Currently led by old school management who protect their own compensation but provide minimal compensation increases even after run away inflation effectively greatly reducing the value of existing compensations. Back to work plan in 2024 with majority of days of the week required on site. Storm Duty required for all employees sending them out in the field checking for downed wires in frequently hazardous conditions.
+
+
+	Summary: 
+		Old School Company that Ignores Current Realities
+
+
+Review 17:
+	Job Title: Associate Engineer
+	Location: Detroit, MI
+	Review Date: 2024-03-18T14:44:34.340
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		DTE is very good with benefits
+
+
+	Cons: 
+		I feel like it was hard to receive help due to inexperience of other employees
+
+
+	Summary: 
+		Industrial Engineer at company
+
+
+Review 18:
+	Job Title: Project Manager
+	Location: Detroit, MI
+	Review Date: 2024-03-20T06:34:39.843
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good people, flexible schedules till july
+
+
+	Cons: 
+		Sometimes there is a lot going on at the same time
+
+
+	Summary: 
+		Not too bad
+
+
+Review 19:
+	Job Title: Customer Service Representative
+	Location: Detroit, MI
+	Review Date: 2024-03-18T12:10:42.623
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The job is okay when it’s slow.
+
+
+	Cons: 
+		Not worth the money, customers are terrible and the company sucks
+
+
+	Summary: 
+		It’s okay
+
+
+Review 20:
+	Job Title: Customer Resolutions Specialist
+	Location: Detroit, MI
+	Review Date: 2024-03-18T17:24:03.403
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Stable, don’t have to worry about layoffs
+
+
+	Cons: 
+		No training and few opportunities
+
+
+	Summary: 
+		Ok
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

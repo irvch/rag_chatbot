@@ -1,0 +1,634 @@
+
+Albemarle is a Chemicals company based in 28209 Charlotte, North Carolina. 
+The company has 7,400 employees and has a revenue of $7,320 according to Fortune 500.
+The company is valued at $25,928 and has a profit of $2,690. The CEO of the company is Kent Masters.
+
+The Company has the following ratings: 
+Average ratings for Albemarle:
+Business Outlook: 0.51
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 29 
+	2: 47 
+	3: 66 
+	4: 70 
+	5: 58 
+
+CEO: 0.73
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 8 
+	2: 28 
+	3: 60 
+	4: 98 
+	5: 77 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 36 
+	2: 29 
+	3: 57 
+	4: 60 
+	5: 76 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 19 
+	2: 9 
+	3: 22 
+	4: 42 
+	5: 57 
+
+Overall: 3.8
+Distribution: 
+	1: 24 
+	2: 39 
+	3: 71 
+	4: 108 
+	5: 82 
+
+Senior Management: 3.2
+Distribution: 
+	1: 50 
+	2: 53 
+	3: 54 
+	4: 57 
+	5: 55 
+
+Work Life Balance: 4
+Distribution: 
+	1: 24 
+	2: 27 
+	3: 72 
+	4: 72 
+	5: 77 
+
+Review Count: 325
+
+Recommend to Friend: 
+	RECOMMEND: 160
+	WONT RECOMMEND: 78
+
+
+
+
+The company has 397 reviews on Glassdoor. The last review was posted on 2024-04-16T18:40:46.430. 
+There are 20 Reviews for Albemarle:
+
+Review 1:
+	Job Title: Chemical Engineer
+	Location: Charlotte, NC
+	Review Date: 2024-04-16T18:40:46.430
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good work/life balance, plenty of opportunities to learn and grow, competitive pay &amp; benefits
+
+
+	Cons: 
+		Design work can be stifled by the lack of communication between different teams
+
+
+	Summary: 
+		Good pay, benefits, and growth opportunities, some annoying bureaucracy
+
+
+Review 2:
+	Job Title: Manufacturing Process Engineer
+	Location: None
+	Review Date: 2024-04-16T18:03:30.240
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Good insurance, dental, and vision.
+
+
+	Cons: 
+		The culture could be better
+
+
+	Summary: 
+		Good
+
+
+Review 3:
+	Job Title: E&I Technician
+	Location: Magnolia, AR
+	Review Date: 2024-04-09T17:31:46.643
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		It was a good place to work. Job security
+
+
+	Cons: 
+		Lots of overtime and sometimes not enough man power
+
+
+	Summary: 
+		Good place
+
+
+Review 4:
+	Job Title: Talent Attraction Partner
+	Location: Charlotte, NC
+	Review Date: 2024-03-28T17:07:22.053
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Pay and Benefits are above standard depending on background and expertise.
+
+
+	Cons: 
+		The stability of the company.
+
+
+	Summary: 
+		Great Benefits
+
+
+Review 5:
+	Job Title: Senior Staff
+	Location: Charlotte, NC
+	Review Date: 2024-03-10T08:55:38.350
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Compensation and benefits are more than average.
+
+
+	Cons: 
+		Typical of the trying to look good company. Internally it is rotten to the core. People at the leadership level are mediocre and only watching out for themselves. Bootlicking and lip-service are a definite must haves to thrive and survive in this company. Technical, Functional and SME knowledge of area of operation are not required.
+
+
+	Summary: 
+		Look somewhere else
+
+
+Review 6:
+	Job Title: None
+	Location: None
+	Review Date: 2024-02-26T05:23:42.623
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Pay is pretty good, benefits as well, colleagues are engaged and easy to work with
+
+
+	Cons: 
+		Due to a re-org, the company isn't very clear on it's own identity right now, upper management isn't communicating what the plan is, too many silos make company wide initiatives next to impossible
+
+
+	Summary: 
+		Lots of Potential - Currently Confused
+
+
+Review 7:
+	Job Title: IT Associate
+	Location: Charlotte, NC
+	Review Date: 2024-02-29T16:21:53.423
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Good benefits. Good people at the associate level.
+
+
+	Cons: 
+		Terrible management environment. Poor business forecasting.
+
+
+	Summary: 
+		Not recommended
+
+
+Review 8:
+	Job Title: Marketing
+	Location: Charlotte, NC
+	Review Date: 2024-02-08T16:53:00.617
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Progressive working environment. Flexibility with working from home or office.
+
+
+	Cons: 
+		Poor leadership. Silos across the organization. Inability to develop vision based on market insights. Spent money like drunken sailors with the run up of lithium pricing. Paying for the lack of vision, laying off personnel. Recent layoffs have impacted many, those that have uprooted and relocated only to be told they don't have a position any longer.
+
+
+	Summary: 
+		Poor leadership, vision and Sr. Management.
+
+
+Review 9:
+	Job Title: Mechanical Engineer Co-op
+	Location: Magnolia, AR
+	Review Date: 2024-02-21T08:21:46.560
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Compensation is top notch and good.
+
+
+	Cons: 
+		Location is poor. Rural Arkansas is not it
+
+
+	Summary: 
+		Great Environment, unfortunate location
+
+
+Review 10:
+	Job Title: HR Operation Specialist
+	Location: Charlotte, NC
+	Review Date: 2024-02-01T04:53:54.873
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		It's a great company more to grow professionally and great benefit package.
+
+
+	Cons: 
+		Unexpected layoff this year, Unfortunately there were no indications of budget issues.
+
+
+	Summary: 
+		Amazing place to work
+
+
+Review 11:
+	Job Title: Software Developer
+	Location: Charlotte, NC
+	Review Date: 2023-12-12T15:01:57.103
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		- You won't be forced to churn out code constantly/stay late
+		- The pay is okay
+		- Most people are fairly nice
+		- There have pension and really good 401k matching
+
+
+	Cons: 
+		- Expect for most dev roles that your skills will deteriorate. If you don't skill build on your own, you'll struggle finding your next job.
+		- There is a strong fear of in-house development. If you ever encounter a scenario that has business value and would let you use your skillset, expect them to prefer outsourcing to a vendor (not even the best vendor), to a contractor, or for them to just change their mind and decide it isn't actually valuable.
+		- There are little to no developers at the company. Don't let the 9000 employee count fool you, you're pretty much on your own.
+		- The development practices are very immature and bureaucratic. Programmers don't get access to local admin for downloading libraries. It's a huge hassle to develop any Proof of Concepts. The company expects thorough approval before taking any productive action.
+		- Managers are not very technical or proactive, expect to find yourself being your own manager, finding your own use cases, setting up meetings with stakeholders, tracking down emails, playing secretary for menial tasks, etc. And on top of that, you'll need to work on explaining what you're working on to your manager and hope that they listened.
+		- No meaningful chances for mentorship, again you're on your own as a dev.
+
+
+	Summary: 
+		A relaxed company... too relaxed!
+
+
+Review 12:
+	Job Title: Engineer
+	Location: Baton Rouge, LA
+	Review Date: 2024-02-03T13:22:08.183
+	Business Outlook: NEUTRAL
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 3
+
+	Pros: 
+		Good culture, people, and benefits.
+		Work-life balance can be really good, if you are not doing any shift work.
+
+
+	Cons: 
+		A lot of 12-hour shift work.
+
+
+	Summary: 
+		Good work culture &amp; benefits
+
+
+Review 13:
+	Job Title: Supply Chain Manager
+	Location: None
+	Review Date: 2024-02-05T09:28:10.987
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		People were hard working and friendly
+
+
+	Cons: 
+		Leadership unable to plan or highly volatile market and enact mass layoffs ahead of hard times
+
+
+	Summary: 
+		Great people Poor Leadership
+
+
+Review 14:
+	Job Title: IT Helpdesk Support
+	Location: None
+	Review Date: 2024-02-01T08:35:13.557
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Core values.
+		Treat employees with respect and compassion.
+		Flexible work/life balance.
+
+
+	Cons: 
+		Salary range needs improvement. 
+		Better benefits and incentives could be provided.
+
+
+	Summary: 
+		One of the greatest companies to work for in my humble opinion
+
+
+Review 15:
+	Job Title: Senior HSE Manager
+	Location: Magnolia, AR
+	Review Date: 2024-01-31T06:26:53.453
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Local employees are like a family. Some of the best people I have ever worked it. It is also one of the best paying jobs in the area and good for the community.
+
+
+	Cons: 
+		Expectation is 24/7 365 days on-call.
+
+
+	Summary: 
+		Albemarle
+
+
+Review 16:
+	Job Title: Anonymous
+	Location: Charlotte, NC
+	Review Date: 2023-11-22T05:40:02.913
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Albemarle has a lot of potential and offers great benefits. They have a great program for interns.
+
+
+	Cons: 
+		That potential is dwindling. While the company is rapidly growing, it is losing everything that got it to where it is. It used to be am amazing company that followed a strong culture, but now, the culture is just something that gets sold to new people. Most of the best employees are flocking because they know that this company has turned toxic. They will tell you everyone is new because of the growth, but it's mostly because they don't promote from within (except for a select handful that get all of the promotions, some deserved, some not) and people left. Albemarle talks about opportunities and programs, but never delivers. We've been promised an internal mobility program for years. Your contributions and experience is not taken seriously when you make a formal complaint, and you are left feeling defeated. Many people will tell you the company pays well, but, they will also work you a lot. Very little work life balance as you're taking calls at all hours to accommodate the global reach of the company. Mid level managers micromanage and have very little direction how to manage properly. They tell you they care about employees, but even the latest engagement survey was worded to make them sound like they were improving and you could only add 250 words for general comments. They don't do anything with the results except saybthey are working on it. There's also rumors of favoritism as the CHRO has hired many people from her previous company, many that are not a culture fit and will tell everyone they are buddies with her, so people are afraid to speak out.
+
+
+	Summary: 
+		Used to be great....
+
+
+Review 17:
+	Job Title: Senior Engineer
+	Location: Kings Mountain, NC
+	Review Date: 2024-01-18T11:54:31.213
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Good benefits and work life balance. Generous when lithium prices are good.
+
+
+	Cons: 
+		Senior management is unable to correctly prepare for the cyclic nature of the commodities industry.
+
+
+	Summary: 
+		Generous when times are good
+
+
+Review 18:
+	Job Title: Project Contract Manager
+	Location: None
+	Review Date: 2024-02-04T17:55:50.477
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great work-life balance and pays well
+
+
+	Cons: 
+		Ciclicle market which causes job stability concerns
+
+
+	Summary: 
+		Great Company
+
+
+Review 19:
+	Job Title: None
+	Location: None
+	Review Date: 2024-01-29T07:49:09.290
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great opportunity for growth and variety
+
+
+	Cons: 
+		Lithium market can drive drive opportunities
+
+
+	Summary: 
+		Good company, driven by lithium market
+
+
+Review 20:
+	Job Title: Strategic Account Manager
+	Location: Charlotte, NC
+	Review Date: 2024-01-19T12:28:23.460
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Compensation is on the high side for good experience.
+
+
+	Cons: 
+		Poor executive leadership and strategy implementation.
+
+
+	Summary: 
+		Good not great.
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

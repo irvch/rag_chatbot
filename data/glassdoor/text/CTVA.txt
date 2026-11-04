@@ -1,0 +1,623 @@
+
+Corteva is a Food Production company based in 46268 Indianapolis, Indiana. 
+The company has 21,000 employees and has a revenue of $17,455 according to Fortune 500.
+The company is valued at $42,977 and has a profit of $1,147. The CEO of the company is Chuck Magro.
+
+The Company has the following ratings: 
+Average ratings for Corteva:
+Business Outlook: 0.71
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 82 
+	2: 102 
+	3: 251 
+	4: 251 
+	5: 241 
+
+CEO: 0.82
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 29 
+	2: 66 
+	3: 204 
+	4: 325 
+	5: 303 
+
+Culture and Values: 3.9
+Distribution: 
+	1: 66 
+	2: 75 
+	3: 147 
+	4: 245 
+	5: 390 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 43 
+	2: 50 
+	3: 118 
+	4: 193 
+	5: 363 
+
+Overall: 4
+Distribution: 
+	1: 48 
+	2: 79 
+	3: 198 
+	4: 364 
+	5: 436 
+
+Senior Management: 3.4
+Distribution: 
+	1: 123 
+	2: 109 
+	3: 211 
+	4: 249 
+	5: 217 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 72 
+	2: 82 
+	3: 169 
+	4: 288 
+	5: 311 
+
+Review Count: 1126
+
+Recommend to Friend: 
+	RECOMMEND: 641
+	WONT RECOMMEND: 169
+
+
+
+
+The company has 1577 reviews on Glassdoor. The last review was posted on 2024-04-16T18:41:46.883. 
+There are 20 Reviews for Corteva:
+
+Review 1:
+	Job Title: None
+	Location: Midland, MI
+	Review Date: 2024-03-10T20:26:42.597
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good all around work environment
+
+
+	Cons: 
+		Sometimes high stress manufacturing environment
+
+
+	Summary: 
+		Good
+
+
+Review 2:
+	Job Title: Project Specialist
+	Location: Indianapolis, IN
+	Review Date: 2024-04-16T18:41:46.883
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great place to work. The people make the place. Beautiful campus. Opportunity for growth.
+
+
+	Cons: 
+		Growth can feel subjective since promotions aren't guaranteed based off of the work you put in.
+
+
+	Summary: 
+		Project Specialist
+
+
+Review 3:
+	Job Title: Production Supervisor
+	Location: None
+	Review Date: 2024-04-16T09:10:20.387
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Seasonally changing. Nothing is redundant for a long period of time
+
+
+	Cons: 
+		By the time one can master a task, you move onto the next part of the seasonal operations
+
+
+	Summary: 
+		Great place to work 
+
+
+Review 4:
+	Job Title: Research Scientist
+	Location: Johnston, IA
+	Review Date: 2024-03-09T19:16:33.393
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Smart and kind people solving engaging problems in a supportive culture. Decent benefits.
+
+
+	Cons: 
+		Productive scientists rarely make good leaders, but productive scientists are inevitably moved into leadership. Some teams put in heroic hours all year without any additional reward - most commonly in roles where the individual couldn't easily transition to a different employer. At least those roles often come with good compensation for the midwest. Finance swings like a pendulum annually, flush with cash until October, then strapped until January 1st.
+
+
+	Summary: 
+		Some good, some less good
+
+
+Review 5:
+	Job Title: Enterprise UX Leader
+	Location: Johnston, IA
+	Review Date: 2024-04-01T10:51:16.380
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		The people at the company are fantastic individuals.
+
+
+	Cons: 
+		IT Leadership doesn't have a solid understanding of product development and relies on external consultants to provide new direction annually.
+
+
+	Summary: 
+		Products suffer under IT Leadership
+
+
+Review 6:
+	Job Title: Lab Systems Support Specialist
+	Location: Indianapolis, IN
+	Review Date: 2024-04-04T02:10:02.840
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Big company with many opportunities (as long as you're a minority)
+
+
+	Cons: 
+		Isn't focused on merit, performance, and potential. Focuses on checking specific DEI boxes instead.
+
+
+	Summary: 
+		DEI Troubles
+
+
+Review 7:
+	Job Title: None
+	Location: Woodhull, IL
+	Review Date: 2024-04-04T13:17:34.743
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Interesting and demanding position as a corn treater
+
+
+	Cons: 
+		For the responsibility of corn treating millions dollars of different types of corn, I felt I was underpaid.
+
+
+	Summary: 
+		Corn Treating
+
+
+Review 8:
+	Job Title: Senior Research Associate
+	Location: Johnston, IA
+	Review Date: 2024-03-20T06:37:28.537
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Exciting and challenging work that has positive impact in the world.
+
+
+	Cons: 
+		Newer company still figuring out how everything works together.
+
+
+	Summary: 
+		Great company
+
+
+Review 9:
+	Job Title: Supply Chain Manager
+	Location: Indianapolis, IN
+	Review Date: 2024-03-24T13:59:15.033
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great work life balance policies
+
+
+	Cons: 
+		Better understanding for job and role advancement
+
+
+	Summary: 
+		Flexibility 
+
+
+Review 10:
+	Job Title: Automation Engineer
+	Location: Midland, MI
+	Review Date: 2024-03-11T05:07:48.123
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Benefits and 401k match are nice
+
+
+	Cons: 
+		Leadership is not transparent with employees
+
+
+	Summary: 
+		Not like it used to be
+
+
+Review 11:
+	Job Title: Research Associate
+	Location: Johnston, IA
+	Review Date: 2024-02-07T14:16:07.100
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Amazing benefits, lots of opportunities for professional development and cross training, amazing company culture, acceptably diverse, and above average compensation.
+
+
+	Cons: 
+		Upper management can sometimes feel disconnected, but they are improving as scientists take on more upper tier roles. It’s diverse in terms of Asian/Indian representation but lacking BIPOC and other minorities. This could just be an Iowa issue though.
+
+
+	Summary: 
+		Supportive atmosphere
+
+
+Review 12:
+	Job Title: Seed Technician
+	Location: Doniphan, NE
+	Review Date: 2024-02-25T07:48:58.083
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Wonderful co-workers with a positive demeanor.
+		The work itself is varying and feels like good work.
+
+
+	Cons: 
+		A long commute of nearly an hour.
+
+
+	Summary: 
+		Positive work environment
+
+
+Review 13:
+	Job Title: Production Agronomist
+	Location: None
+	Review Date: 2024-02-26T13:28:26.530
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		competitive salary and benefits and pto
+
+
+	Cons: 
+		Hard to use PTO. Feel guilty about taking time off.
+
+
+	Summary: 
+		Good company to work for as a Salary employee.
+
+
+Review 14:
+	Job Title: Analyst
+	Location: Wilmington, DE
+	Review Date: 2024-02-26T10:07:49.673
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Established processes. Depth of talent to resolve issues
+
+
+	Cons: 
+		Like any big company, things aren't too nimble.
+
+
+	Summary: 
+		Basic Big-Company Pros &amp; Cons
+
+
+Review 15:
+	Job Title: Senior Engineer
+	Location: Midland, MI
+	Review Date: 2024-02-15T07:13:41.807
+	Business Outlook: NEGATIVE
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great people to work with. Time off policy. Work/life balance.
+
+
+	Cons: 
+		Corteva is slowly moving out of Crop Protection business. A restructuring is coming, which I am sure will result layoffs and/or resignations.
+
+
+	Summary: 
+		Business Units Matter
+
+
+Review 16:
+	Job Title: Computational Biologist Intern
+	Location: Johnston, IA
+	Review Date: 2024-02-28T09:10:29.230
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good culture, excellent team, innovation-driven.
+
+
+	Cons: 
+		None that I know of.
+
+
+	Summary: 
+		Great Place to work
+
+
+Review 17:
+	Job Title: Firefighter/EMT
+	Location: Pittsburg, CA
+	Review Date: 2024-03-10T15:45:03.997
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		there are no pros working at this company
+
+
+	Cons: 
+		they are a bad company to work for
+
+
+	Summary: 
+		bad place to work
+
+
+Review 18:
+	Job Title: District Leader
+	Location: Springfield, IL
+	Review Date: 2024-02-27T09:05:41.473
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		good products and trait outlook
+
+
+	Cons: 
+		thin workforce compared to other peers
+
+
+	Summary: 
+		Great Future
+
+
+Review 19:
+	Job Title: Field Scientist
+	Location: Italy, TX
+	Review Date: 2024-02-22T12:57:56.257
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Salary Company Car Insurance Bonus
+
+
+	Cons: 
+		Competition between colleagues. Bad working environment
+
+
+	Summary: 
+		Field Scientist
+
+
+Review 20:
+	Job Title: Experienced Senior Research Technologist
+	Location: Waimea, HI
+	Review Date: 2024-02-20T05:50:54.130
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Great people to work with
+
+
+	Cons: 
+		Poor advancement opportunities without the right clique
+
+
+	Summary: 
+		Ok
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

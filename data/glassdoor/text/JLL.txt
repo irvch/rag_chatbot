@@ -1,0 +1,638 @@
+
+Jones Lang LaSalle is a Real Estate company based in 60601 Chicago, Illinois. 
+The company has 103,300 employees and has a revenue of $20,862 according to Fortune 500.
+The company is valued at $6,926 and has a profit of $655. The CEO of the company is Christian Ulbrich.
+
+The Company has the following ratings: 
+Average ratings for Jones Lang LaSalle:
+Business Outlook: 0.67
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 673 
+	2: 859 
+	3: 1853 
+	4: 2378 
+	5: 2306 
+
+CEO: 0.88
+
+Compensation and Benefits: 3.5
+Distribution: 
+	1: 537 
+	2: 946 
+	3: 2430 
+	4: 2561 
+	5: 1557 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 750 
+	2: 730 
+	3: 1444 
+	4: 2332 
+	5: 2743 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 348 
+	2: 333 
+	3: 860 
+	4: 1397 
+	5: 2101 
+
+Overall: 3.9
+Distribution: 
+	1: 638 
+	2: 723 
+	3: 2046 
+	4: 3451 
+	5: 3117 
+
+Senior Management: 3.5
+Distribution: 
+	1: 1120 
+	2: 908 
+	3: 1808 
+	4: 2081 
+	5: 1923 
+
+Work Life Balance: 3.7
+Distribution: 
+	1: 801 
+	2: 856 
+	3: 1831 
+	4: 2236 
+	5: 2278 
+
+Review Count: 10294
+
+Recommend to Friend: 
+	RECOMMEND: 5221
+	WONT RECOMMEND: 1709
+
+
+
+
+The company has 11452 reviews on Glassdoor. The last review was posted on 2024-04-17T23:33:15.117. 
+There are 20 Reviews for Jones Lang LaSalle:
+
+Review 1:
+	Job Title: Payroll Administrator
+	Location: Chicago, IL
+	Review Date: 2024-03-18T12:37:49.907
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Great benefits and pay. Plenty of room for advancement.
+
+
+	Cons: 
+		Not a lot of work life balance
+
+
+	Summary: 
+		Great company 
+
+
+Review 2:
+	Job Title: Facilities Coordinator
+	Location: San Francisco, CA
+	Review Date: 2024-03-27T19:26:50.377
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		I would say JLL's best quality is that they will never lay you off. I can't speak for the past but when I started working there they do a good job with turnover. Also if some is not working at on an account they move you to another account. I would say they are the most stable employer I have had. They have a lot of jobs to offer, to that they may not always be the best jobs but they have a lot to offer. Really good to their employees, good management, good benefits, and overall pretty good working environment.
+
+
+	Cons: 
+		I would say pay is one of their biggest down sides. If you are just starting your career here the pay is not bad. If you are coming from one of their competitors or have a similar position somewhere else then most likely the pay will be less. Not a lot of room for advancement. There are a lot of jobs/positions but the most that are available or lower level and entry positions. Even if you advance to another position the pay and skill level do not increase that much until you get closer to upper management.
+
+
+	Summary: 
+		Pretty Good To Work For
+
+
+Review 3:
+	Job Title: System Administrator
+	Location: Sunnyvale, CA
+	Review Date: 2024-03-22T12:17:17.470
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Very bright hardworking individuals on every team I worked on
+		Internal Slack channels so we widely distributed IWMS Solutions Consultants could collaborate and knowledge share
+
+
+	Cons: 
+		Physically disabled and incapable of traveling for work? You'll want to look someplace else. As someone who should've been hired in as a Sr. IWMS Solutions Consultant (with the low end of the pay range starting at $115,000 a year, and I have more than the 5 years of experience needed to be considered Sr. level), instead hired as a Technical Specialist, then transferred to a System Administrator for only $75,000 a year. 
+		
+		Being overqualified, and therefore expected by management to work well outside of the hired job role, essentially performing 3 different jobs for the pay of 1.
+		
+		Really painful to see inexperienced kids get hired into the actual qualified job and then asking for help on basic questions in Slack, just because they have working arms and legs and someone else doesn't.
+
+
+	Summary: 
+		Great coworkers - Biased Hiring
+
+
+Review 4:
+	Job Title: Production Associate
+	Location: Miami, FL
+	Review Date: 2024-04-17T11:42:34.853
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		LL fosters a collaborative and inclusive work environment where teamwork and cooperation are highly valued. The firm encourages employees to contribute their unique perspectives and ideas, fostering a culture of innovation and creativity.
+		
+		JLL recognizes the importance of work-life balance in maintaining employee well-being. The firm promotes flexible work arrangements, supports a healthy work-life balance, and provides resources to help employees manage their personal and professional commitments effectively.
+		
+		JLL values its employees and fosters a supportive work environment. The firm offers various employee support programs, recognizes and rewards outstanding performance, and promotes a culture of appreciation and gratitude.
+
+
+	Cons: 
+		Limited remote options for administrative roles.
+
+
+	Summary: 
+		Overall #1 Place to Work
+
+
+Review 5:
+	Job Title: Maintenance Mechanic
+	Location: McLean, VA
+	Review Date: 2024-04-15T14:56:13.640
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Pay was truly competitive for the position within the job market at the time, staffed plentifully with plenty of optional overtime.
+
+
+	Cons: 
+		Revolving changes in leadership and slightly confusing bureaucracies.
+
+
+	Summary: 
+		Best maintenance job thus far!
+
+
+Review 6:
+	Job Title: Meetings and Events Manager
+	Location: New York, NY
+	Review Date: 2024-04-16T08:57:05.527
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		a lot of great opportunities for direct client-facing roles
+
+
+	Cons: 
+		large company, easy to get lost in the shuffle. benefits could be way better
+
+
+	Summary: 
+		large company, lots of worker bees
+
+
+Review 7:
+	Job Title: Facilities Coordinator
+	Location: Seattle, WA
+	Review Date: 2024-04-17T23:33:15.117
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		-Great Pay 
+		-Great Team
+		-Promotes Internally
+
+
+	Cons: 
+		-Not enough commute benefits
+		-Health care could be a tad better
+
+
+	Summary: 
+		Love working here
+
+
+Review 8:
+	Job Title: HVAC Service Technician
+	Location: Nashville, TN
+	Review Date: 2024-02-07T08:48:44.877
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Good benefits, was working on the state of Tennessee account. Was classified as a state employee, so got the JLL benefits plus the state benefits. PTO amount was great. We had all the state/federal holidays off, if the banks/postoffice was closed, we were off. Came to 11 holidays, plus when starting you have 15 pto days, 5 sick days. At the end of my 6 yr tenure I had 20 pto days(4 work weeks) plus the 11 federal holidays. Not to shabby.
+
+
+	Cons: 
+		1. Internal position promotions is pretty "cut throat". If you wasn't the suck up, you got passed over for a promotion, even if your skill set was better than the one that got the promotion. 2. Being that it was a state contract, JLL based the pay on the contract numbers. My same job, off the state account was paying over $15k more a year, with the same company. 3. Always on emergency call.
+
+
+	Summary: 
+		Decent company, below average salary
+
+
+Review 9:
+	Job Title: Tenant Engagement Manager
+	Location: Dallas, TX
+	Review Date: 2024-03-05T10:09:37.447
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		I had a nice boss. Wide network.
+
+
+	Cons: 
+		You become a number in the massive company. Lack of support for moms going on maternity leave. I was laid off because I took my maternity leave when I hit my year mark and this was after I got a raise, so my performance wasn't lacking. After getting let go, they offered to help me find another job within the company but HR didn't help much at all with that process.
+
+
+	Summary: 
+		JLL Review
+
+
+Review 10:
+	Job Title: Sr. Project Manager
+	Location: Portland, OR
+	Review Date: 2024-03-19T22:51:55.667
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Very large company with an extremely large portfolio of customers in many different industries. There is a lot of potential for horizontal and vertical movement depending on your expertise.
+
+
+	Cons: 
+		The biggest con for me is that I joined JLL to work at a customer site. While there is a ton of opportunity within JLL, when you work at a customer site it is very hard to grow relationships internally within the company to help find possible growth.
+
+
+	Summary: 
+		Different experience
+
+
+Review 11:
+	Job Title: Supplier Diversity Program Manager
+	Location: Chicago, IL
+	Review Date: 2024-04-15T08:53:18.627
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		An inclusive work environment that leaders do what they say they will do.
+
+
+	Cons: 
+		Be prepared to negotiate your salary come promotion time.
+
+
+	Summary: 
+		Once you get into JLL you won't want to leave
+
+
+Review 12:
+	Job Title: Facilities Manager
+	Location: None
+	Review Date: 2024-04-17T18:09:22.530
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good benefits and bonus package
+
+
+	Cons: 
+		Centralized programs can be inflexible.
+
+
+	Summary: 
+		JLL Facilities Manager
+
+
+Review 13:
+	Job Title: Facilites Manager
+	Location: Mountain View, CA
+	Review Date: 2024-04-01T10:52:01.770
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		JLL has gone to great lengths in the realm of employee improvement. Since beginning with JLL I've been included in multiple customer service trainings, as well as being selected to earn my IFMA FMP. This has been a great change of pace from other service providers and genially am grateful for the opportunity.
+
+
+	Cons: 
+		No cons to highlight as of yet
+
+
+	Summary: 
+		Top notch employee support
+
+
+Review 14:
+	Job Title: Analyst
+	Location: Atlanta, GA
+	Review Date: 2024-04-10T16:53:53.507
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		I enjoy the people here at JLL everyone is extremely kind and wants to help you grow and learn.
+
+
+	Cons: 
+		The pay is not great but there is a lot of upside given part of it is commission based if the market is hot.
+
+
+	Summary: 
+		Culture
+
+
+Review 15:
+	Job Title: Senior Project Manager
+	Location: New York, NY
+	Review Date: 2024-04-05T10:27:54.857
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		JLL allows one to work from home and grow within the company. You will work on world class projects of all different types, and have the opportunity to see projects grow from ground up.
+
+
+	Cons: 
+		I have not heard much about transferring within fields/disciplines considering the fact that it is such a large company with so much to offer.
+
+
+	Summary: 
+		Great place to work
+
+
+Review 16:
+	Job Title: Assistant Facilities Manager
+	Location: Redmond, WA
+	Review Date: 2024-04-15T20:23:20.983
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Lots of opportunities to learn within the company
+
+
+	Cons: 
+		You may end up in a bad account.
+
+
+	Summary: 
+		Review
+
+
+Review 17:
+	Job Title: Design Manager
+	Location: None
+	Review Date: 2024-04-14T12:43:26.977
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good work environment, interesting projects, opportunity
+
+
+	Cons: 
+		Shifting organizational structure, historically unstable brand, CRE environment challenging post-Covid
+
+
+	Summary: 
+		Excellent culture in design group
+
+
+Review 18:
+	Job Title: Analyst
+	Location: Washington, DC
+	Review Date: 2024-04-15T17:11:24.553
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good deal flow allows for significant learning.
+
+
+	Cons: 
+		Minimal work life balance is not fun.
+
+
+	Summary: 
+		Decent
+
+
+Review 19:
+	Job Title: Program Manager
+	Location: Chicago, IL
+	Review Date: 2024-04-15T12:41:01.147
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Pay
+		Values
+		Remote work
+		Work Life Balance
+
+
+	Cons: 
+		On-going layoffs
+		Some in lead positions do not get along with others
+
+
+	Summary: 
+		Overall Great Company
+
+
+Review 20:
+	Job Title: Mobile Engineer
+	Location: Seattle, WA
+	Review Date: 2024-03-19T11:02:10.813
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good benefits and PTO, Human Resources listens to complaints, Efforts to maintain a positive work environment despite the competitiveness of the business
+
+
+	Cons: 
+		Did sometimes feel like a cog in the machine and that I wasn't being provided quality opportunities to upgrade my knowledge and abilities for advancement. Started at a low base pay which affected my ability to make more money for a few years until they did a market analysis and adjusted my pay accordingly.
+
+
+	Summary: 
+		Great Company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

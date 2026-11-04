@@ -1,0 +1,643 @@
+
+Exelon is a Utilities: Gas and Electric company based in 60603 Chicago, Illinois. 
+The company has 19,063 employees and has a revenue of $19,078 according to Fortune 500.
+The company is valued at $41,651 and has a profit of $2,170. The CEO of the company is Calvin G. Butler.
+
+The Company has the following ratings: 
+Average ratings for Exelon:
+Business Outlook: 0.73
+
+Career Opportunities: 4
+Distribution: 
+	1: 63 
+	2: 89 
+	3: 198 
+	4: 233 
+	5: 322 
+
+CEO: 0.83
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 31 
+	2: 26 
+	3: 118 
+	4: 312 
+	5: 414 
+
+Culture and Values: 3.9
+Distribution: 
+	1: 80 
+	2: 85 
+	3: 163 
+	4: 226 
+	5: 314 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 21 
+	2: 13 
+	3: 55 
+	4: 80 
+	5: 182 
+
+Overall: 4.1
+Distribution: 
+	1: 67 
+	2: 74 
+	3: 198 
+	4: 368 
+	5: 390 
+
+Senior Management: 3.7
+Distribution: 
+	1: 103 
+	2: 114 
+	3: 200 
+	4: 267 
+	5: 211 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 100 
+	2: 118 
+	3: 235 
+	4: 227 
+	5: 223 
+
+Review Count: 1098
+
+Recommend to Friend: 
+	RECOMMEND: 628
+	WONT RECOMMEND: 178
+
+
+
+
+The company has 1372 reviews on Glassdoor. The last review was posted on 2024-04-14T06:03:01.367. 
+There are 20 Reviews for Exelon:
+
+Review 1:
+	Job Title: Principal Product Manager
+	Location: Chicago, IL
+	Review Date: 2024-03-26T20:21:50.643
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great Company to work for long term! Good benefits overall.
+
+
+	Cons: 
+		May be required to work extended hours during storms.
+
+
+	Summary: 
+		Great Company
+
+
+Review 2:
+	Job Title: Analyst
+	Location: Oakbrook Terrace, IL
+	Review Date: 2024-04-09T10:43:40.050
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 1
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		- Great Benefits (especially for Families)
+		- Worklife Balance
+		- "Golden Handcuffs" once you make Senior Manager and above you are set for the rest of your career with nice compensation package without much competition.
+
+
+	Cons: 
+		- HR Operations and Ethics protect interest of shareholders not employees.
+		- DEI messaging is hypocritical when it comes to employees with Disabilities. 
+		- Downside of "Golden Handcuffs" limits growth for those at the "Career Level" and results in retaining bad leaders who look out for themselves over employee development.
+
+
+	Summary: 
+		Typical Corporate America - Disability Discrimination is Real
+
+
+Review 3:
+	Job Title: Sr. Network Engineer
+	Location: Chicago, IL
+	Review Date: 2024-01-16T17:59:15.190
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Positive Work Environment: Exelon excels in fostering a positive and collaborative workplace. The atmosphere is friendly, and there's a sense of camaraderie among colleagues, contributing to a pleasant work experience.
+		
+		Team Support: The company promotes a supportive team culture, which enhances collaboration and teamwork. Colleagues are willing to help each other, creating a conducive environment for personal and professional growth.
+		
+		Internal Mobility Opportunities: Exelon provides employees with the ability to move around within the organization. This internal mobility allows individuals to explore different roles and career paths within the company, fostering professional development and a sense of career progression.
+
+
+	Cons: 
+		Below Average Compensation and Flexibility: One significant drawback is the below-average compensation offered by Exelon. The pay does not align with industry standards, which can impact overall job satisfaction and financial well-being for employees. The other drawback is the lack of flexibility in compensation. Once you are locked in there is no arguing.
+		
+		 Mandatory In-Office Days: Recently, the company has implemented a policy requiring employees to be in the office three days a week. This change, attributed to industry trends, may not sit well with everyone. It restricts the flexibility that some employees value, especially considering advancements in remote work technology.
+
+
+	Summary: 
+		Great work atmosphere, mediocre benefits
+
+
+Review 4:
+	Job Title: General Engineer
+	Location: Baltimore, MD
+	Review Date: 2024-04-14T06:03:01.367
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Work/Life Balance. Great Compensation. Diversity.
+
+
+	Cons: 
+		Onboarding process lacks structure. Construction season can be stressful.
+
+
+	Summary: 
+		Great Company
+
+
+Review 5:
+	Job Title: None
+	Location: Chicago, IL
+	Review Date: 2024-03-19T19:10:10.633
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good benefits and pay, that’s it
+
+
+	Cons: 
+		-horrible ceo who doesn’t care about the people that work here
+		-leadership team with no spine and don’t stand up to him, which continues to make employees lives miserable 
+		-lies lies lies and horrible communication about the constant change and pushing employees to do more and taking more and more flexibility away 
+		-no work life balance 
+		-horrible place for women to work, literally misogynistic and old school leadership mindset. The CEO literally doesn’t care about women or anyone raising families. 
+		-they talk about being innovative, but are quite literally the opposite. Leadership (CEO) keeps pushing changes that take us back 5 years
+		-a VP or SVP is fired every week and it feels very tumultuous
+
+
+	Summary: 
+		Run, don’t walk…away!
+
+
+Review 6:
+	Job Title: Principal
+	Location: Chicago, IL
+	Review Date: 2024-04-01T18:32:14.743
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		There is a good compensation package and broad opportunities to develop your career.
+
+
+	Cons: 
+		Every person and department is very much out for themselves and the competition and mistrust wears on you.
+
+
+	Summary: 
+		Intense and Competitive Environment
+
+
+Review 7:
+	Job Title: Senior Manager
+	Location: Washington, DC
+	Review Date: 2024-03-18T18:49:36.030
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Professional career oriented culture, knowledgeable employees, job security and competitive pay, lots of diverse experiences and job opportunities, excellent community engagement
+
+
+	Cons: 
+		Department leadership rotates frequently, bureaucrat structure and decision making
+
+
+	Summary: 
+		Good place to grow your career
+
+
+Review 8:
+	Job Title: Software Engineer
+	Location: Chicago, IL
+	Review Date: 2024-03-29T10:55:23.023
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Many Opportunities, Benefits, Tuition Reimbursement
+
+
+	Cons: 
+		Can be slow to adopt new technologies; regulated utility industry
+
+
+	Summary: 
+		Many Opportunities
+
+
+Review 9:
+	Job Title: Principal Project Manager
+	Location: Washington, DC
+	Review Date: 2023-09-25T06:41:04.040
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Exelon has been a great fit for me and my interests in the energy industry. It is a very large organization that recently split its generation business (Constellation) separate from its transmission and distribution business (Exelon). I like that they hire folks that are smart but highly collaborative and team players. There is a STRONG culture of teaching and training, to help create and maintain complex processes and create continuity on complex projects. Exelon remains a Fortune 100 company now after the split, and as a project manager, you have multiple ways to gain experience and make an impact. From hackathons, to the Exelon Analytics Academy which just received an IEEE award, to volunteerism, the company is a great long-term choice in the energy world. On a personal level, my manager and immediate team have been a Godsend in terms of being motivated, empathetic and collaborative. The company generally practices what it preaches. Other positives: -solid yearly bonus potential -the opportunity to work on projects that make a big difference for large number of residential and commercial customers across 6 operating companies
+
+
+	Cons: 
+		Lots of processes that may have a difficult learning curve in the beginning but efforts are constantly being made to streamline them. Some departments should hire more internal subject matter experts for continuity purposes when older team members retire.
+
+
+	Summary: 
+		A healthy company culture with low-turnover and great training opportunities
+
+
+Review 10:
+	Job Title: Technical Recruiter
+	Location: Baltimore, MD
+	Review Date: 2024-03-13T09:39:21.723
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Positive culture, allowed to operate independently. Given all of the tools and resources to be successful
+
+
+	Cons: 
+		Increasing amount of red tape and process within HR
+
+
+	Summary: 
+		Good company to work for - Good pay, benefits and bonus
+
+
+Review 11:
+	Job Title: Intern
+	Location: None
+	Review Date: 2024-03-09T13:19:25.637
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good manager, friendly employees, plenty of things to learn
+
+
+	Cons: 
+		Nothing other than return offer process was not organized or a smooth process
+
+
+	Summary: 
+		Amazing Internship
+
+
+Review 12:
+	Job Title: Manager
+	Location: Baltimore, MD
+	Review Date: 2024-03-15T02:17:42.033
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Bonus Payout remote work diversity
+
+
+	Cons: 
+		Long Hours selective hiring from within
+
+
+	Summary: 
+		Long Hours
+
+
+Review 13:
+	Job Title: IT Manager
+	Location: Chicago, IL
+	Review Date: 2024-03-10T16:09:58.787
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Exelon is very inclusive, supportive, transparent,
+
+
+	Cons: 
+		There are not really any cons to working here
+
+
+	Summary: 
+		Good Pay and supportive teams
+
+
+Review 14:
+	Job Title: Senior Analyst
+	Location: Washington, DC
+	Review Date: 2024-03-12T08:21:27.293
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good pay, great benefits, good work life balance
+
+
+	Cons: 
+		Some managers love micro managing
+
+
+	Summary: 
+		SENIOR ANALYST EXELON
+
+
+Review 15:
+	Job Title: Senior Accountant
+	Location: Newark, DE
+	Review Date: 2024-02-26T10:50:52.597
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Flexible Managers
+		Competitive Compensation
+		Amazing Team Members
+
+
+	Cons: 
+		CEO, Calvin Buter, decided to end remote work without consulting senior leadership after senior leadership had made promises that remote work was here to stay.
+
+
+	Summary: 
+		Solid Company To Work For
+
+
+Review 16:
+	Job Title: Associate Business Analyst
+	Location: Washington, DC
+	Review Date: 2024-02-10T21:11:46.277
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Collaborative, hard-working people without the toxicity of “hustle culture.” Great benefits, good work-life balance, good rapport across levels of the organization
+
+
+	Cons: 
+		Change management/hiring process can have too long of a lead time and operational decisions can feel disconnected from lower level employees even when we have been asked to provide our opinions
+
+
+	Summary: 
+		A great first job
+
+
+Review 17:
+	Job Title: Engineer
+	Location: Philadelphia, PA
+	Review Date: 2024-02-16T17:24:25.710
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		1) Quality Work experience and Quality Co-Workers
+		2) Good Pay
+		
+		3) Challenging Work
+
+
+	Cons: 
+		Can be slow paced some times.
+
+
+	Summary: 
+		Great Company, can be slow paced
+
+
+Review 18:
+	Job Title: Senior Software Engineer
+	Location: Colorado Springs, CO
+	Review Date: 2024-02-29T20:03:43.993
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Nice and stable salary. Teamwork.
+
+
+	Cons: 
+		Deadlines and stressful workflow sometimes.
+
+
+	Summary: 
+		Good company
+
+
+Review 19:
+	Job Title: Credit Analyst
+	Location: Washington, DC
+	Review Date: 2024-02-24T19:39:01.120
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Everyone is nice and helpful
+
+
+	Cons: 
+		No cons it's a great place to work
+
+
+	Summary: 
+		Great company
+
+
+Review 20:
+	Job Title: Manager
+	Location: None
+	Review Date: 2023-12-26T06:00:39.930
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good people, decent pay. Work hours were the normal 9 -5 for the most part.
+
+
+	Cons: 
+		Way too much focus on DEI and ESG and it showed in promotions. Instead of focusing on reliability and doing what's right for the customer, the company has gone towards fulfilling quotas at the expense of reliability and customer focus.
+
+
+	Summary: 
+		Too much focus on DEI and ESG
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,652 @@
+
+L3Harris Technologies is a Aerospace & Defense company based in 32919 Melbourne, Florida. 
+The company has 46,000 employees and has a revenue of $17,062 according to Fortune 500.
+The company is valued at $37,277 and has a profit of $1,062. The CEO of the company is None.
+
+The Company has the following ratings: 
+Average ratings for L3Harris Technologies:
+Business Outlook: 0.61
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 268 
+	2: 336 
+	3: 637 
+	4: 808 
+	5: 920 
+
+CEO: 0.7
+
+Compensation and Benefits: 3.7
+Distribution: 
+	1: 171 
+	2: 342 
+	3: 757 
+	4: 850 
+	5: 857 
+
+Culture and Values: 3.6
+Distribution: 
+	1: 376 
+	2: 324 
+	3: 593 
+	4: 653 
+	5: 1012 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 170 
+	2: 194 
+	3: 440 
+	4: 635 
+	5: 1150 
+
+Overall: 3.7
+Distribution: 
+	1: 261 
+	2: 368 
+	3: 789 
+	4: 1082 
+	5: 1137 
+
+Senior Management: 3.3
+Distribution: 
+	1: 554 
+	2: 404 
+	3: 602 
+	4: 612 
+	5: 764 
+
+Work Life Balance: 3.9
+Distribution: 
+	1: 232 
+	2: 261 
+	3: 574 
+	4: 874 
+	5: 1021 
+
+Review Count: 3651
+
+Recommend to Friend: 
+	RECOMMEND: 1864
+	WONT RECOMMEND: 771
+
+
+
+
+The company has 4090 reviews on Glassdoor. The last review was posted on 2024-04-17T12:49:56.003. 
+There are 20 Reviews for L3Harris Technologies:
+
+Review 1:
+	Job Title: Operational Excellence
+	Location: Melbourne, FL
+	Review Date: 2024-03-27T10:22:57.880
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		ERG, hardworking co-workers, interesting products.
+
+
+	Cons: 
+		Some bureaucracy at times which can make getting things done quickly difficult.
+
+
+	Summary: 
+		One of the best places I have ever worked
+
+
+Review 2:
+	Job Title: Lead Software Engineer
+	Location: Herndon, VA
+	Review Date: 2024-04-11T13:54:53.687
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Hybrid work options, liberal paid time off policy, 9/80 work schedule, good pay.
+
+
+	Cons: 
+		Upper level management has not done a good job at maintaining the various business units that became L3Harris as part of the L3/Harris merger. When we were acquired we were told that working for a big company would provide more opportunities, however over the past few years a once thriving business has eroded under L3Harris management. Bidding new jobs became a difficult and frustrating process. Getting new equipment like laptops became nearly impossible. Highly efficient cross functional teams were "functionalized" and reorganized based on engineering disciplines. This reorg meant that even members of the same contract and team now had many different managers located across the country. Getting licenses for standard engineering tools became a months long ordeal. It has become harder and harder to get work done. Many of us feel as though we spend nearly half of our time just dealing with "L3Harris problems" instead of getting real work done. I think your experience will greatly depend on what division and group you end up in, but there are more bad places to end up than good ones.
+
+
+	Summary: 
+		Poor executive level management
+
+
+Review 3:
+	Job Title: Engineer Analyst
+	Location: None
+	Review Date: 2024-04-17T08:58:04.747
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		You get to work on world class technology that supports national defense and other pretty cool commercial pursuits. There are some very smart people that you can learn a lot from.
+
+
+	Cons: 
+		1. DEI is killing morale, is exceedingly stupid, and needs to go. I know it's trendy, but the dirty little secret is that almost no one (including minorities) wants it. No one wants to be viewed as a DEI hire or a DEI promotion. DEI = Didn't Earn It. Hire and promote the best people in a color-blind way, period. If L3Harris doesn't do this, they will be surpassed by other companies that do. It's very simple.
+		
+		2. The raises this year were horrible. When the rest of the defense industry is giving 4-5% average raises, and cost of living is increasing @ 4%, L3Harris hands out 2-3% raises. This will cause a large portion of the org to make their own raise by looking for a new job. L3Harris made billions last year, there's really no excuse other than they think they can get away with it. We'll see...
+
+
+	Summary: 
+		Just OK
+
+
+Review 4:
+	Job Title: None
+	Location: Camden, NJ
+	Review Date: 2024-03-29T09:42:59.180
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		-Generous PTO policy given from union contract (doesn’t apply to all unions)
+		-met some really cool people that care a lot about their work and their job and the company
+
+
+	Cons: 
+		- If you’re in the union, there’s no chance of getting merit based raises so everybody gets the same raise per the agreement.
+		- Poor management who can’t keep anybody accountable and has ruined the moral for everyone who cares about the company.
+		- Upper management isn’t held accountable for anything and instead all of the workers on the factory floor get yelled at and blamed for their mistakes. Program management will berate you in front of everyone during program reviews and get away with it.
+		- You want to report a problem to HR? Good luck because they don’t exist. Not only are they not helpful, they’ll spend most of the time forwarding your email to another HR representative because it’s not “their” function
+		- the company is filled with people who openly milk time, don’t do work, play games, and sleep yet there’s no repercussions. Legal is scared to fire people because they’re afraid to get sued.
+		- Promotions are rare and are dependent on nepotism, you know the union leaders and manager well? You get promoted even if you’re qualified for position at all. It really seems like all good workers get more work and just a slap on the wrist.
+		- it seems like it’s Corporates plan to slowly shut down site by site. The company has been going downhill since the merge with Harris
+
+
+	Summary: 
+		L3Harris in a Nutshell
+
+
+Review 5:
+	Job Title: Engineer
+	Location: Rochester, NY
+	Review Date: 2024-03-20T04:58:32.850
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		When it was just L3 I could go on and on about the pros of the company but L3Harris - sorry, can't think of a single one.
+
+
+	Cons: 
+		L3Harris is woke, woke, woke. It you are a white male - you are most assuredly an endangered species. It's so bad that the turn over rate in HR is extraordinarily high due to the fact that they can't keep professionals and tell them to ignore qualifications and hire by race, gender and whatever else is on their woke dance card that week. I'm all for fair and equal treatment - but they pay no attention to the local population percentages and hire whomever they need to raise their score. I've seen, literally entire departments change race in a single year - and it was all the same race too - so where is the diversity in that?? Also, if you work there, and you are not woke but somehow make it past the screeners get ready for mandatory daily woke indoctrination via the corporate website that you must look at to get to the software you need to do your job. It's horrible - I could not wait to leave.
+
+
+	Summary: 
+		Not a good pace to work anymore. 
+
+
+Review 6:
+	Job Title: Production Planner
+	Location: Waco, TX
+	Review Date: 2024-04-04T12:14:48.400
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Pay is reasonable, people are usually good to work with, benefits are good.
+
+
+	Cons: 
+		Too woke. Too top heavy. They don’t hold upper management accountable for their poor management. They under bid for contracts just to win them, so they end up losing money. Then they lay off the workers rather than the managers who screwed up. You are forced to take racist DEI training that basically tells you to treat people of diversity better than anyone else. Vice President screamed at a worker in front of everyone for not wearing his ppe. Toxic work environments when you allow lazy workers to stay around while the people who actually work are given more work. Managers are brainwashed to be bots of the corporate system they don’t care about you or the work you do! They treat you like a vendor who they try and push payment terms out as far as they can because they miss manage funds, so vendors do want to work with L3Harris anymore. Before the merger L3 was a good company to work for since the hostile takeover it’s gone way downhill! They’ve taken PTO away, and benefits have been worse every year! All the upper management is taken care of but the workers are treated poorly.
+
+
+	Summary: 
+		Top heavy and too woke
+
+
+Review 7:
+	Job Title: Senior Specialist Engineer
+	Location: Huntsville, AL
+	Review Date: 2024-04-11T12:01:41.337
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		We do some pretty cool and innovative work that is fun to be a part of.
+
+
+	Cons: 
+		Ever since L3Harris bought Aerojet Rocketdyne things have gone downhill. Management only cares about dollar signs, and doesn't want to invest in facilities, technology, IRAD, or employees for long term success. Our team is overworked but there's a hiring freeze and they are threatening layoffs in the near future. They have cut benefits to the bone, and health insurance costs tripled from last year. The raise pool was 3.5% and that includes promotions, so even if you do get lucky enough to get promoted you get a 6% raise max. There's an open office pool on who's gonna quit next - it's like the Hunger Games where every week we lose someone else.
+
+
+	Summary: 
+		Things have gone downhill ever since L3Harris bought us
+
+
+Review 8:
+	Job Title: Software Engineer
+	Location: Dulles, VA
+	Review Date: 2024-04-02T06:49:55.383
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		* Parts of the company have great processes and talent
+		* 9/80 work schedule
+		* limitless vacation/sick time
+
+
+	Cons: 
+		* Senior leadership very disconnected from the needs of the employees
+		* Immature DEI model - Promoting incompetent minorities for sake of DEI appearance 
+		* Lack of interesting work for career growth
+		* Ethics team is only interested in protecting the company not the employee
+
+
+	Summary: 
+		Too much untapped potential and over-the-top DEI policies
+
+
+Review 9:
+	Job Title: Operator
+	Location: Batavia, OH
+	Review Date: 2024-03-01T12:49:29.483
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Pays a little bit more than a fast food job.
+
+
+	Cons: 
+		If you work in production, you’re treated as a slave by upper management. 
+		Promotions are given to the favorite brown nosing, useless workers instead of to those that work hard to earn it.
+		HR literally does nothing all day but give you a number to call that connects you to a call center in India.
+		Getting your W2s is like pulling teeth and takes forever.
+		They have supervisors there that have no problem dehumanizing you while acting like your friends in private.
+		There are no consequences for employees who belittle and scream at you, they just get moved to another line to torment for the time being. 
+		I can name so so much more but those are on the top of my head.
+
+
+	Summary: 
+		Disorganized hot mess
+
+
+Review 10:
+	Job Title: Sr Security Specialist
+	Location: Columbia, MD
+	Review Date: 2024-03-11T13:37:55.210
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Flexibility (good work life balance), education assistance, offers various professional associations and mentoring programs that create opportunities for growth, pay is competitive
+
+
+	Cons: 
+		Company is very top heavy, still not as diverse but the company is trying actively trying to diversify, smaller off-sites get left out at times and not afforded the same opportunities as the larger facilities
+
+
+	Summary: 
+		Great Place to Work
+
+
+Review 11:
+	Job Title: System Integration/ Test Engineer
+	Location: Palm Bay, FL
+	Review Date: 2024-04-16T09:26:33.110
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good pay and vacation/sick time off.
+
+
+	Cons: 
+		Laid off without any warning, 2 weeks severence pay, given 10 min and a box to grab what I could, weeks away from getting my yearly bonus, and the same day I was laid off they posted my exact job but for new grads they could pay much less. They laid off 5% of their workforce it has been said but they are still posting new job openings.
+
+
+	Summary: 
+		Laid Off To Hire New Grads
+
+
+Review 12:
+	Job Title: Research Scientist
+	Location: Rochester, NY
+	Review Date: 2024-04-15T00:07:16.497
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		High Technology work for military soldiers support
+
+
+	Cons: 
+		Management will not take risks and will no longer be leading edg technology without taking risks.
+
+
+	Summary: 
+		Fun Work high Technology
+
+
+Review 13:
+	Job Title: Senior Project Engineer
+	Location: Melbourne, FL
+	Review Date: 2024-03-04T08:04:03.720
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		One of the key advantages of working for the company is its flexibility regarding working hours, allowing employees to better balance their personal lives. The company places a strong emphasis on understanding employees' personal commitments. Additionally, the education assistance program is another valuable benefit, providing opportunities for personal and professional development. Accessibility to leaders throughout the organization is another benefit employees can reach out to leaders and schedule meetings to get guidance on their careers.
+
+
+	Cons: 
+		One drawback of working at the company pertains to the promotion process, which can be intricate and complex. While there are indeed opportunities for advancement, navigating the promotion system requires careful consideration. Despite this challenge, I genuinely appreciate the company and its overall environment.
+
+
+	Summary: 
+		WORKING AT L3HARRIS
+
+
+Review 14:
+	Job Title: ELECTRICALENGINEERING MANAGER
+	Location: San Diego, CA
+	Review Date: 2024-03-27T15:08:05.840
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Excellent local management that cares about their employees work with flexible schedules when possible and friendly environment overall. Promote from within usually vs hiring outside talent.
+
+
+	Cons: 
+		Organization outside of the local facility is not ideal. Company as a whole does not provide good raises despite success of a group/division/etc. If the whole company does poorly raises are poor for everyone. If your group exceeds all financial goals this has almost no impact on merit increases. Poor performer gets 2-3% Top Performer gets 3.5%. Provides little incentive to motivate contributors to excel.
+
+
+	Summary: 
+		San Diego has an especially good L3Harris Facility
+
+
+Review 15:
+	Job Title: Director of Engineering
+	Location: Salt Lake City, UT
+	Review Date: 2024-03-26T13:38:30.780
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Mission
+		People
+		Used to be schedule, it they recently took 4-10s
+		Pay is fairly competitive
+		Some remote available but slowly being taken away from everyone
+
+
+	Cons: 
+		Support of employees
+		Ability to hire critical positions
+		More focus on segment positions than local needs
+		Benefits - tout that premiums haven’t changed but available benefits have significantly
+		Lack of support for leadership - communication of changes before an inching to general employees 
+		Trust in local leadership
+		Lack of support for employees with experience and longevity. Would rather hire college graduates with no experience. Then wonder why not getting things accomplished.
+
+
+	Summary: 
+		Company not employee friendly and does not value tenure
+
+
+Review 16:
+	Job Title: Associate Software Engineer
+	Location: Rochester, NY
+	Review Date: 2024-04-16T18:17:52.070
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great place to get your foot in the door. Various internal opportunities that allows for career growth.
+
+
+	Cons: 
+		Could provide more opportunities for shadowing.
+
+
+	Summary: 
+		L3Harris Thoughts
+
+
+Review 17:
+	Job Title: Senior Continuous Improvement Specialist
+	Location: None
+	Review Date: 2024-03-13T12:27:32.013
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		I had the best work environment in all my professional experience. I had the best boss and peers anyone could have. It was Remote, with travel to the site, and there was a lot of room for creativity, innovation, and excelling at work. 
+
+
+	Cons: 
+		There are too many RIFs, at least one per year. You are always on the lookout to not be the next. Suddenly, when you do not expect it, you are the next looking for a new job. That does great harm to the team and puts you in a stressful situation against all the financial commitments you can have. 
+
+
+	Summary: 
+		Wonderful Company 
+
+
+Review 18:
+	Job Title: Systems Engineer
+	Location: Greenville, TX
+	Review Date: 2024-04-09T08:38:14.613
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Good money, Great Benefits. Always something interesting happening.
+
+
+	Cons: 
+		Micromanagement, constant budget issues, pointing fingers vs. solving problems, zero mentoring
+
+
+	Summary: 
+		L3H Greenville Life
+
+
+Review 19:
+	Job Title: Financial Analyst
+	Location: Jupiter, FL
+	Review Date: 2024-04-17T07:26:06.910
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 0
+
+	Pros: 
+		Interesting Defense and Space Products
+
+
+	Cons: 
+		Poor leadership, too large, uninformed broad brush layoffs after Merger with Aerojet Rocketdyne.
+
+
+	Summary: 
+		Typical Corporate
+
+
+Review 20:
+	Job Title: Systems Engineer
+	Location: Greenville, TX
+	Review Date: 2024-04-15T04:59:27.840
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Not very demanding work. Nice coworkers. Good PTO policy. Work can be interesting.
+
+
+	Cons: 
+		Poor management. Hard to stay busy. Poor direction from management on specific projects.
+
+
+	Summary: 
+		Mid
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

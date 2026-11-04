@@ -1,0 +1,693 @@
+
+Dell Technologies is a Computers, Office Equipment company based in 78682 Round Rock, Texas. 
+The company has 133,000 employees and has a revenue of $102,301 according to Fortune 500.
+The company is valued at $29,402 and has a profit of $2,442. The CEO of the company is Michael S. Dell.
+
+The Company has the following ratings: 
+Average ratings for Dell Technologies:
+Business Outlook: 0.69
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 596 
+	2: 761 
+	3: 2093 
+	4: 3434 
+	5: 4483 
+
+CEO: 0.88
+
+Compensation and Benefits: 3.7
+Distribution: 
+	1: 463 
+	2: 856 
+	3: 2655 
+	4: 3783 
+	5: 3533 
+
+Culture and Values: 4.2
+Distribution: 
+	1: 458 
+	2: 485 
+	3: 1303 
+	4: 2761 
+	5: 6240 
+
+Diversity and Inclusion: 4.3
+Distribution: 
+	1: 354 
+	2: 394 
+	3: 1129 
+	4: 2746 
+	5: 6584 
+
+Overall: 4.1
+Distribution: 
+	1: 445 
+	2: 576 
+	3: 2076 
+	4: 4683 
+	5: 6588 
+
+Senior Management: 3.8
+Distribution: 
+	1: 847 
+	2: 843 
+	3: 2066 
+	4: 3182 
+	5: 4258 
+
+Work Life Balance: 4.1
+Distribution: 
+	1: 488 
+	2: 566 
+	3: 1573 
+	4: 2811 
+	5: 5790 
+
+Review Count: 33386
+
+Recommend to Friend: 
+	RECOMMEND: 8392
+	WONT RECOMMEND: 1568
+
+
+
+
+The company has 36601 reviews on Glassdoor. The last review was posted on 2024-04-18T02:01:08.157. 
+There are 20 Reviews for Dell Technologies:
+
+Review 1:
+	Job Title: Specialist
+	Location: Indiana, PA
+	Review Date: 2024-04-15T08:37:40.997
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		One of the best work experience and very nice work culture.
+
+
+	Cons: 
+		Racing for the development and growth.
+
+
+	Summary: 
+		NA
+
+
+Review 2:
+	Job Title: Full Stack Developer
+	Location: None
+	Review Date: 2024-04-09T14:49:13.807
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 5
+
+	Pros: 
+		Diverse Product Portfolio: Dell Technologies offers a wide range of products and services including computers, servers, storage devices, networking equipment, and software solutions, providing customers with comprehensive technology solutions.
+		Innovation: Dell Technologies has a reputation for innovation, consistently introducing new products and technologies to meet evolving customer needs and industry trends.
+		Strong Brand Reputation: Dell Technologies is a well-established and recognized brand in the technology industry, known for reliability, quality, and customer service.
+		Global Presence: Dell Technologies operates globally, with a strong presence in various regions around the world, allowing them to serve a diverse customer base.
+		Customer Support: Dell Technologies offers comprehensive customer support services, including technical support, warranties, and service contracts, ensuring customers receive assistance when needed.
+
+
+	Cons: 
+		Pricing: Dell Technologies products and services can sometimes be priced higher compared to competitors, potentially making them less accessible to budget-conscious customers.
+		Complexity: The wide range of products and services offered by Dell Technologies can lead to complexity, both for customers in selecting the right solutions and for employees in managing and supporting them.
+		Customer Service Challenges: While Dell Technologies offers customer support services, some customers may experience challenges with response times, resolution of issues, or navigating support processes.
+		Competitive Market: The technology industry is highly competitive, with numerous competitors offering similar products and services, which can put pressure on Dell Technologies to differentiate itself and maintain market share.
+		Integration Issues: As Dell Technologies has grown through acquisitions, integrating different product lines and technologies can sometimes lead to challenges in compatibility, interoperability, and support.
+
+
+	Summary: 
+		Software Engineer
+
+
+Review 3:
+	Job Title: Principal Software Engineer
+	Location: None
+	Review Date: 2024-04-09T22:04:40.260
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Free coffee! That's it, really.
+
+
+	Cons: 
+		They're super cheap about everything. Bring your own tissues and pens, they don't supply any.
+		
+		Noisy office, no privacy, no assigned seating, no personal storage. Nowhere to keep a mug, or pads, or a change of shoes. You have to carry everything home every day.
+		
+		Remote work for any reason is very discouraged. If your kid is sick, or you have a dentist appointment, working from home for a day counts against you, so you have to take a sick day. Dell has an official policy that remote workers may not get promoted or change jobs, no exceptions. Do you think people stay out of the office when they're sick?
+		
+		Zero foresight. Executives change seats, and your project gets abandoned for whatever sales emergency or buzz word project of the quarter. Upper management is all yes-men. Executives control everything waterfall style. It's all about executives getting their compensation.
+		
+		Everything barely works. The apps they use, the wifi, the VPN, everything is broken, frustrating, and a waste of time. Everything is cost reduced to the bone.
+		
+		Good college hires leave after a year or two, bad college hires stick around. Need people for a project? They're in an office overseas, they have no experience in your type of product, they're gone a year later.
+		
+		EMC was a great company to work for. They cared. They made great products. Dell bought EMC. Dell does not care.
+
+
+	Summary: 
+		It's clear they do not care about you.
+
+
+Review 4:
+	Job Title: Small Business Sales
+	Location: Nashville, TN
+	Review Date: 2024-03-21T22:21:45.560
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Working at Dell was the worst year of my entire life and let me tell ya that really says something. Only pro is that as a recent grad I was able to make a lot of great friends.
+
+
+	Cons: 
+		Horrible management overall. Pretty much they target recent college grads just so they can use you, burn you out, and then fire you all within the same year. 
+		
+		My manager was one of the worst people to walk this planet. She truly a horrible person. She consistently harassed me on a daily basis, when this was reported to upper management and HR they did nothing but a slap on the wrist when everyone else on the team was experience the same thing. Upper management has extremely unrealistic expectations. Nothing is ever consistent, rules change on a weekly basis so no one has any idea what’s going on. You’ll only get new leads if you’re one of the select few that is favored, the other 90% of are forced out. Your quota doubles every single quarter making it impossible to hit unless you’re a favorite. The only path for growth is to the same exact role with barely any pay increase and doing the same job. I cannot stress enough how much you should not work here, don’t let the signing bonus fool you like it did me.
+
+
+	Summary: 
+		DO NOT WORK HERE ** RECENT GRADS BEWARE
+
+
+Review 5:
+	Job Title: Product Management
+	Location: Austin, TX
+	Review Date: 2024-04-15T09:38:35.823
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		1. Most colleagues genuinely care about each other
+		2. Work can be meaningful at times
+		3. Some managers provide lots of autonomy
+
+
+	Cons: 
+		1. Executive leadership (VP and higher) doesn't care about lower-level employees - they say they do, but their actions do not reflect this (constant re-orgs, belittlement, etc.)
+		2. Lots of politics involved in work life
+		3. Love to tout work-life balance, but with teams moving to Taiwan, this clearly isn't a priority anymore
+		4. LOVES to lay off staff who are genuinely good at their jobs, but unproductive workers tend to be retained
+		5. Internal tools are the WORST to deal with - antiquated and out of date - making it super lengthy to get anything done
+
+
+	Summary: 
+		Used to be great
+
+
+Review 6:
+	Job Title: Product Innovation Specialist
+	Location: New York, NY
+	Review Date: 2024-02-05T10:59:58.013
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Innovative Environment: One of the most significant advantages of working as a Product Innovation Specialist at Dell is the opportunity to be part of an innovative and forward-thinking company. Dell is known for its commitment to technological advancement, and this role allows professionals to actively contribute to groundbreaking ideas and solutions.
+		
+		Cross-Functional Collaboration: Working closely with cross-functional teams, including engineers, designers, marketers, and researchers, fosters a diverse and dynamic work environment. This collaboration encourages the exchange of ideas and perspectives, leading to well-rounded product development.
+		
+		Career Growth: Dell offers excellent opportunities for career growth and professional development. As a Product Innovation Specialist, you have the chance to gain expertise in cutting-edge technologies and play a crucial role in shaping the company's future direction.
+		
+		Impactful Work: The role provides a sense of purpose, as professionals in this position have a direct impact on the products Dell delivers to customers. Bringing innovative solutions to market can be highly rewarding, knowing that your contributions enhance the lives of technology users.
+
+
+	Cons: 
+		High Expectations: With a focus on innovation comes high expectations. Pressure to constantly generate novel ideas and solutions can be demanding, and the need to meet ambitious targets may lead to stressful situations.
+		
+		Uncertainty: The tech industry is highly competitive and rapidly evolving. This can lead to uncertainty in the market, which may affect job stability, especially if innovative projects face unexpected challenges or market shifts.
+		
+		Work-Life Balance: In the pursuit of innovation, professionals in this role may sometimes need to work long hours or deal with tight deadlines. Maintaining a healthy work-life balance can be challenging during particularly intense project phases.
+		
+		Resource Constraints: Innovation often requires substantial resources, and there may be constraints in terms of budgets, time, or available talent. Finding creative solutions within these constraints can be a demanding aspect of the job.
+
+
+	Summary: 
+		Good experience
+
+
+Review 7:
+	Job Title: None
+	Location: Austin, TX
+	Review Date: 2024-04-01T20:23:40.253
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		There are no pros anymore
+
+
+	Cons: 
+		1) Lower pay than competitors or similar industries
+		2) Forced to go back into the office 3 days a week (tracked) or risk losing your job
+		3) Company claims they are struggling, yet record profits while slashing jobs
+		4) By far most promotions are going to Indian people, at the expense or more qualified Black, White, Chinese, etc. employees.
+		5) Indian Directors and VPs are stacking their departments with as many Indian people as they can. They have even moved people from India, claiming no one else can do the job. They move them when there are freezes on travel, hiring, spending. And many of the people they move and promote are barely average workers.
+		6) The last few rounds of cuts have seen a LOT of 20+ year people cut, as well as many who are over age 55 or 60. Many of these are getting too old to get hired elsewhere, but Dell doesn't care. Then they get rid of just enough 1-5 year employees to not look illegal.
+		
+		Bottom line - STAY AWAY!
+
+
+	Summary: 
+		No longer a great place to work, unless you are Indian
+
+
+Review 8:
+	Job Title:  ISR II
+	Location: Round Rock, TX
+	Review Date: 2024-04-01T11:35:36.183
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Great First job. Not my first job, so I know what I'm getting. 45k Base/20k Commission, 8k sign on bonus, 6 month guaranteed 100% commission ramp up period. James Lane is my Manager and he is mildly strict, but he fights for his new hires which is great. Overall it is a good culture, people really want to be here, there are some kool aid drinkers here but I get why. They will sometimes hire Sales people with no experience and those hires will really prove themselves while being super grateful with their compensation in comparison to their previous roles, so they become a lot more attached to the company.
+
+
+	Cons: 
+		Do not recommend this position if you've already been with a decent company before. It isn't quite as good regarding compensation. I would say if you haven't been in a Sales role or with a big company it's an opportunity. If you have experience in a Sales role with a decent company before it's not worth it.
+
+
+	Summary: 
+		Good Company
+
+
+Review 9:
+	Job Title: Senior Account Manager
+	Location: Nashville, TN
+	Review Date: 2024-03-19T21:52:58.333
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		If you are in need of this type of sales experience, need to get your foot in the door in technology, or are straight out of college than this is the job for you. 
+		Great benefits and pay.
+
+
+	Cons: 
+		The culture, leadership, and structure is beyond terrible and causes so much stress. They also do not handle diversity, mental health, or anything with change well. 
+		
+		This job is not worth the sacrifice to your soul, mental or physical health, and the time away from your normal life. 
+		
+		They do not care about a work life balance and everything on the website about their core value is all false.
+		
+		I was the top sales person, quarter after quarter, and the leadership team destroyed my motivation and worth. I lost all hope, respect, and care for the company. 
+		
+		The training department is terrible. They are so disconnected. Same with operations. They only care about money. 
+		
+		This was hands down, the most toxic work environment I have ever worked in due to lack of transparency, accountability, and collaboration.
+
+
+	Summary: 
+		Best for first time Job - Ideal for college graduates
+
+
+Review 10:
+	Job Title: TSR III
+	Location: Round Rock, TX
+	Review Date: 2024-04-02T11:06:11.270
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		The people. Dell hires some of the best and your teammates become family. Most of direct managers are simply amazing as well.
+
+
+	Cons: 
+		If you have a stellar year, the recognition doesn't last. You're only as good as the next huge opportunity you bring in. Job security is a constant worry any time lay offs are mentioned. Within the past year, they gave out near impossible quotas, but loved to boast that we were doing so great. Individual sales reps, no matter the tenture or how good they are, are not necessarily truly valued. 
+		
+		They pay new hires more than people who have been there ten plus years. There is a lot of things that should be fixed by comp
+
+
+	Summary: 
+		Job security is a constant worry, but the people there are amazing 
+
+
+Review 11:
+	Job Title: Senior Product Manager/Senior Product Owner
+	Location: Austin, TX
+	Review Date: 2024-04-16T10:03:09.887
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Reasons I loved working at Dell:
+		Work/Life Balance
+		Career Mobility
+		Amazing People
+
+
+	Cons: 
+		With recent layoffs, budget cuts, and RTO, morale has significantly declined. There is no career advancement for fulltime remote workers and those that survived the layoffs are taking on additional work streams which is severely affecting work/life balance.
+
+
+	Summary: 
+		Survived recent layoffs but morale is declining
+
+
+Review 12:
+	Job Title: Senior Software Engineer
+	Location: Seattle, WA
+	Review Date: 2024-02-05T13:16:39.297
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		As of writing,
+		- Dell subsidizes Comcast Business internet.
+		- Dell's policy allows for hybrid work (up to 2 days a week remote work).
+
+
+	Cons: 
+		As of writing:
+		- Dell's policy is that they will no longer hire remote workers.
+		- Dell does not pay employees an industry competitive salary.
+		- Advancement for remote workers is capped at I8 (senior software engineers and managers).
+		- Dell doesn't reimburse their general technical staff for higher data cellular plans.
+
+
+	Summary: 
+		No more remote workers and loss of flexibility
+
+
+Review 13:
+	Job Title: Quality Engineer
+	Location: Round Rock, TX
+	Review Date: 2024-04-17T12:56:37.360
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		I was with Dell for many years, and it was mutually beneficial for many of those. I was given developmental opportunities, and really enjoyed my career there for many years.
+
+
+	Cons: 
+		In recent years, the focus on cost savings was above all things, and I felt less a person and more of a number on a data set.
+
+
+	Summary: 
+		Focus on Cost Savings
+
+
+Review 14:
+	Job Title: Systems Engineer
+	Location: None
+	Review Date: 2024-04-09T14:30:42.610
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		ummm at lease some of the people workings with
+
+
+	Cons: 
+		loss of scheduled remote days; low pays compared to industry; promotions based on unreachable levels of pay scale rather performances er recommendations; very metric driven
+
+
+	Summary: 
+		loss of work 'nd life balance (if you not vp); low pay; no promotions; team shift scares
+
+
+Review 15:
+	Job Title: Marketing Segment Lead
+	Location: None
+	Review Date: 2024-04-17T13:41:38.060
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Excellent Company Culture at the Team level.  Pay and Benefits are competitive and lucrative.  Work/life balance is good. 
+
+
+	Cons: 
+		Company is reactive, hires and fires too erratically.  Subject to change flexible work options.  Pay could be more competitive. 
+
+
+	Summary: 
+		Incredible Team Atmosphere, Company Needs Vision
+
+
+Review 16:
+	Job Title: Account Manager
+	Location: Round Rock, TX
+	Review Date: 2024-04-12T05:57:43.343
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		I would say pros are working with the customers and your coworkers
+
+
+	Cons: 
+		Cons would be the constant layoffs. Not knowing if you’ll have a job the next day
+
+
+	Summary: 
+		Dell review
+
+
+Review 17:
+	Job Title: Consultant
+	Location: Round Rock, TX
+	Review Date: 2024-04-06T18:26:49.343
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Dell is pivoting to AI therefore significant changes to the current business model. This isn't new and different. Previously it did the same for Cloud until the top 5 established themselves in the market then divested all services not directly tied to it's hardware - divesting to NTT Data.
+
+
+	Cons: 
+		The same adjustment to the market is occurring now with AI - therefore another transformation. In 2023 they laid off 13k employees. In 2024 they are set to lay off 33k.
+
+
+	Summary: 
+		Under Transformation
+
+
+Review 18:
+	Job Title: Sales Manager
+	Location: Round Rock, TX
+	Review Date: 2024-03-26T18:53:32.747
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Benefits are good (medical, dental, 401K match) .
+
+
+	Cons: 
+		Lack of career advancement opportunities, lack of pay increases. You have vacation time, but the culture is to be available and work during vacation because leadership does. And when you come back from work, you will be swamped/overwhelmed and regret taking any time off. The culture is very clicky and if you are not with the "in" crowd you will not enjoy your work. Dell values white men and white women and consider white women as being part of diversity. You can count the number of true minority leaders at Dell and if you work there, I challenge you to pay attention to this. There is no diversity of thought or background.
+
+
+	Summary: 
+		I Do Not Recommend Working At Dell
+
+
+Review 19:
+	Job Title: Inside Sales Manager
+	Location: None
+	Review Date: 2024-04-15T09:08:45.540
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Learned a lot about tech and business
+
+
+	Cons: 
+		Currently going through a lot of downsizing and it has not slowed down for quite some time.
+
+
+	Summary: 
+		Great company to grow with until recently
+
+
+Review 20:
+	Job Title: Account Executive
+	Location: None
+	Review Date: 2024-01-22T14:02:21.017
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Made some lifelong friendships and grew my career.
+
+
+	Cons: 
+		The company is too big to care about you or any family you may have. At the end of the day, you're just a number and they need to get to a number. It doesn't matter if you've been there for 1 year, or 26 years, you are disposable, even if you are an overachiever. If they are profiting 2.5 billion as opposed to 2.8 billion, sorry, gotta let go of hundreds of people. It's pretty disgusting.
+		
+		Some leadership is cool and will listen but for the most part, your manager cant' save you. He/she is just a cog in the big ole Leviathan so they won't listen to any of your input what you hear talking to customer's or how to try and make employee's jobs easier. I would never recommend working here. Run for the hills.
+
+
+	Summary: 
+		Don't work here
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

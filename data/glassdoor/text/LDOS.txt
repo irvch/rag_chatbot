@@ -1,0 +1,641 @@
+
+Leidos Holdings is a Information Technology Services company based in 20190 Reston, Virginia. 
+The company has 45,000 employees and has a revenue of $14,396 according to Fortune 500.
+The company is valued at $12,630 and has a profit of $685. The CEO of the company is Thomas A. Bell.
+
+The Company has the following ratings: 
+Average ratings for Leidos Holdings:
+Business Outlook: 0.7
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 381 
+	2: 376 
+	3: 760 
+	4: 848 
+	5: 809 
+
+CEO: 0.82
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 212 
+	2: 392 
+	3: 903 
+	4: 982 
+	5: 679 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 407 
+	2: 333 
+	3: 620 
+	4: 828 
+	5: 958 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 133 
+	2: 78 
+	3: 266 
+	4: 457 
+	5: 782 
+
+Overall: 3.9
+Distribution: 
+	1: 313 
+	2: 383 
+	3: 877 
+	4: 1331 
+	5: 1091 
+
+Senior Management: 3.5
+Distribution: 
+	1: 559 
+	2: 437 
+	3: 656 
+	4: 748 
+	5: 716 
+
+Work Life Balance: 4
+Distribution: 
+	1: 248 
+	2: 239 
+	3: 683 
+	4: 899 
+	5: 1091 
+
+Review Count: 4000
+
+Recommend to Friend: 
+	RECOMMEND: 1932
+	WONT RECOMMEND: 876
+
+
+
+
+The company has 4553 reviews on Glassdoor. The last review was posted on 2024-04-17T18:51:42.897. 
+There are 20 Reviews for Leidos Holdings:
+
+Review 1:
+	Job Title: School Counselor
+	Location: San Diego, CA
+	Review Date: 2023-05-03T12:22:18.847
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great salary and benefits. Minimal supervision from offsite supervisor. Enough meetings to have good colleague relationships. Flexible hours, some of it remote from anywhere. Fairly casual dress for working with children.
+
+
+	Cons: 
+		The only downside is they are kind of famous for technical problems on the company issued iPads and iPhones. However, this is a known issue and technical problems have never been held against me, or have slowed work during work hours, which are pretty flexible anyway. Some of the on-site staff are not exactly warm to this contractor position, but most are and I just steer clear of negative people. I do have a minor disability and the contractor site was not helpful accommodating me, but Leidos did try. That won’t affect most people.
+
+
+	Summary: 
+		Great company overall
+
+
+Review 2:
+	Job Title: Software Engineer
+	Location: Huntsville, AL
+	Review Date: 2024-04-12T19:28:32.653
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Flexible hours and good starting pay
+
+
+	Cons: 
+		High turnover and lacking PTO
+
+
+	Summary: 
+		Good
+
+
+Review 3:
+	Job Title: Project Manager
+	Location: Boise, ID
+	Review Date: 2024-04-17T09:28:56.680
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		The work environment is very laid back overall.
+
+
+	Cons: 
+		Most employees are very lazy and already retired from other careers.
+		
+		New employees who are not already buddies with management operate in a state of constant fear. Turnover for these types of employees is very high. 
+		
+		-The benefits package is terrible depending on your position. You will likely be offered a salary that seems competitive, but they will not mention the extremely high rates of the company's health plan and benefits. This can easily cost 30%+ of your salary.
+
+
+	Summary: 
+		BEWARE! They DO NOT pay health Insurance for all positions!
+
+
+Review 4:
+	Job Title: Programmer/Analyst
+	Location: Washington, DC
+	Review Date: 2024-03-20T12:53:35.757
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Flexible schedule is great, when you aren't so busy that you can actually take advantage of it
+		
+		Some of the people are really nice to work with
+
+
+	Cons: 
+		Even if you "exceed expectations" in your yearly performance review, you get a crappy 2% raise like all the other people who barely try. It doesn't matter how hard you bust your butt, you never get anything but a "thank" email and even those are rare.
+		
+		Zero job security, people have been laid off after 8 years with the company with nothing more than a 2 day notice.
+		
+		Management literally does nothing. They're not required to be online and attached to their computers all day (active on Teams). Also, some employees somehow get away with this as well.
+
+
+	Summary: 
+		Micromanaging Leads and No Job Security
+
+
+Review 5:
+	Job Title: Cloud Systems Engineer
+	Location: Chantilly, VA
+	Review Date: 2024-04-17T18:51:42.897
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Great coworkers, benefits were nice, work life balance was good.
+
+
+	Cons: 
+		If you don't have a clearance there is no sense of direction. They will just give you mundane, simple tasks. Laptop they give you sucks.
+
+
+	Summary: 
+		Good is company if you like working for government contracts
+
+
+Review 6:
+	Job Title: Enterprise Solution Architect
+	Location: None
+	Review Date: 2023-12-22T07:14:10.250
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		You can learn a lot and have a fair shot at advancement. People are typically quite smart and good to work with. Good environment for winning business. Ability to telework in some roles.
+
+
+	Cons: 
+		Workaholic culture, lots of unpaid overtime even when it's more reflective of poor planning than based on any real need. Lots of people seem to enjoy working long hours and scheduling meetings at awful times, I've seen 6AM and 9PM start times during proposals. Terrible PTO accrual, we're talking slow as molasses, and weak, expensive benefits. Not all federal holidays are company holidays. Pay looks good until you see what else is out there and the lack of real bonuses for winning proposals stinks. Tough staying motivated in the absence of recognition and compensation for going above and beyond. You can make billions for the company after burning the midnight oil and working all your weekends for months on end and then get a de minimis token of gratitude if you're lucky, and $5-10K bonus if you're REALLY lucky. Not worth the hassle, but live and learn.
+
+
+	Summary: 
+		Good place to start out
+
+
+Review 7:
+	Job Title: Mechanical Engineer
+	Location: Lynnwood, WA
+	Review Date: 2024-04-06T14:45:23.597
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		opportunities for professional growth; good flexibility; overall decent coworkers in all departments; decent pay; varied work tasks; good reimbursement system; workplace expansion; some interesting projects; they can invest in your certifications/education; they support employees pursuing higher education
+
+
+	Cons: 
+		varied manager quality; little investment in employee working environment (no lunch space, no complimentary snacks/drinks, no windows [except for a few individual office rooms], no local ERGs), stale working environment (e.g., gray walls, no windows); layoffs do occur occasionally
+
+
+	Summary: 
+		Great opportunities for growth
+
+
+Review 8:
+	Job Title: Senior Program & Portfolio Manager
+	Location: Baltimore, MD
+	Review Date: 2024-03-27T11:28:45.550
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Leidos is the closest company I have worked for to my first employer, IBM. There is some similarity in culture, but as time has changed so has 'respect for the employee', one of IBM's basic values. Today it seems that 'respect for the dollar' has gained the prominent role. That is unfortunate because it leads to turnover, mistrust and a feeling on not being valued.
+
+
+	Cons: 
+		Treating employees as a commodity, not an asset of value. At the executive levels, loyalty is a thing of the past.
+
+
+	Summary: 
+		Experience not always an asset
+
+
+Review 9:
+	Job Title: Test Manager
+	Location: Maryland, NY
+	Review Date: 2024-03-17T14:40:27.620
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		On average, employees telework two days and work onsite three days per week, creating a perfect balance of remote and in-person work opportunities. Overall, the company offers great benefits and good management and a good Work / Life Balance
+
+
+	Cons: 
+		You may encounter micromanagement in government positions that you work for. Leidos managers over all excel technically but struggle with interpersonal skills.
+
+
+	Summary: 
+		Leidos  (Gov. Side)
+
+
+Review 10:
+	Job Title: Engineering Technician
+	Location: Huntsville, AL
+	Review Date: 2024-04-17T18:35:09.100
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Laid back work environment for the most part.
+
+
+	Cons: 
+		Managers seem to love micromanaging here.
+
+
+	Summary: 
+		N/A
+
+
+Review 11:
+	Job Title: Engineer
+	Location: Seattle, WA
+	Review Date: 2024-03-05T07:47:58.437
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		- Divisions at this company are making the change from R&amp;D focused to production/large programs. Lots of opportunities and new products coming. 
+		- Challenging work on some really cool products that will have a lasting impact
+		- I was allowed a hybrid work schedule (2-3 days a week in the office)
+
+
+	Cons: 
+		- Benefits suck. The most comprehensive healthcare plan cost a single person ~$250 every two weeks, with a deductible of $1500 until they start covering anything. 5% match on 401k. 
+		- Be expected to work with engineers who have 4-5 other programs they're working on so they are not able to make enough time to assist you. I constantly struggled to grab the attention of the programs lead ME or EE due to them always being busy with other programs.
+
+
+	Summary: 
+		Ambitious Company not quite there
+
+
+Review 12:
+	Job Title: Sr. SOC Analyst
+	Location: Windsor Mill, MD
+	Review Date: 2024-04-16T08:30:31.397
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Very good support from the team I am on
+
+
+	Cons: 
+		Timesheet system is awful. I was paid a week late due to an error.
+
+
+	Summary: 
+		Good job
+
+
+Review 13:
+	Job Title: Help Desk Technician
+	Location: Arlington, VA
+	Review Date: 2024-04-14T17:15:47.773
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Awesome people to work with but never worked with people in HQ
+
+
+	Cons: 
+		They low ball you and benefits below average
+
+
+	Summary: 
+		Cheap
+
+
+Review 14:
+	Job Title: Clinical Project Manager IV
+	Location: Frederick, MD
+	Review Date: 2024-04-15T11:58:39.720
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		government collaboration, insight into federal areas of health interest
+
+
+	Cons: 
+		Inconsistent culture, lack of training/SOPs, poor communication lines
+
+
+	Summary: 
+		Not for everyone
+
+
+Review 15:
+	Job Title: Cyber Security
+	Location: New Orleans, LA
+	Review Date: 2024-04-16T10:24:25.227
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Good hours, okay pay, PTO.
+
+
+	Cons: 
+		Questionable business practice and ethics.
+
+
+	Summary: 
+		Decent Company
+
+
+Review 16:
+	Job Title: Analyst
+	Location: None
+	Review Date: 2024-04-15T15:42:59.040
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		High pay and generally good benefits.
+
+
+	Cons: 
+		Very little support for new hires, and very little training. Very much a sink or swim company with high expectations but few tools for you to meet them.
+
+
+	Summary: 
+		Toxic work culture and poor training
+
+
+Review 17:
+	Job Title: Senior Staff Systems Engineer
+	Location: Reston, VA
+	Review Date: 2024-04-09T19:08:35.927
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Good salary, excellent people to work with and good work and life balance,
+
+
+	Cons: 
+		Limited PTO and no sick leaves and no pension benefits.
+
+
+	Summary: 
+		Good company to work for
+
+
+Review 18:
+	Job Title: Software Developer
+	Location: Walled Lake, MI
+	Review Date: 2024-04-10T15:29:50.277
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good and stable company with stock bying plan
+
+
+	Cons: 
+		No bonusses and lower pay then competetors
+
+
+	Summary: 
+		solid, but can make $ somewhere else
+
+
+Review 19:
+	Job Title: IT Worker Bee
+	Location: San Diego, CA
+	Review Date: 2024-02-10T11:23:15.237
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Schedule
+		Work and work life balance
+		Supportive manager and peers
+		Benefits
+		Educational opportunities
+
+
+	Cons: 
+		Really liked new job (&lt;6 month) until another young employee on same floor was physically inappropriate out of nowhere. You be you, alphabet but let me be. What kind of stupid bully does that in the workplace? Now I have to document and go to HR. Thanks.
+
+
+	Summary: 
+		Like job, manager and peers, but not creeper
+
+
+Review 20:
+	Job Title: Modeling & Simulation Engineer
+	Location: Beavercreek, OH
+	Review Date: 2024-02-11T10:52:47.070
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Very large and diverse community at different sites around the country in similar disciplines as well as teams working on very different disciplines.
+		So many different experts across the company, and it is relatively easy and encouraged to reach out to different teams and business areas to learn more or look at new opportunities.
+		Very stable relative to other defense contractors in its ability to reallocate work contingent on contracts.
+
+
+	Cons: 
+		Cons of working on a customer site as a contractor - relative difficulty forming relationships with the customer or people in your own office not on your team
+
+
+	Summary: 
+		Great and stable place to do cutting edge engineering research
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

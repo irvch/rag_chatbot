@@ -1,0 +1,626 @@
+
+NRG Energy is a Energy company based in 77002 Houston, Texas. 
+The company has 6,603 employees and has a revenue of $31,543 according to Fortune 500.
+The company is valued at $7,965 and has a profit of $1,221. The CEO of the company is Mauricio Gutierrez.
+
+The Company has the following ratings: 
+Average ratings for NRG Energy:
+Business Outlook: 0.64
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 81 
+	2: 107 
+	3: 175 
+	4: 157 
+	5: 149 
+
+CEO: 0.8
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 38 
+	2: 51 
+	3: 159 
+	4: 246 
+	5: 174 
+
+Culture and Values: 3.9
+Distribution: 
+	1: 90 
+	2: 65 
+	3: 156 
+	4: 170 
+	5: 161 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 18 
+	2: 19 
+	3: 46 
+	4: 67 
+	5: 116 
+
+Overall: 4.1
+Distribution: 
+	1: 67 
+	2: 84 
+	3: 192 
+	4: 251 
+	5: 226 
+
+Senior Management: 3.7
+Distribution: 
+	1: 118 
+	2: 88 
+	3: 158 
+	4: 147 
+	5: 146 
+
+Work Life Balance: 4
+Distribution: 
+	1: 60 
+	2: 70 
+	3: 169 
+	4: 199 
+	5: 170 
+
+Review Count: 820
+
+Recommend to Friend: 
+	RECOMMEND: 402
+	WONT RECOMMEND: 205
+
+
+
+
+The company has 943 reviews on Glassdoor. The last review was posted on 2024-04-16T16:58:31.447. 
+There are 20 Reviews for NRG Energy:
+
+Review 1:
+	Job Title: Campaign Execution Analyst
+	Location: Houston, TX
+	Review Date: 2024-04-16T13:49:23.380
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good environment and co workers
+
+
+	Cons: 
+		Long hours and potential hard to advance
+
+
+	Summary: 
+		Good start for career
+
+
+Review 2:
+	Job Title: I&C Technician
+	Location: Thompsons, TX
+	Review Date: 2024-04-16T16:58:31.447
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay and insurance and coworkers
+
+
+	Cons: 
+		Lots of OT and unexpected events and extremely old equipment, a lot is no longer made so it’s hard to get parts for
+
+
+	Summary: 
+		Pay
+
+
+Review 3:
+	Job Title: Customer Service Representative
+	Location: Houston, TX
+	Review Date: 2024-04-14T21:16:57.203
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Excellent company to work for. Good team. Good work culture.
+
+
+	Cons: 
+		You need to network in order to move around. But once you do, you will find opportunities.
+
+
+	Summary: 
+		Great company
+
+
+Review 4:
+	Job Title: Sr Manager
+	Location: Houston, TX
+	Review Date: 2024-03-21T07:26:52.323
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay and benefits- great middle management
+
+
+	Cons: 
+		Upper management talent is lacking in most of the business units. The The wrong individuals promoted or placed in positions that they have little to zero experience or knowledge
+
+
+	Summary: 
+		Step over dollars to pick up pennies
+
+
+Review 5:
+	Job Title: Data Scientist
+	Location: Wall, NJ
+	Review Date: 2024-03-26T09:35:14.523
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Fun and fun and fun and cool
+
+
+	Cons: 
+		Closed down without much warning
+
+
+	Summary: 
+		Cool
+
+
+Review 6:
+	Job Title: Sales Operations Analyst
+	Location: Philadelphia, PA
+	Review Date: 2024-03-01T09:23:45.187
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		NRG is a welcoming and collaborative environment. Lots of room for growth and the company places a lot of emphasis on promoting from within instead of hiring outside talent. I have no complaints from my time at NRG.
+
+
+	Cons: 
+		The increased the amount of in office days we have last year, despite most employees wanting to remain at one day a week.
+
+
+	Summary: 
+		Love It!
+
+
+Review 7:
+	Job Title: Customer Service Representative
+	Location: Houston, TX
+	Review Date: 2024-04-04T17:03:02.690
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		great benefits for a large company
+
+
+	Cons: 
+		layoff employees after many years of working
+
+
+	Summary: 
+		Great benefits
+
+
+Review 8:
+	Job Title: Demand Response Operations
+	Location: Buffalo, NY
+	Review Date: 2024-03-20T18:00:20.323
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Work Life Balance
+		Not much pressure
+
+
+	Cons: 
+		Long time shifts
+		Limited career growth
+
+
+	Summary: 
+		DR Operator
+
+
+Review 9:
+	Job Title: Senior Marketing Associate
+	Location: Philadelphia, PA
+	Review Date: 2024-03-12T15:51:28.893
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good people and overall good processes to allow work to get done
+
+
+	Cons: 
+		At the whims of the stock price
+
+
+	Summary: 
+		Big corporate company
+
+
+Review 10:
+	Job Title: Director of Internal Audit
+	Location: Salt Lake City, UT
+	Review Date: 2024-03-25T15:57:53.047
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good ESPP for the employees
+
+
+	Cons: 
+		They don't keep their best people.
+
+
+	Summary: 
+		Job Satisfaction
+
+
+Review 11:
+	Job Title: Energy Consultant
+	Location: Dallas, TX
+	Review Date: 2024-02-20T06:42:16.470
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Flexible, work from home, manager is not local.
+
+
+	Cons: 
+		The pay is awful, salary and especially commission is an absolute joke. No incentives, and most of the people that work there were highly uneducated. Anyone could work this job, you do not need any skill set whatsoever. It was embarrassing what poor grammar my "managers" exercised.
+
+
+	Summary: 
+		Energy Consultant (Residential)
+
+
+Review 12:
+	Job Title: CEO-Founder
+	Location: None
+	Review Date: 2024-03-04T17:22:34.347
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Free lunch, open office format. Activities
+
+
+	Cons: 
+		Repetitive work, but similar to finance in many ways
+
+
+	Summary: 
+		Great work atmosphere
+
+
+Review 13:
+	Job Title: Digital Experience Sales Manager
+	Location: None
+	Review Date: 2024-03-05T05:30:38.830
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		NRG is a great place to work
+
+
+	Cons: 
+		Limited fully remote options for work
+
+
+	Summary: 
+		Great work environment
+
+
+Review 14:
+	Job Title: HR Specialist
+	Location: Lehi, UT
+	Review Date: 2024-03-01T10:04:13.703
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Work/life balance is awesome! I love the option to work from home.
+
+
+	Cons: 
+		I feel like the career opportunities are limited.
+
+
+	Summary: 
+		Salary Review
+
+
+Review 15:
+	Job Title: Financial Analyst
+	Location: Houston, TX
+	Review Date: 2024-03-02T20:12:31.587
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great culture and work life balance
+
+
+	Cons: 
+		Pay tends to be below average
+
+
+	Summary: 
+		Great Company 
+
+
+Review 16:
+	Job Title: Data Analyst
+	Location: Houston, TX
+	Review Date: 2024-02-25T07:15:46.047
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Positive work environment . Interesting problems to work on
+
+
+	Cons: 
+		Everything is good so far. Benefits could be betrer
+
+
+	Summary: 
+		Great place to work
+
+
+Review 17:
+	Job Title: Senior Accountant
+	Location: Houston, TX
+	Review Date: 2024-02-26T09:04:00.043
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Work life balance
+		401k Match
+		Good people
+
+
+	Cons: 
+		Office is located in downtown Houston
+
+
+	Summary: 
+		Good Company
+
+
+Review 18:
+	Job Title: Account Executive
+	Location: Princeton, NJ
+	Review Date: 2024-02-21T14:44:48.007
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Competitive wages, good benefits, growth potential
+
+
+	Cons: 
+		lay offs every year, too many managers
+
+
+	Summary: 
+		Great Company
+
+
+Review 19:
+	Job Title: Billing Analyst
+	Location: Houston, TX
+	Review Date: 2024-02-21T13:56:51.223
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Remote work, pay, unlimited PTO
+
+
+	Cons: 
+		None that I can think of
+
+
+	Summary: 
+		Great company
+
+
+Review 20:
+	Job Title: Sr Director, Benefits Wellbeing & Compensation
+	Location: None
+	Review Date: 2024-02-20T07:18:08.663
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great company to work for. Pays well.
+
+
+	Cons: 
+		no cons at this time
+
+
+	Summary: 
+		Great company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

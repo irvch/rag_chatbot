@@ -1,0 +1,640 @@
+
+United States Steel is a Metals company based in 15219 Pittsburgh, Pennsylvania. 
+The company has 22,740 employees and has a revenue of $21,065 according to Fortune 500.
+The company is valued at $5,930 and has a profit of $2,524. The CEO of the company is David B. Burritt.
+
+The Company has the following ratings: 
+Average ratings for United States Steel:
+Business Outlook: 0.48
+
+Career Opportunities: 3.3
+Distribution: 
+	1: 183 
+	2: 234 
+	3: 306 
+	4: 192 
+	5: 114 
+
+CEO: 0.44
+
+Compensation and Benefits: 4.1
+Distribution: 
+	1: 32 
+	2: 63 
+	3: 264 
+	4: 368 
+	5: 302 
+
+Culture and Values: 3.1
+Distribution: 
+	1: 261 
+	2: 209 
+	3: 245 
+	4: 141 
+	5: 104 
+
+Diversity and Inclusion: 3.6
+Distribution: 
+	1: 29 
+	2: 45 
+	3: 95 
+	4: 64 
+	5: 89 
+
+Overall: 3.5
+Distribution: 
+	1: 174 
+	2: 221 
+	3: 382 
+	4: 283 
+	5: 150 
+
+Senior Management: 2.7
+Distribution: 
+	1: 362 
+	2: 233 
+	3: 240 
+	4: 110 
+	5: 76 
+
+Work Life Balance: 2.9
+Distribution: 
+	1: 334 
+	2: 227 
+	3: 249 
+	4: 134 
+	5: 83 
+
+Review Count: 1211
+
+Recommend to Friend: 
+	RECOMMEND: 407
+	WONT RECOMMEND: 533
+
+
+
+
+The company has 1271 reviews on Glassdoor. The last review was posted on 2024-04-16T06:58:27.003. 
+There are 20 Reviews for United States Steel:
+
+Review 1:
+	Job Title: Safety Specialist
+	Location: Pittsburgh, PA
+	Review Date: 2024-04-15T13:55:38.747
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Benefits, pay, and time off
+
+
+	Cons: 
+		Work life balance. Union politics
+
+
+	Summary: 
+		Great benefits
+
+
+Review 2:
+	Job Title: Category Manager I
+	Location: Pittsburgh, PA
+	Review Date: 2024-04-16T06:58:27.003
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Benefits are great. Work is primarily remote.
+
+
+	Cons: 
+		With the Nippon sale, there is hardly any communication or cohesive mission. Pay is significantly less than industry standards.
+
+
+	Summary: 
+		Not what it used to be
+
+
+Review 3:
+	Job Title: Senior Applications Analyst
+	Location: None
+	Review Date: 2024-04-06T12:44:15.240
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		1.Great people to work with
+		2.Good work life balance
+		3.Lot of different technologies
+		4.Competent Pay and benefits
+
+
+	Cons: 
+		1.No scope for Growth
+		2.Workforce reduction due to heavy outsourcing
+
+
+	Summary: 
+		Good Company but cutting workforce
+
+
+Review 4:
+	Job Title: Technical Architect
+	Location: None
+	Review Date: 2024-04-08T10:26:02.147
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Good company to work. Work-life balance
+
+
+	Cons: 
+		Changes wont happen soon and slow.
+
+
+	Summary: 
+		Work-life balance
+
+
+Review 5:
+	Job Title: Utility Worker
+	Location: Gary, IN
+	Review Date: 2024-03-30T00:13:08.907
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		It payed good
+		
+		Some departments offer 4 days on 4 days off
+
+
+	Cons: 
+		Buddy system for call offs, leaving guys screwing you over and working 16hrs
+		
+		Forced to work OT a lot on your 4 days off
+		
+		Bad union
+		
+		Job not good for health
+
+
+	Summary: 
+		Pros and Cons
+
+
+Review 6:
+	Job Title: Director
+	Location: Pittsburgh, PA
+	Review Date: 2024-03-28T05:10:26.667
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Committed to the strategy and driven to execute on operations, making the necessary changes to adapt in the market.
+
+
+	Cons: 
+		Still very corporate and hierarchical approach to operations.
+
+
+	Summary: 
+		Enjoyable experience at a driven company
+
+
+Review 7:
+	Job Title: Shift Manager
+	Location: Pittsburgh, PA
+	Review Date: 2024-04-01T10:53:04.270
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Make good money, Average benefits
+
+
+	Cons: 
+		Not a lot of time off
+
+
+	Summary: 
+		Lots of Overtime
+
+
+Review 8:
+	Job Title: Utility Technician
+	Location: None
+	Review Date: 2024-03-26T12:16:14.743
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good pay to support family
+
+
+	Cons: 
+		Hazardous environment with bad hours
+
+
+	Summary: 
+		It was ok but the hours and hazards were hard on the body .
+
+
+Review 9:
+	Job Title: Application Developer
+	Location: Pittsburgh, PA
+	Review Date: 2024-02-23T08:05:38.933
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		The benefits and work life balance are pretty good and I never had anything to complain about. I liked my coworkers and everyone was generally nice.
+
+
+	Cons: 
+		There are standard office politics that you will get anywhere, its really no different than any other other corporation. The pay is not great, but it seems to be in line with other similar companies, but from a tech perspective, it is low.
+
+
+	Summary: 
+		Fine place to work
+
+
+Review 10:
+	Job Title: General Laborer
+	Location: Granite City, IL
+	Review Date: 2024-03-21T12:27:43.627
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 5
+	Work Life Balance: 1
+
+	Pros: 
+		Good pay, excellent benefits, great profit sharing
+
+
+	Cons: 
+		Long hours, forced double shifts
+
+
+	Summary: 
+		Good job while it lasted
+
+
+Review 11:
+	Job Title: None
+	Location: Keewatin, MN
+	Review Date: 2024-03-11T06:33:17.137
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good work to time off ratio. Decent equipment maintenance is pretty good.
+
+
+	Cons: 
+		Only one break. On shift work. You are there to fill a seat
+
+
+	Summary: 
+		It's about the numbers
+
+
+Review 12:
+	Job Title: Computer Programmer
+	Location: Lone Star, TX
+	Review Date: 2024-03-07T15:29:10.400
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Great Benefit Costs
+		Above Average Salary
+
+
+	Cons: 
+		Lay offs common; most programmers outsourced
+
+
+	Summary: 
+		Laid Off Computer Staff
+
+
+Review 13:
+	Job Title: Maintenance Technician
+	Location: Fairfield, AL
+	Review Date: 2024-02-26T16:25:05.860
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		I'm sure they some pros but US Steel used to be the top job in Birmingham not true anymore.
+
+
+	Cons: 
+		Doesn't take care of their employees
+
+
+	Summary: 
+		electrical
+
+
+Review 14:
+	Job Title: Maintenance Supervisor
+	Location: None
+	Review Date: 2024-03-03T13:43:18.890
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		401k submission, vacation time, pay
+
+
+	Cons: 
+		Micro management, removal of promised benefits, company selling
+
+
+	Summary: 
+		Less than desirable
+
+
+Review 15:
+	Job Title: Heavy Equipment Operator
+	Location: Gary, IN
+	Review Date: 2024-02-15T18:46:11.580
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Decent pay, good benefits at no cost to you.
+
+
+	Cons: 
+		Long hours, shift work, little time off
+
+
+	Summary: 
+		Good pay LONG HOURS
+
+
+Review 16:
+	Job Title: Sales Manager
+	Location: Pittsburg, CA
+	Review Date: 2024-01-16T10:58:54.057
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Overall stable position. Monthly cadence on sales cycles and a lot of repeat business.
+
+
+	Cons: 
+		Bonus structure was tied to overall company performance which is mostly influenced by macro supply/demand cycles. Still lagging in adopting new technology for the commercial and administrative side.
+
+
+	Summary: 
+		Good Company with fair salary 
+
+
+Review 17:
+	Job Title: Accountant
+	Location: Pittsburgh, PA
+	Review Date: 2024-02-21T06:06:25.687
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		People are nice and good
+
+
+	Cons: 
+		Culture is not setup for development
+
+
+	Summary: 
+		Salary
+
+
+Review 18:
+	Job Title: Quality Engineer
+	Location: Portage, IN
+	Review Date: 2024-01-07T12:05:11.150
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Good Equipment
+		Attract talent
+		Great benefits
+
+
+	Cons: 
+		Plant level leadership
+		Poor work life balance
+		Little opportunity for professional development and external trainings.
+		High turnover
+
+
+	Summary: 
+		Good place to learn, salary could improve
+
+
+Review 19:
+	Job Title: Maintenance Mechanic
+	Location: Granite City, IL
+	Review Date: 2024-02-12T07:18:02.193
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay, great union, stellar benefits
+
+
+	Cons: 
+		Volatile market, layoffs and dangerous
+
+
+	Summary: 
+		Great place to work
+
+
+Review 20:
+	Job Title: Market Research Analyst
+	Location: Pittsburgh, PA
+	Review Date: 2024-01-30T09:58:11.937
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Best culture! Very inclusive &amp; collaborative culture. Mangers &amp; leadership is very approachable and supportive
+
+
+	Cons: 
+		Not as such, May be salary pays are little lesser
+
+
+	Summary: 
+		Best Culture
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

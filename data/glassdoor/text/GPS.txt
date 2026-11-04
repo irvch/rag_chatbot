@@ -1,0 +1,633 @@
+
+Gap is a Specialty Retailers: Apparel company based in 94105 San Francisco, California. 
+The company has 95,000 employees and has a revenue of $15,616 according to Fortune 500.
+The company is valued at $3,693 and has a profit of -$202. The CEO of the company is Bobby Martin.
+
+The Company has the following ratings: 
+Average ratings for Gap:
+Business Outlook: 0.47
+
+Career Opportunities: 3.2
+Distribution: 
+	1: 959 
+	2: 1226 
+	3: 2145 
+	4: 1534 
+	5: 1065 
+
+CEO: 0.65
+
+Compensation and Benefits: 3.3
+Distribution: 
+	1: 804 
+	2: 1150 
+	3: 2221 
+	4: 1628 
+	5: 1077 
+
+Culture and Values: 3.6
+Distribution: 
+	1: 562 
+	2: 588 
+	3: 1348 
+	4: 1637 
+	5: 2102 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 155 
+	2: 145 
+	3: 339 
+	4: 530 
+	5: 959 
+
+Overall: 3.7
+Distribution: 
+	1: 504 
+	2: 940 
+	3: 2598 
+	4: 3141 
+	5: 2036 
+
+Senior Management: 3.3
+Distribution: 
+	1: 1104 
+	2: 1062 
+	3: 1787 
+	4: 1576 
+	5: 1195 
+
+Work Life Balance: 3.5
+Distribution: 
+	1: 767 
+	2: 826 
+	3: 1749 
+	4: 1821 
+	5: 1696 
+
+Review Count: 9225
+
+Recommend to Friend: 
+	RECOMMEND: 3904
+	WONT RECOMMEND: 1886
+
+
+
+
+The company has 9599 reviews on Glassdoor. The last review was posted on 2024-04-17T19:21:32.123. 
+There are 20 Reviews for Gap:
+
+Review 1:
+	Job Title: Sales Associate
+	Location: Buford, GA
+	Review Date: 2024-01-24T17:27:47.970
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Flexible Schedule
+		Growth Opportunities
+		Fun
+
+
+	Cons: 
+		30 Min breaks
+		long closing hours
+
+
+	Summary: 
+		Sales Assoc.
+
+
+Review 2:
+	Job Title: Sales Associate
+	Location: Denville, NJ
+	Review Date: 2024-04-05T18:36:47.100
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Positive work atmosphere, supportive staff, wonderful coworkers, discount for gap, banana republic and old navy
+
+
+	Cons: 
+		Raises did not reflect my work ethic, my reliability or how well I represented Gap during my employment. This was not due to my managers not appreciating me or recognizing my hard work but most likely due to working for a large corporation that sees me as easily replaceable.
+
+
+	Summary: 
+		Overall positive experience
+
+
+Review 3:
+	Job Title: Sales Associate
+	Location: South San Francisco, CA
+	Review Date: 2024-04-16T21:52:48.333
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good place to gain customer service experince, Easy workload, fun coworkers
+
+
+	Cons: 
+		Work hours would vary, some customers could be rude
+
+
+	Summary: 
+		Nice work place
+
+
+Review 4:
+	Job Title: Sales Associate/Cashier
+	Location: Commack, NY
+	Review Date: 2024-04-16T18:41:59.153
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The staff was great and very easy job
+
+
+	Cons: 
+		There aren’t many cons they were always flexible with any issues
+
+
+	Summary: 
+		Good
+
+
+Review 5:
+	Job Title: Sales Associate
+	Location: Roosevelt, NY
+	Review Date: 2024-04-14T00:08:23.603
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Getting by hours was relatively easy
+
+
+	Cons: 
+		The stress of relaying bad policies to customer, being understaffed, and managers being unprofessional created a quick turnover for hires
+
+
+	Summary: 
+		A grueling experience 
+
+
+Review 6:
+	Job Title: Sales Associate
+	Location: Atlanta, GA
+	Review Date: 2024-04-17T19:21:32.123
+	Business Outlook: NEUTRAL
+	Career Opportunities: 0
+	CEO: NO_OPINION
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		You get the job done
+
+
+	Cons: 
+		Gets repetitive and customer service is rough
+
+
+	Summary: 
+		Okay
+
+
+Review 7:
+	Job Title: Marketing
+	Location: San Francisco, CA
+	Review Date: 2024-04-17T10:32:29.280
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		good work life balance and kind people
+
+
+	Cons: 
+		not always realistic with the world
+
+
+	Summary: 
+		Vp of Marketing
+
+
+Review 8:
+	Job Title: Sales Associate
+	Location: Cherry Hill, NJ
+	Review Date: 2024-04-16T09:36:06.910
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Worked with cool, friendly people
+
+
+	Cons: 
+		Sometimes the customers are a bit much to deal with.
+
+
+	Summary: 
+		Good Starter Job
+
+
+Review 9:
+	Job Title: Merchandiser
+	Location: Columbus, OH
+	Review Date: 2024-04-11T03:38:50.423
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		I work in the warehouse.Some of the best reasons are pay is getting better.
+		Benefits are okay.
+
+
+	Cons: 
+		In the warehouse it has it's share of problems. 
+		Workers aren't trained but expected to perform at 100%
+		Workers often are territorial over work.
+		Workers don't respect others and this leads to fights.
+		Management and Supervisors don't care about anything except production.
+		There's hardly never any work.
+
+
+	Summary: 
+		Toxic
+
+
+Review 10:
+	Job Title: Sales Associate
+	Location: San Marcos, TX
+	Review Date: 2024-03-20T16:25:01.507
+	Business Outlook: NEUTRAL
+	Career Opportunities: 0
+	CEO: NO_OPINION
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The people there are nice and it's easy work with decent breaks.
+
+
+	Cons: 
+		The time can go by really slow and the work is pretty repetitive. Pay is okay and they're obsessed with selling their Gap Credit Card
+
+
+	Summary: 
+		It's meh
+
+
+Review 11:
+	Job Title: Sales Associate
+	Location: Towson, MD
+	Review Date: 2024-04-09T12:00:10.350
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		The discounts were nice, the co-workers were also nice as well.
+
+
+	Cons: 
+		The constant want for us to sell Gap credit cards, lack of schedule flexibitly.
+
+
+	Summary: 
+		It was like any other sales position
+
+
+Review 12:
+	Job Title: Retail Sales Associate
+	Location: Huntington Beach, CA
+	Review Date: 2024-04-09T13:03:35.267
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		good part time job for those in high school or college
+
+
+	Cons: 
+		could get really busy on the weekends
+
+
+	Summary: 
+		good part time job
+
+
+Review 13:
+	Job Title: Associate
+	Location: Minnetonka, MN
+	Review Date: 2024-04-10T10:08:19.397
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Cameaderie and fun atmosohere. Great women.
+
+
+	Cons: 
+		None that impact me directly
+
+
+	Summary: 
+		Fun place to work
+
+
+Review 14:
+	Job Title: Manager
+	Location: Rockville, MD
+	Review Date: 2024-04-10T14:53:28.983
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Nothing at this time. Not
+
+
+	Cons: 
+		Not improving. Too much work to little pay
+
+
+	Summary: 
+		Hello
+
+
+Review 15:
+	Job Title: Retail Sales Associate
+	Location: None
+	Review Date: 2024-04-08T01:29:47.630
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Positive environment, supportive coworkers, and helpful managers.
+
+
+	Cons: 
+		not any that I can think of
+
+
+	Summary: 
+		Sales associate at Gap
+
+
+Review 16:
+	Job Title: Brand Ambassador
+	Location: Merrimack, NH
+	Review Date: 2024-04-03T16:10:13.690
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Super Flexible, Great Management, Fun Place to work
+
+
+	Cons: 
+		Not as high of pay, but it’s a part time retail job for high schoolers
+
+
+	Summary: 
+		Great Part Time Job
+
+
+Review 17:
+	Job Title: Software Engineer (Swe II)
+	Location: San Francisco, CA
+	Review Date: 2024-04-04T06:24:05.213
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Cool team, friendly atmosphere, work and life balance
+
+
+	Cons: 
+		Projects are simple, technology landscape is limited
+
+
+	Summary: 
+		Decent place, work was not challenging
+
+
+Review 18:
+	Job Title: Brand Associate
+	Location: California City, CA
+	Review Date: 2024-04-03T16:18:02.587
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great workplace environment with supportive management
+
+
+	Cons: 
+		Everything about the company is good, except it's minimum wage.
+
+
+	Summary: 
+		Great Workplace
+
+
+Review 19:
+	Job Title: Executive Assistant
+	Location: San Francisco, CA
+	Review Date: 2024-03-16T07:34:38.833
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Good discount
+		Nice offices
+		Cafe
+
+
+	Cons: 
+		Toxic is the best way to describe the atmosphere at Gap HQ. It was overrun with mean girls, who, when they weren’t crying in the bathroom, spent their time tearing their co-workers down. My boss, the highest ranking individual at Gap US HQ, expected me to collect gossip each day and report back to him.
+
+
+	Summary: 
+		A mixed bag
+
+
+Review 20:
+	Job Title: Assitant Manager
+	Location: None
+	Review Date: 2024-04-03T13:21:42.953
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: NO_OPINION
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Was able to help with pricing and ranging in discount for customers.
+
+
+	Cons: 
+		Young crowd that was scared to tell to customers
+
+
+	Summary: 
+		Ok
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

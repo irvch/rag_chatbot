@@ -1,0 +1,644 @@
+
+Vistra is a Energy company based in 75039 Irving, Texas. 
+The company has 4,910 employees and has a revenue of $13,728 according to Fortune 500.
+The company is valued at $9,155 and has a profit of -$1,227. The CEO of the company is None.
+
+The Company has the following ratings: 
+Average ratings for Vistra:
+Business Outlook: 0.54
+
+Career Opportunities: 3.2
+Distribution: 
+	1: 85 
+	2: 59 
+	3: 116 
+	4: 99 
+	5: 80 
+
+CEO: 0.83
+
+Compensation and Benefits: 3
+Distribution: 
+	1: 71 
+	2: 87 
+	3: 136 
+	4: 94 
+	5: 50 
+
+Culture and Values: 3.3
+Distribution: 
+	1: 88 
+	2: 63 
+	3: 108 
+	4: 101 
+	5: 74 
+
+Diversity and Inclusion: 3.4
+Distribution: 
+	1: 55 
+	2: 36 
+	3: 74 
+	4: 90 
+	5: 78 
+
+Overall: 3.3
+Distribution: 
+	1: 89 
+	2: 66 
+	3: 152 
+	4: 121 
+	5: 87 
+
+Senior Management: 3
+Distribution: 
+	1: 115 
+	2: 77 
+	3: 92 
+	4: 83 
+	5: 67 
+
+Work Life Balance: 3.1
+Distribution: 
+	1: 100 
+	2: 52 
+	3: 104 
+	4: 103 
+	5: 76 
+
+Review Count: 517
+
+Recommend to Friend: 
+	RECOMMEND: 183
+	WONT RECOMMEND: 173
+
+
+
+
+The company has 569 reviews on Glassdoor. The last review was posted on 2024-04-08T12:25:34.893. 
+There are 20 Reviews for Vistra:
+
+Review 1:
+	Job Title: Sales Executive
+	Location: None
+	Review Date: 2023-05-03T16:35:12.597
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		great benefits at the company honestly
+
+
+	Cons: 
+		good people not much id change about the company
+
+
+	Summary: 
+		good company
+
+
+Review 2:
+	Job Title: Analyst III
+	Location: Miami, FL
+	Review Date: 2024-03-15T05:39:55.880
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Collaboration culture, good pay and benefits
+
+
+	Cons: 
+		Work-life balance, structured train options/development
+
+
+	Summary: 
+		Good pay, good work environment
+
+
+Review 3:
+	Job Title: Software Developer
+	Location: None
+	Review Date: 2022-10-28T10:16:20.087
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Work-life balance, supervisors are engaging and care about your progress
+
+
+	Cons: 
+		Starbucks cafe closed and has not reopened
+
+
+	Summary: 
+		Great company
+
+
+Review 4:
+	Job Title: None
+	Location: None
+	Review Date: 2021-07-30T09:33:00.637
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Highly respected CEO, Alan Brown and some great ExCo leaders however most upper mgmt are just out for themselves. Great Goal with talented individuals but no organization! Great values but does not exist! Not ONE VISTRA at all. It all depends on who you have as a leader, some of the leaders truly care for their employees and will do anything for their team or department.
+
+
+	Cons: 
+		HR Senior leaders are a joke! 
+		Poor leadership, they only care for themselves. 
+		HR leader will load staff with work, filled to the rim solely due to their incompetency or lack of experience. Can not lead at all. do not bring any clarity or responses, have no consideration for their team. 
+		Great at creating excel spreadsheet or have meaningless meetings but no work integrity. Never checks emails, always unreliable, only responses to emails when its urgent. 
+		Tedious work processes bad administrative software. 
+		Unrealistic expectations on work loads, unexpected promotions of unknown people known for doing nothing. 
+		What you will learn here is from your own work, no career development, no consideration for anything done. 
+		Toxic work environment.
+
+
+	Summary: 
+		Talented people dealing with poor management.
+
+
+Review 5:
+	Job Title: Associate
+	Location: None
+	Review Date: 2022-04-25T07:22:32.320
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good colleagues to work with me.
+
+
+	Cons: 
+		Lack of leadership in the Dallas/NY offices. No clear direction from Sr management.
+
+
+	Summary: 
+		Lack of Leadership
+
+
+Review 6:
+	Job Title: Sr Manager, Marketing
+	Location: None
+	Review Date: 2022-04-09T09:37:39.790
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great culture and great leadership
+
+
+	Cons: 
+		Highly competitive market and hence constantly changing priorities
+
+
+	Summary: 
+		Great
+
+
+Review 7:
+	Job Title: Client Onboarding Manager
+	Location: None
+	Review Date: 2021-10-13T08:27:40.847
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		flexible environment
+		dynamic
+		colleagues are very helpful, supportive of each other
+		work from home since COVID
+
+
+	Cons: 
+		salaries below market
+		bonus scheme unclear / managers manipulate at discretion 
+		no salary increases in the last couple of years
+		leadership changes very often 
+		poor investment in technology
+
+
+	Summary: 
+		Flexible environment,  low salaries
+
+
+Review 8:
+	Job Title: Director
+	Location: Chicago, IL
+	Review Date: 2021-10-12T23:27:56.313
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Large footprint. Broad full service offering.
+
+
+	Cons: 
+		Still trying to figure direction but turning the corner.
+
+
+	Summary: 
+		Still figuring it’s way
+
+
+Review 9:
+	Job Title: Managing Director
+	Location: None
+	Review Date: 2021-08-31T05:53:18.220
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Exciting, fast-growing, international company that gives its employees responsibility and freedom to get things done.
+
+
+	Cons: 
+		The pace of change is not for those looking for a calm job.
+
+
+	Summary: 
+		Client and Employee Focused Fast Growing Company
+
+
+Review 10:
+	Job Title: None
+	Location: None
+	Review Date: 2018-06-17T21:14:15.743
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 0
+
+	Pros: 
+		Radius supports for work visa.
+
+
+	Cons: 
+		1. Seniors and managers are not as knowledgeable (technically) as they should be; 80% of what you learn here are from your own research. Management has very little to offer to people beneath them. Most managers and seniors are not CPA.
+		2. If you want to grow and hear some constructive feedback, good luck to you. There is no regular, helpful feedback to your performance, even if you ask. In fact, management hardly has any thoughtful communications with you, or among themselves. The company culture is weird. 
+		3. The managers tend to talk behind your back. You simply cannot believe what they tell you in person, because you never know what they will say when you are not there. Don’t be surprised if you are hear something (positive) from your manager and see an awful result later. Moral integrity is undervalued here. 
+		4. Very little training, but that’s understandable because this is a small CPA firm. 
+		5. Low pay and bad 401K plan.
+
+
+	Summary: 
+		US Tax
+
+
+Review 11:
+	Job Title: Senior Associate
+	Location: None
+	Review Date: 2020-05-25T12:09:42.400
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good co-workers and direct management
+
+
+	Cons: 
+		Pay, benefits, higher management. Moved to "unlimited PTO" so they don't have to pay out when employees when they quit. No backups and constant deadlines make PTO impossible to use.
+		
+		Owned by a private equity firm looking to get the most value out of their assets. This means an increasing emphasis on "increasing productivity" without increasing pay or providing the resources needed while purchasing other companies to meet their goal of attaining 15% market share in the next five years.
+		
+		The plan seems to be to work everyone as if they are a big 4 CPA firms without the pay or prestige that comes with it.
+
+
+	Summary: 
+		Squeeze Incoming
+
+
+Review 12:
+	Job Title: Sales
+	Location: None
+	Review Date: 2019-12-31T10:11:12.737
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Vistra is a company that is growing rapidly. Because of this, there are opportunities to grow with the company. The company is investing a lot in personal development.
+
+
+	Cons: 
+		Vistra is a company that is growing rapidly. This makes the company also subject to many changes. Ultimately with the goal of becoming the number 1 in the industry.
+
+
+	Summary: 
+		Potential to become number 1 in the corporate services business.
+
+
+Review 13:
+	Job Title: None
+	Location: None
+	Review Date: 2018-04-24T06:54:03.463
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Decent pay and benefits. You definitely wont get bored.
+
+
+	Cons: 
+		Management has recently decided to trade long term stability and progress for short term financial gain.  Not nearly enough people to get the work done
+
+
+	Summary: 
+		Short Term Thinking
+
+
+Review 14:
+	Job Title: Marketing and Communications Specialist
+	Location: San Diego, CA
+	Review Date: 2021-07-08T08:40:01.447
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Unlimited PTO, nice people, learning opportunity
+
+
+	Cons: 
+		Antiquated and misogynistic upper management, lack of respect for work life balance, lack of communication, silo’d approach to management and internal communications, lack of upward mobility, lack of respect for consequences of the pandemic, no transparency, little to no financial incentives
+
+
+	Summary: 
+		Wouldn’t recommend
+
+
+Review 15:
+	Job Title: None
+	Location: None
+	Review Date: 2016-10-10T09:00:53.200
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Good benefit package and starting salaries. Very nice working environment. Good management team.
+
+
+	Cons: 
+		Lack of future career development for employees. Sometimes the office atmosphere is a bit awkward.
+
+
+	Summary: 
+		Good place to work, but needs some improvements
+
+
+Review 16:
+	Job Title: Director
+	Location: Irving, TX
+	Review Date: 2020-11-28T03:50:48.593
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		There is nothing I can report about this company that is positive
+
+
+	Cons: 
+		I was bullied by their in house council whom was tasked to represent me in an investigation that was dismissed because it was determined to be a claim with no merit.
+
+
+	Summary: 
+		Please do not disregard this review!
+
+
+Review 17:
+	Job Title: None
+	Location: Boston, MA
+	Review Date: 2021-03-22T17:29:21.953
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Flexibility, decent benefits, nice people
+
+
+	Cons: 
+		Lacking in any cohesive strategy, departments don’t coordinate
+
+
+	Summary: 
+		Depends on your boss
+
+
+Review 18:
+	Job Title: None
+	Location: Boston, MA
+	Review Date: 2018-10-23T03:36:22.593
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Friendly environment to work with this company
+
+
+	Cons: 
+		I don't think there's is any downstair
+
+
+	Summary: 
+		Correspondence analyst
+
+
+Review 19:
+	Job Title: Chemist
+	Location: None
+	Review Date: 2020-02-28T20:30:27.417
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Company cares about their employees.
+
+
+	Cons: 
+		There are no cons that I am aware of.
+
+
+	Summary: 
+		Vistra Review
+
+
+Review 20:
+	Job Title: None
+	Location: Canton, IL
+	Review Date: 2020-08-12T18:12:05.400
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Pay, great group of people
+
+
+	Cons: 
+		They shut down the plant I worked at, didn’t work with anyone to relocate
+
+
+	Summary: 
+		could be better
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

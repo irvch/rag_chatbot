@@ -1,0 +1,624 @@
+
+AGCO is a Construction and Farm Machinery company based in 30096 Duluth, Georgia. 
+The company has 25,600 employees and has a revenue of $12,651 according to Fortune 500.
+The company is valued at $10,119 and has a profit of $890. The CEO of the company is Eric P. Hansotia.
+
+The Company has the following ratings: 
+Average ratings for AGCO:
+Business Outlook: 0.69
+
+Career Opportunities: 3.5
+Distribution: 
+	1: 134 
+	2: 202 
+	3: 296 
+	4: 314 
+	5: 227 
+
+CEO: 0.87
+
+Compensation and Benefits: 3.8
+Distribution: 
+	1: 55 
+	2: 110 
+	3: 299 
+	4: 415 
+	5: 289 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 121 
+	2: 156 
+	3: 298 
+	4: 305 
+	5: 274 
+
+Diversity and Inclusion: 3.8
+Distribution: 
+	1: 47 
+	2: 65 
+	3: 123 
+	4: 175 
+	5: 213 
+
+Overall: 4
+Distribution: 
+	1: 75 
+	2: 114 
+	3: 291 
+	4: 480 
+	5: 377 
+
+Senior Management: 3.5
+Distribution: 
+	1: 169 
+	2: 137 
+	3: 241 
+	4: 248 
+	5: 175 
+
+Work Life Balance: 3.7
+Distribution: 
+	1: 114 
+	2: 121 
+	3: 278 
+	4: 393 
+	5: 264 
+
+Review Count: 1339
+
+Recommend to Friend: 
+	RECOMMEND: 849
+	WONT RECOMMEND: 250
+
+
+
+
+The company has 1627 reviews on Glassdoor. The last review was posted on 2024-04-17T01:50:22.570. 
+There are 20 Reviews for AGCO:
+
+Review 1:
+	Job Title: Engineering
+	Location: None
+	Review Date: 2024-02-01T06:56:10.253
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Opportunities to grow.
+		Passionate people.
+
+
+	Cons: 
+		Ag market can be cyclical at times.
+
+
+	Summary: 
+		Great Opportunities
+
+
+Review 2:
+	Job Title: Logistics Planner II
+	Location: None
+	Review Date: 2024-04-10T08:13:47.197
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Not a very difficult job, and not very stressful; also benefits
+
+
+	Cons: 
+		Environment of nepotism, plus hardest workers often taken advantage of (at least in my department) - establishing firm and healthy boundaries is recommended
+
+
+	Summary: 
+		Ultimately OK
+
+
+Review 3:
+	Job Title: Validation Engineer
+	Location: Jackson, MN
+	Review Date: 2024-04-04T06:36:18.657
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The work here is entertaining, and not to challenging.
+
+
+	Cons: 
+		This is an old company stuck in their ways.
+
+
+	Summary: 
+		Validation Engineer
+
+
+Review 4:
+	Job Title: Marketing Product Specialist
+	Location: Jackson, MN
+	Review Date: 2024-03-26T20:04:50.870
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The People and products are good pros
+
+
+	Cons: 
+		The people who have no idea what they are doing in roles they shouldn't be in.
+
+
+	Summary: 
+		Marketing Product Specialist
+
+
+Review 5:
+	Job Title: Welder
+	Location: None
+	Review Date: 2024-03-19T13:56:02.580
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Good benefits and insurance for family
+
+
+	Cons: 
+		The lack of communication and the drastic changes and constant up and down of hours
+
+
+	Summary: 
+		Very up and down
+
+
+Review 6:
+	Job Title: Data Scientist
+	Location: Duluth, GA
+	Review Date: 2024-03-04T08:32:42.920
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		like it here alot! first year, 10 days of pto. second year and after, 15 days of pto. im fully remote and i get to travel.
+
+
+	Cons: 
+		no cons that i can think of
+
+
+	Summary: 
+		love it here
+
+
+Review 7:
+	Job Title: Software Engineer
+	Location: Jackson, MN
+	Review Date: 2024-02-26T17:01:48.577
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Low stress, Remote, work on tangible products
+
+
+	Cons: 
+		No room for promotions and very slow growth. Small raises
+
+
+	Summary: 
+		Solid Job
+
+
+Review 8:
+	Job Title: Cyber Security Analyst
+	Location: Duluth, GA
+	Review Date: 2024-02-07T22:24:20.670
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Great place to work! Team is very welcoming and encouraging.
+
+
+	Cons: 
+		There is some Bureaucracy &amp; business alignment at the IT level is needed.
+
+
+	Summary: 
+		All around good place to work
+
+
+Review 9:
+	Job Title: None
+	Location: None
+	Review Date: 2024-02-04T14:11:29.743
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Small company feel and freedom.
+
+
+	Cons: 
+		Location can be a challenge.
+
+
+	Summary: 
+		AGCO Jackson
+
+
+Review 10:
+	Job Title: Validation Engineer
+	Location: Hesston, KS
+	Review Date: 2024-02-01T16:06:32.820
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Lots of room to move up
+
+
+	Cons: 
+		The Chrysler of the agriculture world
+
+
+	Summary: 
+		Good job
+
+
+Review 11:
+	Job Title: Senior Manager
+	Location: Duluth, GA
+	Review Date: 2024-01-14T15:35:57.690
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Purpose of helping farmers feed the world
+		Great leadership
+
+
+	Cons: 
+		Very global company and hence travel heavy
+
+
+	Summary: 
+		Great company with a great purpose
+
+
+Review 12:
+	Job Title: Validation Engineer
+	Location: Jackson, MN
+	Review Date: 2023-12-23T13:48:10.780
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		I am young for my job and I am treated with as much respect as my coworkers
+
+
+	Cons: 
+		In a small town but if you like the big city there is one about 20 min. away
+
+
+	Summary: 
+		I love my job
+
+
+Review 13:
+	Job Title: Customer Experience Associate
+	Location: Duluth, GA
+	Review Date: 2023-12-06T06:19:17.900
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Before leaving AGCO, I had a manager who not only cared about my job performance and wanted to help me be successful, but she also cared about me personally and my family.
+
+
+	Cons: 
+		Due to the size of the company, sometimes lack of communication was an issue.
+
+
+	Summary: 
+		A Manager who Cares
+
+
+Review 14:
+	Job Title: Product Specialist
+	Location: Duluth, GA
+	Review Date: 2023-12-23T13:09:41.733
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great company to work for. A lot of on the job training, and great coworkers.
+
+
+	Cons: 
+		No cons that I can think of.
+
+
+	Summary: 
+		Great Experience
+
+
+Review 15:
+	Job Title: Welder/Fabricator
+	Location: Hesston, KS
+	Review Date: 2023-08-12T12:04:53.403
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		-Decent Pay -Overtime Benefits -Good Break Times -Okay Insurance Coverage -Competitive to a certain degree
+
+
+	Cons: 
+		-Bosses are more interested in Female Employees. -Bosses expect you to be a robot and not share your concerns -Good luck trying to get a raise when you need it. Youll be asking for months, unless youre a female of course and spread your legs for the bosses -So. Much. Drama.
+
+
+	Summary: 
+		Youll love this job.. If you love to feel like youre in a Soap Opera
+
+
+Review 16:
+	Job Title: Technical Design Engineer
+	Location: None
+	Review Date: 2023-11-07T13:01:32.317
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Ability to steer your career where you want to go.
+
+
+	Cons: 
+		Hard to move up. No compensation for above average talent.
+
+
+	Summary: 
+		Lots of opportunities to work on different projects
+
+
+Review 17:
+	Job Title: Software Validation Engineer
+	Location: Hesston, KS
+	Review Date: 2023-11-16T11:38:54.320
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Varying Task everyday. Good work life balance. Good team support.
+
+
+	Cons: 
+		Benefits in forms of discounts on purchasing company products suck.
+
+
+	Summary: 
+		Agco
+
+
+Review 18:
+	Job Title: Software Engineer III
+	Location: Duluth, GA
+	Review Date: 2023-10-21T14:26:06.103
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Enjoyable work. Reasonable mentoring and experience.
+
+
+	Cons: 
+		Atrocious pay. Agco is buying companies like mad and passing the cost on to its employees.
+
+
+	Summary: 
+		Low Pay
+
+
+Review 19:
+	Job Title: Marketing Product Specialist
+	Location: Duluth, GA
+	Review Date: 2023-11-03T07:23:39.983
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great company, competitive pay, good benefits, adequate time off.
+
+
+	Cons: 
+		Seems like management structure is always shifting.
+
+
+	Summary: 
+		Great Company
+
+
+Review 20:
+	Job Title: Intern
+	Location: None
+	Review Date: 2023-11-27T13:20:47.007
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		there aren't too many pros to working here other than the people.
+
+
+	Cons: 
+		there is no communication throughout the plant.
+
+
+	Summary: 
+		no communication
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,707 @@
+
+Target is a General Merchandisers company based in 55403 Minneapolis, Minnesota. 
+The company has 440,000 employees and has a revenue of $109,120 according to Fortune 500.
+The company is valued at $76,250 and has a profit of $2,780. The CEO of the company is Brian C. Cornell.
+
+The Company has the following ratings: 
+Average ratings for Target:
+Business Outlook: 0.47
+
+Career Opportunities: 3.2
+Distribution: 
+	1: 3358 
+	2: 3673 
+	3: 6296 
+	4: 4976 
+	5: 4972 
+
+CEO: 0.63
+
+Compensation and Benefits: 3.4
+Distribution: 
+	1: 2419 
+	2: 2910 
+	3: 6453 
+	4: 6149 
+	5: 5128 
+
+Culture and Values: 3.5
+Distribution: 
+	1: 2895 
+	2: 2657 
+	3: 5107 
+	4: 5481 
+	5: 6798 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 1702 
+	2: 1398 
+	3: 3833 
+	4: 5794 
+	5: 10147 
+
+Overall: 3.5
+Distribution: 
+	1: 2713 
+	2: 3625 
+	3: 10173 
+	4: 10972 
+	5: 8834 
+
+Senior Management: 3
+Distribution: 
+	1: 4797 
+	2: 3523 
+	3: 5528 
+	4: 4591 
+	5: 4238 
+
+Work Life Balance: 3.3
+Distribution: 
+	1: 3676 
+	2: 3140 
+	3: 6091 
+	4: 4788 
+	5: 5165 
+
+Review Count: 80807
+
+Recommend to Friend: 
+	RECOMMEND: 11699
+	WONT RECOMMEND: 7301
+
+
+
+
+The company has 84121 reviews on Glassdoor. The last review was posted on 2024-04-18T01:41:20.740. 
+There are 20 Reviews for Target:
+
+Review 1:
+	Job Title: Sr. Software Engineer
+	Location: None
+	Review Date: 2024-02-29T13:09:47.920
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		great community and strong tech.
+
+
+	Cons: 
+		a lot of process around development.
+
+
+	Summary: 
+		great community
+
+
+Review 2:
+	Job Title: ETL Human Resources
+	Location: Cincinnati, OH
+	Review Date: 2019-01-31T10:56:18.257
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		- Management 
+		- Pay
+		- Benefits 
+		- Personal development 
+		- Vacation time 
+		- Culture
+
+
+	Cons: 
+		Long hours but worthwhile work.
+
+
+	Summary: 
+		AMAZING COMPANY
+
+
+Review 3:
+	Job Title: Team Member
+	Location: Whittier, CA
+	Review Date: 2024-04-08T21:34:18.450
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		- Loved my co-workers
+		- plenty of hours in my department 
+		- amazing leadership in my department
+		-3-party representatives are very nice and full of advice 
+		-semi-flexible
+
+
+	Cons: 
+		- too much gossiping
+		-I wasn’t trained properly and it took a long time to figure out everything and a good rhythm. I felt lost and unsure most of the time. 
+		- management are emotionally manipulative and abusive towards team members 
+		- they don’t know how to delegate responsibilities in a professional manner properly 
+		-unprofessional with team members in general 
+		- at the end of the day it’s all about profit over people
+		-hours will be cut during different quarters so be prepared 
+		-upper management is super passive aggressive and lazy 
+		-over working team members (I was part time but they would always schedule me just before hitting my over time and I nearly hit my 5th hour too many times due to this)
+		-they will absolutely give you responsibilities that aren’t apart of your department or are above your pay grade so be sure to speak up
+		-they are constantly changing their games so don’t get comfortable for too long 
+		-always use your vacation/sick time when you can, don’t try to save too much because they will not pay you out when you leave 
+		-If you go against the grain too much, management will retaliate against you 
+		-the guests can be racist or homophobic at times
+		-Women: be careful of the men who work there. They are notoriously very creepy.
+		- Again: You. Will. Be. Over-Worked.
+
+
+	Summary: 
+		Don’t Trust Anyone - You Will Feel Overworked
+
+
+Review 4:
+	Job Title: Guest Service Team Member
+	Location: None
+	Review Date: 2024-04-10T09:54:01.207
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		- Good hours. (Sometimes) 
+		- Most of management is great to work with, as long as you communicate. 
+		- Regular customers are nice to get to know, makes it a lot more enjoyable when stuck on a lane for a few hours.
+
+
+	Cons: 
+		- No set schedule. Ever. You will never have set hours, nor will you have set shifts that you work. 
+		- HR is extremely unhelpful. If you’re going through a rough period in your life, it’s best to keep it as vague as possible with higher ups. They do not care. 
+		- Most managers do NOT pull their weight, nor care to. They expect you to do their job for them despite getting paid a significant amount more than you. They leverage the fact you don’t want your other team members to stress in order to get you to pick up their slack. 
+		- The company does not care about your safety. There was a time in December when the wind chills were -20 degrees, and management refuses to turn off drive ups. They encouraged us to take turns on it, but we didn’t have enough people to swap around constantly. There were TM’s getting stuck on it for an hour and a half in freezing temperatures. 
+		- It’s STRESSFUL. Not enough workers, too many entitled customers.
+
+
+	Summary: 
+		Don’t Get Stuck Here
+
+
+Review 5:
+	Job Title: Guest Services
+	Location: Las Vegas, NV
+	Review Date: 2024-04-17T17:31:36.880
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		If you have good leaders, it won't be as bad.
+		You can pretty much call out and be late as much as you want, they literally just hope you show up.
+
+
+	Cons: 
+		Very understaffed, but still have the expectations to do work of 4 people by yourself.
+		Disrespectful and entitled guests.
+		Raises are based on attendance, but even then if you are a hard worker it's not really recognized or appreciated.
+		Lifting heavy items for guests all day.
+		Working in different weather conditions because they don't care to stop drive up if it's windy, rainy, or over 100 degrees in the summer.
+
+
+	Summary: 
+		Huge turnover
+
+
+Review 6:
+	Job Title: Barista, Coffee Master, Barista Trainer
+	Location: San Antonio, TX
+	Review Date: 2024-04-12T16:39:36.940
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		The benefits at Target are among some of the best in the industry, with great health &amp; dental coverage along with paid education opportunities. Discounts in store are also accumulative with other discounts, leading to big savings for essentials while employed.
+
+
+	Cons: 
+		Management is not held accountable for their actions at all, and can shift blame to their wage workers without much notice. Audits by corporate don't do much digging into wage worker's experiences and feedback is mostly ignored. Job promotions will be dangled over your head when working for them long enough but become hollow promises as time progresses until you eventually search for a new job.
+
+
+	Summary: 
+		Good Benefits Outweighed By Horrible Management Practices
+
+
+Review 7:
+	Job Title: Outbound Warehouse Worker
+	Location: Tyler, TX
+	Review Date: 2024-03-22T09:59:30.827
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Day 1 benefits, decent pay, 4 day work week.
+
+
+	Cons: 
+		Minimal training and constant scrutiny over being overwhelmed by several things you have to keep up with. Build walls with boxes should be pretty simple, and that is the simple part. Managing several lanes of conveyors constantly spitting boxes at you while you rush to try to get backed up ones knocked down, finally clear that one line only to come out and see 3 more backed up. Really vague instruction from the people who are supposed to be qualified trainers that talk like it is supposed to be easy. The people that fill up pallets can literally place 50 lb boxes on top of small 5 lb boxes and it is your responsibility if it falls. So not only is your responsibility to take care of your work but you also have to make sure everybody else is doing theirs right. The whole job is one giant anxiety attack that lasts 10 hours and you get to go home depressed, sore, and questioning your life decisions. I also get to have nightmares every night about these dang boxes and lane lights. Having little to no self confidence and a job that is constantly kicking your butt is not a good combination. Training is over now and i don't feel any closer to understanding how to do this job than when i started.
+
+
+	Summary: 
+		How TF do you keep up?
+
+
+Review 8:
+	Job Title: Facilities Manager
+	Location: Wilton, NY
+	Review Date: 2024-04-04T12:45:20.683
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Target is a genuinely good company that pays fairly and doesn't do any funny business with bonuses. Their benefits are good, they are interested in your career progression. They put effort in to caring for their staff. It is a great place for people who like to optimize working systems.
+
+
+	Cons: 
+		Everything of substance is decided at HQ. Obviously this helps the company stay standardized, but it can also feel disempowering that very little is controlled at a local level. Many people stay with the company a long time, so while career growth is available, you might be "waiting" a while if you're not willing to relocate. However, people who relocate climb quickly. 
+		
+		Also, leadership training is reserved for people in the director level, some senior managers. I think it would be well worth it to send people at lower levels, their lack of leadership training shows.
+
+
+	Summary: 
+		A Good Company
+
+
+Review 9:
+	Job Title: Inbound/Outbound Queue Associate
+	Location: Chico, CA
+	Review Date: 2024-04-16T03:27:22.380
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		It's a Union company which is better than non unions like Walmart
+
+
+	Cons: 
+		Management doesn't care for you! 
+		If your slow or disabled they will not work with you they will immediately fire you as soon as they find out.
+		They always change the schedule the day of. They will make you miss days of work and then say you we not on the schedule. They will do everything against you. They will be so unorganized in unloading the truck when you go to stock it on the floor you have no tools to help you find where it goes and the store will have you stock a uboat with 10 different areas all over the store an you have to finish it within an u realistic time frame.
+		If you are slow they will redicual you 
+		They will not help you. If you are new they will do everything they can to get you to quit or they will fire you. They called me slow and stupid for trying to work there.
+
+
+	Summary: 
+		Don't try if your disabled or slow 
+
+
+Review 10:
+	Job Title: Floater
+	Location: Matthews, NC
+	Review Date: 2024-03-26T02:54:00.823
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Pay, Insurance, the atmosphere and plenty of opportunities for growth, both paid and volunteer
+
+
+	Cons: 
+		retail, "I'd like to speak to a manager" customer mentality that has significantly contributed to supervisors who are easy pushovers... almost always override system to bypass any store policy that employees are trained and instructed to uphold...
+
+
+	Summary: 
+		Great place to work
+
+
+Review 11:
+	Job Title: Team Member
+	Location: Jacksonville, FL
+	Review Date: 2024-04-16T15:08:17.067
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Great pay but very minimal room for a raise or to move up in the company unless you are there for five years. The coworkers are a wonderful group to work with and can make the time there super fun. Really get to learn the in and outs of retail.
+
+
+	Cons: 
+		The management can be quite difficult to work with. They expect you to have the roles of five people under your belt while also still completing your original tasks. You need to be able to back up the cashiers, pick up online orders, help guests, and maintain the floor all in one day.
+
+
+	Summary: 
+		Great Beginner Job
+
+
+Review 12:
+	Job Title: Fulfillment Associate
+	Location: None
+	Review Date: 2024-02-23T18:13:38.400
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Co-workers were the best part of working at target. Made my shifts go by faster and things easier.
+
+
+	Cons: 
+		Manager wasn't that great, old manager was better. The new manager cut my hours down whenever I "retaliated" back, ex. Didn't (couldn't) work the hours out of my availability, got back from a week APPROVED vacay, etc. She was very petty, took me out of SHIP after I've been working in it as a "permanent" member just because I didn't did what she liked. HR wasn't any help, sometime even like to mock or talk about others team member/ TL. Loves talking about diversity but blatant racism's are shown by TLs. There was a TL who was literally a perv, some old mans that should be getting a big boy job (not working at target for $16) talking about getting with underage girls. Don't even know how some became TL considering their attitude and "hard work". Team members did more work than some of the TLS. TLS (aside from fulifillment TL) loveeeesss walking around the store with their Starbucks drinks during rush hours. Aside from the great coworkers, management and everyone else above pretty much suck, of course some TL were nice but you can count them all in one hand :/ NOT TO METION RUSH HOURS ARE HELL, no backs ups, getting yell at for going in the red zone, and CUSTOMER ASKING FOR HELP WHEN YOUR CART IS RED ;( SOMETIME EVEN YELLING AT YOU FOR THE HOLDUP WITH THE CHECK LANE/WAITING IN LINE.
+
+
+	Summary: 
+		It's okay :)
+
+
+Review 13:
+	Job Title: Customer Service Advocate
+	Location: None
+	Review Date: 2024-03-20T21:52:01.943
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		good hrs 
+		
+		2/3 amazing team leads
+
+
+	Cons: 
+		not flexible I had Sunday nights off for over 6 months and was forced to make Sundays available when a new ETL joined our store
+		
+		back breaking
+		
+		management doesn't care if you need help but will get mad if you don't make time deadlines
+		
+		never enough coverage
+		
+		must work as 2+ people constantly
+		
+		leaders aren't taken seriously when they try and make improvement's when they talk to higher ups.
+		
+		delegating employee's to other tasks leaving assigned tasks vacant. 
+		
+		the leaders have favorites
+		
+		its a popularity contest if you want to be promoted
+		
+		reviews are entirely based off of attendance and corrective actions so being amazing at your job has no effect on raises if u call out sick more than a week through out the year.
+
+
+	Summary: 
+		Management doesn't care
+
+
+Review 14:
+	Job Title: Customer Service Representative
+	Location: Valencia, CA
+	Review Date: 2024-04-05T09:46:44.627
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Training Opportunities: Target often provides thorough training for its employees, including those in customer service roles. This can include learning about products, services, and customer interaction skills that are transferable to other jobs.
+		
+		Employee Discounts: Target typically offers its employees a discount on merchandise, which can be especially beneficial if you frequently shop there.
+		
+		Flexible Hours: Target often provides flexible scheduling options, making it easier to balance work with other commitments such as school or family responsibilities.
+
+
+	Cons: 
+		High Stress Levels: Dealing with a high volume of customers, especially during busy periods, can be stressful and demanding.
+		
+		Handling Difficult Customers: Customer service roles often involve dealing with challenging or irate customers, which can be emotionally draining.
+		
+		Physical Demands: Depending on the specific role, customer service positions may require standing for long periods and lifting heavy objects, which can be physically demanding.
+
+
+	Summary: 
+		Target
+
+
+Review 15:
+	Job Title: Food and Beverage Sales Associate
+	Location: Brooklyn, NY
+	Review Date: 2024-04-17T12:30:35.487
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Fast way to make money with $18 min. wage 
+		PTO options are pretty good 
+		Ability to swap shifts easily or post them to be picked up
+
+
+	Cons: 
+		Disgusting environment (rats, opossums, fruits flies) it’s not really theirs fault bc they come in from the docks but if you’re easily disgusted wouldn’t recommend. Also management switched over a lot in the departments causing chaos at times.
+
+
+	Summary: 
+		Ehh
+
+
+Review 16:
+	Job Title: None
+	Location: None
+	Review Date: 2015-09-01T09:49:49.177
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Target is really making some great improvements right now.  The work is hard, but it's innovative and exciting.  It's nice to be part of a successful transformation.
+
+
+	Cons: 
+		With all of the transformation, there is a little uncertainty and an increased workload.  The grey and the unknown can be a little scary, but things are clearly moving in the right direction.
+
+
+	Summary: 
+		Great Environment
+
+
+Review 17:
+	Job Title: Overseer
+	Location: None
+	Review Date: 2024-03-19T10:48:04.247
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Can be a wonderful job for college students and high school students making good money .
+
+
+	Cons: 
+		Not fond of 2nd job opportunities , if you’re a college student you receive a lot more grace . Promotions are available but won’t be given unless you are favored by management- HR isn’t HR for the staff it’s only about the business. If it’s an issue of team leader and coworker the HR doesn’t help - will tell you to speak with the leader you’re having issues with instead of being the mediator and problem solver .
+
+
+	Summary: 
+		Research company &amp; check reviews of store location
+
+
+Review 18:
+	Job Title: Inbound Stower
+	Location: Fairport, NY
+	Review Date: 2024-02-17T04:50:29.643
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Lots of random benefits to all employees (streaming workouts, tuition help, mental health, tele docs).
+
+
+	Cons: 
+		Zero team building or even time to mingle with other employees, actively discouraged from doing a good job or doing it right. It’s allllllll about getting junk out on the floor as fast as possible. No time to straighten a section, put stuff away where it actually goes, moving stuff that doesn’t go there to its proper home. Corporate has timelines for how long things should take, which I get, but it’s GO GO GO GO! The entire time, when we aren’t paid enough to actually care. 
+		
+		I was constantly scheduled on days when I had doctors appointments and had to work at my other job. 
+		
+		When I started, no supervisor ever even introduced themselves. 
+		
+		You are literally just a cog in the machine. 
+		
+		The environmental nightmare of the place is also hard to handle.
+		
+		There were unsafe work conditions unloading the truck and then we got reamed out for it taking 20 minutes too long (and we weren’t standing around at all)… as an example. 
+		
+		No manager ever wanted to give us time to do our training videos nor show us how to do things properly.
+
+
+	Summary: 
+		Worst Place I’ve ever worked
+
+
+Review 19:
+	Job Title: Guest Services
+	Location: Troy, MI
+	Review Date: 2024-03-24T08:29:57.800
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Not all employees have this outlook, but the co-workers that I have met at target are some of my closest friends to this day. The environment can be as positive as you make it, with some room for management to apply pressure, but dealing with it properly has lead to positive work experiences.
+
+
+	Cons: 
+		HR department could be a lot better and organized, Covid pay was a mess, but every business has areas to be improved.
+
+
+	Summary: 
+		Love my family
+
+
+Review 20:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-25T19:16:40.137
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Moreover, the staff at XYZ Shopping Market are friendly, knowledgeable, and always willing to assist customers. Whether you need help finding a specific item or want recommendations on the best deals, the staff members go above and beyond to ensure a pleasant shopping experience.
+		
+		In conclusion, XYZ Shopping Market is a gem in the heart of the city, offering a diverse range of products, excellent customer service, and a vibrant atmosphere. Whether you're a local resident or a tourist exploring the area, a visit to this market is highly recommended for a fulfilling shopping experience.
+
+
+	Cons: 
+		One of the standout features of XYZ Shopping Market is its commitment to quality. The vendors here take pride in their products, ensuring that shoppers receive value for their money. Whether you're looking for locally sourced ingredients for a gourmet meal or unique souvenirs to take home, you'll find plenty of options to choose from.
+
+
+	Summary: 
+		not a good time
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

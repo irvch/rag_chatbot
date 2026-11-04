@@ -1,0 +1,674 @@
+
+Netflix is a Entertainment company based in 95032 Los Gatos, California. 
+The company has 12,800 employees and has a revenue of $31,616 according to Fortune 500.
+The company is valued at $153,858 and has a profit of $4,492. The CEO of the company is Ted Sarandos.
+
+The Company has the following ratings: 
+Average ratings for Netflix:
+Business Outlook: 0.66
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 232 
+	2: 212 
+	3: 353 
+	4: 384 
+	5: 518 
+
+CEO: 0.86
+
+Compensation and Benefits: 4.5
+Distribution: 
+	1: 42 
+	2: 66 
+	3: 186 
+	4: 432 
+	5: 971 
+
+Culture and Values: 3.9
+Distribution: 
+	1: 160 
+	2: 137 
+	3: 182 
+	4: 285 
+	5: 677 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 46 
+	2: 48 
+	3: 80 
+	4: 180 
+	5: 448 
+
+Overall: 4.1
+Distribution: 
+	1: 179 
+	2: 206 
+	3: 315 
+	4: 552 
+	5: 933 
+
+Senior Management: 3.6
+Distribution: 
+	1: 271 
+	2: 179 
+	3: 294 
+	4: 401 
+	5: 532 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 244 
+	2: 214 
+	3: 351 
+	4: 400 
+	5: 484 
+
+Review Count: 2189
+
+Recommend to Friend: 
+	RECOMMEND: 1056
+	WONT RECOMMEND: 462
+
+
+
+
+The company has 2828 reviews on Glassdoor. The last review was posted on 2024-04-17T01:01:33.860. 
+There are 20 Reviews for Netflix:
+
+Review 1:
+	Job Title: Software Architect
+	Location: None
+	Review Date: 2024-04-14T16:38:22.793
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		great company to work in, with awesome culture
+
+
+	Cons: 
+		starting to change, okr etc. aaa
+
+
+	Summary: 
+		culture
+
+
+Review 2:
+	Job Title: None
+	Location: None
+	Review Date: 2018-09-20T01:10:39.167
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		- Paycheck
+		- So many good people
+		- Such a great service
+		- Hope
+
+
+	Cons: 
+		I have been working for a year at Netflix.
+		
+		I've seen what was supposed to be very mature people, sharing absolutely almost no contact that anyone would qualify as "human".
+		Sure, that sounds hyperbolic, let me develop (and maybe cherry-pick a little).
+		
+		Have you heard about our culture? The one about giving candid feedback? - I have seen people complaining of behavior they literally demonstrated themselves in the following days.
+		But I have also seen these feedbacks resulting in tears both in the eyes of HR persons or fellow engineers. How human does that sound?
+		
+		Have you heard about our culture? The one about not tolerating brilliant jerks? I have nonetheless seen angriness and frustration, expressed in private, public and meeting. People rejecting new ideas by default, like, any ideas they wouldn't have worked themselves on for days wouldn't count. Even if those ideas are from the best examples in the industry or academics. How many publications/contributions have you seen from Netflix to computer science in general? How does it compare against any other company of that size in the Bay Area? Can you imagine either the real insecurity (x)or the lack of innovation that could lead to this situation?
+		
+		Except for a few managers, directors or VPs feeling free enough to behave at work in the same way than how they live, almost every engineer I have been interacting with, have shared as little as possible about their private life.
+		The rare exceptions of interpersonal exchange ends up around some sort of competitive behavior: Who is the most geeky, sportive, owns the fastest car/biggest house/visited the strangest place.
+		
+		I've heard workaholic people complaining about ambitious peers who were over-managing, over-working to get even more work to do after. I feel like we're past workaholism at this point.
+		
+		Maybe there are a lot of shy people! Maybe there is a culture of fear, not only of being fired, but also a fear of interacting with people going to be fired.
+		Maybe it's all in my head, maybe people giving 5 stars to their experience here don't care the human aspect of a company. And maybe they're right.
+		
+		What about your crush, your fears, your desires for the future, your appetite for life? I've been blessed to work in enough large companies to know that the behavior that I'm seeing in Netflix is not a healthy one. I've also been lucky enough to work in other industries more socializing than tech and I can tell that Netflix has a lot to do on that side, and off-sites or team meeting won't solve that problem.
+		
+		I am afraid about the tragic, but inevitable consequences of the ways people operate in this company: I guess that the day the worst will happen, it will be addressed in an impersonal memo by Reed; followed-up by 1 or 2 reminders during offsites. Possibly commented by HR in a Q&amp;A document. And move on. This company seems as reactive in its management of people as it is proactive in its business operations.
+		
+		I still work at Netflix though, not only for the paycheck, but because I hope. I hope it will change. The needed change can't happen from a candid feedback, a Q&amp;A, or  only from inside.
+		Change has to come from everyone, including people who take time to read comments like this one. Netflix has so many good people and offers such a great service.
+		
+		As a curious Netflix employee reading this review: think about your past, isn't there a big human thing that you would love to feel again in your current company that you've felt in the past?
+		
+		As a candidate: think about what would be a good question to ask to that HR partner once your package is almost here to be offered to you, think about that comment you make at the end of an interview when you're being asked by an engineer: "Do you have any question for me?"
+		What Netflix needs is an inception, something that anyone and everyone would think about after leaving the call or the room they were sharing with you.
+		Ask yourself, and then the others, the question you should ask if you think you want to spend a good amount of your life and energy in the place you're applying for.
+		
+		- Will I learn and contribute to the knowledge of other's? Even outside the company?
+		- Will I see emotional responses from my peers? Will that be for other reasons than being fired or bluntly criticized?
+		- Will I find a friendly environment that will nurture my appetite for life?
+		- What is the amount of emotional interaction (celebrating, sharing, playing) to expect from a company whose service is the best to "entertain"?
+		- Do androids dream of electric sheep?
+
+
+	Summary: 
+		How much does a functioning human cost?
+
+
+Review 3:
+	Job Title: None
+	Location: Los Angeles, CA
+	Review Date: 2024-01-22T21:00:55.360
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Free breakfast, lunch and snacks. Free shuttles into the office. Casual dress. Coworkers are fun &amp; inclusive.
+
+
+	Cons: 
+		Do you like never having any federal holidays off? Do you like having an impossible work load? Do you like feeling like your goal post is constantly moving and therefore feeling like you never accomplish anything? Do you like constantly being re-orged and getting new managers multiple times a year? Do you like being told you’re not flexible enough if not? Do you like being expected to be on-call and available to work 24/7? Do you like lots of overtime and 16 hour work days not “sometimes” but on a weekly basis all year round? Do you like leadership openly admitting that the hours and workload are unsustainable and lead to burnout but not doing anything to change the culture? If you do, you might like working for Netflix!
+
+
+	Summary: 
+		Everyone here is burned out
+
+
+Review 4:
+	Job Title: Senior Software Engineer
+	Location: Los Gatos, CA
+	Review Date: 2024-03-17T07:45:19.993
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Great pay
+		Beautiful office
+		Free food
+		Process is streamlines - Ex. Onboarding process, deployment process etc.,
+
+
+	Cons: 
+		Everyone is operating with a fear of losing their goodwill with the manager
+		People take less risks and do not encourage anyone who wants to accomplish great stuff, that comes with calculated risks
+		Their 360 feedback encourages staff to write atleast 40% improvement areas and that forces colleagues to search for not-ok stuff, which generally goes unspoken or unwritten. This gives rise to blaming culture 
+		Manager keeps quoting the one exceptional mistake you probably did during your onboarding at every chance he gets
+		Too much micro managing
+		They talk about freedom and responsibility but actually there is very little freedom compared to other companies. You are expected to get thumbs up and convince colleague who were in the team for longer before deploying your changes.
+
+
+	Summary: 
+		Culture of Fear
+
+
+Review 5:
+	Job Title: Department Assistant
+	Location: Los Angeles, CA
+	Review Date: 2024-04-07T12:51:10.803
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Love working there. They provide so much to make your life easier to do your job (lunch/breakfast, phone, shuttle from different parts of LA, etc.) and they have great feedback culture to improve/ help you growi n yoru career.
+
+
+	Cons: 
+		Its hard to get promoted and takes a long time. Titles are lower than they would be at other places.
+
+
+	Summary: 
+		Great Company and Culture
+
+
+Review 6:
+	Job Title: Software Engineer
+	Location: New York, NY
+	Review Date: 2024-04-14T16:06:12.057
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		A pro would be good pay
+
+
+	Cons: 
+		A con would be its hard
+
+
+	Summary: 
+		Good TC
+
+
+Review 7:
+	Job Title: Staff Engineer
+	Location: Los Gatos, CA
+	Review Date: 2024-03-22T17:08:45.020
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Culture of Freedom and Responsibility: Netflix has a unique culture that emphasizes freedom and responsibility. Employees are empowered to make decisions and take ownership of their work, fostering a sense of autonomy and accountability.
+
+
+	Cons: 
+		High Performance Expectations: Netflix has a culture of high performance and expects employees to deliver exceptional results. This can lead to pressure and stress, especially for individuals who thrive in more relaxed work environments.
+
+
+	Summary: 
+		Netflix Staff Engineers: Pioneering Innovation and Shaping the Future of Entertainment
+
+
+Review 8:
+	Job Title: Senior Project Manager
+	Location: Santa Monica, CA
+	Review Date: 2024-04-11T21:38:32.157
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		learning, benefits, benefits, learning, money
+
+
+	Cons: 
+		pace, politics, innovation, benefits, pace
+
+
+	Summary: 
+		Great company
+
+
+Review 9:
+	Job Title: Software Engineer
+	Location: Los Gatos, CA
+	Review Date: 2024-03-11T07:05:54.903
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Good pay, (No) work (ALL) life balance if you are able to manage up. Meet the directors/manager outside for coffee/ lunch and meet them at their homes - relationship is everything here 'people over process (work)' .
+		Enjoy the good pay, travel and its the best for seniors looking to coast.
+
+
+	Cons: 
+		Manager and directors dont have a vision, not a tech but entertainment company. I slowly saw all the talented technical folks build solutions and leave, mediocrity is celebrated here and politics is daily bread and butter.
+
+
+	Summary: 
+		Good pay with too much politics.
+
+
+Review 10:
+	Job Title: Office Manager & Bookkeeper
+	Location: None
+	Review Date: 2024-04-05T15:12:31.810
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		good team, great experience. a lot to learn
+
+
+	Cons: 
+		didn't find any, not at all
+
+
+	Summary: 
+		fgh
+
+
+Review 11:
+	Job Title: Product Manager
+	Location: Texas City, TX
+	Review Date: 2024-04-04T14:35:10.277
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		High salary and cool benefits
+
+
+	Cons: 
+		A lot of work I am tired
+
+
+	Summary: 
+		Awesome
+
+
+Review 12:
+	Job Title: Cyber Security Analyst
+	Location: United, LA
+	Review Date: 2024-04-04T00:49:29.123
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		good competitive environment that is ambitious
+
+
+	Cons: 
+		Too competitive and too strict
+
+
+	Summary: 
+		Great
+
+
+Review 13:
+	Job Title: Administrative Assistant
+	Location: Los Angeles, CA
+	Review Date: 2024-03-27T15:24:02.540
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Freedom 
+		Great Co-workers 
+		Building was amazing 
+		Cool Projects
+
+
+	Cons: 
+		Everyone is there for themseleves. If you are not producing results you will be let go.
+
+
+	Summary: 
+		It was a great place to work
+
+
+Review 14:
+	Job Title: Technical Project Manager
+	Location: Los Gatos, CA
+	Review Date: 2024-03-28T14:28:55.247
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 1
+
+	Pros: 
+		salary, benefits, office space comfort/quality, does hire best people
+
+
+	Cons: 
+		working there feels like a real-life squid game
+
+
+	Summary: 
+		Anxiety inducing enviroment 
+
+
+Review 15:
+	Job Title: None
+	Location: None
+	Review Date: 2024-04-01T11:27:47.310
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Work-life balance
+		Opportunity to learn and grow
+
+
+	Cons: 
+		Takes time to understand and contribute
+
+
+	Summary: 
+		Amazing place to work
+
+
+Review 16:
+	Job Title: Production
+	Location: Los Angeles, CA
+	Review Date: 2024-04-01T13:04:05.690
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		fun atmosphere, good people too
+
+
+	Cons: 
+		long days and lots of work
+
+
+	Summary: 
+		overall good
+
+
+Review 17:
+	Job Title: Senior Software Engineer
+	Location: Los Gatos, CA
+	Review Date: 2023-07-28T12:33:03.033
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Surrounded by incredibly talented engineers and brilliant ideas. Outstanding pay and benefits
+
+
+	Cons: 
+		In a nutshell, your Netflix experience boils down to your direct manager. Managers are almighty dictators reinforcing a pervasive culture of fear at Netflix. I was originally hired by a different leader with whom I had the opportunity to connect and vet. But everything changed when I joined, my manager was someone I hadn't had a single conversation with during the hiring process. If your manager is an empathetic leader invested in your experience and growth, then read no further. But if your manager is anything like mine - a recently promoted IC with absolutely no training/experience in leadership, expect to be overly micromanaged. Expect to be humiliated and treated disrespectfully in the name of candidness over kindness. In a one-on-one conversation, my manager snapped at me when I was about to speak (I wasn't interrupting) and asked me to repeat what they just said. Expect to not have any communication for weeks on end and receive feedback out of the blue that takes you by complete surprise. Expect to have the culture memo weaponized against you. Expect to not have any allies - any attempts to move to a different team that could be a better fit will be thwarted by internal politics. Seeking help from HRBP is as futile as denying climate change. At this point my only hope is a major re-org, but I wouldn't wish this manager on anybody. Having worked in the industry for over a decade at different sized companies, I've had all kinds of managers. This is the first time I feel psychologically unsafe.
+
+
+	Summary: 
+		Toxic work culture perpetuated by terrible leaders
+
+
+Review 18:
+	Job Title: Software Development Engineer (SDE)
+	Location: Palo Alto, CA
+	Review Date: 2024-03-27T01:57:00.673
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		salary is high
+		good atmosphere
+
+
+	Cons: 
+		no cons.I love it very much
+
+
+	Summary: 
+		good
+
+
+Review 19:
+	Job Title: None
+	Location: Los Gatos, CA
+	Review Date: 2024-03-22T23:40:18.963
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Fun work environment and supportive coworkers
+
+
+	Cons: 
+		Long hours and lots of overtime
+
+
+	Summary: 
+		Fun place to work
+
+
+Review 20:
+	Job Title: Software Engineer (Swe II)
+	Location: Los Gatos, CA
+	Review Date: 2024-03-22T12:33:56.750
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Salary, Community, Effort, Time, People
+
+
+	Cons: 
+		Location, Tasks, Commitment, Difficulty, Hiring
+
+
+	Summary: 
+		Great
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

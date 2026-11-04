@@ -1,0 +1,633 @@
+
+Phillips 66 is a Petroleum Refining company based in 77042 Houston, Texas. 
+The company has 13,000 employees and has a revenue of $175,702 according to Fortune 500.
+The company is valued at $46,727 and has a profit of $11,024. The CEO of the company is Mark Lashier.
+
+The Company has the following ratings: 
+Average ratings for Phillips 66:
+Business Outlook: 0.58
+
+Career Opportunities: 3.2
+Distribution: 
+	1: 83 
+	2: 108 
+	3: 215 
+	4: 217 
+	5: 203 
+
+CEO: 0.65
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 27 
+	2: 35 
+	3: 107 
+	4: 297 
+	5: 363 
+
+Culture and Values: 3.3
+Distribution: 
+	1: 93 
+	2: 98 
+	3: 176 
+	4: 213 
+	5: 243 
+
+Diversity and Inclusion: 3.4
+Distribution: 
+	1: 44 
+	2: 53 
+	3: 104 
+	4: 93 
+	5: 126 
+
+Overall: 3.6
+Distribution: 
+	1: 65 
+	2: 95 
+	3: 242 
+	4: 346 
+	5: 309 
+
+Senior Management: 2.9
+Distribution: 
+	1: 126 
+	2: 131 
+	3: 198 
+	4: 205 
+	5: 161 
+
+Work Life Balance: 3.2
+Distribution: 
+	1: 99 
+	2: 114 
+	3: 221 
+	4: 192 
+	5: 201 
+
+Review Count: 1059
+
+Recommend to Friend: 
+	RECOMMEND: 540
+	WONT RECOMMEND: 222
+
+
+
+
+The company has 1242 reviews on Glassdoor. The last review was posted on 2024-04-17T16:29:23.737. 
+There are 20 Reviews for Phillips 66:
+
+Review 1:
+	Job Title: Senior Environmental Consultant
+	Location: Linden, NJ
+	Review Date: 2023-07-08T13:34:31.390
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Very employee friendly. Flexible work hours. Awesome benefits and compensation.
+
+
+	Cons: 
+		None. They are a company with good leadership.
+
+
+	Summary: 
+		Great Place to Work
+
+
+Review 2:
+	Job Title: Commercial Manager
+	Location: None
+	Review Date: 2024-04-02T18:25:31.407
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great benefits, pay and people
+
+
+	Cons: 
+		Can be difficult to move up
+
+
+	Summary: 
+		Excellent benefits and great people
+
+
+Review 3:
+	Job Title: Salaried Minion
+	Location: Los Angeles, CA
+	Review Date: 2024-01-27T22:21:02.440
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Coworkers and people who actually work
+
+
+	Cons: 
+		The union brings everything down and everyone with them to keep the status quo, reward senior members and prevent progress. They can be frequently seen sleeping or watching movies from their trucks. They have no pride in work they are hired to do and frequently change the rules in their favor. 
+		Management is at a snails pace and stalled with posting or even filling positions and continually want more for less. People are overworked, overwhelmed and wiped out. Watching the union get paid to do nothing with no repercussions is demoralizing for salaried folks. There is no end in site with P66 direction to sell non core assets and squeeze every penny out of the refineries and their employees over the course of 2024.
+		9/80s are not respected and WFH is a luxury afforded only if your on site support isn’t needed. Callouts are frequent even if you are not on call.
+
+
+	Summary: 
+		Run to Chevron
+
+
+Review 4:
+	Job Title: Cost Controller
+	Location: Houston, TX
+	Review Date: 2024-04-17T16:29:23.737
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great benefits, retirements, and overall package
+
+
+	Cons: 
+		Slow advancement within the organization
+
+
+	Summary: 
+		Good Company
+
+
+Review 5:
+	Job Title: IT Analyst
+	Location: Houston, TX
+	Review Date: 2024-03-19T20:57:53.197
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Get to work with various IT technologies
+		9/80 schedule
+		Yearly bonus
+
+
+	Cons: 
+		Management is terrible and unorganized. Takes years to get a promotion and the cycle is political. Lack of empathy for employees. Head count has gotten so low that you'll be doing 3 jobs at once while still be underpaid compared your role and title.
+
+
+	Summary: 
+		Don't care about promoting within anymore
+
+
+Review 6:
+	Job Title: Manager
+	Location: None
+	Review Date: 2024-04-12T20:06:19.813
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great people.  Great assets.  well operated. Safety focused.
+
+
+	Cons: 
+		It is very windy there.
+
+
+	Summary: 
+		Great company
+
+
+Review 7:
+	Job Title: Engineer
+	Location: Billings, MT
+	Review Date: 2024-04-12T08:20:46.303
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		There are great people that work there.
+
+
+	Cons: 
+		Toxic management. High attrition. Rediculous expectations to be available and working at all times (even on vacations out of the country). No support for people with families.
+
+
+	Summary: 
+		What’s happening?
+
+
+Review 8:
+	Job Title: Senior Environmental Specialist
+	Location: Denver, CO
+	Review Date: 2024-04-01T13:44:36.857
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great team, management, and benefits.
+
+
+	Cons: 
+		A little old school in approach
+
+
+	Summary: 
+		Good company to work for
+
+
+Review 9:
+	Job Title: L&D Specialist
+	Location: None
+	Review Date: 2024-03-28T16:09:44.050
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		I love working at phillips
+
+
+	Cons: 
+		there are no cons to working here
+
+
+	Summary: 
+		great place to work
+
+
+Review 10:
+	Job Title: Help Desk Agent
+	Location: Bartlesville, OK
+	Review Date: 2024-03-28T09:52:54.787
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good environment 
+		Pay is good for the work
+
+
+	Cons: 
+		I have nothing to comment
+
+
+	Summary: 
+		Great place
+
+
+Review 11:
+	Job Title: Lead, Reliability – Digital IT Business Solutions Commercial 
+	Location: None
+	Review Date: 2024-03-14T07:23:45.993
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Development Opportunities, Stability, Fairness, Job satisfaction.
+
+
+	Cons: 
+		Large corporation with normal bureaucracy and red tape.
+
+
+	Summary: 
+		Excellent company to work for.
+
+
+Review 12:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-04T14:14:33.507
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great benefits. Health, 401K match and pension are the best I’ve seen. My normal shift is awesome.
+
+
+	Cons: 
+		Due to uncontrollable changes in schedule, sometimes have to work shifts outside my normal schedule.
+
+
+	Summary: 
+		Great Benefits
+
+
+Review 13:
+	Job Title: Finance Analyst
+	Location: Houston, TX
+	Review Date: 2024-02-22T13:36:30
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		- benefits
+		- people are friendly and welcoming
+		- great facility
+
+
+	Cons: 
+		- no communication from top down
+		- no clear vision for company 
+		- layoffs
+		- upper management makes decisions without knowing what real work is being done underneath
+		- too many changes that are not for the best
+
+
+	Summary: 
+		No Direction
+
+
+Review 14:
+	Job Title: Mechanical Plant Operator
+	Location: None
+	Review Date: 2024-03-07T11:44:25.957
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Great company, great benefits, still offer pension.
+
+
+	Cons: 
+		Subpar management. Low opportunities to move up.
+
+
+	Summary: 
+		All things considered good company to work for
+
+
+Review 15:
+	Job Title: Operations Technician
+	Location: Oklahoma City, OK
+	Review Date: 2024-03-02T23:25:19.630
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good pay, benefits, good work group
+
+
+	Cons: 
+		None that wouldn’t find anywhere else
+
+
+	Summary: 
+		Good place to work
+
+
+Review 16:
+	Job Title: None
+	Location: Ferndale, WA
+	Review Date: 2024-02-26T11:28:58.590
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Great place to work, lots of opportunity for advancement
+
+
+	Cons: 
+		Relatively intense work style, always something to work on.
+
+
+	Summary: 
+		Great place to eork
+
+
+Review 17:
+	Job Title: Maintenance Supervisor
+	Location: Wilmington, CA
+	Review Date: 2024-01-23T19:50:59.177
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Salary adjustment in 2023 to bring us to competitive wage for the region along with a 15% cost of living adjustment for West coast staff employees.
+
+
+	Cons: 
+		Was there for 2.5 years and watched roles disappear with attrition and the work load be spread amongst the remaining personnel. Due to this situation and leadership not having a plan in place I elected to resign after having a very successful year in 2023 going above and beyond expectations. I was expecting a high performance rating however, after putting in my resignation and giving two weeks notice of my departure I was informed by HR that my bonus would be forfeited due to the VCIP performance factor not being announced. In 2023 I went above and beyond the call of duty supporting my dept and P66 doesn’t have the integrity to pay me for what was rightfully earned due to a simple announcement. I could have played dirty games to prolong my employment a few more weeks until the announcement was made, receive my bonus, then resign but I have more integrity than that and didn’t. I was expecting that P66 would have the same core values, as they state, but they proved me wrong and hold my bonus for themselves. I missed “the announcement” by a month, like that actually matters as I’m sure the calculation has been done since shortly after the new year. I have been in this industry for over 30 years and know lots of people looking for work and unfortunately due to P66 lack of integrity and respect for their tired and overworked personnel I cannot and will not recommend them as a place to seek employment. Be bigger than that Phillips! Do the right thing and give what was rightfully earned.
+
+
+	Summary: 
+		Unethical and greedy
+
+
+Review 18:
+	Job Title: Guest Service Team Member - Cashier
+	Location: Saint Louis, MO
+	Review Date: 2024-02-22T07:46:10.823
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		It's a place to make money.
+
+
+	Cons: 
+		No breaks, will fire you without a warning, very high turn over rate.
+
+
+	Summary: 
+		Beware
+
+
+Review 19:
+	Job Title: Engineer
+	Location: Bartlesville, OK
+	Review Date: 2024-02-22T19:18:27.587
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good payments and various benefits
+
+
+	Cons: 
+		Very long business transformation process and layoff
+
+
+	Summary: 
+		Overall good
+
+
+Review 20:
+	Job Title: Senior Financial Analyst
+	Location: Houston, TX
+	Review Date: 2024-02-17T18:08:49.210
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great company, great benefits, great culture
+
+
+	Cons: 
+		Layoffs like every big company
+
+
+	Summary: 
+		Analyst
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

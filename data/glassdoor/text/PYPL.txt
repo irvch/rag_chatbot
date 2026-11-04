@@ -1,0 +1,667 @@
+
+PayPal Holdings is a Financial Data Services company based in 95131 San Jose, California. 
+The company has 29,900 employees and has a revenue of $27,518 according to Fortune 500.
+The company is valued at $85,917 and has a profit of $2,419. The CEO of the company is Daniel H. Schulman.
+
+The Company has the following ratings: 
+Average ratings for PayPal Holdings:
+Business Outlook: 0.53
+
+Career Opportunities: 3.4
+Distribution: 
+	1: 656 
+	2: 861 
+	3: 1662 
+	4: 1862 
+	5: 1553 
+
+CEO: 0.62
+
+Compensation and Benefits: 3.8
+Distribution: 
+	1: 238 
+	2: 421 
+	3: 1346 
+	4: 2356 
+	5: 2233 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 537 
+	2: 552 
+	3: 1028 
+	4: 1729 
+	5: 2501 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 191 
+	2: 167 
+	3: 407 
+	4: 823 
+	5: 1760 
+
+Overall: 3.8
+Distribution: 
+	1: 449 
+	2: 654 
+	3: 1550 
+	4: 2578 
+	5: 2677 
+
+Senior Management: 3.2
+Distribution: 
+	1: 1023 
+	2: 985 
+	3: 1507 
+	4: 1614 
+	5: 1357 
+
+Work Life Balance: 3.9
+Distribution: 
+	1: 467 
+	2: 531 
+	3: 1311 
+	4: 1853 
+	5: 2394 
+
+Review Count: 7935
+
+Recommend to Friend: 
+	RECOMMEND: 4233
+	WONT RECOMMEND: 1589
+
+
+
+
+The company has 8854 reviews on Glassdoor. The last review was posted on 2024-04-18T02:57:59.590. 
+There are 20 Reviews for PayPal Holdings:
+
+Review 1:
+	Job Title: Software Engineer
+	Location: San Jose, CA
+	Review Date: 2024-04-07T21:46:55.437
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Interesting and varied work, great coworkers, bosses
+
+
+	Cons: 
+		Some things that go with working in a big company like difficulty in communicating with some groups, different directions at product level.
+
+
+	Summary: 
+		Great culture, good work life balance
+
+
+Review 2:
+	Job Title: Information Security Engineer III
+	Location: Austin, TX
+	Review Date: 2024-04-16T07:40:06.337
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Benefits are great
+		Yearly bonus is generous
+
+
+	Cons: 
+		Mid-management is terrible
+		Communication
+		Cooperation
+		Clique
+		Restructuring
+		Silos
+		Ethics
+
+
+	Summary: 
+		Expect Change
+
+
+Review 3:
+	Job Title: Customer Success Manager (CSM)
+	Location: New York, NY
+	Review Date: 2024-04-15T12:57:00.557
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		PayPal formerly prioritized diversity and inclusion, but now fails to provide an inclusive environment for employees from diverse backgrounds, including women.
+
+
+	Cons: 
+		I'm concerned about the similarity between the decline of brands like BlackBerry, Nokia, and Blockbuster due to a disconnect between their stated values and leadership actions, and the current situation at PayPal. The company's values displayed on the walls seem to be increasingly distant from the decisions made by our leaders. This disconnect can lead to significant challenges for the company's future. Therefore, it's crucial for PayPal to bridge this gap and ensure that our actions align with our stated values. This can help us maintain trust and relevance in the industry.
+
+
+	Summary: 
+		The next BlackBerry/Nokia has arrived
+
+
+Review 4:
+	Job Title: Director of Operations
+	Location: None
+	Review Date: 2024-04-16T11:41:18.023
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Great People, Strong Company Values, Innovation, Opportunity for Growth, Diversity
+
+
+	Cons: 
+		There have been a number of layoffs over the last few years which has made job security a concern. That said, the company is on the right path focused on profitable growth which is exciting to see.
+
+
+	Summary: 
+		Great Place to Work
+
+
+Review 5:
+	Job Title: None
+	Location: Omaha, NE
+	Review Date: 2024-03-11T06:03:39.753
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		I am forever thankful for the professional learning, knowledge, growth, and opportunities that PayPal provided me during my time there. By maintaining an open mind and accepting new roles or interim positions, one can experience limitless personal growth. Towards the end of my tenure, I was fortunate to have supportive leaders, as good leaders play a vital role in guiding your development journey.
+
+
+	Cons: 
+		The company is rife with nepotism and ineffective leadership. Some leaders show favoritism by hiring only their preferred individuals, overlooking merit and qualifications. On the other hand, some leaders are lazy, lacking accountability and failing to take responsibility for their underperforming teams.
+		Ultimately, the company's performance is judged by its frequent layoffs. Instead of empowering capable leaders to mentor employees, the company resorts to layoffs, resulting in the dismissal of highly skilled and valuable staff members.
+
+
+	Summary: 
+		12 years of experience
+
+
+Review 6:
+	Job Title: Sr Manager Software Engineering
+	Location: San Jose, CA
+	Review Date: 2024-04-16T05:21:12.317
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		WLB
+		Benefits 
+		Peers
+		Brand recognition 
+		Interesting problems to solve
+
+
+	Cons: 
+		New CEO (appears too busy wanting to erase Dan Schulman and the past but doesn’t have any CEO experience at this scale) 
+		New leadership (legacy and strong talent leaving in droves - everything feels like a house of cards) 
+		Outsourced IT
+		No clear career path for managers
+
+
+	Summary: 
+		Disconnected
+
+
+Review 7:
+	Job Title: Sales Specialist
+	Location: None
+	Review Date: 2024-04-01T02:08:37.227
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		--Big name in the industry, businesses would have to use it for certain markets, easy sell on its products.
+		--Good work life balance
+
+
+	Cons: 
+		1. Uncompetitive products due to poor streamlining in management and poor culture -- innovative employees and capable ones left, most remained ones hate any type of changes and are busy in telling stories. 
+		2. Poor collaboration in between departments
+		3. Incompetent managers with huge insecurities and big egos
+		4. PTOs are released by the amount of days you work for the current year
+		5. Low pay
+		6. Will continuously lose its market share since people's paying habit has changed and competitors have adapted it better.
+
+
+	Summary: 
+		Old products, poor local management, poor pay
+
+
+Review 8:
+	Job Title: Technical Solutions Engineer
+	Location: San Jose, CA
+	Review Date: 2024-02-14T09:06:13.980
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Decent pay. If you are in Sales you can travel a lot and "bill" your expenses to the company. That's how my manager V De Souza lived all his life. Almost expensing $20000 a year. Use that for going to out of country vacations.
+
+
+	Cons: 
+		Managers don't care. They are highly ego. Very judging all the time. Very prejudiced. If you started as MTS as a fresher out of college then you gradually can succeed knowing the mess of PayPal products. If not you will fail miserably. You will be given generic training on Payments that you can find from multiple blogs and YT but after that you will be put on job which you will not be able to do successfully as you will not have any idea of the PayPal spaghetti. Managers expect you to boot lick and that's the sure way to be on the job. They constantly rewrite the PayPal and Braintree documentation and call that as initiatives or achievements.
+
+
+	Summary: 
+		Poor management
+
+
+Review 9:
+	Job Title: None
+	Location: None
+	Review Date: 2023-12-28T04:39:48.693
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Not much, ok benefits but there are still far better options. Most employees think the benefits are great because they're fed that by PayPal executive leadership.
+
+
+	Cons: 
+		Working for PayPal is like being in an abusive relationship. They build tou up, lie, tell you what they think you want to hear. Then they lay off a ton of people, put more work on you for no additional pay, and promote the do-nothings in NY. Horrible leadership brought over by Dan from Amex. Now that there is a new CEO they should clean house of these idiots that tore the company to shreds. Give them a taste of their own medicine. Besides, they gave themselves their own golden parachutes so they won't even care.
+
+
+	Summary: 
+		Fire Aaron Already
+
+
+Review 10:
+	Job Title: Machine Learning Engineer
+	Location: Phoenix, AZ
+	Review Date: 2024-04-14T16:43:05.067
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Great benefits and pay compared to other companies
+
+
+	Cons: 
+		Stale leadership culture. No accountability and constant changing priorities. A lot of politics that most are not aware of.
+
+
+	Summary: 
+		Pays well but no accountability
+
+
+Review 11:
+	Job Title: Member Of Technical Staff
+	Location: San Jose, CA
+	Review Date: 2024-04-18T01:22:48.040
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Many teams and leaders have no real work.
+
+
+	Cons: 
+		Too much politics. Outdated technology and leaders who dont understand tech.
+
+
+	Summary: 
+		Poor leadership and too much politics
+
+
+Review 12:
+	Job Title: Project Manager
+	Location: Chicago, IL
+	Review Date: 2024-04-14T19:11:04.970
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Flexible schedule, every changing environment
+
+
+	Cons: 
+		People/roles are constantly changing so projects are constantly dropped delayed or launched without notice. Not a dan of the changes so far from the new CEO
+
+
+	Summary: 
+		Project Manager
+
+
+Review 13:
+	Job Title: MTS-2 Software Engineer
+	Location: San Jose, CA
+	Review Date: 2024-04-17T23:42:16.480
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		work life balance is better
+
+
+	Cons: 
+		the stock price is lower and lower
+
+
+	Summary: 
+		mediocre now
+
+
+Review 14:
+	Job Title: Software Engineer III
+	Location: San Jose, CA
+	Review Date: 2024-02-10T00:32:25.750
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		- 4% match for 401k
+		- Amongst a lot of boring and meaningless work, there are some pockets of pretty interesting things to work on
+		- Taking time off is respected for the most part
+		- There is opportunity to step up if you really want to 
+		- If you are the right cog in the wheel, you can dodge layoffs and try to fly under the radar for the steady paycheck
+		- WFH/Remote-friendly (so far)
+		- WLB is pretty decent if you put your foot down and set boundaries
+
+
+	Cons: 
+		- Coporate office politics is rampant
+		- Reorgs and layoffs are a constant 
+		- Huge layer of fat in middle management that slows things down and refuses to be cut
+		- Priorities change every day
+		- Lack of vision, transparency, or accountability from management
+		- Comp is pretty average
+		- Company is becoming a sweat shop mentality with the new ceo
+		- Path to promotions / career growth is unclear
+		- No innovation / no bandwidth for engineers to even think about innovation
+
+
+	Summary: 
+		Average but stable if you are the right cog in the wheel
+
+
+Review 15:
+	Job Title: Client Specialist
+	Location: Chandler, AZ
+	Review Date: 2024-04-16T22:36:05.617
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		New Amenities
+		WFH
+		Dual monitors 
+		Access to Paypal business debit card/account
+
+
+	Cons: 
+		Sold their building
+		Laid off hundreds of employees
+		Job security
+
+
+	Summary: 
+		Working Environment 
+
+
+Review 16:
+	Job Title: Technical Product Manager
+	Location: Chicago, IL
+	Review Date: 2024-04-17T11:32:38.683
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		good culture overall wfh balance
+
+
+	Cons: 
+		silos processes slows the innovation
+
+
+	Summary: 
+		good culture
+
+
+Review 17:
+	Job Title: Disputes Adjudicator CSA II
+	Location: None
+	Review Date: 2024-01-18T01:42:48.980
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		-4 day work weeks
+		-quarterly bonus
+
+
+	Cons: 
+		-company culture
+		-zero room for growth but plenty of room for the same managers who have been in their positions for years to promise you growth in exchange for your hard work, knowing the goals they are helping you make will never pay off. The deceit and cancel culture is palpable. 
+		-their wfh networks and machines crash all the time and you will be harassed for anything in their system that goes wrong, including calls being routed to you for another dept that you have zero training in, thru no fault of your own, then they will write you up for a high transfer rate after MONTHS OF DOCUMENTED REPORTS made showing the proof of said mis routes.
+		-hard work does not pay off here and you will be used and abused, until everything has been sucked out of you.
+		-if you kickass at their fraud teams job they will not ever care but at least when you finally leave you can use their bs as motivation to go get your degree in cyber security instead and get a job w their competition, like me!
+
+
+	Summary: 
+		You are NOTHING but CATTLE to them, And they aren't afraid to make sure you know so. 
+
+
+Review 18:
+	Job Title: Recruiting Coordinator
+	Location: None
+	Review Date: 2024-04-05T12:50:01.873
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		I loved the team I was a part of and everyone was very supportive. The training was excellent and I truly felt like I was set up for success.
+
+
+	Cons: 
+		There was a problem with headcount on the team and not a ton of open opportunities on the recruiting side.
+
+
+	Summary: 
+		Awesome company to work at!
+
+
+Review 19:
+	Job Title: Key Account Manager
+	Location: Santa Barbara, CA
+	Review Date: 2024-04-12T11:57:32.563
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good benefits, insurance and resources at PayPal
+
+
+	Cons: 
+		Lack of focused/consistent direction from leadership. You will be underpaid and frustrated with company decisions.
+
+
+	Summary: 
+		Underpaid and bad company direction 
+
+
+Review 20:
+	Job Title: Project Manager
+	Location: San Jose, CA
+	Review Date: 2024-04-08T15:14:01.650
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great salary, benefits and co-workers
+
+
+	Cons: 
+		Tech layoffs have impacted us greatly. Doing more with less. Not a lot of opportunities for promotions unless you know the right people.
+
+
+	Summary: 
+		Pros and Cons
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

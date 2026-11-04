@@ -1,0 +1,629 @@
+
+Chevron is a Petroleum Refining company based in 94583 San Ramon, California. 
+The company has 43,846 employees and has a revenue of $246,252 according to Fortune 500.
+The company is valued at $311,093 and has a profit of $35,465. The CEO of the company is Michael K. Wirth.
+
+The Company has the following ratings: 
+Average ratings for Chevron:
+Business Outlook: 0.73
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 291 
+	2: 412 
+	3: 1103 
+	4: 1219 
+	5: 1206 
+
+CEO: 0.87
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 193 
+	2: 232 
+	3: 677 
+	4: 1399 
+	5: 1697 
+
+Culture and Values: 4
+Distribution: 
+	1: 240 
+	2: 250 
+	3: 607 
+	4: 1052 
+	5: 1744 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 103 
+	2: 97 
+	3: 214 
+	4: 394 
+	5: 877 
+
+Overall: 4.1
+Distribution: 
+	1: 207 
+	2: 253 
+	3: 865 
+	4: 1806 
+	5: 1966 
+
+Senior Management: 3.6
+Distribution: 
+	1: 408 
+	2: 476 
+	3: 1021 
+	4: 1223 
+	5: 936 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 200 
+	2: 280 
+	3: 819 
+	4: 1286 
+	5: 1607 
+
+Review Count: 5103
+
+Recommend to Friend: 
+	RECOMMEND: 3067
+	WONT RECOMMEND: 655
+
+
+
+
+The company has 6245 reviews on Glassdoor. The last review was posted on 2024-04-17T14:48:54.180. 
+There are 20 Reviews for Chevron:
+
+Review 1:
+	Job Title: Production Operator
+	Location: Bakersfield, CA
+	Review Date: 2024-04-17T14:48:54.180
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Safety is a priority for Chevron.
+
+
+	Cons: 
+		Not a lot of upward movement from Operations
+
+
+	Summary: 
+		Chevron Operator
+
+
+Review 2:
+	Job Title: Cashier, Customer Assitance
+	Location: None
+	Review Date: 2024-03-27T10:59:29.230
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Nothing. I purchased 2 certificates online, TABC and Food Handler. Got both of my certificates and was ready to be hired. 
+		I'm told by one of the managers (Hina) that I need to complete 7 days of training. I completed a day of training looking forward to be hired from 3 to 11. I was trying to do my best, memorize everything and pick up the pace even on my 1st day. I did cashier, customer service and even helped with cleaning. 
+		2nd day of training, today, I get a call from Hina just now saying unfortunately I won't be able to complete my training. So that's fun.
+		Thanks for giving me false excitement about a new position and experience, while wasting my own money and resources and my time. 
+		Terrible managment. 
+		Everything about them is a zero.
+
+
+	Cons: 
+		Terrible establishment and managing. Disgusting.
+
+
+	Summary: 
+		Trash
+
+
+Review 3:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-29T21:23:20.107
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Chevron does offer advancement with decent benefits.
+
+
+	Cons: 
+		Due to moving people around every two years, there is poor retention of knowledge and processes, strong believer in multiple spreadsheets and dated systems that do not fit the industry, prioritization of making supervisors look good instead of prioritizing workload with flexibility and common sense, work life balance in some groups is not a priority.
+
+
+	Summary: 
+		Decent Benefits but Additional Improvement
+
+
+Review 4:
+	Job Title: MCP Consultant
+	Location: Houston, TX
+	Review Date: 2024-04-06T06:15:02.310
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Top teams, tech, and opportunity. Empowers your A game and life long learning. CVX rewards valued performance.
+
+
+	Cons: 
+		Not a con unless you are a slacker who likes to ride others’ coat tails… WLB but not always “9-5”… be ready to “work to live”.
+
+
+	Summary: 
+		Bring A game every day!
+
+
+Review 5:
+	Job Title: Research Engineer
+	Location: Richmond, CA
+	Review Date: 2024-04-17T11:12:44.350
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: NO_OPINION
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		safety first culture is real and good
+
+
+	Cons: 
+		unfortunately there's a glass ceiling
+
+
+	Summary: 
+		good company
+
+
+Review 6:
+	Job Title: Sales Associate/Cashier
+	Location: None
+	Review Date: 2024-04-16T18:17:09.913
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		I'm a student so working for them is very flexible
+
+
+	Cons: 
+		Can be tiring doing the night shift
+
+
+	Summary: 
+		Very understanding
+
+
+Review 7:
+	Job Title: Technical Deliovery Manager
+	Location: Texas City, TX
+	Review Date: 2024-04-17T14:15:49.777
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		the job is high paying
+
+
+	Cons: 
+		long work hours so be prepared
+
+
+	Summary: 
+		good
+
+
+Review 8:
+	Job Title: Attendant
+	Location: Bellevue, WA
+	Review Date: 2024-04-16T20:15:55.910
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Overall this is is a job
+
+
+	Cons: 
+		Security is lacking and pay could be better
+
+
+	Summary: 
+		It pays the bills
+
+
+Review 9:
+	Job Title: Process Operator
+	Location: Orange, TX
+	Review Date: 2024-04-13T02:50:26.113
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Nice environment with employees. Good pay.
+
+
+	Cons: 
+		Not many cons, OT always available
+
+
+	Summary: 
+		Good
+
+
+Review 10:
+	Job Title: Customer Service Representative (CSR)
+	Location: Baldwin Park, CA
+	Review Date: 2024-04-10T13:59:02.193
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		It's good company to work for
+
+
+	Cons: 
+		Under staffed, management doesn't really do anything to help
+
+
+	Summary: 
+		Good
+
+
+Review 11:
+	Job Title: None
+	Location: Houston, TX
+	Review Date: 2024-04-09T17:33:17.437
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great company and great benefits
+
+
+	Cons: 
+		For cons, I would say it can be political.
+
+
+	Summary: 
+		Great company great benefits
+
+
+Review 12:
+	Job Title: Integrated Planning and Scheduling Lead
+	Location: Houston, TX
+	Review Date: 2024-03-26T20:03:54.673
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		High salary, flex schedule, good benefits, generous 401k match, pension, nice facilities, professional environment, lots of business units to transfer to experience the entire value chain.
+
+
+	Cons: 
+		Culture encourages movement to different business units every few years, which may not be a fit for everyone.
+
+
+	Summary: 
+		Great Owner Operator
+
+
+Review 13:
+	Job Title: Information Management Analyst
+	Location: Houston, TX
+	Review Date: 2024-04-04T10:13:55.417
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		great benefits, wonderful team members, longevity
+
+
+	Cons: 
+		too much process, silos, bureaucracy, seeing morale problems surfacing more recently
+
+
+	Summary: 
+		Great benefits but alot of process
+
+
+Review 14:
+	Job Title: Sales Associate/Cashier
+	Location: Victorville, CA
+	Review Date: 2024-03-03T14:11:56.923
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		If you are an out going and bubbly person that loves to talk with people this is the place for you.
+
+
+	Cons: 
+		Employees think that they are better than you almost like a contest. No structure, dirty at times and WAY TO MANY HOMELESS PEOPLE it can feel and be unsafe at times. No security to help you out and management and HR are sneaky and unreliable. If you have any issues make sure you document every and any interaction that you have with them especially HR.
+
+
+	Summary: 
+		Good place to start but way to many issues
+
+
+Review 15:
+	Job Title: Cashier
+	Location: Weed, CA
+	Review Date: 2024-03-01T00:13:34.803
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Usually guaranteed 40 hours a week, which in my opinion is a great thing especially if you need money to live. Food, rent and FUN all cost money. If you know what your working with, life is much, much easier. Bottom line... I didn't finish college so this was my favorite job as a young adult!
+
+
+	Cons: 
+		• minimum wage employment
+		• sometimes have to work graveyard 
+		 shift
+
+
+	Summary: 
+		Not bad for lower end job 
+
+
+Review 16:
+	Job Title: Electrical Engineer
+	Location: None
+	Review Date: 2024-04-04T21:44:17.253
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Love to work here life work balance
+
+
+	Cons: 
+		Dont have anything bad to say
+
+
+	Summary: 
+		Excelent place to work
+
+
+Review 17:
+	Job Title: I&E Engineer
+	Location: Richmond, CA
+	Review Date: 2024-04-03T10:33:51.340
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good work environment, overtime pay even though salaried, great people
+
+
+	Cons: 
+		Long hours / odd hours at times
+
+
+	Summary: 
+		Pay
+
+
+Review 18:
+	Job Title: Engineer
+	Location: Gulfport, MS
+	Review Date: 2024-03-27T20:45:20.747
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		good pay, benefits, work life balance
+
+
+	Cons: 
+		to much annual compliance cbt training
+
+
+	Summary: 
+		good pay
+
+
+Review 19:
+	Job Title: Marine Engineer
+	Location: San Ramon, CA
+	Review Date: 2024-03-19T16:23:00.663
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Good money compared to other companies
+
+
+	Cons: 
+		Working for oil major has the cons of being under more stress
+
+
+	Summary: 
+		Salary marine engineer
+
+
+Review 20:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-20T22:46:43.303
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Very laid back job good work life balance
+
+
+	Cons: 
+		Not as much work as you'd like
+
+
+	Summary: 
+		IT Service Desk Review
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

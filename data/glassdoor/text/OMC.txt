@@ -1,0 +1,624 @@
+
+Omnicom Group is a Advertising, Marketing company based in 10017 New York, New York. 
+The company has 74,200 employees and has a revenue of $14,289 according to Fortune 500.
+The company is valued at $19,001 and has a profit of $1,317. The CEO of the company is John D. Wren.
+
+The Company has the following ratings: 
+Average ratings for Omnicom Group:
+Business Outlook: 0.57
+
+Career Opportunities: 3.1
+Distribution: 
+	1: 40 
+	2: 39 
+	3: 51 
+	4: 61 
+	5: 30 
+
+CEO: 0.59
+
+Compensation and Benefits: 2.9
+Distribution: 
+	1: 30 
+	2: 32 
+	3: 72 
+	4: 54 
+	5: 33 
+
+Culture and Values: 3.3
+Distribution: 
+	1: 36 
+	2: 28 
+	3: 25 
+	4: 50 
+	5: 45 
+
+Diversity and Inclusion: 3.7
+Distribution: 
+	1: 10 
+	2: 10 
+	3: 7 
+	4: 22 
+	5: 30 
+
+Overall: 3.3
+Distribution: 
+	1: 42 
+	2: 35 
+	3: 60 
+	4: 70 
+	5: 66 
+
+Senior Management: 3.3
+Distribution: 
+	1: 57 
+	2: 29 
+	3: 35 
+	4: 62 
+	5: 38 
+
+Work Life Balance: 2.8
+Distribution: 
+	1: 37 
+	2: 29 
+	3: 64 
+	4: 52 
+	5: 38 
+
+Review Count: 274
+
+Recommend to Friend: 
+	RECOMMEND: 102
+	WONT RECOMMEND: 82
+
+
+
+
+The company has 334 reviews on Glassdoor. The last review was posted on 2024-04-17T06:20:27.177. 
+There are 20 Reviews for Omnicom Group:
+
+Review 1:
+	Job Title: Senior Data Architect
+	Location: Irving, TX
+	Review Date: 2024-02-01T21:41:01.803
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Amazing company with great benefits
+
+
+	Cons: 
+		none I can think of
+
+
+	Summary: 
+		Senior Data Architect
+
+
+Review 2:
+	Job Title: Managing Director
+	Location: New York, NY
+	Review Date: 2024-04-10T19:14:17.087
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Access to sister agencies’ talent
+
+
+	Cons: 
+		Massive corporation that only cares about profit
+
+
+	Summary: 
+		Pros and cons
+
+
+Review 3:
+	Job Title: Director
+	Location: New York, NY
+	Review Date: 2024-02-09T06:31:23.307
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		none, it's horrible here. company leadership very clearly doesn't care about employees
+
+
+	Cons: 
+		long hours. Unreasonable in-office policy,... There is not enough space or resources to return 3 days a week. No guidance from leadership either on what to do when your team is in and there is no space to seat everyone. Office space in NY is dirty and dusty, Old equipment and no perks, But they threaten to fire you without severance if you don't comply with new policy...
+
+
+	Summary: 
+		DOnt work here. terrible company
+
+
+Review 4:
+	Job Title: Medical Director
+	Location: New York, NY
+	Review Date: 2024-02-24T11:44:25.627
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		It was okay, but so much room for improvement. Not a bad place to start your career.
+
+
+	Cons: 
+		Definitely had a strange process
+
+
+	Summary: 
+		Fine
+
+
+Review 5:
+	Job Title: Social Media Specialist
+	Location: None
+	Review Date: 2024-02-13T18:43:30.817
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Big clients, smart people, international
+
+
+	Cons: 
+		Corporate conglomerate, RTO, no bonuses, no cost of living increases
+
+
+	Summary: 
+		So so
+
+
+Review 6:
+	Job Title: Pharmacist
+	Location: None
+	Review Date: 2024-01-30T12:18:46.663
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The people are great at OHG
+
+
+	Cons: 
+		No cons to be noted
+
+
+	Summary: 
+		Great Organization
+
+
+Review 7:
+	Job Title: Financial Applications Analyst
+	Location: Jersey City, NJ
+	Review Date: 2024-01-20T18:55:07.400
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Steady job
+		Don’t have yo worry about job security
+
+
+	Cons: 
+		No upwards movement
+		No bonus
+
+
+	Summary: 
+		Steady, but zero movement
+
+
+Review 8:
+	Job Title: Marketing Director
+	Location: Omaha, NE
+	Review Date: 2024-01-08T16:21:05.820
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		they are the best co
+
+
+	Cons: 
+		they make you work alot
+
+
+	Summary: 
+		Reveiw headline
+
+
+Review 9:
+	Job Title: None
+	Location: None
+	Review Date: 2023-05-11T09:39:11.870
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The company had a positive and supportive culture. It was a great place to work and I always felt valued and appreciated.
+
+
+	Cons: 
+		Reflecting on my time working at this company, it was difficult not to feel a sense of frustration and disappointment. The founder's unrealistic expectations and lack of empathy made it a challenging work environment. It was clear that the founder had little regard for the wellbeing of the employees, viewing them as little more than cogs in a machine to be used and discarded as necessary. The founder's behavior bordered on the pathological, exhibiting traits that were reminiscent of psychopaths. There was a complete lack of remorse or empathy for those around them, and a tendency to manipulate and exploit those under their control.
+
+
+	Summary: 
+		The Founder's Ignorant and Psychopathic Behavior at Work
+
+
+Review 10:
+	Job Title: Project Manager
+	Location: New York, NY
+	Review Date: 2023-08-21T18:13:55.277
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		No complains it’s just work
+
+
+	Cons: 
+		Long hours at times but expected
+
+
+	Summary: 
+		Heeat
+
+
+Review 11:
+	Job Title: None
+	Location: None
+	Review Date: 2023-08-14T13:18:08.237
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Some individual agencies have amazing cultures
+
+
+	Cons: 
+		Those same amazing cultures are being decimated by Omnicom demands and focus on stock price.
+
+
+	Summary: 
+		Out of touch
+
+
+Review 12:
+	Job Title: Director of Strategy
+	Location: None
+	Review Date: 2023-08-03T12:31:33.913
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		A company with a good value proposition
+
+
+	Cons: 
+		The company doesn't exist anymore because it was acquired by TrueSense Marketing at what must have been a steep discount. All the signs were there: huge turnover, absence of leadership, poorly defined strategy, etc.
+
+
+	Summary: 
+		Everything is Fine Meme
+
+
+Review 13:
+	Job Title: None
+	Location: None
+	Review Date: 2023-03-14T05:32:45.653
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		I am sure there is no reason for you to like working here. You will spend your entire life regretting your decision to join here.
+
+
+	Cons: 
+		Most of the people here were horrible. First, they will try to be your friends. But soon, they will start playing politics, and you will realize they are fake after the mask falls off. It was terrible. it's better not to trust these awful people at all. They also created a hostile and toxic environment. BEWARE! AVOID!
+
+
+	Summary: 
+		Horrible People and a Hostile Environment
+
+
+Review 14:
+	Job Title: Group Account Director
+	Location: New York, NY
+	Review Date: 2023-07-11T06:09:29.513
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Financial, Autonomy, and company advancement
+
+
+	Cons: 
+		Work life balance could be better
+
+
+	Summary: 
+		Great Company
+
+
+Review 15:
+	Job Title: Managing Director
+	Location: Midtown New York
+	Review Date: 2023-05-23T09:29:21.070
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Omnicom recognize their staff are their number 1 asset! Your health, safety and mental well being are important!
+
+
+	Cons: 
+		Demanding environment to work Demanding hours
+
+
+	Summary: 
+		Employees are the company
+
+
+Review 16:
+	Job Title: IT Support Analyst
+	Location: New York, NY
+	Review Date: 2023-05-30T20:18:51.107
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Excellent culture and exposure to the advertising industry
+
+
+	Cons: 
+		None that I can think of.
+
+
+	Summary: 
+		Great company with excellent befits
+
+
+Review 17:
+	Job Title: Account Manager
+	Location: New York, NY
+	Review Date: 2023-05-22T04:28:55.897
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		no no no no no
+
+
+	Cons: 
+		Horrible group, at least on of the companies owned by Omnicom (CPM international contact centre) exploits underpaid workers on behalf of luxury brands. No respect for workers and human rights, the only value looks like the money. Shame!
+
+
+	Summary: 
+		Shame
+
+
+Review 18:
+	Job Title: Account Executive
+	Location: New York, NY
+	Review Date: 2022-12-27T21:55:52.007
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Just good in the beginning, their culture will wreck your mental and physical well-being.
+
+
+	Cons: 
+		Management is making bad choices one after another. Marketing management is somewhat disconnected from reality, making changes in technologies which are unnecessary and showing down the process. Do not be fooled when they say it's challenging place to work and you will only survive if you're a performer. It's their way of branding their organization to make it look like it's only for performers but the reality is they don't treat their employees well. They treat them as slaves.
+
+
+	Summary: 
+		Disorganization and chaos across the board
+
+
+Review 19:
+	Job Title: Technical Support Analyst
+	Location: None
+	Review Date: 2023-04-07T20:57:20.397
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Some of the people are ok, most are incompetent but you have that at every job.
+
+
+	Cons: 
+		Omnicom has a toxic and dysfunctional culture, which senior employees and leadership influence. Layoffs ate the norm. You won't get promoted because of your performance. You will get promoted by the people you know. Don't work here...look elsewhere! Most employees are actively searching for new work.
+
+
+	Summary: 
+		Omnicom has a toxic and dysfunctional culture
+
+
+Review 20:
+	Job Title: None
+	Location: None
+	Review Date: 2023-02-19T07:50:51.097
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		There is no peace or prosperity in this place. Some BRUTAL people will try to control your every move. BEWARE! STAY AWAY!
+
+
+	Cons: 
+		THE UPPER MANAGEMENT IS THE WORST; THEY HAVE NO IDEA WHAT'S GOING ON; TOO MUCH POWER IS GIVEN TO SENIOR ACCOUNTANTS; and all of them abuse power indefinitely. These people are RUDE, DISRESPECTFUL, ARROGANT, FAKE AND EVIL. Do not consider them to be your friends. You would be crazy to trust anyone here; AVOID IT!
+
+
+	Summary: 
+		POWER ABUSE BY SOME ARROGANT ACCOUNTANTS
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

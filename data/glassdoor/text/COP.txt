@@ -1,0 +1,624 @@
+
+ConocoPhillips is a Mining, Crude-Oil Production company based in 77079 Houston, Texas. 
+The company has 9,500 employees and has a revenue of $82,156 according to Fortune 500.
+The company is valued at $120,777 and has a profit of $18,680. The CEO of the company is Ryan M. Lance.
+
+The Company has the following ratings: 
+Average ratings for ConocoPhillips:
+Business Outlook: 0.88
+
+Career Opportunities: 3.9
+Distribution: 
+	1: 102 
+	2: 163 
+	3: 348 
+	4: 336 
+	5: 234 
+
+CEO: 0.92
+
+Compensation and Benefits: 4.4
+Distribution: 
+	1: 16 
+	2: 50 
+	3: 183 
+	4: 448 
+	5: 493 
+
+Culture and Values: 3.9
+Distribution: 
+	1: 84 
+	2: 86 
+	3: 223 
+	4: 293 
+	5: 339 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 20 
+	2: 20 
+	3: 58 
+	4: 82 
+	5: 104 
+
+Overall: 4.2
+Distribution: 
+	1: 62 
+	2: 121 
+	3: 263 
+	4: 503 
+	5: 407 
+
+Senior Management: 3.7
+Distribution: 
+	1: 148 
+	2: 182 
+	3: 334 
+	4: 320 
+	5: 196 
+
+Work Life Balance: 4.2
+Distribution: 
+	1: 51 
+	2: 89 
+	3: 261 
+	4: 395 
+	5: 391 
+
+Review Count: 1356
+
+Recommend to Friend: 
+	RECOMMEND: 790
+	WONT RECOMMEND: 251
+
+
+
+
+The company has 1617 reviews on Glassdoor. The last review was posted on 2024-04-17T13:20:10.140. 
+There are 20 Reviews for ConocoPhillips:
+
+Review 1:
+	Job Title: Senior Engineer
+	Location: Houston, TX
+	Review Date: 2024-04-01T08:39:58.550
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Big corporation. Competitive pay and benefits.
+
+
+	Cons: 
+		Hard to move up in the corporate ladder.
+
+
+	Summary: 
+		Good pay and good wl balance
+
+
+Review 2:
+	Job Title: Engineer
+	Location: Midland, TX
+	Review Date: 2024-04-17T13:20:10.140
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		good people to work with
+
+
+	Cons: 
+		too many levels of management
+
+
+	Summary: 
+		Good Company
+
+
+Review 3:
+	Job Title: Cloud Engineer
+	Location: Bartlesville, OK
+	Review Date: 2024-04-06T10:15:09.653
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great people, and emerging tech
+
+
+	Cons: 
+		Remote work not prioritized anymore
+
+
+	Summary: 
+		Good place, in person
+
+
+Review 4:
+	Job Title: Analyst
+	Location: Bartlesville, OK
+	Review Date: 2024-03-15T07:13:47.537
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great benefits, great work/life balance, great supervisors depending on your group.
+
+
+	Cons: 
+		Work can become mundane, but the people make it worth it. Be aware of micromanaging supervisors.
+
+
+	Summary: 
+		Great company
+
+
+Review 5:
+	Job Title: Employee
+	Location: Houston, TX
+	Review Date: 2024-03-25T13:25:15.200
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Reasonable management at the highest levels down through middle management.
+
+
+	Cons: 
+		Runs lean even when times are good.
+
+
+	Summary: 
+		Great when times are good
+
+
+Review 6:
+	Job Title: Data Architect
+	Location: Houston, TX
+	Review Date: 2024-02-25T14:19:47.743
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Pay and benefits. Opportunities to move around the company, around the country and the world.
+
+
+	Cons: 
+		Large companies always come with more process than smaller companies.
+
+
+	Summary: 
+		ConocoPhillips - Great Company
+
+
+Review 7:
+	Job Title: IT New Hire
+	Location: Bartlesville, OK
+	Review Date: 2024-02-22T20:38:34.663
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great pay, phenomenal rotational program.
+
+
+	Cons: 
+		CoP is against working remotely long term, which is why I decided to resign. It takes 3 years to become vested in company 401k contributions.
+
+
+	Summary: 
+		I would recommend 
+
+
+Review 8:
+	Job Title: Accounting
+	Location: Bartlesville, OK
+	Review Date: 2024-02-07T13:08:47.767
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great pay and benefits for most positions.
+
+
+	Cons: 
+		The negativity of being pushed to always be better than your coworkers is endless.
+
+
+	Summary: 
+		Just a Corporate Job
+
+
+Review 9:
+	Job Title: Projects Team Lead
+	Location: Oklahoma City, OK
+	Review Date: 2024-02-06T15:23:26.697
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great benefits, work environment and culture.
+
+
+	Cons: 
+		Job security since it’s an oil and gas company which could be highly volatile.
+
+
+	Summary: 
+		Projects Team Lead
+
+
+Review 10:
+	Job Title: Financial Analyst
+	Location: Houston, TX
+	Review Date: 2024-02-06T10:20:51.743
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		work life balance is good
+
+
+	Cons: 
+		management and leaders are bad
+
+
+	Summary: 
+		It was okay
+
+
+Review 11:
+	Job Title: Analysts
+	Location: Houston, TX
+	Review Date: 2024-02-05T10:00:30.420
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Work life balance 
+		Nice people
+
+
+	Cons: 
+		Diversity
+		Hard to move to management
+
+
+	Summary: 
+		Greatt
+
+
+Review 12:
+	Job Title: Financial Advisor
+	Location: Houston, TX
+	Review Date: 2024-01-12T15:13:57.633
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great benefits, flexible work schedule, and amenities.
+
+
+	Cons: 
+		Hard to find advanced opportunities once past early career. Organization has flattened considerably, that, while good for overall financial health and costs, can be limiting for mid to late career employees.
+
+
+	Summary: 
+		Excellent O&amp;G Company
+
+
+Review 13:
+	Job Title: Advisor
+	Location: Bartlesville, OK
+	Review Date: 2024-01-22T18:37:19.630
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Growth for all levels of employee.
+
+
+	Cons: 
+		Corporate structure can be hard compared to small company.
+
+
+	Summary: 
+		Great company
+
+
+Review 14:
+	Job Title: Senior Global D&C Data Engineer
+	Location: Houston, TX
+	Review Date: 2023-11-12T16:39:59.313
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Good work environment, balanced work life schedule, understanding of trust employees to do their word and not be micro managed.
+
+
+	Cons: 
+		Higher level seniority listen to their ideas only and blame people below them when it doesn’t go the way they planned it. Higher level staff except Executives rarely listen to employees.
+
+
+	Summary: 
+		Good company overall
+
+
+Review 15:
+	Job Title: Mechanical Engineer
+	Location: None
+	Review Date: 2024-01-02T12:41:16.830
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		flexible, progressive/comprehensive benefits, good staff
+
+
+	Cons: 
+		I wish they had more progressive DEI goals
+
+
+	Summary: 
+		wonderful
+
+
+Review 16:
+	Job Title: Financial Advisor
+	Location: Houston, TX
+	Review Date: 2023-11-15T11:22:35.220
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		ConocoPhillips has a great culture. Management generally welcomes feedback and implement changes where they can. The company has become very transparent in the promotional and how performance is rated. Pay is competitive and schedules are fairly flexible depending on your supervisor and role.
+
+
+	Cons: 
+		Depending on your role, due to the nature of its work, work life balance goes down a bit.
+
+
+	Summary: 
+		Great place to work
+
+
+Review 17:
+	Job Title: Environmental Engineer
+	Location: None
+	Review Date: 2023-12-18T10:57:20.570
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		This is just a test to see if this works
+
+
+	Cons: 
+		The test should work well
+
+
+	Summary: 
+		Test
+
+
+Review 18:
+	Job Title: Geophysicist
+	Location: Houston, TX
+	Review Date: 2023-12-04T08:34:02.163
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good salary and benefits, nice bonus
+
+
+	Cons: 
+		Lack a vision for the future
+
+
+	Summary: 
+		Great company
+
+
+Review 19:
+	Job Title: Economic Advisor
+	Location: Houston, TX
+	Review Date: 2023-11-28T09:18:31.547
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Above average pay scale industry.
+
+
+	Cons: 
+		Limited diversity in people of color across all leadership levels.
+
+
+	Summary: 
+		Minority Employee
+
+
+Review 20:
+	Job Title: Staff Engineer I
+	Location: None
+	Review Date: 2023-09-28T14:20:20.797
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Competitive compensation, great benefits &amp; retirement
+
+
+	Cons: 
+		Culture has deteriorated, dishonest and incompetent management, focus on DEI that promotes and hires less qualified people versus actual available candidates. If you are a straight, white, male, then good luck with career progression unless you are in tight with someone on the TMT or immediate leadership. Performance is not rewarded.
+
+
+	Summary: 
+		Beware of DEI at COP
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

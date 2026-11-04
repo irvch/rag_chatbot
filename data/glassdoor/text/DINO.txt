@@ -1,0 +1,634 @@
+
+HF Sinclair is a Petroleum Refining company based in 75201 Dallas, Texas. 
+The company has 5,223 employees and has a revenue of $38,205 according to Fortune 500.
+The company is valued at $9,492 and has a profit of $2,923. The CEO of the company is Tim Go.
+
+The Company has the following ratings: 
+Average ratings for HF Sinclair:
+Business Outlook: 0.66
+
+Career Opportunities: 3
+Distribution: 
+	1: 6 
+	2: 9 
+	3: 8 
+	4: 5 
+	5: 10 
+
+CEO: 0.91
+
+Compensation and Benefits: 4.1
+Distribution: 
+	1: 1 
+	2: 2 
+	3: 5 
+	4: 17 
+	5: 13 
+
+Culture and Values: 3.2
+Distribution: 
+	1: 5 
+	2: 6 
+	3: 10 
+	4: 8 
+	5: 9 
+
+Diversity and Inclusion: 3.7
+Distribution: 
+	1: 4 
+	2: 4 
+	3: 9 
+	4: 8 
+	5: 13 
+
+Overall: 3.8
+Distribution: 
+	1: 5 
+	2: 3 
+	3: 12 
+	4: 16 
+	5: 17 
+
+Senior Management: 2.9
+Distribution: 
+	1: 9 
+	2: 8 
+	3: 5 
+	4: 8 
+	5: 8 
+
+Work Life Balance: 2.9
+Distribution: 
+	1: 7 
+	2: 7 
+	3: 8 
+	4: 8 
+	5: 8 
+
+Review Count: 54
+
+Recommend to Friend: 
+	RECOMMEND: 21
+	WONT RECOMMEND: 10
+
+
+
+
+The company has 63 reviews on Glassdoor. The last review was posted on 2024-04-11T15:45:42.817. 
+There are 20 Reviews for HF Sinclair:
+
+Review 1:
+	Job Title: None
+	Location: Tulsa, OK
+	Review Date: 2023-12-27T14:05:39.020
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Time off between sets, great pay and benefits
+
+
+	Cons: 
+		Long work schedule - 12 hours rotating, 365 days a year
+
+
+	Summary: 
+		Great Pay
+
+
+Review 2:
+	Job Title: Control Room Operator
+	Location: None
+	Review Date: 2024-04-11T15:45:42.817
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		good company match 
+		good bonus
+		good pay after apprenticeship
+		mostly good people to work with
+
+
+	Cons: 
+		low starting pay
+		2 year apprenticeship where pay hardly increases during that duration
+		lots of drama
+		some drama employees
+		HR is worthless
+		8hr and 12hr payrate which they advertise the 8hr but you make less due to A DIFFERENT PAY RATE
+		Disconnect between ops and management of reality of the job being performed
+		Poor management communication
+
+
+	Summary: 
+		process operator
+
+
+Review 3:
+	Job Title: Web Developer
+	Location: None
+	Review Date: 2024-03-28T09:33:29.783
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The can sure sound exactly how you want them to at first
+
+
+	Cons: 
+		As soon as they no longer need to look  nice, they turn completely rotten.  As soon as they buy a company look for them to completely gut the company all in the name of profits.  Whatever else they may say are complete lies.
+
+
+	Summary: 
+		Their Word Means Nothing
+
+
+Review 4:
+	Job Title: Systems Administrator
+	Location: Dallas, TX
+	Review Date: 2024-03-26T15:16:04.120
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good work from home opportunities.
+
+
+	Cons: 
+		Loss of senior leadership has had an impact on morale.
+
+
+	Summary: 
+		It’s fine
+
+
+Review 5:
+	Job Title: Refinery Process Operator
+	Location: Sinclair, WY
+	Review Date: 2024-02-21T23:02:46.220
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Good pay, good benefits, and good people working next to you.
+
+
+	Cons: 
+		Schedule is erratic, call-out lists are mandatory and unpaid for being on-call. Employee appreciation is lacking. Employees are discouraged from improving and moving up.
+
+
+	Summary: 
+		Fair enough yet could be improved
+
+
+Review 6:
+	Job Title: None
+	Location: None
+	Review Date: 2024-02-27T08:15:17.350
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great Benefits (Medical and Retirement)
+		Good bonuses
+
+
+	Cons: 
+		Lack of career growth
+		Lack of training structure
+
+
+	Summary: 
+		Great Benefits
+
+
+Review 7:
+	Job Title: Process Operator
+	Location: El Dorado, KS
+	Review Date: 2024-01-12T00:44:36.033
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Salary is good for the area
+
+
+	Cons: 
+		Work Schedule is not for everyone
+
+
+	Summary: 
+		Operator
+
+
+Review 8:
+	Job Title: Lab Technician
+	Location: Anacortes, WA
+	Review Date: 2023-12-23T01:06:20.583
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good pay and benefits. Stipend for work boots every year
+
+
+	Cons: 
+		Poor work life balance, poorly managed department, toxic work environment, mediocre employees get promoted while good employees get overlooked or completely ignored, lots of cliques and favoritism, long hours and lots of mandatory overtime
+
+
+	Summary: 
+		Think twice about working here
+
+
+Review 9:
+	Job Title: None
+	Location: Tulsa, OK
+	Review Date: 2023-09-03T01:39:49.197
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		The refinery team out in the field as IT Benefits and Medical 9/80 schedule
+
+
+	Cons: 
+		Management isn't to be trusted, specifically site supervisor and district manager for the IT department
+
+
+	Summary: 
+		This Place is something.
+
+
+Review 10:
+	Job Title: Software Engeneer
+	Location: Dallas, TX
+	Review Date: 2023-11-29T10:52:27.373
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Good pay and benefits, time off
+
+
+	Cons: 
+		Cannot carry over vacation time from year to year
+
+
+	Summary: 
+		Good place to wrk
+
+
+Review 11:
+	Job Title: Junior Process Safety Engineer
+	Location: Artesia, NM
+	Review Date: 2023-10-27T08:55:19.587
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Great network of people to interact with.
+
+
+	Cons: 
+		Sometimes a lot skills have to be built and expertise in field with SME’s may not be there…it’s a growing company with outside resources
+
+
+	Summary: 
+		Challenging and Fun Job
+
+
+Review 12:
+	Job Title: Operator
+	Location: Artesia, NM
+	Review Date: 2023-11-25T09:43:00.193
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Best pay and benefits in industry
+
+
+	Cons: 
+		Management is getting way out of control
+
+
+	Summary: 
+		Good company
+
+
+Review 13:
+	Job Title: Scheduler
+	Location: Dallas, TX
+	Review Date: 2023-10-16T21:15:21.307
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Travel, pay, easy office culture
+
+
+	Cons: 
+		Communication, 100% in the office but select people get to be remote - doesn't seem to be equal across the board. Not the worst thing in the world as they're pretty flexible about being out if you have an appointment or something.
+
+
+	Summary: 
+		Easy Place to Work
+
+
+Review 14:
+	Job Title: Strategy Specialist
+	Location: Dallas, TX
+	Review Date: 2023-11-07T17:39:27.047
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good people and good 401k plan
+
+
+	Cons: 
+		Dont have any cons to report
+
+
+	Summary: 
+		Great Company
+
+
+Review 15:
+	Job Title: Human Resources
+	Location: None
+	Review Date: 2023-08-10T20:44:11.873
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		9/80 schedule is a perk when you’re able to take your Fridays off, 401k match and retirement contribution, HSA contribution, competitive benefits
+
+
+	Cons: 
+		Workplace/corporate politics are laughable and unnecessary, toxic culture in the HR operations team, poor compensation, mismanagement of investigations
+
+
+	Summary: 
+		Political machine
+
+
+Review 16:
+	Job Title: Tax Associate
+	Location: Dallas, TX
+	Review Date: 2023-08-23T16:14:29.550
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Awesome culture and perks like lunches etc
+
+
+	Cons: 
+		A cool kids club had formed
+
+
+	Summary: 
+		Great people
+
+
+Review 17:
+	Job Title: Head Operator
+	Location: None
+	Review Date: 2023-09-20T14:46:13.103
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Pay is high for area.
+
+
+	Cons: 
+		Working to many hours/days per week
+
+
+	Summary: 
+		HF Sinclair
+
+
+Review 18:
+	Job Title: Operation Technician
+	Location: Anacortes, WA
+	Review Date: 2023-07-15T02:53:24.373
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Pay, Benefits, Culture, Professionalism, People
+
+
+	Cons: 
+		Work Schedule, Work Schedule and Work Schedule
+
+
+	Summary: 
+		Great Company
+
+
+Review 19:
+	Job Title: Senior Project Buyer
+	Location: None
+	Review Date: 2023-03-01T09:47:18.913
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		They work leaner and in some ways more efficient they care mainly about their share holders
+
+
+	Cons: 
+		They care very little for the employee. The run thin and care only about bottom line. The do now really use people to the best of their expertise and creat a general malaise. Not really a challenge for someone with ability with people and vendors. They bully their vendors and ruin relationships
+
+
+	Summary: 
+		Project Buyer
+
+
+Review 20:
+	Job Title: None
+	Location: Salt Lake City, UT
+	Review Date: 2022-11-30T14:55:01.690
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Were promised by the President of the company that all employees would be taken care of.
+
+
+	Cons: 
+		What they mean by taken care of is that 95% of the employees would be let go with a Joke of a Severance. Just today all of the IT Staff what let go. A month ago Accounting and purchasing. 3 months ago 100 long term employees were let go from the Sinclair Refinery. Marketing will be picked apart as soon as they can find out what then do. HR is kept to help make the Transition and will be let go soon. Don't Trust with any of the management Says, they have all lied to our faces. They have no respect for you as a employee.
+
+
+	Summary: 
+		Don't Believe anything Management Tells you
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

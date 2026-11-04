@@ -1,0 +1,622 @@
+
+PBF Energy is a Petroleum Refining company based in 07054 Parsippany, New Jersey. 
+The company has 3,616 employees and has a revenue of $46,830 according to Fortune 500.
+The company is valued at $5,589 and has a profit of $2,877. The CEO of the company is Thomas J. Nimbley.
+
+The Company has the following ratings: 
+Average ratings for PBF Energy:
+Business Outlook: 0.67
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 24 
+	2: 23 
+	3: 40 
+	4: 39 
+	5: 31 
+
+CEO: 0.63
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 8 
+	2: 8 
+	3: 25 
+	4: 55 
+	5: 58 
+
+Culture and Values: 3.1
+Distribution: 
+	1: 25 
+	2: 23 
+	3: 37 
+	4: 37 
+	5: 33 
+
+Diversity and Inclusion: 3.3
+Distribution: 
+	1: 17 
+	2: 15 
+	3: 18 
+	4: 21 
+	5: 30 
+
+Overall: 3.6
+Distribution: 
+	1: 16 
+	2: 19 
+	3: 38 
+	4: 70 
+	5: 48 
+
+Senior Management: 3.5
+Distribution: 
+	1: 30 
+	2: 23 
+	3: 40 
+	4: 35 
+	5: 26 
+
+Work Life Balance: 2.9
+Distribution: 
+	1: 27 
+	2: 27 
+	3: 45 
+	4: 31 
+	5: 25 
+
+Review Count: 191
+
+Recommend to Friend: 
+	RECOMMEND: 90
+	WONT RECOMMEND: 46
+
+
+
+
+The company has 219 reviews on Glassdoor. The last review was posted on 2024-03-31T15:19:33.257. 
+There are 20 Reviews for PBF Energy:
+
+Review 1:
+	Job Title: Process Engineer
+	Location: Chalmette, LA
+	Review Date: 2024-03-15T10:48:30.463
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Growth and development are the greatest factors within the company. The culture at this facility remains unmatched, from a safety standpoint and work/life balance. Pays and seasonal work hour changes for salary employees are what keeps everyone happy.
+
+
+	Cons: 
+		A little understaffed, but manageable.
+
+
+	Summary: 
+		Best Company to Work for 
+
+
+Review 2:
+	Job Title: Maintenance Supervisor
+	Location: Delaware City, DE
+	Review Date: 2024-03-31T15:19:33.257
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Great people, great pay and benefits.
+
+
+	Cons: 
+		Can be long hours. A lot of emergencies
+
+
+	Summary: 
+		Great place
+
+
+Review 3:
+	Job Title: Operator
+	Location: Martinez, CA
+	Review Date: 2024-03-18T20:02:25.163
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Pay was pretty good to start.
+
+
+	Cons: 
+		Work life balance is tough with rotational shifts.
+
+
+	Summary: 
+		 Not a bad gig
+
+
+Review 4:
+	Job Title: Rotating Equipment Engineer
+	Location: Toledo, OH
+	Review Date: 2024-02-20T17:34:27.613
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		The pay was great for the area.
+
+
+	Cons: 
+		The work/life balance could have been better.
+
+
+	Summary: 
+		Very demanding high paying job.
+
+
+Review 5:
+	Job Title: Staff Engineer
+	Location: The Woodlands, TX
+	Review Date: 2024-02-15T10:35:47.903
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 1
+
+	Pros: 
+		Easy management approach. Good team work and friendly attitude
+
+
+	Cons: 
+		Long work hours, with several old people leading old traditional approach
+
+
+	Summary: 
+		Great company, but long hours
+
+
+Review 6:
+	Job Title: HRIS Analyst
+	Location: Parsippany, NJ
+	Review Date: 2024-02-09T21:02:52.897
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		good benefits, 401k, HSA, learning
+
+
+	Cons: 
+		limited WFH, there is no other Con
+
+
+	Summary: 
+		Amazing 
+
+
+Review 7:
+	Job Title: Communications Advisor
+	Location: Los Angeles, CA
+	Review Date: 2024-01-24T19:12:32.983
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Nice people and work environment, good manager.
+
+
+	Cons: 
+		24/7 operation and being on call.
+
+
+	Summary: 
+		PBF Energy
+
+
+Review 8:
+	Job Title: Senior Engineer
+	Location: None
+	Review Date: 2024-01-08T16:41:11.700
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Small company, easy to build relationships with management
+
+
+	Cons: 
+		Small company, sometimes limited opportunities for growth
+
+
+	Summary: 
+		My review 
+
+
+Review 9:
+	Job Title: Billing Specialist
+	Location: Parsippany, NJ
+	Review Date: 2023-12-04T18:48:41.343
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		The company provides a pension and a bonus each year
+
+
+	Cons: 
+		Grossly underpaid and archaic working practices like 5 days in office despite showing everyone could WFH with no loss of productivity.
+
+
+	Summary: 
+		Billing Specialist
+
+
+Review 10:
+	Job Title: Operations
+	Location: Paulsboro, NJ
+	Review Date: 2023-12-05T07:59:59.063
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good company to work for
+
+
+	Cons: 
+		time off , schedule, and Holidays
+
+
+	Summary: 
+		Review
+
+
+Review 11:
+	Job Title: Senior Administrative Assistant
+	Location: Martinez, CA
+	Review Date: 2023-11-06T16:21:31.013
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good people and great benefits
+
+
+	Cons: 
+		Some issues with turnover lately
+
+
+	Summary: 
+		Good job
+
+
+Review 12:
+	Job Title: Director
+	Location: Parsippany, NJ
+	Review Date: 2023-09-23T16:20:54.633
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good pension plan and bens.
+
+
+	Cons: 
+		Very hierarchical. Ultra conservative. No risk taker
+
+
+	Summary: 
+		Is what it is
+
+
+Review 13:
+	Job Title: Mechanical Engineer
+	Location: Torrance, CA
+	Review Date: 2023-09-20T08:52:46.533
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		A company with good benefits.
+
+
+	Cons: 
+		Lots of work and responsibility.
+
+
+	Summary: 
+		Solid Company
+
+
+Review 14:
+	Job Title: Billing Analyst
+	Location: Parsippany, NJ
+	Review Date: 2023-09-09T14:31:37.707
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Solid pay, great culture and nice location
+
+
+	Cons: 
+		No enough paid time off and work from home days
+
+
+	Summary: 
+		Great place to work
+
+
+Review 15:
+	Job Title: Operator
+	Location: Delaware City, DE
+	Review Date: 2023-09-18T16:35:34.993
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Good pay for the work
+
+
+	Cons: 
+		12 hr rotating shifts suck
+
+
+	Summary: 
+		Pay
+
+
+Review 16:
+	Job Title: Scheduler
+	Location: Long Beach, CA
+	Review Date: 2023-04-30T11:45:09.850
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Most of the people you work with are decent, pay is good, benefits are fair.
+
+
+	Cons: 
+		Overly political. Management is awful, communication is awful and advancement opportunities are awful. Way too much territorialism along with lack of vision creates a stifling environment. Innovation is not understood nor valued. Director level management is woefully incompetent and, sadly, rewarded.
+
+
+	Summary: 
+		Spectacularly Awful Management
+
+
+Review 17:
+	Job Title: Billing Analyst
+	Location: Parsippany, NJ
+	Review Date: 2023-08-30T06:03:42.610
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Amazing work environment and workers
+
+
+	Cons: 
+		There aren’t any cons to this company for me!
+
+
+	Summary: 
+		Great company
+
+
+Review 18:
+	Job Title: Volumetric Accountant
+	Location: Parsippany, NJ
+	Review Date: 2023-08-01T20:32:23.923
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Friendly environment to expand more
+
+
+	Cons: 
+		Less remote days available through the year
+
+
+	Summary: 
+		Great company
+
+
+Review 19:
+	Job Title: Chief Operator
+	Location: Oregon, OH
+	Review Date: 2023-04-01T13:25:16.083
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Great Pay 401K, Plus a pension
+
+
+	Cons: 
+		Revolving management that’s only interested in dumping responsibility. Cut throat environment Quintessential Good ole boy network The only redeeming quality is an excellent wage Over worked hourly Under worked management that changes the rules and safety guidelines to meet their agenda PBF= Profit Before Family Cronyism runs rampant in the self serving union Definitely a place where you’re on an island individually
+
+
+	Summary: 
+		Operations
+
+
+Review 20:
+	Job Title: Scheduler
+	Location: Parsippany, NJ
+	Review Date: 2023-06-16T07:49:16.750
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good Culture if you have a good work ethic.
+
+
+	Cons: 
+		I like working at this company.
+
+
+	Summary: 
+		Good Company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

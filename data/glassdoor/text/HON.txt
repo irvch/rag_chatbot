@@ -1,0 +1,663 @@
+
+Honeywell International is a Electronics, Electrical Equip. company based in 28202 Charlotte, North Carolina. 
+The company has 97,000 employees and has a revenue of $35,466 according to Fortune 500.
+The company is valued at $127,695 and has a profit of $4,966. The CEO of the company is Vimal Kapur.
+
+The Company has the following ratings: 
+Average ratings for Honeywell International:
+Business Outlook: 0.73
+
+Career Opportunities: 4.1
+Distribution: 
+	1: 531 
+	2: 617 
+	3: 1514 
+	4: 2325 
+	5: 3372 
+
+CEO: 0.87
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 415 
+	2: 722 
+	3: 1910 
+	4: 2740 
+	5: 2554 
+
+Culture and Values: 4
+Distribution: 
+	1: 810 
+	2: 689 
+	3: 1309 
+	4: 2255 
+	5: 3262 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 440 
+	2: 471 
+	3: 1147 
+	4: 2281 
+	5: 3933 
+
+Overall: 4
+Distribution: 
+	1: 598 
+	2: 691 
+	3: 1822 
+	4: 3127 
+	5: 3725 
+
+Senior Management: 3.7
+Distribution: 
+	1: 1069 
+	2: 890 
+	3: 1524 
+	4: 2130 
+	5: 2659 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 948 
+	2: 809 
+	3: 1625 
+	4: 2171 
+	5: 2744 
+
+Review Count: 20523
+
+Recommend to Friend: 
+	RECOMMEND: 5628
+	WONT RECOMMEND: 1697
+
+
+
+
+The company has 22267 reviews on Glassdoor. The last review was posted on 2024-04-17T19:31:41.870. 
+There are 20 Reviews for Honeywell International:
+
+Review 1:
+	Job Title: Advanced Systems Engineer
+	Location: Yeovil, England
+	Review Date: 2023-08-15T11:02:39.227
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		- challenging work and infinite opportunities for learning and for professional development - good remuneration - people are respectful, kind and supportive. The company strongly supports positive attitude.
+
+
+	Cons: 
+		No actual cons, but a "heads-up" instead: - as a global company, be prepared to eventually adapt your working hours to attend to meetings / work together with other teams that are on a very different timezone (8+ hours of difference) - the flexibility from the company also expects you to be flexible.
+
+
+	Summary: 
+		A great place to work!
+
+
+Review 2:
+	Job Title: Senior Financial Analyst (Aero BAP)
+	Location: Phoenix, AZ
+	Review Date: 2024-04-17T09:48:10.440
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Strong and reputable company with a flexible hybrid work schedule.
+
+
+	Cons: 
+		Onboarding process takes about 2-3 weeks from the time offer received.
+
+
+	Summary: 
+		Senior Financial Analyst
+
+
+Review 3:
+	Job Title: Assembly Technician
+	Location: None
+	Review Date: 2024-03-18T08:23:25.417
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Pay is good. Plenty of overtime. Don't have to deal with customers. Benefits are decent.
+
+
+	Cons: 
+		Too many cons. Management is poor. They constantly change planners and leads. Can't hold onto engineers. They play favorites.  Some cells get better treatment.  They ignore problems and concerns regarding builds. They expect you to do everything and work Saturdays. A customer wanted x amount of valves in 2 days,  a ridiculous quantity,  day shift lead told us she expected us to drop dead to push them out. Workers are treated poorly. There is a huge rift between day and night shift. It's honestly not worth the pay to work here especially if you have family and kids. Let's also not forget how their computers are not up to par. So when you gace issues. They drag their feet to fix it, forgetting you need the computer to do your job, and if you have to call IT, take some Tylenol or excedrin before because you'll spend 2 hrs talking to someone overseas who barely speaks English, and doesn't understand what your asking no matter how you dumb it down.
+
+
+	Summary: 
+		Poor management and work environment
+
+
+Review 4:
+	Job Title: Software Engineer
+	Location: Phoenix, AZ
+	Review Date: 2024-02-15T08:19:45.887
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		This is specific to Anthem- you might also see "Next Gen avionics" in the job description.
+		You'll be working in a modern environment. No 30-year old cubicles, you're not using obscure tooling like PVCS that you'd be ashamed to put on your resume.
+		Anthem is a huge priority for Honeywell and gets a lot of attention.
+
+
+	Cons: 
+		The amount of turnover should speak for itself. Most teams have lost half their members in the last two or three years. One reason for that is that if you work here you will have to compete with up to 20-25 other direct reports for your boss's help.
+		
+		Don't believe the terms in your offer letter- those 13 days of company holidays? Last year managers told us "don't plan for December vacations" despite above-average Q4 performance. Salary might seem ok but raises never track inflation. Work life balance is notoriously bad- a whiteboard here has the quote "death is not a reason not to close your story", and after my spouse had a panic attack my leader said "well we all have work-life issues like that we have to deal with".
+		
+		There's a reason Anthem is hiring a lot right now. Customer schedules are at risk and leadership would rather throw more water in the bucket than plug the holes in it. If Anthem were a great team more Honeywell employees would want to switch teams.
+
+
+	Summary: 
+		Watch out for the Anthem Program
+
+
+Review 5:
+	Job Title: Offering Management
+	Location: Atlanta, GA
+	Review Date: 2024-01-26T13:39:34.060
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Fortunate to have had some terrific managers over the years who have been and still are on my personal board of directors. 
+		
+		Our current Exec Leadership is evolving, however, while very focused on growth, they are listening and engaging.
+		
+		Our benefits packages are better than most. While we are middle of the pack in some areas, we do lead in several.
+		
+		Our Employee Resource Groups create a space for everyone to feel like they belong. They offer ways for community engagement and personal betterment.
+		
+		Very innovative company, almost too a fault. We are highly invested in R&amp;D which can mean you sometimes forget about all the great NPI we have made.
+		
+		Amazing team of employees and friends.
+
+
+	Cons: 
+		All depends on if you are in it for only you or looking at a larger picture. There are many, in every company, who have negative statements about their workplaces. If you know that you are going to work for a large global company and think it will be like working at a small family business, wake up.
+		Honeywell is there to make money for their shareholders and that can create a fast paced, hard core, very direct environment that not everyone can live/ work in.
+		Be honest with yourself and know what you are getting into, no matter where you decide to work. After all, it is your decision to accept any/ all job offers and the associated pay/ benefits.
+		
+		Would say that over the past 5-10 years HR has put us in a very "woke" system that is broken. This is one piece that does need attention or you will run the folks with the IP away.
+
+
+	Summary: 
+		Good Company - Just be ready for change
+
+
+Review 6:
+	Job Title: None
+	Location: None
+	Review Date: 2024-04-04T09:24:45.560
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Talent Acquisition was very direct and interested in getting all the correct information for me to review prior to accepting. Initial acceptance onboarding has a designated path for completion. Access to the sites are strictly controlled for a safe and secure feeling.
+
+
+	Cons: 
+		Some communication is slow to get back to the hiring manager causing delays in acceptance process. Manager was asked to perform some tasks without prior knowledge or training. HR assumed hiring manager already knew.
+
+
+	Summary: 
+		Employment process and onboarding
+
+
+Review 7:
+	Job Title: Sr Field Service Supervisor
+	Location: Duluth, GA
+	Review Date: 2024-04-04T06:21:51.137
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Benefits and salary are good to very good on a regional basis; Lots of talented people who are very cooperative. Lots of growth and room for advancement, depending on which group are are in. The AI assistant is surprisingly helpful and not at all irritating!
+
+
+	Cons: 
+		As with many companies, the onboarding process is inconsistent. In particular some training modules are great while others clearly haven't been updated in a while.
+
+
+	Summary: 
+		Great Company with a holistic approach to Product and Service design and delivery.
+
+
+Review 8:
+	Job Title: Systems Engineer
+	Location: None
+	Review Date: 2023-12-12T02:39:45.953
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		- None of my bosses have micromanaged details like hours worked or emails responses
+		- Good opportunities for lateral movement, so many people stay at Honeywell for years
+		- Some of the Phoenix area sites have made significant improvements in the last five years with ping pong tables, employee events with food provided, and many newer employee clubs
+		- Most engineers are friendly and I've rarely met toxic or egotistical lower-level employees.
+
+
+	Cons: 
+		- Honeywell says Innovation is a top priority but somewhere the message gets lost in middle management, and therefore many new products still use code written in the 90s and archaic software tools
+		- Export control processes have gotten Draconian and un-collaborative. Hope you enjoy typing a business justification for virtually every external email. Many teams have to been told to stop using Excel's real time co-authoring for anything.
+		- Managers care more about analyzing KPI's and CDR's than understanding the work of entry-level employees that make those KPI's and CDR's happen.
+		- Program budgets on civil aviation can be disorganized and chaotic. You may work mandatory overtime and then be told to stop working on all customer projects in the same quarter.
+		- Work-life balance depends heavily on the teams. Sometimes managers barely know what each employee is working on each week, but I've also seen teams where weekend meetings were normal
+		- Direct managers may be remote, and can sometimes be too hands-off. Good luck getting your manager to appropriately address a dysfunctional team when you've never physically met them and only talk once a month.
+
+
+	Summary: 
+		Decent opportunity but negligent management
+
+
+Review 9:
+	Job Title: Quality Inspector
+	Location: Torrance, CA
+	Review Date: 2024-04-15T12:58:47.197
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Many opportunities to learn and grow within the organization.
+		Great communication between departments.
+		Superiors are very understanding of work-life balance.
+
+
+	Cons: 
+		Not many cons to state. 
+		I guess one would be that there is a lot of overtime but for me that is also a pro haha
+
+
+	Summary: 
+		Pretty great place to work at.
+
+
+Review 10:
+	Job Title: Principal Scientist
+	Location: Richmond, VA
+	Review Date: 2024-04-04T12:48:58.677
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 2
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Top notch technical colleagues and challenging projects.
+		A real team atmosphere.
+		Innovation is rewarded. Results are rewarded.
+
+
+	Cons: 
+		R&amp;D Managers are not always prepared to deal with anyone who isn't a by-the-book project engineer. There should be a chapter at MBA school titled "Innovation and Invention Need Elastic Timelines".
+		HR really just follows market trends on compensation, work rules, etc.
+
+
+	Summary: 
+		Work with Great People at the Leading Edge
+
+
+Review 11:
+	Job Title: Lead Flight Controls Engineer
+	Location: Phoenix, AZ
+	Review Date: 2024-04-14T11:23:23.983
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		- Good experienced engineers
+		- Diverse set of products and projects
+		- Good work/life balance in many teams
+
+
+	Cons: 
+		- Poor pay &amp; benefits package
+		- Poor work culture with very little innovation
+		- Higher management care the most about their bonuses
+
+
+	Summary: 
+		Poor Culture and benefits
+
+
+Review 12:
+	Job Title: HSE Engineer
+	Location: West Monroe, LA
+	Review Date: 2024-03-18T09:02:13.717
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The people I work with so far have been great. I enjoy the fact that the position I am in gives me a chance to grow my expertise and learn more about multiple fields (Gas, Electric&lt; etc.). There is so much that i see to learn and do and not just the same thing day in and day out. I see so much opportunity to be a part of building and growing something that can be very useful to keep people safe and productive.
+
+
+	Cons: 
+		I think the onboarding process is very robust and overwhelming at times.
+
+
+	Summary: 
+		Honeywell Review
+
+
+Review 13:
+	Job Title: Advanced Mechanical Design Engineer
+	Location: Phoenix, AZ
+	Review Date: 2024-03-22T08:32:22.507
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		I was hired in February of 2024, and started working at Honeywell in March of 2024. I have only been here a couple days but I have had a great experience so far. The on- boarding process was relatively smooth, and I've gotten all the help I need to feel comfortable and welcome. I also have enjoyed meeting everyone so far, they have all been extremely friendly and outgoing.
+
+
+	Cons: 
+		The only con I have at the moment is that I did not have building access requested during my on-boarding process, so I've needed to be escorted and let into the building each time I come and go.
+
+
+	Summary: 
+		Honeywell on-boarding process
+
+
+Review 14:
+	Job Title: Sr. Account Manager
+	Location: Saint Louis, MO
+	Review Date: 2024-04-02T13:39:25.350
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Large company with great benefits
+		Plenty of opportunity for growth
+		My colleagues seem to really want to support each other
+
+
+	Cons: 
+		Very long onboarding process, but that is what to expect from a large corporation.
+
+
+	Summary: 
+		Global company that is trying to make a difference
+
+
+Review 15:
+	Job Title: Advanced Project Engineer
+	Location: Los Angeles, CA
+	Review Date: 2024-03-20T14:15:51.250
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		The company carries a really big brand value and it feels good to work for the company. Depending on the business group and position there are opportunities to work with a lot of amazing people and projects.
+
+
+	Cons: 
+		Benefits and pay could be slightly better, on boarding was completely online and could have been made a little bit more personal and interactive.
+
+
+	Summary: 
+		Great company to work for!
+
+
+Review 16:
+	Job Title: Electronics Engineer
+	Location: Clearwater, FL
+	Review Date: 2024-04-17T19:31:41.870
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Lots of experience 
+		Unlimited pto
+
+
+	Cons: 
+		Not given a lot of support for entry level
+
+
+	Summary: 
+		Entry level engineer
+
+
+Review 17:
+	Job Title: Program Controls Specialist III
+	Location: Phoenix, AZ
+	Review Date: 2024-04-14T19:44:14.590
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Great experience in a short amount of time.
+
+
+	Cons: 
+		Leadership struggles to understand compliance and enforce good program management.
+
+
+	Summary: 
+		Working Multiple Roles
+
+
+Review 18:
+	Job Title: Sales Engineer
+	Location: Muncie, IN
+	Review Date: 2024-03-07T06:53:46.520
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Everyone I have met so far has been very driven and efficient. Veteran SEs are kind, but fast moving. Once you get started you keep on running. Things are quick paced, but it's been a rewarding experience so far.
+
+
+	Cons: 
+		Training and working from home can be tough for some people that require more of an outline or structure. Lots of acronyms and abbreviated terms so at first things may seem overwhelming, but help is around and it's pretty easy to contact someone that can help answer your questions. There's room for improvement when it comes to diversity here, but that could be you! Lots of opportunities for people from underrepresented/minority groups.
+
+
+	Summary: 
+		Very hardworking, quality people.
+
+
+Review 19:
+	Job Title: New Product Integration Engineer
+	Location: None
+	Review Date: 2024-04-03T13:00:05.053
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Honeywell is a well-respected company and the best in class at what they do. The pay is competitive, and benefits are great. They provide plenty of training and offer hybrid work from home options.
+
+
+	Cons: 
+		Challenges presented with outsourcing so much of the manufacturing are formidable.
+
+
+	Summary: 
+		Exciting Opportunities
+
+
+Review 20:
+	Job Title: Advanced Chemical Engineer
+	Location: None
+	Review Date: 2024-04-16T07:34:05.500
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Great People, much to learn.
+
+
+	Cons: 
+		Understaffed, so expect a lot of work being pushed on you.
+
+
+	Summary: 
+		Great Place to Work
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

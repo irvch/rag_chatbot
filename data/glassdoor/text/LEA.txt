@@ -1,0 +1,632 @@
+
+Lear is a Motor Vehicles & Parts company based in 48033 Southfield, Michigan. 
+The company has 168,700 employees and has a revenue of $20,892 according to Fortune 500.
+The company is valued at $8,248 and has a profit of $328. The CEO of the company is Raymond E. Scott.
+
+The Company has the following ratings: 
+Average ratings for Lear:
+Business Outlook: 0.61
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 266 
+	2: 293 
+	3: 550 
+	4: 591 
+	5: 596 
+
+CEO: 0.79
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 160 
+	2: 233 
+	3: 613 
+	4: 683 
+	5: 597 
+
+Culture and Values: 3.6
+Distribution: 
+	1: 229 
+	2: 260 
+	3: 489 
+	4: 581 
+	5: 703 
+
+Diversity and Inclusion: 3.8
+Distribution: 
+	1: 98 
+	2: 95 
+	3: 233 
+	4: 306 
+	5: 543 
+
+Overall: 3.9
+Distribution: 
+	1: 175 
+	2: 210 
+	3: 605 
+	4: 831 
+	5: 855 
+
+Senior Management: 3.4
+Distribution: 
+	1: 304 
+	2: 274 
+	3: 453 
+	4: 462 
+	5: 476 
+
+Work Life Balance: 3.3
+Distribution: 
+	1: 325 
+	2: 295 
+	3: 580 
+	4: 562 
+	5: 525 
+
+Review Count: 2681
+
+Recommend to Friend: 
+	RECOMMEND: 1588
+	WONT RECOMMEND: 537
+
+
+
+
+The company has 3081 reviews on Glassdoor. The last review was posted on 2024-04-17T15:50:06.730. 
+There are 20 Reviews for Lear:
+
+Review 1:
+	Job Title: Buyer
+	Location: Southfield, MI
+	Review Date: 2024-03-24T17:48:18.460
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great company to work for.
+
+
+	Cons: 
+		No cons to my knowledge.
+
+
+	Summary: 
+		Great Company
+
+
+Review 2:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-04T09:14:40.277
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Casual attire and free small coffee at on-site Starbucks. Hybrid work schedule. Charismatic executives that make you feel as though you are valued and appreciated, and that everyone that works there is an important part of the company.
+
+
+	Cons: 
+		Some managers in positions of power rule by fear and punishment, but are not held accountable. Employee trust is an important and essential quality that should be of major concern at any corporation. There is blatant favoritism going on with respect to some of upper management's treatment of employees that are personally well-liked but that is not related to the performance of everyone in their group. This include things such as providing career opportunities and offering assistance with a career path to those that are well-liked, flexibility with their work schedules that are rigid for others, and providing positive feedback and a show of appreciation in group emails and during meetings, versus no appreciation given and undeserved negative comments or inflammatory statements made in those same formats regarding those not favored by the same manager. Inclusion, which is such a huge focus by Lear and Senior Management, is not happening in every area. It is an illusion, and is not visible to outside areas. That is a travesty.
+
+
+	Summary: 
+		Management rules by favoritism and not performance
+
+
+Review 3:
+	Job Title: Team Member
+	Location: Flint, MI
+	Review Date: 2024-04-13T07:52:45.747
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Some chill team members, tried their best to help out.
+
+
+	Cons: 
+		Fast paced with an incompetent structure. Made working in the warehouse difficult to grasp, but the real kicker was some of the coworkers work ethic; slow, sloppy, and lazy, which made everything even more intense.
+
+
+	Summary: 
+		Incompetent structure, fast paced, lazy coworkers, recipe for disaster
+
+
+Review 4:
+	Job Title: Manuafacturing Assistant
+	Location: None
+	Review Date: 2024-04-11T14:34:24.487
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Benefits OT Medical Vision Dental anual event
+
+
+	Cons: 
+		no evaluations
+		Support in different areas
+		no PTO
+
+
+	Summary: 
+		Developement
+
+
+Review 5:
+	Job Title: Production Supervisor
+	Location: None
+	Review Date: 2024-04-04T04:36:15.440
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		You’re not unemployed. They pay.
+
+
+	Cons: 
+		They will eff you in every way they possibly can. Problems that existed before you got there will be put on the new guy. Corporate is tired of all the sexual harassment investigations. And the insurance may lose your information and take your family off because they lost documents that you sent the BCBS Michigan.
+
+
+	Summary: 
+		If you’re unemployed, sign up.
+
+
+Review 6:
+	Job Title: Maintenance Planner
+	Location: None
+	Review Date: 2024-04-04T03:58:34.593
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Easy attendance policy
+		Great Benefits
+		Solid Salaries
+
+
+	Cons: 
+		Purchasing process is abysmal.
+		Company is very top-heavy. 
+		Top down involvement is a bit heavy.
+
+
+	Summary: 
+		Everyone Seems To Actually Enjoy Working Here
+
+
+Review 7:
+	Job Title: Production Supervisor
+	Location: Grand Prairie, TX
+	Review Date: 2024-03-31T15:32:35.620
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Consistent work never worry about down time
+
+
+	Cons: 
+		People fight for wrong things and hurt the whole
+
+
+	Summary: 
+		Drama
+
+
+Review 8:
+	Job Title: Controls Engineer
+	Location: Hammond, IN
+	Review Date: 2024-04-01T17:09:36.643
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Clean work environment to work in.
+
+
+	Cons: 
+		Management from the top to the bottom changes like the wind.
+
+
+	Summary: 
+		Good place to grow
+
+
+Review 9:
+	Job Title: Financial Analyst
+	Location: Southfield, MI
+	Review Date: 2024-04-02T17:51:25.687
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Jeans, good people, good pay
+
+
+	Cons: 
+		I don't really have any con's
+
+
+	Summary: 
+		Great Company
+
+
+Review 10:
+	Job Title: Production Worker
+	Location: Detroit, MI
+	Review Date: 2024-04-02T11:03:26.017
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Weekly pay, immediate start. Clean
+
+
+	Cons: 
+		On your feet. Short breaks
+
+
+	Summary: 
+		Work
+
+
+Review 11:
+	Job Title: Assembly Line Worker
+	Location: None
+	Review Date: 2024-03-07T21:02:25.083
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		It was a great job to have
+
+
+	Cons: 
+		They jus threw me on the floor without proper training. I didn't like that but by me being a fast learner I caught on pretty quick. But the next person may not be like me, something they should consider workin on
+
+
+	Summary: 
+		Assembly liner worker
+
+
+Review 12:
+	Job Title: Director
+	Location: Southfield, MI
+	Review Date: 2024-02-23T08:10:54.630
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		In general, a committed team, dedicated to getting the job done. Large, global business, and all the opportunities that come with that.
+
+
+	Cons: 
+		Lack of top-level strategy to take the company into the future. Not really growing, fighting for decent (not great) margins. Tough industry; cost cutting always seems to be the top priority.
+
+
+	Summary: 
+		Great people all over the world.  Tough Industry, cost cutting always top priority.
+
+
+Review 13:
+	Job Title: Quality Manager
+	Location: Grand Prairie, TX
+	Review Date: 2024-03-03T17:23:04.163
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great place to work, good benefits, opportunity to advance, opportunity to give input and be heard
+
+
+	Cons: 
+		Union workers are not the best of workers, they're not held accountable and do not follow rules.
+
+
+	Summary: 
+		Rating
+
+
+Review 14:
+	Job Title: Production
+	Location: Wentzville, MO
+	Review Date: 2024-03-12T17:00:51.517
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Good money and benefits package
+
+
+	Cons: 
+		Work life balance 
+		Company could do more for employees
+
+
+	Summary: 
+		General
+
+
+Review 15:
+	Job Title: Senior Maintenance Technician
+	Location: None
+	Review Date: 2024-01-19T19:44:00.797
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Work life balance. Excellent upper management support. Great atmosphere. Awesome culture.
+
+
+	Cons: 
+		Limited areas of growth in my field. High turnover rate for hourly associates, cause long work days randomly.
+
+
+	Summary: 
+		Great company to work for.
+
+
+Review 16:
+	Job Title: Materials Specialist
+	Location: Detroit, MI
+	Review Date: 2024-03-07T16:55:15.613
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		A lot of opportunities to grow and learn
+
+
+	Cons: 
+		A super fast-paced manufacturing environment
+
+
+	Summary: 
+		Great company
+
+
+Review 17:
+	Job Title: Materials Management
+	Location: None
+	Review Date: 2024-01-29T14:41:35.283
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Decent benefits, salary, and opportunity for growth (ONLY IF you stand up for yourself and get external offers to support your case)
+
+
+	Cons: 
+		Cutthroat corporate attitude, not the best... The manufacturing plants are cool to work at but you better negotiate an hourly compensation or will work many hours for free
+
+
+	Summary: 
+		Decent people - aggressive culture
+
+
+Review 18:
+	Job Title: Production Control Analyst
+	Location: Honduras, IN
+	Review Date: 2024-03-01T08:55:48.560
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good Salary
+		Good Salary
+		OT Paid
+
+
+	Cons: 
+		No work life balance
+		Rough treatment from management
+
+
+	Summary: 
+		do not work as a Production control analyst
+
+
+Review 19:
+	Job Title: Purchasing
+	Location: None
+	Review Date: 2024-03-02T15:46:55.583
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		401k and pension savings contributions
+
+
+	Cons: 
+		Old school leadership management style
+
+
+	Summary: 
+		Ok environment
+
+
+Review 20:
+	Job Title: Material Handler
+	Location: Hammond, IN
+	Review Date: 2024-02-11T10:24:38.233
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Pay is decent for the area and the job.
+
+
+	Cons: 
+		Majority of employees don't have good work ethic. This is really holding this company back from the best it could be. Still a good place of employment.
+
+
+	Summary: 
+		Work Ethic
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

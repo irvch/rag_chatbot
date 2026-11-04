@@ -1,0 +1,599 @@
+
+CMS Energy is a Utilities: Gas and Electric company based in 49201 Jackson, Michigan. 
+The company has 8,817 employees and has a revenue of $8,596 according to Fortune 500.
+The company is valued at $17,902 and has a profit of $837. The CEO of the company is Garrick J. Rochow.
+
+The Company has the following ratings: 
+Average ratings for CMS Energy:
+Business Outlook: 0.65
+
+Career Opportunities: 3.4
+Distribution: 
+	1: 2 
+	2: 2 
+	3: 7 
+	4: 3 
+	5: 4 
+
+CEO: 0.81
+
+Compensation and Benefits: 4.1
+Distribution: 
+	1: 1 
+	2: 0 
+	3: 6 
+	4: 3 
+	5: 7 
+
+Culture and Values: 4
+Distribution: 
+	1: 1 
+	2: 1 
+	3: 1 
+	4: 8 
+	5: 4 
+
+Diversity and Inclusion: 4.3
+Distribution: 
+	1: 0 
+	2: 0 
+	3: 3 
+	4: 1 
+	5: 6 
+
+Overall: 3.7
+Distribution: 
+	1: 2 
+	2: 2 
+	3: 5 
+	4: 6 
+	5: 5 
+
+Senior Management: 3.3
+Distribution: 
+	1: 4 
+	2: 1 
+	3: 6 
+	4: 4 
+	5: 3 
+
+Work Life Balance: 4.2
+Distribution: 
+	1: 1 
+	2: 3 
+	3: 0 
+	4: 5 
+	5: 8 
+
+Review Count: 20
+
+Recommend to Friend: 
+	RECOMMEND: 12
+	WONT RECOMMEND: 6
+
+
+
+
+The company has 22 reviews on Glassdoor. The last review was posted on 2023-06-19T18:33:30.887. 
+There are 19 Reviews for CMS Energy:
+
+Review 1:
+	Job Title: Executive Director of FP&A
+	Location: None
+	Review Date: 2023-06-01T11:24:39.860
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Stable &amp; highly regulated industry; C-suite that is wise and shows caring.
+
+
+	Cons: 
+		Negative perception of utilities; vulnerable to the whims of a State Legislature that may not be informed on energy policy.
+
+
+	Summary: 
+		Excellent place to work
+
+
+Review 2:
+	Job Title: Operations Manager
+	Location: Jackson, MI
+	Review Date: 2023-06-19T18:33:30.887
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Clean energy, good team atmosphere
+
+
+	Cons: 
+		lack of communication, transparency, etc
+
+
+	Summary: 
+		Ok
+
+
+Review 3:
+	Job Title: Power Plant Operator
+	Location: Dearborn, MI
+	Review Date: 2023-05-23T17:50:46.097
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		not bad, pay could be more
+
+
+	Cons: 
+		not great, not the worst job
+
+
+	Summary: 
+		ok
+
+
+Review 4:
+	Job Title: Principal Financial Analyst
+	Location: Jackson, MI
+	Review Date: 2022-12-06T08:04:17.790
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		reasonable hours and nice people
+
+
+	Cons: 
+		Slow work pace, and rigid hierarchy
+
+
+	Summary: 
+		Good pay but stodgy company
+
+
+Review 5:
+	Job Title: Manager
+	Location: Jackson, MI
+	Review Date: 2022-08-04T13:29:37.200
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great DEI focus, they really care about their employees wellbeing. They take safety very seriously.
+
+
+	Cons: 
+		Not a lot of accountability for getting the work done. It matters more to them that everyone is happy than that problems are solved and productivity is high.
+
+
+	Summary: 
+		Good solid company
+
+
+Review 6:
+	Job Title: Operator
+	Location: None
+	Review Date: 2022-07-10T06:16:14.693
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Great pay and amazing benefits
+
+
+	Cons: 
+		Understaffed, high turnover. No plan to rectify
+
+
+	Summary: 
+		Decent but overwoked
+
+
+Review 7:
+	Job Title: Senior Analyst Ll
+	Location: Kalamazoo, MI
+	Review Date: 2022-02-07T16:20:46.743
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		- care for employees, internal advancement, continuing education, DEI, wonderful benefits, lots of communication with management
+
+
+	Cons: 
+		You do work hard, goals and performance reviews quarterly so you have to stay focused &amp; on track. If you struggle wuth that, this will be difficult. If you are ambitious, this helps drive you.
+
+
+	Summary: 
+		Best company
+
+
+Review 8:
+	Job Title: Assistant Treasurer
+	Location: Jackson, MI
+	Review Date: 2022-02-01T19:21:48.023
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Nationally recognized and lauded employer
+
+
+	Cons: 
+		Experience varies greatly from team to team and by manager
+
+
+	Summary: 
+		Mileage Varies
+
+
+Review 9:
+	Job Title: EHS Coordinator
+	Location: Dearborn, MI
+	Review Date: 2021-09-03T06:04:13.367
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		800 mw
+		good bonus
+		good people
+		they hire with in if possible
+
+
+	Cons: 
+		not union 
+		pay a little low for operators
+
+
+	Summary: 
+		great place
+
+
+Review 10:
+	Job Title: Professional
+	Location: Jackson, MI
+	Review Date: 2019-08-12T12:47:12.867
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 0
+
+	Pros: 
+		Lots of nice associates but also some nasty unprofessional males who practice diversity discrimination and get away with it with HR turning a blind eye to this key internal problem.
+
+
+	Cons: 
+		Amazing how seveal associates within your dept., as well as from other area depts., provide positive  feedback that you are doing great but your (male) leader provides you the opposite; very  negative feedback because "he" has issues (personal and professional)  with diversities who are more savvy then "he" is.  There is a steady turnover of great people here and the need to clean house and re-evaluate ALL leadership, especially males, is urgently needed to stop the boys club harassment against any and all diversities in every dept.
+
+
+	Summary: 
+		Don't Waste Time Here....Diversity Discrimination IS alive here.....
+
+
+Review 11:
+	Job Title: Janitorial/General Laborer
+	Location: Ashley, IN
+	Review Date: 2016-02-09T10:37:34.557
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		More like a family atmosphere. Caring people work for the company. The pay was reasonable. They had all the proper safety equipment and apparlle.
+
+
+	Cons: 
+		They would be late to pick you up. Consistently they would have you at the wrong work site. Or forget you at a work site. Consistently the work hour's would be different than the pay hour's.
+
+
+	Summary: 
+		Janitorial
+
+
+Review 12:
+	Job Title: Tech
+	Location: West Olive, MI
+	Review Date: 2008-09-07T06:53:34.493
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2.5
+
+	Pros: 
+		An average wage payer for the michigan area
+
+
+	Cons: 
+		no money to run the company, poor corp management
+
+
+	Summary: 
+		Consumers Energy used to be a good place to work
+
+
+Review 13:
+	Job Title: Director
+	Location: Jackson, MI
+	Review Date: 2015-07-05T06:15:18.677
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Great work environment, good work life balance.
+
+
+	Cons: 
+		Not much differentiation based on performance
+
+
+	Summary: 
+		Good work life balance
+
+
+Review 14:
+	Job Title: None
+	Location: Ypsilanti, MI
+	Review Date: 2015-09-17T09:46:39.563
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Supportive environment and relative job security
+
+
+	Cons: 
+		not for ambitious ladder climbers
+
+
+	Summary: 
+		Consumer's Nice Environment
+
+
+Review 15:
+	Job Title: Construction Manager
+	Location: Detroit, MI
+	Review Date: 2021-02-13T17:57:58.757
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great people work well together
+
+
+	Cons: 
+		Long hours can happen for storms
+
+
+	Summary: 
+		Nice place
+
+
+Review 16:
+	Job Title: Intern
+	Location: Jackson, MI
+	Review Date: 2013-11-27T13:47:50.177
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		slow paced, not very innovative
+
+
+	Cons: 
+		family relationships - need to move faster
+
+
+	Summary: 
+		Intern
+
+
+Review 17:
+	Job Title: None
+	Location: None
+	Review Date: 2016-05-04T20:45:40.887
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Excellent managers create a very relaxed, fun environment to work in.  They are very accommodating and flexible with schedules.  They always provide plenty of opportunities to move up when there are openings within the company as well.
+
+
+	Cons: 
+		There are not many cons to be that I can express. Working at the company through my college career was almost perfect.  A downside would be the occasional downtime where you need to find something to do.
+
+
+	Summary: 
+		Lending
+
+
+Review 18:
+	Job Title: Business Relationship Manager
+	Location: None
+	Review Date: 2012-05-15T05:53:28.650
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good working conditions.  Good work life balance.
+
+
+	Cons: 
+		A lot of change in IT (too fast)
+
+
+	Summary: 
+		Good place to work
+
+
+Review 19:
+	Job Title: Sales Executive
+	Location: Berlin
+	Review Date: 2021-07-04T06:57:33.283
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good Working Enviroment Friendly Staff
+
+
+	Cons: 
+		Could be a little more focused on skill building
+
+
+	Summary: 
+		Great Company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

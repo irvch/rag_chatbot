@@ -1,0 +1,622 @@
+
+Plains GP Holdings is a Pipelines company based in 77002 Houston, Texas. 
+The company has 4,100 employees and has a revenue of $57,342 according to Fortune 500.
+The company is valued at $2,551 and has a profit of $168. The CEO of the company is Willie Chiang.
+
+The Company has the following ratings: 
+Average ratings for Plains GP Holdings:
+Business Outlook: 0.64
+
+Career Opportunities: 3.3
+Distribution: 
+	1: 30 
+	2: 49 
+	3: 53 
+	4: 55 
+	5: 45 
+
+CEO: 0.68
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 15 
+	2: 20 
+	3: 53 
+	4: 72 
+	5: 73 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 30 
+	2: 25 
+	3: 40 
+	4: 47 
+	5: 79 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 14 
+	2: 11 
+	3: 23 
+	4: 25 
+	5: 28 
+
+Overall: 3.9
+Distribution: 
+	1: 19 
+	2: 30 
+	3: 59 
+	4: 73 
+	5: 91 
+
+Senior Management: 3.2
+Distribution: 
+	1: 44 
+	2: 30 
+	3: 44 
+	4: 45 
+	5: 68 
+
+Work Life Balance: 4
+Distribution: 
+	1: 23 
+	2: 21 
+	3: 45 
+	4: 63 
+	5: 81 
+
+Review Count: 272
+
+Recommend to Friend: 
+	RECOMMEND: 139
+	WONT RECOMMEND: 61
+
+
+
+
+The company has 312 reviews on Glassdoor. The last review was posted on 2024-04-16T19:28:31.387. 
+There are 20 Reviews for Plains GP Holdings:
+
+Review 1:
+	Job Title: Pipeline Scheduler
+	Location: Houston, TX
+	Review Date: 2024-03-12T15:16:09.157
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		They value work life balance and also it's a great atmosphere to work at (at least in my dept). Co-workers are also great and the company seems to care for its employees.
+
+
+	Cons: 
+		Probably pay. All I can think of.
+
+
+	Summary: 
+		Great Place To Work At
+
+
+Review 2:
+	Job Title: Pipeline Operator
+	Location: Wink, TX
+	Review Date: 2024-04-16T19:28:31.387
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		You will get experience in measurement and operations
+
+
+	Cons: 
+		Constant restructuring in management and supervisors
+
+
+	Summary: 
+		Great company 
+
+
+Review 3:
+	Job Title: Accountant II
+	Location: Houston, TX
+	Review Date: 2024-03-21T18:39:18.597
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		With ups and down oil and gas, they hardly do lay offs.
+
+
+	Cons: 
+		If you want to grow you need to know the right people. It will take you a long time to move up.
+
+
+	Summary: 
+		Slow growth - to none at all
+
+
+Review 4:
+	Job Title: Corrosion Control Technician
+	Location: None
+	Review Date: 2024-03-14T06:52:31.583
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Great people to work with at your level.
+
+
+	Cons: 
+		Management and above have no idea how to do their jobs. Company let go of several people with knowledge and now are seeing those results costing them millions to repair and maintain. Those in charge have been shuffled around but still they’re influencing some decisions. This lack of knowledge and know how will be the downfall of them eventually.
+
+
+	Summary: 
+		Poorly managed company 
+
+
+Review 5:
+	Job Title: Talent Acquisition Specialist
+	Location: Houston, TX
+	Review Date: 2024-03-11T08:41:34.187
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		The Pros is this company has tuition reimbursement and continuation of training for your particular role. The job is hybrid and you can pick your shift as long as it equals to 9 hours a day.
+
+
+	Cons: 
+		Too many meetings that take up your entire day and then you have management wondering why your work was not completed.
+
+
+	Summary: 
+		Great place overall
+
+
+Review 6:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-05T22:53:05.913
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Some of the people are amazing
+
+
+	Cons: 
+		A lot of the higher management are out of touch with the employees and only seem to reward Directors and above - not the normal working individual.
+
+
+	Summary: 
+		It's an okay company
+
+
+Review 7:
+	Job Title: HSE Specialist
+	Location: Houston, TX
+	Review Date: 2024-03-19T08:19:18.260
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Great company to work at and supportive coworkers.
+
+
+	Cons: 
+		Unfortunately restructures are slashing budgets and cutting staff unexpectedly, making it an unstable work atmosphere.
+
+
+	Summary: 
+		Restructures
+
+
+Review 8:
+	Job Title: Integrity Engineer
+	Location: Houston, TX
+	Review Date: 2024-01-30T11:09:46.620
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Hybrid schedule and half days on Friday
+
+
+	Cons: 
+		Most of management couldn’t manage a project, much less other people. A combination of both shortsighted decision making and insecurity issues. Instead of confronting issues when they pop up, most managers will burry them under a mountain of paperwork and bully anyone who questions their judgment into silence. Absolutely, no interest in listening to their team’s feedback or opinions. The result is a huge drag on productivity and lack of standardization/efficiency in procedures. You’ll spend more time doing dumb easily automated busywork tasks than actual work and get punished if you point out that there’s a better way to do it. This company is a harassment lawsuit waiting to happen.
+
+
+	Summary: 
+		Hard Pass
+
+
+Review 9:
+	Job Title: IT/IS Manager
+	Location: Houston, TX
+	Review Date: 2023-11-18T09:51:37.813
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Great people, good pay. Great benefits. Flexible work location.
+
+
+	Cons: 
+		The company used to be a great place to work, but a few years back they decided to converge the IS organization, and it has been in chaos since. The new leadership does not stay with a strategy and does not care for people. Minimal viable product and large amounts of technical debt.
+
+
+	Summary: 
+		Going downhill
+
+
+Review 10:
+	Job Title: Controller
+	Location: Midland, TX
+	Review Date: 2024-02-01T12:28:05.137
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Pay is really good and plenty of benefits
+
+
+	Cons: 
+		Shift work is tough getting use to
+
+
+	Summary: 
+		Good life
+
+
+Review 11:
+	Job Title: Dispatch
+	Location: Houston, TX
+	Review Date: 2023-12-19T21:14:12.363
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Benifets, most of the opportunities come from corporate. And even then it’s a like a cult
+
+
+	Cons: 
+		They treat workers in the field not the best. Such as drivers dispatchers and fleet. I worked both ends and it’s clear
+
+
+	Summary: 
+		Great company, however when they want you gone no matter your performance they’ll find a way to get rid of you 
+
+
+Review 12:
+	Job Title: Accountant I
+	Location: None
+	Review Date: 2024-01-23T07:23:57.587
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Excellent leadership, strong values, family oriented
+
+
+	Cons: 
+		No cons at the moment
+
+
+	Summary: 
+		Accommodating
+
+
+Review 13:
+	Job Title: Controller
+	Location: Midland, TX
+	Review Date: 2023-12-12T13:30:17.993
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Schedule is very good for time off
+
+
+	Cons: 
+		Long shift isn’t easy during nights
+
+
+	Summary: 
+		Great job
+
+
+Review 14:
+	Job Title: Intern
+	Location: Midland, TX
+	Review Date: 2023-12-18T13:55:22.093
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great company to work for
+
+
+	Cons: 
+		No cons to speak of.
+
+
+	Summary: 
+		Great company
+
+
+Review 15:
+	Job Title: Labourer/Pipeliner
+	Location: Carlsbad, NM
+	Review Date: 2023-10-30T11:27:35.113
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		It’s all about how you play the game and situate yourself
+
+
+	Cons: 
+		Don’t sneak by or give a reason for people to talk because that’s all they do out there
+
+
+	Summary: 
+		Good experience
+
+
+Review 16:
+	Job Title: Engineering
+	Location: Houston, TX
+	Review Date: 2023-11-12T04:30:29.583
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great leadership to work with
+
+
+	Cons: 
+		None that I can think of
+
+
+	Summary: 
+		Great company
+
+
+Review 17:
+	Job Title: Pipeline Controller
+	Location: Midland, TX
+	Review Date: 2023-10-13T20:59:34.303
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Schedule sucked sometimes but all in all, it was a great job with great pay and I enjoyed it
+
+
+	Cons: 
+		Schedule was a little nuts if we were short handed
+
+
+	Summary: 
+		Loved my job
+
+
+Review 18:
+	Job Title: Administrative Assistant
+	Location: None
+	Review Date: 2023-10-10T17:51:16.250
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Learned a lot of skills
+
+
+	Cons: 
+		Unable to advance to higher position
+
+
+	Summary: 
+		Job
+
+
+Review 19:
+	Job Title: Analyst
+	Location: Houston, TX
+	Review Date: 2023-08-21T09:54:16.760
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		The leadership is very open about the Company plans and growth.
+
+
+	Cons: 
+		The industry salary and the company salary is on the lower end.
+
+
+	Summary: 
+		Great Company
+
+
+Review 20:
+	Job Title: Financial Accountant II
+	Location: Houston, TX
+	Review Date: 2023-08-30T10:51:17.147
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		it is a great place to work.
+
+
+	Cons: 
+		Low camaraderie amongst employees in the office.
+
+
+	Summary: 
+		Review
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

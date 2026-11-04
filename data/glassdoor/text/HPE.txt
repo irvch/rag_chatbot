@@ -1,0 +1,636 @@
+
+Hewlett Packard Enterprise is a Computers, Office Equipment company based in 77389 Spring, Texas. 
+The company has 60,200 employees and has a revenue of $28,496 according to Fortune 500.
+The company is valued at $20,643 and has a profit of $868. The CEO of the company is Antonio F. Neri.
+
+The Company has the following ratings: 
+Average ratings for Hewlett Packard Enterprise:
+Business Outlook: 0.72
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 536 
+	2: 885 
+	3: 2118 
+	4: 2524 
+	5: 2010 
+
+CEO: 0.9
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 402 
+	2: 908 
+	3: 2409 
+	4: 2635 
+	5: 1672 
+
+Culture and Values: 4.3
+Distribution: 
+	1: 405 
+	2: 514 
+	3: 1221 
+	4: 2249 
+	5: 3617 
+
+Diversity and Inclusion: 4.3
+Distribution: 
+	1: 162 
+	2: 178 
+	3: 648 
+	4: 1376 
+	5: 2669 
+
+Overall: 4.1
+Distribution: 
+	1: 342 
+	2: 553 
+	3: 1959 
+	4: 3770 
+	5: 3343 
+
+Senior Management: 3.7
+Distribution: 
+	1: 786 
+	2: 939 
+	3: 1930 
+	4: 2310 
+	5: 1887 
+
+Work Life Balance: 4.2
+Distribution: 
+	1: 322 
+	2: 471 
+	3: 1340 
+	4: 2335 
+	5: 3543 
+
+Review Count: 16689
+
+Recommend to Friend: 
+	RECOMMEND: 5495
+	WONT RECOMMEND: 1494
+
+
+
+
+The company has 18304 reviews on Glassdoor. The last review was posted on 2024-04-18T02:59:34.263. 
+There are 20 Reviews for Hewlett Packard Enterprise:
+
+Review 1:
+	Job Title: Cloud Developer
+	Location: Sunnyvale, CA
+	Review Date: 2024-04-17T10:43:07.240
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Very great work culture and good life work balance.
+
+
+	Cons: 
+		Competitive pay compared to tech giants around
+
+
+	Summary: 
+		Good Company to work
+
+
+Review 2:
+	Job Title: Technical Consultant
+	Location: None
+	Review Date: 2024-04-16T11:58:37.983
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Learn or Burn is what I like to call it, anything that is not supported remotely is typically very complex. Green Lake for File and Object Store, DHCI, partnerships, and Synergy/OneView.
+
+
+	Cons: 
+		19 years, due for promotion for over 4 years, put in for it year after year to the point I should now be at the next level. Excuses are lame, The workload and needs of the business need me at the Master Level and above now, as we have too many Master Level Tech's retiring. Travel 75% or more, no work like balance. AI will solve all, I think not....
+
+
+	Summary: 
+		Slow Promotions, Too many Lay-Offs, Now Work Like Balance
+
+
+Review 3:
+	Job Title: Sales Representative
+	Location: Houston, TX
+	Review Date: 2024-03-14T11:22:39.883
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Great people to work with, good benefits, growth if you work for it, direct management is amazing
+
+
+	Cons: 
+		This company is a sinking ship. Executive leadership has been tanking the sales organization over the last couple of years with restructuring and WFR's every quarter. You may think you are employed, but in reality you are a month to month contractor. Performance isn't even taken into account for WFR's. You can be a top performer and get canned the next day. It's a shame because they are letting go of great talent. Internal processes are also a disaster and no one seems to know what is going on. If you're a woman prepare to be paid less than your male counterparts, and if you fall victim to any kind of harassments, you will most definitely not be taken care of.
+
+
+	Summary: 
+		Leave while you can
+
+
+Review 4:
+	Job Title: Software Engineer
+	Location: None
+	Review Date: 2024-02-05T08:00:12.953
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Worklife balance is great, paid holidays, and overall benefits package is good. Culture and people is good.
+
+
+	Cons: 
+		The company preaches that you are paid according to the market but in reality only your salary curve may be similar to the market. Your actual base salary is usually 30% below market. Salary increases and performance bonuses are poor regardless of how well you perform or even how well the company performs. Promotions? If you really like what you do and are trying to get a promotion within the same role, forget about it. Not going to happen. Only way to land a promotion is moving internally to a different role but then, HR is able to see your current salary and will cap your salary increase to keep you really low within your new salary curve. Last but not least, every 12-18month the company goes through re-orgs that usually focus on cost saving and translates to work force reductions.
+
+
+	Summary: 
+		Good worklife. Poor base salary, performance bonus, and promotion opportunities
+
+
+Review 5:
+	Job Title: Administrative
+	Location: Houston, TX
+	Review Date: 2024-04-17T06:58:17.180
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great pay and benefits, lots of over time available
+
+
+	Cons: 
+		If you don’t like working overtime, it’s def not the place for you.
+
+
+	Summary: 
+		Great job
+
+
+Review 6:
+	Job Title: Enterprise Architect
+	Location: Houston, TX
+	Review Date: 2024-04-15T20:50:26.237
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Diverse workforce. 
+		Good working environment
+
+
+	Cons: 
+		Very independent thinking business areas makes it difficult to standardize
+
+
+	Summary: 
+		Decent company to work for
+
+
+Review 7:
+	Job Title: Director, Business Development
+	Location: Tampa, FL
+	Review Date: 2023-12-26T08:31:31.657
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Perks, culture, etc. is some of the best in the industry
+
+
+	Cons: 
+		Every 12-18 months, the company undergoes a "reorganization" aimed at redirecting priorities and reducing costs. While skills and performance are cited, these reorgs disproportionately target higher-paid, veteran employees. The real intent is to cut costs not really care about their veteran employees.
+		
+		I was with the company for 25 years before being released due to a recent reorg. My department lost funding and could not maintain my salary - one of the highest due to my tenure. No other departments could take on my compensation either.
+		
+		This pattern indicates a strategy of replacing experienced, skilled employees with entry-level hires purely to cut costs. While legal, it systematically pushes out veteran expertise. Employees should be aware that loyalty and performance may not protect against being cut solely due to higher salaries.
+		
+		The company could be more transparent about the financial motivations behind these reorgs. And it risks losing critical institutional knowledge and skills. While some cost-cutting may be necessary, there are likely better ways to achieve savings while valuing and retaining essential experience.
+
+
+	Summary: 
+		Good company if your college age or connected, not 30+
+
+
+Review 8:
+	Job Title: Manager
+	Location: None
+	Review Date: 2024-04-15T12:46:34.343
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Some of the smartest people I have met
+
+
+	Cons: 
+		Room for more transparency and communication
+
+
+	Summary: 
+		Good place to work
+
+
+Review 9:
+	Job Title: Senior Manager
+	Location: Colorado Springs, CO
+	Review Date: 2024-04-15T05:41:40.607
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Flexible, Growth Oriented, Great Working Environment
+
+
+	Cons: 
+		Limited Leadership Support, Lesser Opportunities
+
+
+	Summary: 
+		Best Employer
+
+
+Review 10:
+	Job Title: Partner Business Manager
+	Location: Portland, OR
+	Review Date: 2024-04-09T13:28:15.393
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good people, culture and pay is decent.
+
+
+	Cons: 
+		Commission structure needs work. Some work will need to be done to ensure commission is accurate.
+
+
+	Summary: 
+		HPE is a good company to work with
+
+
+Review 11:
+	Job Title: EAM
+	Location: Washington, DC
+	Review Date: 2024-03-26T12:26:44.483
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		- great work life balance. 
+		- Great benefits. 
+		- low pressure management
+
+
+	Cons: 
+		- Company is dying and has done a poor job adapting with the market
+		- Laying off a lot of people and putting more work on others rather than hiring more. 
+		- Operational processes and product support drive customers away
+		- Company culture has gotten very laid back. Lack of urgency to has made it stressful to get things done.
+
+
+	Summary: 
+		Company dying and putting pressure on employees
+
+
+Review 12:
+	Job Title: Digital Sales Representative
+	Location: Spring, TX
+	Review Date: 2024-04-10T11:48:46.517
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		- Pay, people, and good career projectory.
+
+
+	Cons: 
+		- Manager can make or break your job, favoritism, and 5 days a week in office with no exceptions.
+
+
+	Summary: 
+		Good Job 
+
+
+Review 13:
+	Job Title: AI and Machine Learning Engineer
+	Location: None
+	Review Date: 2024-04-11T08:45:33.210
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Good compensation and better work life balance
+
+
+	Cons: 
+		Very small chance to learn new technologies or grow
+
+
+	Summary: 
+		Okay company for work with and good comp
+
+
+Review 14:
+	Job Title: Partner Business Manager
+	Location: Boston, MA
+	Review Date: 2024-03-30T09:24:27.153
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Job is not difficult because I only have to cover one partner
+
+
+	Cons: 
+		Job seems to be dwindling away to nothing due to lack of vision and strategy of new channels first line management.
+
+
+	Summary: 
+		Channel organization is a skeleton crew
+
+
+Review 15:
+	Job Title: Strategy Analyst
+	Location: Spring, TX
+	Review Date: 2024-04-01T14:52:54.293
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Work-life balance is top tier. Also allows for remote/hybrid work on a very flexible basis. The culture is great.
+
+
+	Cons: 
+		Some of the work is duplicated across WW teams and silo teams making it difficult to know who owns what and is responsible for what.
+
+
+	Summary: 
+		I love it here
+
+
+Review 16:
+	Job Title: IT Software Developer
+	Location: None
+	Review Date: 2024-04-05T22:27:25.493
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Very flexible work schedule, as long as the work gets done on time I can do it at any time.
+
+
+	Cons: 
+		IT does not get paid as much as the product teams.
+
+
+	Summary: 
+		Great company
+
+
+Review 17:
+	Job Title: Client Relationship Manager
+	Location: Cupertino, CA
+	Review Date: 2024-04-08T18:17:02.047
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		People genuinely care about products and their customers.
+
+
+	Cons: 
+		Like many large enterprise companies, it is slow moving.
+
+
+	Summary: 
+		Solid Company with good colleagues
+
+
+Review 18:
+	Job Title: Technical Solution Consultant
+	Location: Alpharetta, GA
+	Review Date: 2024-04-11T12:35:01.693
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		good schedules
+		teamwork
+		good people
+
+
+	Cons: 
+		I was a victim of covid layoff
+
+
+	Summary: 
+		Work life balance
+
+
+Review 19:
+	Job Title: Business Development Manager
+	Location: Atlanta, GA
+	Review Date: 2024-03-26T07:47:27.503
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good culture in the company as a whole. Fair and good opportunity for growth within.
+
+
+	Cons: 
+		Business units still operating in silos and layoffs have resulted in loss of seasoned talent to help fix back end issues.
+
+
+	Summary: 
+		Good culture
+
+
+Review 20:
+	Job Title: Sales Executive
+	Location: Philadelphia, PA
+	Review Date: 2024-03-13T10:10:49.857
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		The pros of workigng at HPE are the benefits (6 months paid maternity leave)
+
+
+	Cons: 
+		The cons they don't always promote the right people into management, or give them proper people training. They also do not prioritize promoting and paying fairly. I knew many people including myself that got promoted and were told they didnt have "budget for the promotion but should take it as it would look good on the resume and that they would work on a pay bump next year"
+
+
+	Summary: 
+		Account Executive
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

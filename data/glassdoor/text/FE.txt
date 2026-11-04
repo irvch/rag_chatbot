@@ -1,0 +1,635 @@
+
+FirstEnergy is a Utilities: Gas and Electric company based in 44308 Akron, Ohio. 
+The company has 12,335 employees and has a revenue of $12,053 according to Fortune 500.
+The company is valued at $22,924 and has a profit of $406. The CEO of the company is Brian X. Tierney.
+
+The Company has the following ratings: 
+Average ratings for FirstEnergy:
+Business Outlook: 0.54
+
+Career Opportunities: 3.5
+Distribution: 
+	1: 44 
+	2: 77 
+	3: 112 
+	4: 91 
+	5: 86 
+
+CEO: 0.64
+
+Compensation and Benefits: 3.8
+Distribution: 
+	1: 20 
+	2: 47 
+	3: 93 
+	4: 146 
+	5: 103 
+
+Culture and Values: 3.3
+Distribution: 
+	1: 67 
+	2: 60 
+	3: 84 
+	4: 80 
+	5: 79 
+
+Diversity and Inclusion: 3.3
+Distribution: 
+	1: 25 
+	2: 14 
+	3: 34 
+	4: 32 
+	5: 51 
+
+Overall: 3.5
+Distribution: 
+	1: 42 
+	2: 78 
+	3: 121 
+	4: 143 
+	5: 104 
+
+Senior Management: 3.1
+Distribution: 
+	1: 99 
+	2: 69 
+	3: 97 
+	4: 92 
+	5: 51 
+
+Work Life Balance: 3.4
+Distribution: 
+	1: 71 
+	2: 57 
+	3: 102 
+	4: 98 
+	5: 82 
+
+Review Count: 488
+
+Recommend to Friend: 
+	RECOMMEND: 216
+	WONT RECOMMEND: 143
+
+
+
+
+The company has 569 reviews on Glassdoor. The last review was posted on 2024-04-16T11:05:09.470. 
+There are 20 Reviews for FirstEnergy:
+
+Review 1:
+	Job Title: Engineer II
+	Location: Akron, OH
+	Review Date: 2024-02-14T15:07:25.857
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Work life balance
+		Flexible work schedule
+
+
+	Cons: 
+		Low pay
+		Lack of transparency
+
+
+	Summary: 
+		Great company 
+
+
+Review 2:
+	Job Title: Engineer
+	Location: Greensburg, PA
+	Review Date: 2024-03-02T08:09:01.130
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Your peers can be great and the pay is good as well with great benefits but you still need to pay a little for dental and vision. Good opportunities to jump around departments. Most departments are fully remote with some being hybrid. Plenty of opportunities to learn more and focus on getting your FE and PE license.
+
+
+	Cons: 
+		Upper Management is disconnected from its employees. FE cares more about maximizing profits for the share holders by over working its employees and is focused on saying the right things but never doing them. They say they're working hard to hire more but no new employees have come in other than from the rotational program which consists from engineers with less than 2 years experience. Theres corporate rules for pay and salary increases that favor the company and not the employee (for example a market rate increase doesn't increase your salary). With problems from House Bill 6 the employees have been paying the price and the company has focused on saying what people want to hear but not delivering on it.
+
+
+	Summary: 
+		Is it good to work at FE?
+
+
+Review 3:
+	Job Title: Intern
+	Location: Erie, PA
+	Review Date: 2024-04-16T11:05:09.470
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good work environment for online work.
+
+
+	Cons: 
+		A lot of driving and traveling is necessary.
+
+
+	Summary: 
+		Good Company.
+
+
+Review 4:
+	Job Title: Software Engineer 2
+	Location: Akron, OH
+	Review Date: 2024-04-05T15:36:32.697
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Stable company with an excellent intern program. If you're looking for a high-paying remote internship, apply to the IT department for FirstEnergy
+
+
+	Cons: 
+		Hard to work your way up at FE like any large corporate company. It's better off as a stepping stone to other companies
+
+
+	Summary: 
+		Good for Internships and Entry Jobs
+
+
+Review 5:
+	Job Title: Building Mechanic
+	Location: Akron, OH
+	Review Date: 2023-11-27T11:30:43.817
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Decent pay, mostly friendly employees. 
+		Since covid-19 99% of the work force works from home so the building is pretty quiet.
+		There is always something to fix in one of the fifteen buildings we service.
+		Little to no micromanaging when things are going well.
+
+
+	Cons: 
+		Ok place to work but little to no room for advancement. 
+		Growing with the company may not be in you favor unless you have family in upper management.
+		Company preaches diversity, equity &amp; inclusion but I have seen little DEI from 2020-2023.
+		Lots of micromanaging when issues arise on the executive floors.
+		Not 100% sure what's going to happen once the company closes the general office.
+
+
+	Summary: 
+		Ok place to work
+
+
+Review 6:
+	Job Title: Customer Service Representative
+	Location: Reading, PA
+	Review Date: 2024-04-06T00:00:46.463
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Work from home option only pro
+
+
+	Cons: 
+		Management doesn't explain things. Expect you to not question anything.
+
+
+	Summary: 
+		Really messed up
+
+
+Review 7:
+	Job Title: Designer II
+	Location: Pittsburgh, PA
+	Review Date: 2024-03-20T18:07:06.947
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay and benefits with ample PTO and overtime availability
+
+
+	Cons: 
+		Understaffed and not a very good atmosphere, especially after recent mass retirements and firings.
+
+
+	Summary: 
+		Meh
+
+
+Review 8:
+	Job Title: Electrical Engineer II
+	Location: Akron, OH
+	Review Date: 2024-03-14T20:06:21.007
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Good supervisor 
+		Work from home
+
+
+	Cons: 
+		Either very busy or not very busy
+
+
+	Summary: 
+		Engineering reviews
+
+
+Review 9:
+	Job Title: Customer Service Representative
+	Location: Fairmont, WV
+	Review Date: 2024-03-02T06:27:14.967
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great pay, loads of over time, great benefits
+
+
+	Cons: 
+		Can be long days, customers can be difficult, lots to learn
+
+
+	Summary: 
+		Good job, tons of over time, customers can be difficult
+
+
+Review 10:
+	Job Title: External Affairs
+	Location: None
+	Review Date: 2024-02-25T20:32:43.290
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Most employees treat others almost like family.
+
+
+	Cons: 
+		So much remote work makes it hard to get to know new people.
+
+
+	Summary: 
+		Secure employer
+
+
+Review 11:
+	Job Title: Human Resources
+	Location: Akron, OH
+	Review Date: 2024-03-05T17:50:44.360
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		there are a number of departments to move around to within the company.
+
+
+	Cons: 
+		Low pay, very hard to advance in this company. The company does not abide or actually follow their values and mission. They overwork their employees.
+
+
+	Summary: 
+		FirstEnergy experience
+
+
+Review 12:
+	Job Title: Customer Account Specialist
+	Location: Akron, OH
+	Review Date: 2024-02-29T11:39:50.427
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		401k match
+		PTO
+		Job Security
+
+
+	Cons: 
+		Mandatory OT 
+		HR policies and procedures
+
+
+	Summary: 
+		Good Company
+
+
+Review 13:
+	Job Title: Designer
+	Location: None
+	Review Date: 2024-02-20T13:53:17.227
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Lots of opportunity to grow.
+
+
+	Cons: 
+		Everyone is too busy to train new employees. You kinda just learn as you go.
+
+
+	Summary: 
+		Lots of opportunities
+
+
+Review 14:
+	Job Title: Engineer II
+	Location: Akron, OH
+	Review Date: 2024-02-09T12:01:24.137
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The best environment to start a careet
+
+
+	Cons: 
+		I don’t think it has any cons
+
+
+	Summary: 
+		Great workplace
+
+
+Review 15:
+	Job Title: Customer Service Representative
+	Location: None
+	Review Date: 2024-01-14T07:52:07.810
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Everything was a pro to me 
+
+
+	Cons: 
+		The only con would be when major storms happen your required to work over your norm 8 hour shift  but you're paid very well for it.
+
+
+	Summary: 
+		I loved this job . I would go back if I could.
+
+
+Review 16:
+	Job Title: Designer
+	Location: None
+	Review Date: 2024-02-16T19:18:00.433
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Decent culture. Good outlook maybe.
+
+
+	Cons: 
+		Pay is annually adjusted, pretty low for the responsibilities.
+
+
+	Summary: 
+		Needs Improvement
+
+
+Review 17:
+	Job Title: Supervisor
+	Location: Cleveland, OH
+	Review Date: 2024-02-05T09:48:20.747
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good benefits, competitive market wages
+
+
+	Cons: 
+		Nepotism, lack of clear direction
+
+
+	Summary: 
+		Company Review
+
+
+Review 18:
+	Job Title: HR Technology Manager
+	Location: None
+	Review Date: 2024-01-31T17:06:47.550
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		The people you work with are great.
+
+
+	Cons: 
+		Very long hours and limited staff
+
+
+	Summary: 
+		Review
+
+
+Review 19:
+	Job Title: Front Line Supervisor
+	Location: None
+	Review Date: 2023-07-24T04:12:05.793
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good pay and family benefits
+
+
+	Cons: 
+		Either you drank the cool aid were one of them or if you didn't you would have a target. They preached safety but had a get it done however attitude when no one was around. Then there was the cooking of the books. One breath they tell you to push timesheets to capital by ficticiously adding a capital item to material list. Did that for years under upper management direction. Have some saved emails from upper management that fired them off without thinking. I could go on but bottom line terrible place to work, no work life balance, untrustworthy upper management. Oh and did I mention the fake safety records. Unreported injured employees, damaged to company vehicles that I was told to sweep under the rug. A real class act... Not
+
+
+	Summary: 
+		High hopes for a long career but turned out to be worst place I have worked
+
+
+Review 20:
+	Job Title: Valet Parking
+	Location: None
+	Review Date: 2023-12-25T14:11:29.883
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Benefits are good.   They seem to lower regularly
+
+
+	Cons: 
+		Pay is good, but a little low. 
+
+
+	Summary: 
+		FE is pretty good
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,629 @@
+
+Arconic is a Metals company based in 15212 Pittsburgh, Pennsylvania. 
+The company has 11,550 employees and has a revenue of $8,961 according to Fortune 500.
+The company is valued at $2,607 and has a profit of -$182. The CEO of the company is Timothy D. Myers.
+
+The Company has the following ratings: 
+Average ratings for Arconic:
+Business Outlook: 0.38
+
+Career Opportunities: 3.2
+Distribution: 
+	1: 121 
+	2: 107 
+	3: 166 
+	4: 126 
+	5: 86 
+
+CEO: 0.49
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 41 
+	2: 62 
+	3: 163 
+	4: 199 
+	5: 142 
+
+Culture and Values: 2.8
+Distribution: 
+	1: 179 
+	2: 97 
+	3: 124 
+	4: 106 
+	5: 102 
+
+Diversity and Inclusion: 3.6
+Distribution: 
+	1: 34 
+	2: 23 
+	3: 46 
+	4: 57 
+	5: 66 
+
+Overall: 3.3
+Distribution: 
+	1: 122 
+	2: 120 
+	3: 180 
+	4: 178 
+	5: 127 
+
+Senior Management: 2.7
+Distribution: 
+	1: 209 
+	2: 99 
+	3: 125 
+	4: 81 
+	5: 70 
+
+Work Life Balance: 2.7
+Distribution: 
+	1: 187 
+	2: 96 
+	3: 123 
+	4: 113 
+	5: 88 
+
+Review Count: 728
+
+Recommend to Friend: 
+	RECOMMEND: 264
+	WONT RECOMMEND: 269
+
+
+
+
+The company has 812 reviews on Glassdoor. The last review was posted on 2024-04-08T06:19:10.283. 
+There are 20 Reviews for Arconic:
+
+Review 1:
+	Job Title: Production Supervisor
+	Location: Eastman, GA
+	Review Date: 2024-02-13T01:29:28.937
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Good people, benefits, salary, and vacation.
+
+
+	Cons: 
+		Limited opportunity for growth due to being a small facility
+
+
+	Summary: 
+		Great Place 
+
+
+Review 2:
+	Job Title: Continuous Improvement Specialist
+	Location: Davenport, IA
+	Review Date: 2024-02-21T11:17:19.593
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Benefits: Really the only thing all employees agree upon. For instance, most dental insurance allows only one teeth cleaning per year. Arconic allows 2 teeth cleanings per year.
+
+
+	Cons: 
+		Employees are so busy because they often have a job that needs at least 3-4 employees. This means helping other employees in any way is extremely rare.
+		Unrealistic Goals: Most employees are given projects and work with extremely short timelines and unrealistic goals. If you actually complete the work and are successful, this means they'll add even more to your workload.
+		Huge divide between factory floor workers and corporate employees, Both look down upon the other group and are unwilling to work with them.
+
+
+	Summary: 
+		Arconic is a stress factory, Ask any employee their thoughts on the company before accepting an offer
+
+
+Review 3:
+	Job Title: Sales
+	Location: Pittsburgh, PA
+	Review Date: 2024-04-07T14:24:05.313
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Aluminum is infinitely recyclable, and sustainable.
+
+
+	Cons: 
+		No long term sustainable strategy. No diversity or inclusion policies since Apollo took over. Poor leadership only interested in their payout, not employees who are actually doing the work.
+
+
+	Summary: 
+		Apollo takeover has stolen all ethics and humanity from this company
+
+
+Review 4:
+	Job Title: Material Handler
+	Location: Fontana, CA
+	Review Date: 2024-03-24T06:29:42.670
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		The hours where good for the most part
+
+
+	Cons: 
+		Very Overworked with no recognition
+
+
+	Summary: 
+		Arconic
+
+
+Review 5:
+	Job Title: IT Systems Analyst
+	Location: Davenport, IA
+	Review Date: 2024-03-18T12:27:32.550
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Never a dull moment, lots of learning opportunities, diversity is good.
+
+
+	Cons: 
+		Legacy systems with many interfaces
+
+
+	Summary: 
+		Hard work for less pay
+
+
+Review 6:
+	Job Title: Metallurgical Engineer
+	Location: Alcoa, TN
+	Review Date: 2024-03-24T19:19:25.990
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		It is a very unique company with rich history that offers a unique work environment.
+
+
+	Cons: 
+		Absolutely zero work / life balance.
+
+
+	Summary: 
+		No work/life balance
+
+
+Review 7:
+	Job Title: Treasury Analyst
+	Location: Pittsburgh, PA
+	Review Date: 2024-02-18T18:13:48.683
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Good company to work for. Lots of opportunities for development. Pay is average at best. Good benefits.
+
+
+	Cons: 
+		Company has had lots of changes at the higher levels and has recently been bought out by a private equity company.
+
+
+	Summary: 
+		Good Company, lots of turnover
+
+
+Review 8:
+	Job Title: Process Control Engineer
+	Location: Davenport, IA
+	Review Date: 2024-01-26T09:31:53.317
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		One of the best companies in the quad cities. People have a great respect for the company. My boss is the best; a great teacher. The team is also good.
+
+
+	Cons: 
+		There is not much in the quad cities. If you hate big cities, then you should love this place.
+
+
+	Summary: 
+		Great Place
+
+
+Review 9:
+	Job Title: Production Associate
+	Location: Bettendorf, IA
+	Review Date: 2023-11-29T10:13:44.730
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Some of the benefits are good.
+
+
+	Cons: 
+		Unsafe, and nepotic environment. Zero communication avenues between upper mgmt, middle mgmt, and floor work. Union is sub par with a lackadaisical President and worthless stewards. HR fails at every turn. Youll have to do your own enrollments, your own HR footwork, they will fail to send you proper paperwork and expect you to figure it all out. There is 0 process improvement or continuous improvement in place. All training is left up to your coworkers and some have only been at the company a year or less.
+
+
+	Summary: 
+		Zero sense of leadership or direction
+
+
+Review 10:
+	Job Title: Furnace Technician
+	Location: Lancaster, PA
+	Review Date: 2024-02-06T15:59:47.530
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Contribute to management decisions and develop plans for future integration
+
+
+	Cons: 
+		Management is a good ole boys club and if you're not a buddy you're out
+
+
+	Summary: 
+		Furnace Tech
+
+
+Review 11:
+	Job Title: None
+	Location: New Kensington, PA
+	Review Date: 2024-02-07T11:44:11.293
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		good benefits, 401k, relocation, interesting projects
+
+
+	Cons: 
+		not flexible, no work-life balance, stuck in the past, minimum vacation, terrible education assistance
+
+
+	Summary: 
+		Typical Blue Collar Company
+
+
+Review 12:
+	Job Title: Project Engineer
+	Location: Lancaster, PA
+	Review Date: 2024-02-06T05:56:48.830
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Many different areas to get experience in.
+
+
+	Cons: 
+		Location lacks organization and direction for new employees
+
+
+	Summary: 
+		Good people, mediocre management
+
+
+Review 13:
+	Job Title: Machine Operator
+	Location: Lancaster, PA
+	Review Date: 2024-01-29T15:55:41.353
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Money , lots of overtime.
+
+
+	Cons: 
+		lots of overtime , day and night shift
+
+
+	Summary: 
+		Good for making money 
+
+
+Review 14:
+	Job Title: Senior Vice President/Chief Strategy Officer
+	Location: New York, NY
+	Review Date: 2024-01-28T10:20:45.120
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 2
+
+	Pros: 
+		Great vlaues and bright future
+
+
+	Cons: 
+		Too many separations in a short period of time
+
+
+	Summary: 
+		Mid- and Downstream Company 
+
+
+Review 15:
+	Job Title: Senior Engineer
+	Location: Davenport, IA
+	Review Date: 2024-02-02T14:19:35.287
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Projects are interesting. profit sharing.
+
+
+	Cons: 
+		Dirty and dangerous work environment. Toxic work culture. No job security. 12 People have lost their lives in work related accidents and many more injured since the plant was setup.
+
+
+	Summary: 
+		Avoid if you can
+
+
+Review 16:
+	Job Title: Engineering
+	Location: Davenport, IA
+	Review Date: 2024-01-23T12:14:05.137
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Biggest aluminum supplier in Iowa
+
+
+	Cons: 
+		long hours and indecisiveness are common traits at this facility
+
+
+	Summary: 
+		Very demanding
+
+
+Review 17:
+	Job Title: Mechanical Technician
+	Location: Bettendorf, IA
+	Review Date: 2023-12-28T07:40:21.967
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Close to home, excellent co-workers
+
+
+	Cons: 
+		too much in-breeding, too many politics, not enough pay for being on-call 24-7, lack of training structure.
+
+
+	Summary: 
+		Not what I expected
+
+
+Review 18:
+	Job Title: Shift Supervisor
+	Location: Alcoa, TN
+	Review Date: 2024-01-04T03:10:56.577
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Always work to do. Big company
+
+
+	Cons: 
+		Union/salary environment. Can be difficult at times to establish a work life balance. Communication could be better between management groups.
+
+
+	Summary: 
+		Typical company
+
+
+Review 19:
+	Job Title: None
+	Location: Alcoa, TN
+	Review Date: 2023-11-30T09:31:13.820
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		They pay a lot for the area.
+		The work is interesting.
+
+
+	Cons: 
+		Absolutely no work/life balance. Expect 80 hour work weeks, and long periods (7 to 10 days) of working 12 to 16 hours a day.
+		
+		Too many old grudges between tenured salary and union employees. Creates a hostile work environment for new employees who are also being overworked.
+
+
+	Summary: 
+		Not a great place. Avoid.
+
+
+Review 20:
+	Job Title: None
+	Location: None
+	Review Date: 2023-12-06T07:00:56.730
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		- use to be the hybrid work
+
+
+	Cons: 
+		- executive management time that only cares about impossible deadlines and not their employees 
+		- bad worklife balance 
+		- little integrity
+
+
+	Summary: 
+		Wouldn’t recognize 
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

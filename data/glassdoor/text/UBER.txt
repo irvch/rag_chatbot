@@ -1,0 +1,648 @@
+
+Uber Technologies is a Internet Services and Retailing company based in 94158 San Francisco, California. 
+The company has 32,800 employees and has a revenue of $31,877 according to Fortune 500.
+The company is valued at $63,840 and has a profit of -$9,141. The CEO of the company is Dara Khosrowshahi.
+
+The Company has the following ratings: 
+Average ratings for Uber Technologies:
+Business Outlook: 0.91
+
+Career Opportunities: 4.3
+Distribution: 
+	1: 3 
+	2: 0 
+	3: 4 
+	4: 8 
+	5: 14 
+
+CEO: -1
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 2 
+	2: 1 
+	3: 5 
+	4: 12 
+	5: 8 
+
+Culture and Values: 4.5
+Distribution: 
+	1: 1 
+	2: 0 
+	3: 1 
+	4: 3 
+	5: 24 
+
+Diversity and Inclusion: 4.4
+Distribution: 
+	1: 1 
+	2: 1 
+	3: 0 
+	4: 3 
+	5: 14 
+
+Overall: 4.5
+Distribution: 
+	1: 1 
+	2: 0 
+	3: 1 
+	4: 10 
+	5: 21 
+
+Senior Management: 4.3
+Distribution: 
+	1: 1 
+	2: 0 
+	3: 2 
+	4: 6 
+	5: 20 
+
+Work Life Balance: 4.6
+Distribution: 
+	1: 0 
+	2: 2 
+	3: 2 
+	4: 5 
+	5: 20 
+
+Review Count: 33
+
+Recommend to Friend: 
+	RECOMMEND: 26
+	WONT RECOMMEND: 1
+
+
+
+
+The company has 42 reviews on Glassdoor. The last review was posted on 2024-03-25T07:13:08.290. 
+There are 20 Reviews for Uber Technologies:
+
+Review 1:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-01T09:45:43.803
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Flexible Schedule 
+		Easy workload
+		Privacy
+		No Supervision
+		Freedom of Choice
+
+
+	Cons: 
+		Car Maintenance 
+		Gas
+		Traffic
+		Varying Wages
+		Liabilities 
+		Increased insurance premium
+
+
+	Summary: 
+		Adequate 
+
+
+Review 2:
+	Job Title: Driver
+	Location: New York, NY
+	Review Date: 2023-08-24T08:17:49.630
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		flexbile time, work when you want
+
+
+	Cons: 
+		basically pay, customer service , company does not care about driver, can be deactivated anytime without lay off pay
+
+
+	Summary: 
+		Driver for 5 years
+
+
+Review 3:
+	Job Title: Claims Adjuster
+	Location: None
+	Review Date: 2023-06-18T04:57:10.613
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Work a time that is best for you
+
+
+	Cons: 
+		Have multiple income revenue streams.
+
+
+	Summary: 
+		Great side income
+
+
+Review 4:
+	Job Title: Driver
+	Location: Chicago, IL
+	Review Date: 2023-04-04T09:37:22.953
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		I love being able to take off days without scheduling them.
+
+
+	Cons: 
+		The time that you actually have to drive to make some decent money.
+
+
+	Summary: 
+		A gift and a curse.
+
+
+Review 5:
+	Job Title: None
+	Location: Tampa, FL
+	Review Date: 2022-12-01T07:51:01.580
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		speedy customer service response rate
+
+
+	Cons: 
+		very low rates on trips per mile
+
+
+	Summary: 
+		Great customer relations
+
+
+Review 6:
+	Job Title: Devops Engineer
+	Location: Kandy
+	Review Date: 2024-03-24T22:58:57.530
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		It is the most flexible working environment i had so long and providing me ample opportunities to grow my skills
+
+
+	Cons: 
+		To be honest , Nothing for the moment
+
+
+	Summary: 
+		Place to grow and learn 
+
+
+Review 7:
+	Job Title: Learning Specialist
+	Location: Taguig
+	Review Date: 2024-03-25T07:13:08.290
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The benefits are good and promising.
+
+
+	Cons: 
+		Promotions and professional growth are quite slow.
+
+
+	Summary: 
+		It was fun
+
+
+Review 8:
+	Job Title: People Leader
+	Location: Melbourne
+	Review Date: 2023-10-08T16:15:29.833
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Uber Carshare is a scaling business. You have the excitement of working in a start-up environment that is growing globally. There is a lot of "build it as you fly it" attitude, like a true start-up, but with the backing of the Uber name. The team are open and driven. Performance is genuine and rewarded. You are given a lot of space to do your work but live your life around it. Flexibility of time, location and thought is encouraged and celebrated. Everyone across the team is very available for one another. Ideas are welcome and humour is always appreciated.
+
+
+	Cons: 
+		Being a start-up environment, going through huge changes is not for everyone. I am on a 2-year contract, which is common in the current environment. Once again, not for everyone. The Carshare team and the Uber team run as very separate teams, cultures and business units. Not necessarily a negative but also not necessarily a positive. None of what is above is negative, just walk in with your eyes wide open and know what is right for you. You have the opportunity to create your own story and leave your own legacy.
+
+
+	Summary: 
+		Exciting, challenging and fun
+
+
+Review 9:
+	Job Title: None
+	Location: None
+	Review Date: 2024-01-14T15:40:21.210
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Still operating as a small organisation.
+		Fully remote and family-friendly.
+		Great culture and mission.
+		Excellent people and benefits.
+		In a growth phase with opportunities to contribute to the improvement of processes and ways of working.
+		Great growth opportunities.
+
+
+	Cons: 
+		Fully remote isn't for everyone.
+		Currently in an awkward transition to become part of Uber.
+		Has had a period of disruption with deliverables prioritised over outcomes.
+
+
+	Summary: 
+		Great culture with big changes ahead
+
+
+Review 10:
+	Job Title: None
+	Location: Sydney
+	Review Date: 2023-12-02T04:02:11.087
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great team
+		Good culture 
+		Big ambitions
+
+
+	Cons: 
+		can be difficult to find the right balance when its too growth focused
+
+
+	Summary: 
+		Great culture
+
+
+Review 11:
+	Job Title: Engineering Manager
+	Location: None
+	Review Date: 2023-10-23T16:08:44.973
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Company is focused on work/life balance and has a good mission. The Engineering team is full of smart, curious and supportive people and the engineering challenges are interesting.
+
+
+	Cons: 
+		A fair bit of tech debt and a tendency to underestimate the scope of work can sometime lead to overly ambitious goals.
+
+
+	Summary: 
+		Great team and culture
+
+
+Review 12:
+	Job Title: Software Engineer
+	Location: South East Asia
+	Review Date: 2023-10-23T05:53:44.817
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great people Good work Nice work life balance
+
+
+	Cons: 
+		Remote (for me) Not much social interaction Very busy some days
+
+
+	Summary: 
+		Awesome place
+
+
+Review 13:
+	Job Title: Campaign Lead
+	Location: None
+	Review Date: 2022-06-21T00:38:10.527
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Coming from a larger government organisation where you are often looked at as just another number, Car Next Door make you feel valued, appreciated and go out of their way to show you that your work is noticed. The team is supportive of one another, work together to reach goals,  they celebrate when a job is well done and reflect when a job could be done better. A workplace that is very aligned and driven by company values. Leaving the comfort of a job I was at for years was daunting but looking back it has been one of the best decisions I have made - being around intelligent people who are driven, passionate, kind and motivated is a really refreshing change!
+
+
+	Cons: 
+		No cons at this stage!
+
+
+	Summary: 
+		One of then best decisions I have made so far in my career
+
+
+Review 14:
+	Job Title: Customer Service (CSR)
+	Location: None
+	Review Date: 2022-11-06T23:18:26.610
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Salary Review every 6 month - increase - permanent work form home
+
+
+	Cons: 
+		Australian accents for clients and officemates
+
+
+	Summary: 
+		Great company
+
+
+Review 15:
+	Job Title: Operations Supervisor
+	Location: Pyrmont
+	Review Date: 2022-06-22T05:07:48.220
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Transparency, Commitment to personal development, Management, Culture and Vision
+
+
+	Cons: 
+		As you can always WFH it gets difficult to switch off
+
+
+	Summary: 
+		Amazing Team, CEO and overall culture
+
+
+Review 16:
+	Job Title: Senior QA Analyst
+	Location: None
+	Review Date: 2022-06-23T00:35:28.390
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great work-life balance. Culture is the best!
+
+
+	Cons: 
+		Times can be tough but workable.
+
+
+	Summary: 
+		Great company and people
+
+
+Review 17:
+	Job Title: Administrative
+	Location: Sydney
+	Review Date: 2022-02-03T18:18:03.863
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Highly dynamic environment with a motivated team.
+
+
+	Cons: 
+		Remuneration is not as attractive and you are likely to be surrounded by colleagues who are relatively new to the workforce. But it is also what makes the vibe young and energetic.
+
+
+	Summary: 
+		Great Vibe
+
+
+Review 18:
+	Job Title: Product Designer
+	Location: None
+	Review Date: 2021-08-23T17:27:17.437
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Great culture - super driven and focused on reaching goals, but also very human... motivated by the mission, inclusive, and not uptight.
+
+
+	Cons: 
+		It's a remote and distributed team, so that might be difficult for some people.
+
+
+	Summary: 
+		Great workplace - mission driven and good culture
+
+
+Review 19:
+	Job Title: Sales Representative
+	Location: Pyrmont
+	Review Date: 2019-02-18T22:16:38.347
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Car Next Door is a very supportive, transparent, nourishing workplace and is always open to feedback in how to improve!  They love feedback, and very much prioritise staff wellbeing &amp; growth.   Nothing is left unheard and peoples opinions are valued, understood and actioned.   People have fun, and it is a really grass roots feeling environment.   I love working at Car Next Door - Highly recommend!
+
+
+	Cons: 
+		Fast Paced and changes implemented regularly, alot to work on and improve processes in different areas.  May be a pro for many people! It is for me but could not think of a con :) But must be able to keep up and adapt quickly. 
+		
+		Pay pretty base level for customer service and sales roles do not have bonuses/commission but positive environment definitely compensates for this!
+
+
+	Summary: 
+		Working at CND
+
+
+Review 20:
+	Job Title: SEO Marketing Manager
+	Location: Sydney
+	Review Date: 2019-12-15T22:20:30.303
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		There's so many great things about working for Car Next Door - but here's some of the main ones for me:
+		
+		Flexibility - management are really flexible when it comes to remote working, and this allows me to enjoy a semi-nomadic lifestyle whilst benefitting from the security and sense of belonging that come from being permanently employed.
+		
+		Passion - employees at all levels of the company are genuinely passionate about delivering the company values of 'freeing the world of the one person one car mentality'. 
+		
+		The company does great things - It's pretty hard to find anything bad to say about the service we offer and the impact this has on improving the planet.
+
+
+	Cons: 
+		If I ever decide that the time has come to move on (for career progression etc) it will be so difficult to find anywhere as good as this - for the reasons outlined above.
+
+
+	Summary: 
+		A Brilliant Company to Work For
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,640 @@
+
+Advance Auto Parts is a Specialty Retailers: Other company based in 27609 Raleigh, North Carolina. 
+The company has 53,500 employees and has a revenue of $11,155 according to Fortune 500.
+The company is valued at $7,208 and has a profit of $502. The CEO of the company is Thomas R. Greco.
+
+The Company has the following ratings: 
+Average ratings for Advance Auto Parts:
+Business Outlook: 0.41
+
+Career Opportunities: 3.1
+Distribution: 
+	1: 762 
+	2: 845 
+	3: 1124 
+	4: 767 
+	5: 604 
+
+CEO: 0.47
+
+Compensation and Benefits: 3
+Distribution: 
+	1: 816 
+	2: 929 
+	3: 1203 
+	4: 731 
+	5: 426 
+
+Culture and Values: 3.2
+Distribution: 
+	1: 810 
+	2: 640 
+	3: 940 
+	4: 793 
+	5: 704 
+
+Diversity and Inclusion: 3.5
+Distribution: 
+	1: 209 
+	2: 135 
+	3: 349 
+	4: 390 
+	5: 528 
+
+Overall: 3.3
+Distribution: 
+	1: 679 
+	2: 808 
+	3: 1491 
+	4: 1086 
+	5: 750 
+
+Senior Management: 2.8
+Distribution: 
+	1: 1242 
+	2: 729 
+	3: 890 
+	4: 635 
+	5: 554 
+
+Work Life Balance: 3.1
+Distribution: 
+	1: 926 
+	2: 734 
+	3: 1094 
+	4: 721 
+	5: 624 
+
+Review Count: 4824
+
+Recommend to Friend: 
+	RECOMMEND: 1793
+	WONT RECOMMEND: 1937
+
+
+
+
+The company has 4968 reviews on Glassdoor. The last review was posted on 2024-04-17T07:20:13.507. 
+There are 20 Reviews for Advance Auto Parts:
+
+Review 1:
+	Job Title: Inventory Specialist
+	Location: Stone Mountain, GA
+	Review Date: 2023-11-07T04:34:23.757
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Amazing staff and a good way to start learning about parts and functions.
+
+
+	Cons: 
+		Labor work, but for the most part it was fine.
+
+
+	Summary: 
+		Inventory Specialist
+
+
+Review 2:
+	Job Title: District Manager
+	Location: None
+	Review Date: 2024-04-16T20:02:28.917
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The salary is good. The culture was great when I first started. They laid off 400 people recently, and the culture has tremendously gone downhill.
+
+
+	Cons: 
+		Micromanaged. New CEO has made Promises that we haven’t seen come to fruition yet.  VPO’s are underqualified and unwilling to help you in your career. There is a tracker that you need to complete every single day of the week. No respect for your time off.
+
+
+	Summary: 
+		District Managers work 7 days per week
+
+
+Review 3:
+	Job Title: Commercial Sales Manager
+	Location: Raleigh, NC
+	Review Date: 2024-03-23T01:56:54.337
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Pro/Commercial upper leadership is a joke at best, complete authoritarian leadership style
+
+
+	Cons: 
+		Full of false promises, no work life balance, massive pay cuts to earnings potential, only worried about taking care of their share holders and upper management's salaries, no ability to move up as they continue to rid the company of any valuable leadership positions and decide not to allow any back fills
+
+
+	Summary: 
+		Sinking Ship
+
+
+Review 4:
+	Job Title: Senior Catalog Analyst
+	Location: Philadelphia, PA
+	Review Date: 2024-04-10T08:04:52.203
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Flexibility, good benefits and PTO.
+
+
+	Cons: 
+		Always a fire drill for each project. Working in a constant state of feeling behind wears on an employee.
+
+
+	Summary: 
+		Always a Fire Drill
+
+
+Review 5:
+	Job Title: Sales Representative
+	Location: Savannah, GA
+	Review Date: 2024-04-09T20:14:02.383
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		1. Good people to work with
+
+
+	Cons: 
+		1. terrible pay unless you like to learn about cars and their parts/functions
+
+
+	Summary: 
+		Working for advance
+
+
+Review 6:
+	Job Title: Sales Associate
+	Location: Greenville, SC
+	Review Date: 2024-04-09T08:35:47.710
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: NO_OPINION
+	Compensation and Benefits: 0
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 5
+
+	Pros: 
+		Not over complicated
+		Great employees
+		Generous scheduling
+
+
+	Cons: 
+		None that come to mind
+
+
+	Summary: 
+		Great community
+
+
+Review 7:
+	Job Title: Inventory Specialist
+	Location: Houston, TX
+	Review Date: 2024-04-13T11:19:32.443
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Great people
+		Normal benefits
+		Adequate system
+		Paid vacation
+
+
+	Cons: 
+		(Employer) flexible working hours
+		Less than average salary
+		Basic vacation plan
+		No overtime allowed
+		Weak career planning
+
+
+	Summary: 
+		An average job
+
+
+Review 8:
+	Job Title: Marketing Specialist
+	Location: Denver, CO
+	Review Date: 2024-04-12T21:36:08.290
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Work culture is very good
+
+
+	Cons: 
+		Pay and Benefits are not that great
+
+
+	Summary: 
+		Nice work culture
+
+
+Review 9:
+	Job Title: Commercial Manager
+	Location: None
+	Review Date: 2024-04-11T15:44:21.710
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good benefits, good environment, easy to learn
+
+
+	Cons: 
+		Lacking of good management, bad habits some employees.
+
+
+	Summary: 
+		Good company
+
+
+Review 10:
+	Job Title: Commercial Parts Pro
+	Location: Danvers, MA
+	Review Date: 2024-04-13T12:19:17.513
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Easy to get promoted if self motivated
+
+
+	Cons: 
+		Core managers hold majority of workload
+
+
+	Summary: 
+		Good for overall automotive experience
+
+
+Review 11:
+	Job Title: Commercial Manager
+	Location: None
+	Review Date: 2024-04-11T15:44:21.710
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good benefits, good environment, easy to learn
+
+
+	Cons: 
+		Lacking of good management, bad habits some employees.
+
+
+	Summary: 
+		Good company
+
+
+Review 12:
+	Job Title: Auto Parts Driver
+	Location: Loveland, CO
+	Review Date: 2024-04-10T09:10:23.367
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Simple job, easy to do
+
+
+	Cons: 
+		If you aren’t best buddies with the higher ups they will find a way to fire you to make room for their friends, saw it happen to several people while I was there so I left and found something more ethical
+
+
+	Summary: 
+		Nepotism at it’s finest
+
+
+Review 13:
+	Job Title: Inventory Control Specialist
+	Location: None
+	Review Date: 2024-03-19T23:08:27.130
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Reasonable work and pay 
+		Benefits are OK
+		Co workers are good people
+
+
+	Cons: 
+		Under Qualified front office 
+		Being treated like you're a machine
+		Vague goals that change on a whim
+		Rules change in a whim
+		Front office has been bad for years but won't take any accountability and everything is our fault.
+
+
+	Summary: 
+		Pays okay works not hard if you don't mind being treated like your sub human
+
+
+Review 14:
+	Job Title: Retail Manager
+	Location: None
+	Review Date: 2024-01-14T01:22:41.217
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		20% discount on non sales items.
+
+
+	Cons: 
+		There used to be room to grow and used to be opportunities but company would rather overwork current staff and then hire from outside which always ended poorly 
+
+
+	Summary: 
+		Not worth it anymore 
+
+
+Review 15:
+	Job Title: General Manager
+	Location: Johnson City, TN
+	Review Date: 2024-04-05T17:37:00.697
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Something different every day. Good store team. Customers were (mostly) a pleasure to serve.
+
+
+	Cons: 
+		Pay (salary-exempt). Long hours. What type of DM you have is a crap shoot.
+
+
+	Summary: 
+		Was great. Then, not so much.
+
+
+Review 16:
+	Job Title: Delivery Driver
+	Location: None
+	Review Date: 2024-04-11T07:55:28.970
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great crew to work with
+
+
+	Cons: 
+		picking up very heavy items
+
+
+	Summary: 
+		Me
+
+
+Review 17:
+	Job Title: AGM-Operations
+	Location: None
+	Review Date: 2024-04-04T18:00:38.263
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		I have worked with many coworkers, that are now friends,
+		over the past four years
+
+
+	Cons: 
+		little to none promotions for women
+
+
+	Summary: 
+		Unfair lack of pay/ advancement for women
+
+
+Review 18:
+	Job Title: Assistant Manager
+	Location: None
+	Review Date: 2024-04-02T09:21:29.283
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		I just want to look something up. I never worked here
+
+
+	Cons: 
+		Nothing. Great, but disregard this. I hope you make a million bucks.
+
+
+	Summary: 
+		Great place
+
+
+Review 19:
+	Job Title: Key Holder
+	Location: Gaylord, MI
+	Review Date: 2024-03-27T14:53:55.227
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Helping customers with their issues.
+		Employee Discount.
+
+
+	Cons: 
+		Customers don't know what the issues are.
+		Regional Management.
+
+
+	Summary: 
+		Employee Discount
+
+
+Review 20:
+	Job Title: None
+	Location: None
+	Review Date: 2024-04-05T12:22:58.137
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great coworkers and learn so much. Great potential.
+
+
+	Cons: 
+		Be fully devoted and make sure you know what you are doing.
+
+
+	Summary: 
+		Work
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

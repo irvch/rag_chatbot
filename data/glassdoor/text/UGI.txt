@@ -1,0 +1,637 @@
+
+UGI is a Utilities: Gas and Electric company based in 19406 King of Prussia, Pennsylvania. 
+The company has 10,000 employees and has a revenue of $10,106 according to Fortune 500.
+The company is valued at $7,284 and has a profit of $1,073. The CEO of the company is Roger Perreault.
+
+The Company has the following ratings: 
+Average ratings for UGI:
+Business Outlook: 0.61
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 8 
+	2: 8 
+	3: 10 
+	4: 16 
+	5: 31 
+
+CEO: 0
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 5 
+	2: 8 
+	3: 11 
+	4: 25 
+	5: 25 
+
+Culture and Values: 3.9
+Distribution: 
+	1: 7 
+	2: 7 
+	3: 6 
+	4: 15 
+	5: 38 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 1 
+	2: 2 
+	3: 8 
+	4: 9 
+	5: 21 
+
+Overall: 3.8
+Distribution: 
+	1: 7 
+	2: 10 
+	3: 8 
+	4: 17 
+	5: 40 
+
+Senior Management: 3.6
+Distribution: 
+	1: 11 
+	2: 5 
+	3: 8 
+	4: 16 
+	5: 32 
+
+Work Life Balance: 3.9
+Distribution: 
+	1: 5 
+	2: 3 
+	3: 10 
+	4: 25 
+	5: 31 
+
+Review Count: 82
+
+Recommend to Friend: 
+	RECOMMEND: 52
+	WONT RECOMMEND: 15
+
+
+
+
+The company has 93 reviews on Glassdoor. The last review was posted on 2024-03-05T08:47:24.477. 
+There are 20 Reviews for UGI:
+
+Review 1:
+	Job Title: None
+	Location: King of Prussia, PA
+	Review Date: 2023-10-05T10:49:48.803
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		UGI Corporation is really dedicated to the community and giving back. I love that they work with the United Way to raise money to donate back to local communities. I also really like that they pay employees several hours to volunteer each year. The company is pretty transparent and communicates well with employees. There are many additional perks to working at UGI Corp. The diversity of the employees within the organization is great and I enjoy working with many departments.
+
+
+	Cons: 
+		No cons to working at UGI.
+
+
+	Summary: 
+		UGI Corporation Is A Great Company To Work For!
+
+
+Review 2:
+	Job Title: Manager
+	Location: Denver, PA
+	Review Date: 2024-02-02T13:04:59.530
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Extremely talented, hardworking employees with years of experience.
+
+
+	Cons: 
+		Under former CEO John Walsh, the company cared about the employees at its subsidiaries. Now, it cares only about profits and pleasing shareholders. Has shifted to be extremely top heavy while laying off the people who get the job done and actually know what they are doing. Transition to centralized structure was done poorly and has created highly toxic work environments within the subsidiaries.
+
+
+	Summary: 
+		Profits&gt;people
+
+
+Review 3:
+	Job Title: Accounting Manager
+	Location: None
+	Review Date: 2024-03-05T08:47:24.477
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		6% match to 401(k) plan
+
+
+	Cons: 
+		Taking away Vitality program to earn discounted medical insurance
+		Salary freeze
+		Hiring freeze
+		No mentoring by executives to further career advancement
+
+
+	Summary: 
+		Look elsewhere
+
+
+Review 4:
+	Job Title: Sr. Manager IT
+	Location: Reading, PA
+	Review Date: 2024-01-08T14:01:26.327
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good company and place to work
+
+
+	Cons: 
+		Lots of change, but that's not always bad
+
+
+	Summary: 
+		Good
+
+
+Review 5:
+	Job Title: None
+	Location: None
+	Review Date: 2023-10-31T17:13:02.200
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Great flexabitly and great people
+
+
+	Cons: 
+		No merit and financial troubles this this year. Career progression unclear.
+
+
+	Summary: 
+		Great Flexabilty
+
+
+Review 6:
+	Job Title: Operations
+	Location: Middletown, PA
+	Review Date: 2023-09-25T07:16:23.950
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		- hours - stability - people are nice
+
+
+	Cons: 
+		- pay - other issues - various departments
+
+
+	Summary: 
+		Salary
+
+
+Review 7:
+	Job Title: Analyst
+	Location: King of Prussia, PA
+	Review Date: 2023-04-21T11:32:27.083
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		UGI cares about employees, and they are actively working to improve and grow.
+
+
+	Cons: 
+		I have no cons for my role or company
+
+
+	Summary: 
+		Analyst UGI/AmeriGas
+
+
+Review 8:
+	Job Title: Customer Service Representative
+	Location: Tampa, FL
+	Review Date: 2023-01-24T03:20:18.527
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		This company have many opportunities to advance and learn all you can learn about propane
+
+
+	Cons: 
+		very stressful work environment that made it difficult to success. This company also constantly rolled out new changes but no one was truly trained properly to implement the changes
+
+
+	Summary: 
+		stressful but rewarding
+
+
+Review 9:
+	Job Title: Analyst
+	Location: King of Prussia, PA
+	Review Date: 2023-01-28T08:33:01.783
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great company for financial stability.
+
+
+	Cons: 
+		Not a great company for growth opportunities, but that’s industry norm for all utilities.
+
+
+	Summary: 
+		Stable company
+
+
+Review 10:
+	Job Title: None
+	Location: None
+	Review Date: 2023-01-31T15:29:05.570
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Care about the employees and their wellbeing
+
+
+	Cons: 
+		Can be stressful at times
+
+
+	Summary: 
+		Good company to work for
+
+
+Review 11:
+	Job Title: None
+	Location: None
+	Review Date: 2022-10-10T12:11:35.567
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Dynamic environment where you have the opportunity to work on a wide variety of projects
+
+
+	Cons: 
+		Leadership; disorganized; toxic culture; lack of respect for employees
+
+
+	Summary: 
+		Look elsewhere
+
+
+Review 12:
+	Job Title: HR Assistant
+	Location: King of Prussia, PA
+	Review Date: 2022-09-09T08:17:12.797
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Workplace environment is pleasant and accomodating.
+
+
+	Cons: 
+		Would be helpful if there was more work life balance.
+
+
+	Summary: 
+		Great Place to Work!
+
+
+Review 13:
+	Job Title: Systems Administrator
+	Location: None
+	Review Date: 2022-09-12T12:30:44.510
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Work here if youre in management. Company is very top heavy and very understaffed.
+
+
+	Cons: 
+		Do not come here to make any progress in your career. No training and management does not care about you
+
+
+	Summary: 
+		Save your efforts and skip working here
+
+
+Review 14:
+	Job Title: Counsel
+	Location: King of Prussia, PA
+	Review Date: 2021-09-29T12:32:59.970
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		UGI has an amazing company culture that really does shine through the everyday morale of its employees... and even in a remote environment, the company encourages teambuilding and networking through a variety of mediums. 
+		
+		Work/life balance is very competitive, and management seems comfortable with permitting flexible arrangements for employees. 
+		
+		The benefits are also extremely competitive, especially the 401(k) match. 
+		
+		Overall, a wonderful place to work... and I hope to remain here for the remainder of my career!
+
+
+	Cons: 
+		UGI has a history that dates back to the 1800s, so some business processes are antiquated. But importantly, folks across the company are open to improvements in efficiency and ingenuity. 
+		
+		The business is also incredibly complex (consisting of domestic natural gas businesses as well as domestic and international propane businesses), which soemtimes leads to difficulty in communication as well as differing cultures across businesses. So that can be difficult to navigate at times.
+
+
+	Summary: 
+		A place to cultivate a career... not just a "job"
+
+
+Review 15:
+	Job Title: None
+	Location: None
+	Review Date: 2022-07-31T17:52:31.613
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Plenty of room for growth- great leadership. An awesome place to work.
+
+
+	Cons: 
+		Nothing bad to say about this company
+
+
+	Summary: 
+		Great Company
+
+
+Review 16:
+	Job Title: None
+	Location: None
+	Review Date: 2022-06-28T20:06:31.803
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Great purpose: Future of energy
+		Great culture: community giving, non/hierarchical, collaborative 
+		Great people: everyone cares
+
+
+	Cons: 
+		Lean environment and resource challenges
+
+
+	Summary: 
+		Great culture and people
+
+
+Review 17:
+	Job Title: Project Manager
+	Location: King of Prussia, PA
+	Review Date: 2021-09-24T10:47:20.193
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		A lot of opportunities to try interesting roles and work on new projects. I’ve been able to meet people across the business units and work with both corporate and field employees. I think the benefits are great, awesome 401k, solid bonus structure, etc.  The openness to try hybrid work post-Covid and the push for diversity and inclusion and other ESG initiative shows a company with market and cultural awareness.
+
+
+	Cons: 
+		It’s a large, old, and regulated company so change can take some time but the Company is still striving for improvement. Like any energy company, weather plays a huge role in performance, but the Company is actively looking to diversify against climate change related weather patterns.
+
+
+	Summary: 
+		A great place to work
+
+
+Review 18:
+	Job Title: Human Resources Specialist
+	Location: King of Prussia, PA
+	Review Date: 2022-02-24T09:58:52.043
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Personable leadership, growth opportunities, a variety of business units and products ensures UGI is a market leader and a stable place to work.
+
+
+	Cons: 
+		Difficult to share best practices and collaborate across business units.
+
+
+	Summary: 
+		Great Company
+
+
+Review 19:
+	Job Title: Finance Director
+	Location: None
+	Review Date: 2022-02-23T19:26:00.947
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good work life balance 
+		Good benefits
+
+
+	Cons: 
+		Not too much opportunity to move up as people tend to stay there a long time.
+		A lot of lifers who don’t want to make any changes
+
+
+	Summary: 
+		Good place
+
+
+Review 20:
+	Job Title: Senior Analyst, Internal Controls
+	Location: King of Prussia, PA
+	Review Date: 2021-09-22T05:05:44.800
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		UGI is a great place to work and grow. The Company is very employee conscious with a good work-life balance and reasonable compensation. The workload is busy but manageable.
+
+
+	Cons: 
+		There is a good amount of workload, now this could be a pro or a con, especially if your team is short-staffed.
+
+
+	Summary: 
+		Great Opportunity
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

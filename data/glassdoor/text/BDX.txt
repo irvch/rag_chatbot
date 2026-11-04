@@ -1,0 +1,640 @@
+
+Becton Dickinson is a Medical Products and Equipment company based in 07417 Franklin Lakes, New Jersey. 
+The company has 77,000 employees and has a revenue of $19,408 according to Fortune 500.
+The company is valued at $70,277 and has a profit of $1,779. The CEO of the company is Tom Polen.
+
+The Company has the following ratings: 
+Average ratings for Becton Dickinson:
+Business Outlook: 0.58
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 44 
+	2: 45 
+	3: 109 
+	4: 140 
+	5: 124 
+
+CEO: 0.77
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 17 
+	2: 36 
+	3: 100 
+	4: 161 
+	5: 142 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 38 
+	2: 36 
+	3: 101 
+	4: 111 
+	5: 171 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 24 
+	2: 32 
+	3: 77 
+	4: 123 
+	5: 198 
+
+Overall: 3.8
+Distribution: 
+	1: 25 
+	2: 44 
+	3: 102 
+	4: 204 
+	5: 194 
+
+Senior Management: 3.3
+Distribution: 
+	1: 71 
+	2: 65 
+	3: 93 
+	4: 121 
+	5: 103 
+
+Work Life Balance: 3.7
+Distribution: 
+	1: 46 
+	2: 44 
+	3: 105 
+	4: 128 
+	5: 132 
+
+Review Count: 571
+
+Recommend to Friend: 
+	RECOMMEND: 284
+	WONT RECOMMEND: 102
+
+
+
+
+The company has 654 reviews on Glassdoor. The last review was posted on 2024-04-17T14:28:55.550. 
+There are 20 Reviews for Becton Dickinson:
+
+Review 1:
+	Job Title: Senior Field Service Technician
+	Location: Fort Worth, TX
+	Review Date: 2024-03-27T13:15:13.520
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Work from home, flexible time to get to calls
+
+
+	Cons: 
+		Always on call, so it’s hard to plan for events if you’re not on pro
+
+
+	Summary: 
+		Great work long hours
+
+
+Review 2:
+	Job Title: Senior Product Developer
+	Location: Baltimore, MD
+	Review Date: 2024-03-01T12:55:07.633
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Most roles pay well, and the benefits are OK (not leading edge, but acceptable).
+
+
+	Cons: 
+		Super toxic environment. Leadership does not communicate, and in the off chance they do, it’s either vague bingo-esque jargon that doesn’t mean anything, or straight lies. No one in leadership is capable of taking responsibility or accountability for decisions. The whole company seems directionless, chasing short term trends and gains and ignoring long term needs, resulting in chaos. People are elevated to their maximum incapability and set loose on direct reports without any training or oversight on their actual ability to manage. And those poor managers then hire other people like them into management positions, and the cycle continues. 
+		
+		In reality, though, the worst is the super toxic environment. It’s high school on steroids.
+
+
+	Summary: 
+		Soul-sucking, poor management
+
+
+Review 3:
+	Job Title: Complaint Specialist
+	Location: Sandy, UT
+	Review Date: 2024-04-17T14:28:55.550
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		They had good benefits, and the team worked well together.
+
+
+	Cons: 
+		The corporate nature makes you feel less human and less valued. However, my experience was great and optimistic until they started working towards of outsourcing our jobs.
+
+
+	Summary: 
+		Was a good company to work for 
+
+
+Review 4:
+	Job Title: None
+	Location: Mannford, OK
+	Review Date: 2024-04-04T09:19:37.207
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		They have different things for different holidays to celebrate. They have little scavenger hunts, pizza parties or catering from one restaurant.
+
+
+	Cons: 
+		Nepotism at it's finest. Favoritism, leadership spends more time gossiping about employees rather than helping them. If you don't fit into their little clicks you are singled out and targeted for whatever they want.
+
+
+	Summary: 
+		Ok pay for a lot of nonsense
+
+
+Review 5:
+	Job Title: Software Director
+	Location: None
+	Review Date: 2024-03-26T14:34:34.613
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Individual contributors are good and are generally allowed to do high quality work.
+
+
+	Cons: 
+		Continually asked to estimate time and cost for undefined projects. We live by one-year commitments that have no basis in reality. There is no money for innovation.
+
+
+	Summary: 
+		Too Big to Succeed
+
+
+Review 6:
+	Job Title: Team Lead, Implementation Project Manager
+	Location: Minneapolis, MN
+	Review Date: 2023-12-27T19:57:16.663
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Benefits
+		PTO
+		Team Members
+		Diverse culture
+
+
+	Cons: 
+		Haven’t been paid on time, not paid on pay date, delayed payment, direct deposit outages. This company has put me in financial hardship.
+		
+		My manager is not about growing at BD and dismisses me when wanting to talk about opportunity for growth. She stated in my last performance review that they weren’t hiring basically stating that they don’t promote. This is a manager that was a Sr PM for 23 years and has no people management experience. She does not lead our team and I am I'm in a role where I am too advanced and she has no desire to help me grow because she doesn’t understand corporate America, policies and procedures, rules and regulations. 
+		
+		I was told by my manager that you are not able to request a new computer until it does and then you will get a refurbished one. I had to send her the policy that BD allows you to upgrade after 3 years. 
+		
+		My manager has put me in a role where I am over capacity and does not praise me on anything but strives to praise the rest of the team.
+
+
+	Summary: 
+		Poor Middle Management
+
+
+Review 7:
+	Job Title: Global Marketing Manager
+	Location: None
+	Review Date: 2024-04-06T08:40:27.113
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Recognition
+		Promote work-life balance
+		Career growth grooming and opportunities
+		Multiple ARGs
+		DE&amp;I
+
+
+	Cons: 
+		Pay transparency is not a thing
+		Closing opportunities for internal growth as roles change from remote to hybrid requiring relocation
+
+
+	Summary: 
+		Great Company
+
+
+Review 8:
+	Job Title: Account Executive/Sales
+	Location: Phoenix, AZ
+	Review Date: 2024-03-23T07:06:27.887
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Large company opportunity to move to different divisions
+
+
+	Cons: 
+		Too near sighted, the past doesn’t always predict the future.
+		A lot of good old boy attitude.
+		For such a large company the benefits are mediocre.
+
+
+	Summary: 
+		All jobs within a company are not equal
+
+
+Review 9:
+	Job Title: Program Manager
+	Location: Salt Lake City, UT
+	Review Date: 2024-04-06T15:18:53.903
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good colleagues and environment and growth.
+
+
+	Cons: 
+		Lack of keeping up with inflation and market values.
+
+
+	Summary: 
+		Fairness
+
+
+Review 10:
+	Job Title: Accountant
+	Location: San Antonio, TX
+	Review Date: 2024-04-13T18:35:56.360
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Upper Management is like High School. Its all about who they like
+
+
+	Cons: 
+		Upper Management doesn't care about good works
+
+
+	Summary: 
+		Poor Management
+
+
+Review 11:
+	Job Title: Quality Technical Specialist
+	Location: None
+	Review Date: 2024-03-27T18:49:45.780
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good work life balance. Learnt a lot as you are require to learn different functions
+
+
+	Cons: 
+		Start up plant shut down. No career progression provided for the staff that trusted the company.
+
+
+	Summary: 
+		Good work life balance
+
+
+Review 12:
+	Job Title: Lead System Engineer
+	Location: Dallas, TX
+	Review Date: 2024-03-29T06:56:10.547
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good hours, and great team
+
+
+	Cons: 
+		Sporadic meetings and a lot of red tape.
+
+
+	Summary: 
+		System Engineer
+
+
+Review 13:
+	Job Title: Warehouse
+	Location: Covington, GA
+	Review Date: 2023-11-05T07:56:55.360
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		BD is a big company that is worldwide. They have great medical, dental, and vision benefits. They match 401K.
+
+
+	Cons: 
+		Working in the GDC it is very messy among everyone from the top down. Everyone knows everything from confidential information that only managers and HR should know down to who is sleeping with who. It’s hard to work in this type of environment unless you are a person who likes drama. The only way to escape the messiness is to go sit in your car during breaks. I would hear confidential information in the bathroom, breakroom, outside at the gazebo, in the warehouse just walking down the yellow brick road. Also the HR process is so weird HR in the building will give you a number to contact someone else for every HR issue you may have,
+
+
+	Summary: 
+		Working at BD Covington GDC
+
+
+Review 14:
+	Job Title: Regulatory Affairs Specialist
+	Location: San Jose, CA
+	Review Date: 2024-03-17T19:52:15.243
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Nice people, collaborative, and professional
+
+
+	Cons: 
+		Not as diverse as expected
+
+
+	Summary: 
+		Similar to other corporate 
+
+
+Review 15:
+	Job Title: Associate Principal Scientist
+	Location: San Diego, CA
+	Review Date: 2024-03-13T17:04:24.157
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		great culture, environment, and people
+
+
+	Cons: 
+		slow pace, difficulty in decision making, and risk adverse
+
+
+	Summary: 
+		Great Culture / Slow Pace
+
+
+Review 16:
+	Job Title: Director Information Security
+	Location: Franklin Lakes, NJ
+	Review Date: 2024-03-07T11:21:34.197
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		BD was a great place to work - Solid benefits and leadership
+
+
+	Cons: 
+		None to think of other than the constant change in the organization.
+
+
+	Summary: 
+		Solid company
+
+
+Review 17:
+	Job Title: Forklift Operator
+	Location: Covington, GA
+	Review Date: 2024-03-14T04:23:38.483
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Offers overtime to those that want it
+
+
+	Cons: 
+		Tiny raises, to much favoritism
+
+
+	Summary: 
+		Not for everyone
+
+
+Review 18:
+	Job Title: Sr Systems Engineer
+	Location: Sparks, MD
+	Review Date: 2024-03-11T07:41:53.980
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good benefit and work life balance
+
+
+	Cons: 
+		Slow growth low bonus. Not stock options
+
+
+	Summary: 
+		Fair payment
+
+
+Review 19:
+	Job Title: None
+	Location: San Jose, CA
+	Review Date: 2023-10-02T19:48:30.753
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Decent salary, subpar health benefits, my team and bosses were awesome, and severance package when corporate randomly decides to lay you off, uprooting your life was also decent.
+
+
+	Cons: 
+		Corporation does not care about you. Will lay an employee off without warning, without good reason, and without informing the managers that worked closest with their team. HR waves their mighty hand and employees vanish… poof… you could think you’re safe and your managers think you’re safe but you never know when they’ll strike and force cuts even when your department is exceeding all sales goals. They reward excellent performance with lay offs and then force management to read from scripts to terminate you while someone from HR watches to make sure they don’t deviate from the script. The worker and the supervisor may be in tears. Corporate doesn’t care. If you like to gamble your financial stability and job security, get a job at BD.
+
+
+	Summary: 
+		Layoffs without warning
+
+
+Review 20:
+	Job Title: Quality Engineer I
+	Location: San Jose, CA
+	Review Date: 2024-03-03T22:32:14.470
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Supportive environment ; Multiple opportunities to grow. good work life balance
+
+
+	Cons: 
+		comparatively the pay is low
+
+
+	Summary: 
+		Nice place to work
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

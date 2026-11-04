@@ -1,0 +1,625 @@
+
+Pioneer Natural Resources is a Mining, Crude-Oil Production company based in 75038 Irving, Texas. 
+The company has 2,076 employees and has a revenue of $24,294 according to Fortune 500.
+The company is valued at $47,997 and has a profit of $7,845. The CEO of the company is Scott D. Sheffield.
+
+The Company has the following ratings: 
+Average ratings for Pioneer Natural Resources:
+Business Outlook: 0.66
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 34 
+	2: 39 
+	3: 76 
+	4: 73 
+	5: 81 
+
+CEO: 0.96
+
+Compensation and Benefits: 4.6
+Distribution: 
+	1: 2 
+	2: 3 
+	3: 35 
+	4: 81 
+	5: 186 
+
+Culture and Values: 4.1
+Distribution: 
+	1: 23 
+	2: 25 
+	3: 44 
+	4: 83 
+	5: 125 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 12 
+	2: 11 
+	3: 24 
+	4: 33 
+	5: 44 
+
+Overall: 4.4
+Distribution: 
+	1: 23 
+	2: 19 
+	3: 61 
+	4: 119 
+	5: 151 
+
+Senior Management: 3.8
+Distribution: 
+	1: 35 
+	2: 35 
+	3: 65 
+	4: 72 
+	5: 94 
+
+Work Life Balance: 4.2
+Distribution: 
+	1: 18 
+	2: 25 
+	3: 53 
+	4: 87 
+	5: 121 
+
+Review Count: 376
+
+Recommend to Friend: 
+	RECOMMEND: 225
+	WONT RECOMMEND: 60
+
+
+
+
+The company has 457 reviews on Glassdoor. The last review was posted on 2024-04-17T09:33:02.657. 
+There are 20 Reviews for Pioneer Natural Resources:
+
+Review 1:
+	Job Title: Engineer 2
+	Location: Irving, TX
+	Review Date: 2024-04-10T07:18:45.503
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great company to work for
+
+
+	Cons: 
+		Getting bought by Exxon Mobile
+
+
+	Summary: 
+		Great company to work for
+
+
+Review 2:
+	Job Title: Completions Engineer
+	Location: Irving, TX
+	Review Date: 2024-04-17T09:33:02.657
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Compensation is good. There are opportunities to transfer to different departments to increase your skillsets.
+
+
+	Cons: 
+		Company politics can be challenging to navigate. Management can be obsessive on pushing the performance envelope. Acquisition by Exxon not a favorable situation for employees.
+
+
+	Summary: 
+		Good place to work, a shame it's going away
+
+
+Review 3:
+	Job Title: HR Director
+	Location: Irving, TX
+	Review Date: 2024-04-09T16:19:59.953
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Benefits are good and work life balance
+
+
+	Cons: 
+		Favoritism and constant change happens
+
+
+	Summary: 
+		Ok place
+
+
+Review 4:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-26T09:10:45.330
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Excellent benefits, great culture, good compensation
+
+
+	Cons: 
+		Getting acquired by Exxon, relocations forthcoming
+
+
+	Summary: 
+		Will be a big loss to DFW
+
+
+Review 5:
+	Job Title: Lead Accountant
+	Location: Irving, TX
+	Review Date: 2024-03-21T08:40:13.180
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Excellent benefits, great management and culture, incredible office space and amenities, great work/life balance , overall a phenomenal organization to work for
+
+
+	Cons: 
+		No real cons to speak of.
+
+
+	Summary: 
+		Great company 
+
+
+Review 6:
+	Job Title: Senior Procurement Coordinator
+	Location: None
+	Review Date: 2024-03-03T21:13:58.883
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good environment to work in
+		Good pay and benefits 
+		Good bosses
+		Family oriented
+
+
+	Cons: 
+		Sold to ExxonMobil. Im sure it will be okay. But still...
+
+
+	Summary: 
+		Great Company
+
+
+Review 7:
+	Job Title: None
+	Location: None
+	Review Date: 2024-02-20T09:32:23.203
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great benefits, work life balance, and culture are among the top pros
+
+
+	Cons: 
+		They’re being purchased so we will cease to work for them much longer
+
+
+	Summary: 
+		Best company I’ve ever worked for
+
+
+Review 8:
+	Job Title: Senior Development Geologist
+	Location: Irving, TX
+	Review Date: 2024-02-29T10:56:36.233
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Really enjoyed working for PXD
+
+
+	Cons: 
+		Unfortunately they were acquired. bummer
+
+
+	Summary: 
+		Great place to work
+
+
+Review 9:
+	Job Title: Frac Operator
+	Location: Victoria, TX
+	Review Date: 2024-02-26T14:36:43.643
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good money and employees to work with
+
+
+	Cons: 
+		Long hours away from home
+
+
+	Summary: 
+		Pay
+
+
+Review 10:
+	Job Title: Production Foreman
+	Location: Midland, TX
+	Review Date: 2024-02-22T06:36:18.727
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great benefits, insurance and culture
+
+
+	Cons: 
+		none at all, been here 14 years
+
+
+	Summary: 
+		Great Company
+
+
+Review 11:
+	Job Title: Landman
+	Location: Las Colonias, TX
+	Review Date: 2024-02-18T16:08:44.947
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great people and benefits while they last.
+
+
+	Cons: 
+		Selling to Exxon is not great for the people.
+
+
+	Summary: 
+		Good Company
+
+
+Review 12:
+	Job Title: Data Analyst
+	Location: Dallas-Fort Worth
+	Review Date: 2024-02-07T10:15:32.800
+	Business Outlook: NEGATIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		amazing culture is a wonderful experience to take in
+
+
+	Cons: 
+		economic downturns are horrendous for everyone
+
+
+	Summary: 
+		great company
+
+
+Review 13:
+	Job Title: Analyst
+	Location: Irving, TX
+	Review Date: 2024-02-03T11:42:45.097
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good company and individual contributors
+
+
+	Cons: 
+		Good company and managers are ok
+
+
+	Summary: 
+		Good
+
+
+Review 14:
+	Job Title: Flow Assurance Engineer
+	Location: Midland, TX
+	Review Date: 2024-01-26T20:24:21.583
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Work schedule, benefits, Free Lunch, Gym, Culture
+
+
+	Cons: 
+		Lower Salaries compared to other operators
+
+
+	Summary: 
+		Great Place To Learn 
+
+
+Review 15:
+	Job Title: Director of IT
+	Location: Dallas, TX
+	Review Date: 2024-01-01T13:55:21.367
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Throughout my entire IT career, Pioneer Natural Resources is the only company I have ever worked at where they truly work to their corporate core values.
+
+
+	Cons: 
+		Nothing really comes to mind.
+
+
+	Summary: 
+		Great Company
+
+
+Review 16:
+	Job Title: Petroleum Engineer
+	Location: Midland, TX
+	Review Date: 2024-01-15T18:26:32.390
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The pros are the pay, benefits, and culture
+
+
+	Cons: 
+		The cons are the management
+
+
+	Summary: 
+		Review
+
+
+Review 17:
+	Job Title: Senior Accountant II
+	Location: Irving, TX
+	Review Date: 2023-12-15T19:39:29.400
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great benefits, free lunch. Work life balance
+
+
+	Cons: 
+		Seems to be some favoritism.
+
+
+	Summary: 
+		Pioneer natural resources
+
+
+Review 18:
+	Job Title: Engineering Supervisor
+	Location: Irving, TX
+	Review Date: 2023-10-19T14:09:23.310
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Nice amenities, good coworkers, historically a good stable company in a volatile industry
+
+
+	Cons: 
+		Over the years it has become a less "fun" place to work, becoming a one asset company really limited upward mobility, management seems focused on developing specialized vs. well-rounded leaders. Very micro focused on day to day operations.
+
+
+	Summary: 
+		Better than most
+
+
+Review 19:
+	Job Title: None
+	Location: None
+	Review Date: 2023-02-02T18:36:47.507
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 3
+
+	Pros: 
+		Pay and benefits are pretty good but no longer a cut above like in the past. Lots of good employee perks like gyms, childcare, free lunch. its a comfortable existence. If you fall in line like a good soldier you'll slowly make it to your ceiling which works for a lot of people. If stepping on people to join political clicques to move up the ladder is your particular cup of tea this is definitely the place for you!
+
+
+	Cons: 
+		Depends on perspective and what you really want to get out of your Pioneer experience. Working hard and providing quality work product really only gets you more work unless you happen to form alliances with the 'right' people (see pros). The compensation is good but it comes at a price. Questioning the norms and free-thinking are not appreciated whatsoever. There's definitely a 3 level caste system where its management, engineering, then everyone else. The everyone else crowd is treated as if they are just along for the ride instead of beind seen as valued and an integral part of the engine. There's a lot of curious cultural insensitivities like christian faith only prayers at corporate events and chaplains wandering around talking to people while they are trying to work. Seems like that shouldn't be a thing in 2023...and yet it is.
+
+
+	Summary: 
+		USED to be a much better company
+
+
+Review 20:
+	Job Title: Vice President
+	Location: Irving, TX
+	Review Date: 2023-09-25T20:07:16.580
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Flex Time and benefits were fine
+
+
+	Cons: 
+		Too political, look out for their besties only, etc etc. They layed off everyone over 50!
+
+
+	Summary: 
+		Do not work here! Pioneer = bad management. J Hall
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

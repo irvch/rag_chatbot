@@ -1,0 +1,631 @@
+
+PPL is a Utilities: Gas and Electric company based in 18101 Allentown, Pennsylvania. 
+The company has 6,527 employees and has a revenue of $7,902 according to Fortune 500.
+The company is valued at $20,472 and has a profit of $756. The CEO of the company is Vincent Sorgi.
+
+The Company has the following ratings: 
+Average ratings for PPL:
+Business Outlook: 0.61
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 49 
+	2: 60 
+	3: 91 
+	4: 93 
+	5: 88 
+
+CEO: 0.77
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 25 
+	2: 28 
+	3: 69 
+	4: 117 
+	5: 142 
+
+Culture and Values: 3.6
+Distribution: 
+	1: 80 
+	2: 41 
+	3: 72 
+	4: 59 
+	5: 110 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 19 
+	2: 13 
+	3: 30 
+	4: 34 
+	5: 92 
+
+Overall: 3.7
+Distribution: 
+	1: 65 
+	2: 46 
+	3: 101 
+	4: 120 
+	5: 128 
+
+Senior Management: 3.3
+Distribution: 
+	1: 92 
+	2: 58 
+	3: 70 
+	4: 60 
+	5: 96 
+
+Work Life Balance: 3.4
+Distribution: 
+	1: 51 
+	2: 63 
+	3: 86 
+	4: 94 
+	5: 85 
+
+Review Count: 461
+
+Recommend to Friend: 
+	RECOMMEND: 221
+	WONT RECOMMEND: 126
+
+
+
+
+The company has 555 reviews on Glassdoor. The last review was posted on 2024-04-11T05:44:28.493. 
+There are 20 Reviews for PPL:
+
+Review 1:
+	Job Title: Engineer 1
+	Location: Allentown, PA
+	Review Date: 2024-02-22T10:32:05.057
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		The company always pushes you to move around and gain experience.
+
+
+	Cons: 
+		Storm duty can be a bear.
+
+
+	Summary: 
+		Great culture
+
+
+Review 2:
+	Job Title: Supervisor
+	Location: Allentown, PA
+	Review Date: 2024-04-05T06:40:03.797
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		The people make the company.
+
+
+	Cons: 
+		Benefits keep dropping. Salary ranges have shifted lower in an economy of inflation so employees have to leave to make more money or to even break even.
+
+
+	Summary: 
+		Support employees
+
+
+Review 3:
+	Job Title: Digital Training and enablement
+	Location: Louisville, KY
+	Review Date: 2024-04-11T05:44:28.493
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Great people, PTO is based on years in service
+
+
+	Cons: 
+		3% annual raise, small teams trying to manage systems between KY, PA, and RI. Poor inner-communication, lots of work outside the scope of the hiring contract.
+
+
+	Summary: 
+		Overworked and Underpaid
+
+
+Review 4:
+	Job Title: Experience Designer
+	Location: None
+	Review Date: 2023-10-27T07:52:55.393
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		My peers were amazing: understanding, supportive, and passionate about their jobs and responsibilities. There is a genuine hunger to learn more and be the best designer possible, executed through routine critiques, lunch and learn style sharing, and group knowledge shares.
+
+
+	Cons: 
+		There is some wider organization that needs to be done for an experience team to truly function. We spent time producing minimum viable products that were not necessarily user-friendly and would maybe never see the light of day anyway. The project intake process needed organization and more detail, and lacked stakeholder buy-in, leading to scope creep. Demands would find their way into briefs that designers should have no business solving and executing for. For example, we were often assigned the creation of presentations, where we had a primary responsibility in generating content in which we did not have expertise. The organization is incredibly siloed, which made researching user experience issues for both employees and customers extremely difficult, and senior leadership placed the onus on brand new, entry-level employees for breaking down these siloes and navigating the organization without an org chart or diagram of the organizational function at large.
+
+
+	Summary: 
+		Design team leadership needs work
+
+
+Review 5:
+	Job Title: Supervisor
+	Location: Allentown, PA
+	Review Date: 2024-03-26T12:36:30.273
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		The people are nice. The work is interesting
+
+
+	Cons: 
+		Some groups can form clicks.
+
+
+	Summary: 
+		Great place to work
+
+
+Review 6:
+	Job Title: Analyst
+	Location: Providence, RI
+	Review Date: 2024-01-09T21:54:13.210
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		- Great work life balance 
+		- Learn about energy industry
+
+
+	Cons: 
+		- They have a feeling of entitlement or it’s an ideal job for locals.
+		- They say they need to upgrade tech but aren’t ready to hire internationals, even if hired they are extremely apathetic what we go through or they have no idea what we go through 
+		- They say they put your name in the lottery but don’t send any evidences out so POTENTIAL INTERNATIONALS WHO WANT TO JOIN PLEASE BE AWARE OF THIS.
+		- Not a great and conducive work culture 
+		- Lacksadical attitude among folks who have been for 20+ years and do nothing who deserved to be let gone off
+
+
+	Summary: 
+		Pretend they are empathetic but aren’t
+
+
+Review 7:
+	Job Title: Journeyman Lineman
+	Location: None
+	Review Date: 2024-03-13T18:57:05.013
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay, safety and benefits
+
+
+	Cons: 
+		Long hours, on call, physically demanding
+
+
+	Summary: 
+		Great place to work
+
+
+Review 8:
+	Job Title: None
+	Location: None
+	Review Date: 2023-11-30T12:09:57.420
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Nice coworkers
+		Okay compensation
+		Not high pressure
+
+
+	Cons: 
+		Not as competitive compensation due to being a "public utility"
+		Upper management does not care about you, all they care about is making the board/shareholders happy and making their own money. A vast majority of employees are against returning to office, and have shown time and time again that they are productive, but yet they are still being forced back in office, some have to drive over an hour each way. Upper management is detached from reality and doesn't realize how it makes life a lot harder for the people who are not making 200k+, all they see is "I want to make the board/shareholders happy so I can get my bonus that is bigger than some people make in a year".
+		In addition to that they keep cutting spending on things that shouldn't be cut, and are making employees pile more work onto already big plates
+
+
+	Summary: 
+		Act like they care but they don't
+
+
+Review 9:
+	Job Title: Marketing and Communications Specialist
+	Location: Allentown, PA
+	Review Date: 2024-01-20T18:05:28.790
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		I enjoyed my time with PPL. I had the opportunity to positively impact engagement and advance the company vision through community stories, streamlining communication processes and preparing for Town Hall events.
+
+
+	Cons: 
+		Lack of teamwork. Innovation/diversity of thought was frequently suppressed or viewed as threatening. Expected to accomplish goals without the right tools or support from management.
+
+
+	Summary: 
+		Creative role; rewarding work
+
+
+Review 10:
+	Job Title: Engineer
+	Location: None
+	Review Date: 2024-02-16T08:44:17.547
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Good place to start a power systems engineer
+
+
+	Cons: 
+		Not all Engineering remains design work
+
+
+	Summary: 
+		Great Learning Environment
+
+
+Review 11:
+	Job Title: Transmission System Operator
+	Location: Allentown, PA
+	Review Date: 2024-02-06T08:19:02.960
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		High pay, face paced environment, fun team
+
+
+	Cons: 
+		Bad supervision, bad training, and little to no communication between management and operators.
+
+
+	Summary: 
+		Management needs training in supervision, and training department needs help badly.
+
+
+Review 12:
+	Job Title: Project Manager
+	Location: None
+	Review Date: 2024-01-29T14:11:27.213
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		N/A n/a n/a n/a n/a
+
+
+	Cons: 
+		Your just a number and no one cares about your growth
+
+
+	Summary: 
+		N/A
+
+
+Review 13:
+	Job Title: Intern
+	Location: Allentown, PA
+	Review Date: 2024-01-02T12:20:45.407
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Professional, forward-thinking by the standards of the utility sector
+
+
+	Cons: 
+		A very corporate environment with a cubicle office. This is not a huge deal, and the office was very nice. Just not very inspiring.
+
+
+	Summary: 
+		Great place for an internship 
+
+
+Review 14:
+	Job Title: Media Relations Specialist
+	Location: Allentown, PA
+	Review Date: 2024-01-05T19:04:47.733
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great place to work. I have an amazing and supportive team.
+
+
+	Cons: 
+		Not many. The culture, values, and leadership of PPL make it a great place to work.
+
+
+	Summary: 
+		I love working at PPL
+
+
+Review 15:
+	Job Title: None
+	Location: None
+	Review Date: 2024-02-02T08:42:04.003
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		People are nice, relatively ok salary based on your role
+
+
+	Cons: 
+		Management is completely incompetent and hands off, constant reorganization and changes in leadership
+
+
+	Summary: 
+		Incompetent management
+
+
+Review 16:
+	Job Title: Home Health Aide
+	Location: Haddonfield, NJ
+	Review Date: 2023-11-27T07:41:00.313
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Actually hired by a family and did training and employment through PPL. Most of my positive interactions are because of the family rather than the company, who I interacted with rarely.
+
+
+	Cons: 
+		When I did need something, like help with a missing paycheck or training, they became annoyingly difficult to get a hold of.
+
+
+	Summary: 
+		Not bad
+
+
+Review 17:
+	Job Title: Financial Analysts
+	Location: Allentown, PA
+	Review Date: 2023-12-19T20:54:21.490
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good worklife balance at entry and junior levels
+
+
+	Cons: 
+		Career advanvement is limited…depending on your group
+
+
+	Summary: 
+		great environment
+
+
+Review 18:
+	Job Title: Senior Accountant
+	Location: Allentown, PA
+	Review Date: 2023-12-15T12:56:58.043
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Good benefits, pay and bonus.
+
+
+	Cons: 
+		Culture depended on your supervisor.
+
+
+	Summary: 
+		Ok place to work
+
+
+Review 19:
+	Job Title: Relay and Control Tech
+	Location: Allentown, PA
+	Review Date: 2023-12-14T13:29:08.603
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		The only pro is the pay
+
+
+	Cons: 
+		Too much turnover from management
+
+
+	Summary: 
+		Too Much Turnover
+
+
+Review 20:
+	Job Title: None
+	Location: Louisville, KY
+	Review Date: 2023-09-07T18:37:13.207
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		not a bad place to work by any means, great people on the KY side
+
+
+	Cons: 
+		hired as a remote employee only for some CEO and VP level people to switch us to hybrid. Yeah sure I love that the millionaire is going to tell me how this is so great for all of us when they effectively don't feel the same burden that a regular peon like me does with time lost for commuting, car depreciation, gas, and having to pay to park downtown.
+
+
+	Summary: 
+		Iffy
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

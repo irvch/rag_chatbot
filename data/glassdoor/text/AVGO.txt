@@ -1,0 +1,633 @@
+
+Broadcom is a Semiconductors and Other Electronic Components company based in 95131 San Jose, California. 
+The company has 20,000 employees and has a revenue of $33,203 according to Fortune 500.
+The company is valued at $267,473 and has a profit of $11,495. The CEO of the company is Hock E. Tan.
+
+The Company has the following ratings: 
+Average ratings for Broadcom:
+Business Outlook: 0.57
+
+Career Opportunities: 3.1
+Distribution: 
+	1: 451 
+	2: 535 
+	3: 1081 
+	4: 931 
+	5: 457 
+
+CEO: 0.5
+
+Compensation and Benefits: 3.8
+Distribution: 
+	1: 137 
+	2: 290 
+	3: 804 
+	4: 1266 
+	5: 972 
+
+Culture and Values: 2.8
+Distribution: 
+	1: 605 
+	2: 519 
+	3: 803 
+	4: 770 
+	5: 497 
+
+Diversity and Inclusion: 3.2
+Distribution: 
+	1: 212 
+	2: 155 
+	3: 291 
+	4: 314 
+	5: 347 
+
+Overall: 3.3
+Distribution: 
+	1: 373 
+	2: 434 
+	3: 1170 
+	4: 1519 
+	5: 822 
+
+Senior Management: 3
+Distribution: 
+	1: 658 
+	2: 600 
+	3: 903 
+	4: 827 
+	5: 440 
+
+Work Life Balance: 3.1
+Distribution: 
+	1: 453 
+	2: 514 
+	3: 981 
+	4: 929 
+	5: 574 
+
+Review Count: 4353
+
+Recommend to Friend: 
+	RECOMMEND: 1852
+	WONT RECOMMEND: 1183
+
+
+
+
+The company has 4849 reviews on Glassdoor. The last review was posted on 2024-04-18T02:50:13.290. 
+There are 20 Reviews for Broadcom:
+
+Review 1:
+	Job Title: Director of IT
+	Location: None
+	Review Date: 2024-04-06T05:23:24.923
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Laser Focus, Growth Prospects and Stability
+
+
+	Cons: 
+		Lack of innovation in IT
+
+
+	Summary: 
+		Great Company
+
+
+Review 2:
+	Job Title: Staff Software Engineer
+	Location: Sunnyvale, CA
+	Review Date: 2024-02-12T12:36:16.467
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Working at VMware offers a range of benefits, including the opportunity to engage with cutting-edge technology in a dynamic and innovative environment. Employees are part of a globally recognized company that is a leader in cloud infrastructure and digital workspace technology, which promotes professional growth and learning. VMware is known for its strong emphasis on work-life balance, providing flexible working arrangements and a supportive culture to ensure employees can effectively manage their personal and professional lives. The company also offers competitive compensation packages, comprehensive health benefits, and retirement plans, along with access to wellness programs. Additionally, VMware is committed to sustainability and social responsibility, allowing employees to contribute to meaningful projects that positively impact society and the environment
+
+
+	Cons: 
+		Working for Broadcom can present challenges, such as a highly competitive and high-pressure environment that may not suit everyone. Employees may experience strict project deadlines and intense workloads, which can lead to work-life balance difficulties. The company's focus on aggressive growth and acquisitions can sometimes result in organizational changes and uncertainties, potentially affecting job security and team dynamics. Additionally, the culture at Broadcom is often described as more traditional and hierarchical, which might limit opportunities for creative expression and innovation for some employees. Moreover, there are reports of less emphasis on employee benefits and perks compared to some other tech companies, which could impact overall job satisfaction.
+
+
+	Summary: 
+		Good place to work (VMware)
+
+
+Review 3:
+	Job Title: Staff Consulting Architect
+	Location: Seattle, WA
+	Review Date: 2024-02-01T19:26:30.003
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Working at VMware offers a range of benefits, including the opportunity to engage with cutting-edge technology in a dynamic and innovative environment. Employees are part of a globally recognized company that is a leader in cloud infrastructure and digital workspace technology, which promotes professional growth and learning. VMware is known for its strong emphasis on work-life balance, providing flexible working arrangements and a supportive culture to ensure employees can effectively manage their personal and professional lives. The company also offers competitive compensation packages, comprehensive health benefits, and retirement plans, along with access to wellness programs. Additionally, VMware is committed to sustainability and social responsibility, allowing employees to contribute to meaningful projects that positively impact society and the environment.
+
+
+	Cons: 
+		Working for Broadcom can present challenges, such as a highly competitive and high-pressure environment that may not suit everyone. Employees may experience strict project deadlines and intense workloads, which can lead to work-life balance difficulties. The company's focus on aggressive growth and acquisitions can sometimes result in organizational changes and uncertainties, potentially affecting job security and team dynamics. Additionally, the culture at Broadcom is often described as more traditional and hierarchical, which might limit opportunities for creative expression and innovation for some employees. Moreover, there are reports of less emphasis on employee benefits and perks compared to some other tech companies, which could impact overall job satisfaction.
+
+
+	Summary: 
+		Great Company, VMware
+
+
+Review 4:
+	Job Title: Operator
+	Location: Breinigsville, PA
+	Review Date: 2024-04-15T06:41:32.697
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Lots of hours and better pay than other entry level positions. Employee stock program. Pretty good benefits
+
+
+	Cons: 
+		Not good for health or long term career growth. Don’t stay for long if you don’t have to
+
+
+	Summary: 
+		Not a good long term position
+
+
+Review 5:
+	Job Title: Principal Program Manager
+	Location: Los Angeles, CA
+	Review Date: 2024-03-22T13:25:25.113
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Good bonuses and Stocks, great engineering teams, challenging projects.
+		If you enjoy layoffs this is the one to join. In the last 4 years have seen 3-4 major layoffs lost count of the slow layoff bleeding that is done.
+
+
+	Cons: 
+		Upper management is all about the dollar price and will let go dedicated hard working engineers to improve the stocks and gains for the shareholders. It time US regulations are like Europe for restructuring just for keeping the numbers up and buying companies which you truly cannot afford and the downsizing in other places of the company. Time will tell..
+		No salary increase for 4 years if you are good with it then great.
+
+
+	Summary: 
+		Broadcom should you work there or not? 
+
+
+Review 6:
+	Job Title: Software Engineer
+	Location: None
+	Review Date: 2024-04-12T05:28:31.370
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Unsure if this is considered a pro which sets it apart from other companies, but it does have RSU grants to speak of.
+
+
+	Cons: 
+		Expect poor or no service from HR and Payroll. Expect aggravations and emotional drain if you get into an issue. Case in point they have 2 people in HR for a company that is 20k+ strong. Culture is toxic and workers have low morale. CEO is an extreme cost cutter. It operates like it is losing money and needs to save cost to survive. I wish I had known this.
+
+
+	Summary: 
+		Expect nothing from this company
+
+
+Review 7:
+	Job Title: Senior Sales Analyst
+	Location: San Jose, CA
+	Review Date: 2024-03-29T15:19:17.457
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		note: I left in 2018 (app only allows from 2020 forward)
+		
+		Ijoined Broadcom when my prior company was acquired. was there for just under a year. Pros include being a flat org with few management levels. Direct management was generally hands-off about allowing me to manage my business. Compensation was good but not notably better than my prior employers in the SF Bay Area. I genuinely enjoyed the people I worked for &amp; with.
+
+
+	Cons: 
+		Cons include an absolute no WFH policy which was compounded by rampant scheduling of non-critical mtgs well after traditional work hours (I found this disrespectful of employees' non-work obligations, and ultimately this was my reason for leaving). Acquisition/onboarding processes seemed very seat-of-the-pants for a company that does this often. Seemed to be a culture that valued efficiency via aggressive slashing of established processes and headcount, without first understanding the impact. Had more than a few occasions where processes were abruptly cancelled, only to be rebuilt from scratch a few months down the road when their absence made their value more apparent. Also, the company in general did not appear to value investment in data/analytic tools. 
+		
+		In sum, it's a company that seems to value staying lean and aggressively cutting loose anything w/o obvious and immediate value. Nothing inherently wrong with this approach, but not taking the time to assess value up front created plenty of inefficiency when the same processes had to be recreated from scratch months down the road.
+
+
+	Summary: 
+		mixed bag experience
+
+
+Review 8:
+	Job Title: Staff Engineer
+	Location: San Jose, CA
+	Review Date: 2024-04-15T20:44:49.027
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		RSU refresh is good. It stops merit increases if revenue is not good.
+
+
+	Cons: 
+		The tech stack is a little old. There are not many young people here.
+
+
+	Summary: 
+		RSU company
+
+
+Review 9:
+	Job Title: Content Designer
+	Location: Minneapolis, MN
+	Review Date: 2024-02-11T08:44:51.417
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 0
+
+	Pros: 
+		If you can stand it long enough to vest RSUs, you'll make some cash.
+
+
+	Cons: 
+		Leadership literally says in All Hands meeting that the only thing that matters is the stock price, that they don't give good benefits because they use RSUs instead, and that employees having children shouldn't expect "special treatment" in the form of parental leave because they can just pay for it from their salary. I've never worked for a company that was so actively hostile toward its employees. Also, HR is non-existent. Got a problem with your paycheck? Don't expect anyone to answer your email or call about it for a month, if then. This place is a joke. But hey, if you're young and single and healthy and want to make a bunch of cash from stocks, and don't care about your fellow employees, go nuts.
+
+
+	Summary: 
+		Cares about nothing but the stock price
+
+
+Review 10:
+	Job Title: None
+	Location: None
+	Review Date: 2024-01-12T07:47:36.117
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Multi-billion dollar company in profits.
+
+
+	Cons: 
+		But treats its employees like trash. 
+		Most tech companies have great benefits. Broadcom stripped me of my fertility benefits while I was undergoing treatment when it acquired VMware. This meant a hefty unplanned bill for my family. On top of that, they only offer you 10 paid days for parental leave. Your stitches haven't even healed in 2 weeks. Yes you can take FMLA but it's unpaid. The CEO is a billionaire who said if we don't like it work somewhere else. If that is not demonic, what is? Very Machiavellian and outright Satanic.
+		Also, they stopped remote work. It's fine if that's what I agreed to when hired. But many employees were sold on remote only and remote first only to have the rug pulled underneath them.No remote work whatsoever unless you live over 50 miles away. So if you live 50 miles away or 1.5 hour commute each way, Hock Tan doesn't give a damn. He said go work somewhere else. I hope the customers go somewhere else.
+
+
+	Summary: 
+		2 Weeks Paid Parental Leave
+
+
+Review 11:
+	Job Title: Line Technician
+	Location: None
+	Review Date: 2024-04-17T15:16:15.917
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		24/7 facility, gym, cafeteria, friendly people
+
+
+	Cons: 
+		24/7 facility, location on the edge of town
+
+
+	Summary: 
+		Excellent place to work
+
+
+Review 12:
+	Job Title: Senior Manager
+	Location: California, PA
+	Review Date: 2024-04-15T12:49:23.843
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Stock, maybe a pro if it stays up and grows.
+
+
+	Cons: 
+		Culture is awful in terms of they place no value in employees or their personal / work situations. Work from home is a bad word here and few if any exceptions from being in office.
+
+
+	Summary: 
+		Depressing
+
+
+Review 13:
+	Job Title: Pricing
+	Location: Palo Alto, CA
+	Review Date: 2024-03-27T14:27:51.970
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Broadcom has a very clear vision on how they want to be successful, and what it will take to make it happen. Much of this is long overdue, but was held up by the previous complacent leadership team.
+
+
+	Cons: 
+		With a clear vision and strategy that is fundamentally divergent from the previous VMW vision, and a no BS action plan to get there, change will be difficult for many long-time VMW employees.
+
+
+	Summary: 
+		Great company... or at least is was
+
+
+Review 14:
+	Job Title: HR Leader
+	Location: Austin, TX
+	Review Date: 2024-04-16T19:40:47.533
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		high pay and stock but thats it.
+
+
+	Cons: 
+		Low work life balance, Full RTO, no flexibility, only cares about bottom line
+
+
+	Summary: 
+		thumbs down
+
+
+Review 15:
+	Job Title: Senior Consultant
+	Location: None
+	Review Date: 2024-04-17T13:00:19.153
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Working as a team is the best
+
+
+	Cons: 
+		Political landscape is sometimes challenging
+
+
+	Summary: 
+		Great company to work for. Very positive environment
+
+
+Review 16:
+	Job Title: Program Manager
+	Location: None
+	Review Date: 2024-04-15T06:32:11.700
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Revenue minded- for those who value competition and being a shareholder then this is a good place
+
+
+	Cons: 
+		Doesn’t care about employees, rewards, upward mobility, DEI, or customer needs
+
+
+	Summary: 
+		Runs like a machine
+
+
+Review 17:
+	Job Title: Sales
+	Location: None
+	Review Date: 2024-04-10T14:41:29.370
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Average pay and you get some RSUs
+
+
+	Cons: 
+		No growth in products, the senior only wants to squeeze customers for as long as they try to migrate off the products. You will not be marketable in the long run as an employee ,
+
+
+	Summary: 
+		Sweat Shop
+
+
+Review 18:
+	Job Title: Senior R&D Engineer
+	Location: Broomfield, CO
+	Review Date: 2024-04-16T16:33:15.820
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Pays well, with the stock options
+
+
+	Cons: 
+		Company culture is not good
+
+
+	Summary: 
+		good compensation
+
+
+Review 19:
+	Job Title: Technical Support Engineer
+	Location: None
+	Review Date: 2024-04-16T06:36:54.693
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good rsu and bonus plan
+
+
+	Cons: 
+		More of a cog than a person
+
+
+	Summary: 
+		Okay
+
+
+Review 20:
+	Job Title: Partner Director
+	Location: Austin, TX
+	Review Date: 2024-03-23T14:20:56.027
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Honestly, trying to see it all still. Hard to tell what's been good so far. I want to make sure I embrace the changes, but it's hard when the support is little and the words consistently change.
+
+
+	Cons: 
+		* Lot's of changes in very short time
+		* Unexplained moves which leaves us without support to advocate for our partners/customers
+		* Intense conversations and unexplained moves have been the new normal
+		* Cut/decrease of many benefits (snacks, non-profit participations, company celebrations, investments in employees, refund benefits, parent leave, etc.)
+
+
+	Summary: 
+		Moving Waters
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

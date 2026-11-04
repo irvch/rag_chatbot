@@ -1,0 +1,635 @@
+
+VMware is a Computer Software company based in 94304 Palo Alto, California. 
+The company has 38,300 employees and has a revenue of $13,350 according to Fortune 500.
+The company is valued at $53,496 and has a profit of $1,314. The CEO of the company is Raghu Raghuram.
+
+The Company has the following ratings: 
+Average ratings for VMware:
+Business Outlook: 0.55
+
+Career Opportunities: 4.1
+Distribution: 
+	1: 446 
+	2: 525 
+	3: 1570 
+	4: 2674 
+	5: 3139 
+
+CEO: 0.77
+
+Compensation and Benefits: 4.4
+Distribution: 
+	1: 131 
+	2: 250 
+	3: 980 
+	4: 3015 
+	5: 3995 
+
+Culture and Values: 4.5
+Distribution: 
+	1: 389 
+	2: 405 
+	3: 885 
+	4: 2067 
+	5: 4604 
+
+Diversity and Inclusion: 4.5
+Distribution: 
+	1: 141 
+	2: 135 
+	3: 386 
+	4: 1031 
+	5: 3034 
+
+Overall: 4.4
+Distribution: 
+	1: 335 
+	2: 423 
+	3: 1187 
+	4: 3198 
+	5: 4856 
+
+Senior Management: 3.9
+Distribution: 
+	1: 786 
+	2: 809 
+	3: 1683 
+	4: 2482 
+	5: 2539 
+
+Work Life Balance: 4.4
+Distribution: 
+	1: 396 
+	2: 457 
+	3: 1259 
+	4: 2344 
+	5: 3895 
+
+Review Count: 11038
+
+Recommend to Friend: 
+	RECOMMEND: 6354
+	WONT RECOMMEND: 1197
+
+
+
+
+The company has 12023 reviews on Glassdoor. The last review was posted on 2024-04-08T07:33:25.677. 
+There are 20 Reviews for VMware:
+
+Review 1:
+	Job Title: Sr Customer Success Manager
+	Location: Boston, MA
+	Review Date: 2024-04-08T07:33:25.677
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Amazing people and benefit options
+
+
+	Cons: 
+		VMware dictates Carbon Black roadmap.
+
+
+	Summary: 
+		Excellent
+
+
+Review 2:
+	Job Title: Representante de Atenci&oacute;n al Cliente
+	Location: None
+	Review Date: 2023-11-28T09:36:04.133
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The only thing good about this place are the benefits.
+
+
+	Cons: 
+		Hearing about all these layoffs makes me really sad for people, but I think they should consider it a blessing. I'm so much happier since I left 2 years ago. My mental health has greatly improved!
+		
+		Cons:
+		- Extreme Micromanagement by the C level senior staff. I had the unfortunate experience of working closely with a C-Level Executive. I was constantly belittled and put down. My boss was a former navy seal so they had a particular mindset, their way or no way. It was extremely toxic and cannot believe I let someone speak to me like that in this day and age. 
+		- They expect you to work past clocked hours. Also, there were constant unexpected/unscheduled calls to my personal cell phone. Just because I didn't have small children, should NOT give you the permission to call me at 9:00 at night.
+		
+		It was a truly unpleasant experience and the worst job I ever had. I knew it was time to go after being told the following: 
+		"You're bad at your job." (Instead of providing constructive criticism.)
+		 "$30,000 doesn't get me up in the morning." - The God complex was astounding. Then they had the audacity to roll their eyes when I spoke about my experience in a meeting with HR. Extremely rude and unprofessional. I hope they see this and know who they are. :)
+		
+		I'm now with a company that appreciates me and my boss is wonderful. :)
+
+
+	Summary: 
+		Don't even bother.
+
+
+Review 3:
+	Job Title: Senior UI Developer
+	Location: Palo Alto, CA
+	Review Date: 2023-11-03T12:04:00.817
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		VMware was a great company until recently. They hired some new people and got into the Broadcom acquisition and it all went south - really bad. Pay is still good but that will take a significant hit with Broadcom if the deal ever goes through - in either case VMware will never be the same.
+
+
+	Cons: 
+		My team is fine. The devs I work with both here and remote are pretty good but there is too much to do and not enough people.  Unfortunately I work with the design team doing FED for UI. This team was pretty decent until they changed leadership. There are now several foul and horrendous people full of phony warmth and a lot of meaningless process. Designers are burdened with time wasting UX performances that make things hard for them and this trickles down to us. I am very pro-UX when it brings value but this does not. Even worse are the technical people in this group. Along with being unpleasant, full of misery and sadness that turns everything into an unproductive and non-collegial confrontation, they also are straight up unqualified. I have sat in meetings where these people make embarrassing outright errors. Make sure anything you do has ZERO connection with them or you will work in a backstabbing atmosphere of gloom.
+
+
+	Summary: 
+		Tragic turn from great to horrible
+
+
+Review 4:
+	Job Title: Sales Development Representative (SDR)
+	Location: Boston, MA
+	Review Date: 2023-09-13T23:00:37.350
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Benefits are awesome. Pays pretty decent for the role. If you’re a remote employee, it can be a little more difficult to get your foot off the ground but a lot of flexibility.
+
+
+	Cons: 
+		Some of the management shows extreme favoritism. They micromanage, and they don’t like remote employees. I’m only speaking for Cloud health and not VMWare. There is a closet racist at the helm of Cloud health. They are very abusive when you don’t hit your numbers and start to micromanage you they promote their friends and they all hang out together. If you’re in the Boston office, management are friends people leave with an a days notice, and you never know why they give their friends the best territories and then make it your fault that your territory is not the best even though data shows that that territory needs to be white spaced overall good company but if you’re a biopic, not the best place. Unnecessary meetings, and gaslighting when you express concerns.
+
+
+	Summary: 
+		Low key racist - Favoritism across the board
+
+
+Review 5:
+	Job Title: Sr Director of Engineering
+	Location: Palo Alto, CA
+	Review Date: 2023-12-01T12:51:03.453
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Wonderful group of curious and talented colleagues across the organization.
+
+
+	Cons: 
+		Being in middle management there was difficulty to effect change for the benefit of the teams or for the company at large or even just a given business unit. Lots of product and strategic priorities vying for time and attention. 
+		
+		Lots of no-win scenario situations which ultimately motivated me to look elsewhere.
+
+
+	Summary: 
+		VMware was very good but not great
+
+
+Review 6:
+	Job Title: None
+	Location: None
+	Review Date: 2023-09-08T09:03:41.370
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		VMware is the best place I have ever worked. Of course there are always things you could complain about, but ultimately, VMware pays its employees well, treats everybody with respect, and encourages employees to develop themselves. The company goes out of its way to do nice things for its employees. i'm going to miss VMware and all of the people here once Broadcom destroys the culture and lays off 90% of us.
+
+
+	Cons: 
+		It's easy to get pigeonholed into a job here, but the company will continue to promote and incentivize you financially to stick with it. There are a lot of tenured directors and senior directors that are in over their heads. Good people, but are not qualified for director level jobs other than having worked their way up at VMware.
+
+
+	Summary: 
+		Best place I ever worked, and Broadcom will destroy it
+
+
+Review 7:
+	Job Title: Global Account Manager
+	Location: Tulsa, OK
+	Review Date: 2023-10-13T08:53:11.153
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		I have worked at VMware for 8+ years now and I it was and extremely enjoyable experience. I am currently dedicated to one very large account. Pay is commensurable, for the work and the team surrounding me are all top notch.
+
+
+	Cons: 
+		The biggest downside to VMware as I see it is being acquired by Broadcom. Broadcom is a very flat organization and thus the amount of resources I will have to help with my career going forward will be extremely limited. This not to say that my job is no longer doable, it's just to say that I won't be able to leverage some very talented people anymore in my sales process. I'd like to think that these resource reduce our time to market and time to close while solving business critical problems.
+
+
+	Summary: 
+		VMware gets acquired by Broadcom
+
+
+Review 8:
+	Job Title: Senior Product Manager
+	Location: San Francisco, CA
+	Review Date: 2023-06-14T07:21:22.967
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Collaborative and Agile Work Environment: Working at Tanzu Labs offers a dynamic and collaborative work environment where teamwork and agility are highly valued. The company fosters a culture of open communication, allowing employees to collaborate effectively and deliver innovative solutions. Cutting-Edge Technology Projects: Tanzu Labs provides the opportunity to work on cutting-edge technology projects. As a part of VMware Tanzu, the company focuses on modern software development methodologies, cloud-native technologies, and DevOps practices. This exposure allows employees to enhance their skills and stay at the forefront of the industry. Strong Emphasis on Learning and Development: Tanzu Labs prioritizes the growth and development of its employees. The company offers various training programs, workshops, and resources to support continuous learning. Employees have the chance to expand their knowledge, acquire new skills, and advance their careers. Empowered and Autonomous Teams: Tanzu Labs empowers its employees by entrusting them with autonomy and ownership over their projects. The company values individual contributions and encourages employees to take initiative, make decisions, and drive their projects forward. This autonomy fosters creativity, innovation, and personal growth. Positive and Inclusive Culture: Tanzu Labs cultivates a positive and inclusive work culture. The company values diversity, promotes a respectful work environment, and encourages collaboration and inclusivity among its employees. This creates a supportive atmosphere where individuals can thrive, contribute their unique perspectives, and feel valued as part of the team.
+
+
+	Cons: 
+		Some of our clients are super big and boring to pay the bills
+
+
+	Summary: 
+		Exceptional Teamwork and Growth Opportunities: A Rewarding Journey at Tanzu
+
+
+Review 9:
+	Job Title: Sr Partner Business Manager
+	Location: None
+	Review Date: 2023-12-12T07:39:40.627
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		I got the opportunity to work with some of the finest, hardest working, most intelligent employees in the tech industry. Managers always looked out for their teams and the employees were always team builders! Great employer and even better friends!
+
+
+	Cons: 
+		I have nothing bad to say about VMware, its management, or the fellow employees.
+
+
+	Summary: 
+		Great company to work for! But recent acquisition by Broadcom may alter everything!
+
+
+Review 10:
+	Job Title: Staff Performance Engineer
+	Location: None
+	Review Date: 2023-10-22T15:49:36.460
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		VMware is a visionary company in terms of what they are famous for. However, see my comments about working on a product unrelated to what VMware is known for.
+
+
+	Cons: 
+		VMware is a great company in terms of its primary focus. However, they also have some products that are out of their mainstream. I worked on one of those. The management of this group was completely clueless in terms of the industry, the competition, and the product direction. They have no ambition to make a better product. Instead, they were happy to make a little money based on maintenance revenues from legacy customers. Working in an environment of 2nd and 3rd-rate engineers running on auto-pilot was very frustrating. Had I known this in advance of joining, I would have never signed up.
+
+
+	Summary: 
+		Not a visionary company
+
+
+Review 11:
+	Job Title: Program Manager
+	Location: Austin, TX
+	Review Date: 2024-02-08T11:39:32.593
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Amazing work life balance, loved working there.
+
+
+	Cons: 
+		Company was acquired and I got laid off.
+
+
+	Summary: 
+		Good place to work
+
+
+Review 12:
+	Job Title: Senior Member of Technical Staff
+	Location: None
+	Review Date: 2024-01-16T12:35:03.673
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good pay and stock RSU for those that survive purges
+
+
+	Cons: 
+		Layoffs. Major shifts with Broadcom takeover. Benefits not as good as VMware.  
+
+
+	Summary: 
+		Hard to read the tea leaves
+
+
+Review 13:
+	Job Title: Member Of Technical Staff
+	Location: Palo Alto, CA
+	Review Date: 2023-10-16T11:13:38.097
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Compensation: Competitive salary, equity, and bonuses Benefits: Medical, dental, and vision coverage, 401K match, paid holidays and vacation, and more Work-life balance: Flexible work arrangements and unlimited vacation days Employee wellbeing: Free mental health services, wellbeing allowances, and family planning and support Career development: Career and personal development programs Exposure to new technologies: Many projects involve cutting-edge technologies Flexibility: The ability to work from home
+
+
+	Cons: 
+		Base comp pay ranges are comparable to FAANG, but the stock is stuck in a holding pattern Bonus and RSUs refreshers are weak It's common practice for people to make $60k to $150k or more a year It's also an HR department policy that 4 people in the same position may not have the same salary or benefits VMware employees receive medical, dental, and vision coverage, as well as a 401K match, paid holidays and vacation
+
+
+	Summary: 
+		Excellent company to work for.
+
+
+Review 14:
+	Job Title: Staff Engineer 1
+	Location: Los Angeles, CA
+	Review Date: 2023-12-30T13:13:56.953
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Culture was great, as an employee you really felt taken care of with wellness allowances, raises, and bonuses.
+
+
+	Cons: 
+		Often times products and services were unknown to the larger technology industry, rather than taking the products to the people the expectation was that the people would come and find the products.
+
+
+	Summary: 
+		Good culture but bad management
+
+
+Review 15:
+	Job Title: Director
+	Location: Palo Alto, CA
+	Review Date: 2023-10-18T11:26:37.943
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Great company where you can learn a lot if connected to right people
+
+
+	Cons: 
+		There are some sexist men who are troglodytes in that they don't know how to handle Type A personality women. This is a big problem and not to mention the mgt. VP supported this very unqualified manager.   It became a risk and this person misbehaved consistently. There were so many problems with this male its was like working with a caveman who had never worked with an intelligent, high performing female.
+
+
+	Summary: 
+		troglodytes in this specific dept.
+
+
+Review 16:
+	Job Title: Manager
+	Location: Austin, TX
+	Review Date: 2023-09-22T08:41:17.710
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		The people The technology the VMW way so long as it's still VMW
+
+
+	Cons: 
+		Right now, almost everything. So many people have completely checked out it's getting very difficult to get real work done The different product groups are still trying to push their products to try to seem relevant once BC takes over. Products aren't ready for prime time but Exec Leadership keeps announcing things and signing agreements that simply won't work. Maybe they think that by rolling out a bunch of programs that require hand-holding some people's jobs will be saved. BC hasn't shown any history of that mattering one bit.
+
+
+	Summary: 
+		This place used to be amazing
+
+
+Review 17:
+	Job Title: CS  Manager
+	Location: Palo Alto, CA
+	Review Date: 2024-01-02T12:51:32.077
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great people. In general the employees are technical and love what they do. Will miss the culture and collaboration of the VMware family.
+
+
+	Cons: 
+		New Broadcom acquisition leaves a lot of questions about the future. Hope it turns out well!
+
+
+	Summary: 
+		Will see what the future holds - VMware was a great place to work
+
+
+Review 18:
+	Job Title: Inside Sales
+	Location: Austin, TX
+	Review Date: 2023-11-30T10:56:58.793
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The culture that lived at VMWare is a rare one to find in corporate America. Talented people. The perks were great and the career growth track. I will miss this company's culture.
+
+
+	Cons: 
+		Operational processes are timely and hold up the sales processes. Processes are more complex than they should be to accomplish parts of the sales cycle. Rapid changes. The company was recently acquired and the culture will be hard to uphold with all the changes to come.
+
+
+	Summary: 
+		Will miss the culture and core of this company
+
+
+Review 19:
+	Job Title: Technical Support Engineer
+	Location: Broomfield, CO
+	Review Date: 2023-11-16T11:55:15.993
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Great Company or used to be.
+
+
+	Cons: 
+		Do not join teams that have been incorporated via an acquisition.
+		That doesn’t bode well under the current circumstances with AVGO.
+
+
+	Summary: 
+		Fun while it lasted
+
+
+Review 20:
+	Job Title: Global Account Manager
+	Location: Austin, TX
+	Review Date: 2023-09-11T10:04:42.880
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		The company culture was the reason I joined this company and I hope it continues to be the major driving factor for me staying. My manager is awesome however his leadership has been in flux since the Broadcom announcement. The pay and benefits have been great as well.
+
+
+	Cons: 
+		There has been many negative things written publicly about the Broadcom acquisition and I am not going to add to them. I am optimistic for this change and really hope that Broadcom injects a bit of discipline into our company culture. It seems at times that anyone can say no to a deal and that should not be the case.
+
+
+	Summary: 
+		Great Place to Work
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

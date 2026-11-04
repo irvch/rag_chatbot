@@ -1,0 +1,303 @@
+
+Targa Resources is a Pipelines company based in 77002 Houston, Texas. 
+The company has 2,850 employees and has a revenue of $20,930 according to Fortune 500.
+The company is valued at $16,507 and has a profit of $1,196. The CEO of the company is Matthew J. Meloy.
+
+The Company has the following ratings: 
+Average ratings for Targa Resources:
+Business Outlook: 0.7
+
+Career Opportunities: 3.9
+Distribution: 
+	1: 1 
+	2: 0 
+	3: 1 
+	4: 2 
+	5: 3 
+
+CEO: 0.83
+
+Compensation and Benefits: 3.5
+Distribution: 
+	1: 1 
+	2: 1 
+	3: 1 
+	4: 2 
+	5: 2 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 1 
+	2: 0 
+	3: 1 
+	4: 3 
+	5: 2 
+
+Diversity and Inclusion: 4.6
+Distribution: 
+	1: 0 
+	2: 0 
+	3: 0 
+	4: 1 
+	5: 2 
+
+Overall: 4.1
+Distribution: 
+	1: 0 
+	2: 1 
+	3: 1 
+	4: 4 
+	5: 3 
+
+Senior Management: 4.2
+Distribution: 
+	1: 0 
+	2: 0 
+	3: 3 
+	4: 1 
+	5: 3 
+
+Work Life Balance: 4.5
+Distribution: 
+	1: 0 
+	2: 0 
+	3: 0 
+	4: 4 
+	5: 3 
+
+Review Count: 9
+
+Recommend to Friend: 
+	RECOMMEND: 4
+	WONT RECOMMEND: 3
+
+
+
+
+The company has 9 reviews on Glassdoor. The last review was posted on 2023-10-08T18:03:29.300. 
+There are 8 Reviews for Targa Resources:
+
+Review 1:
+	Job Title: Human Resources
+	Location: None
+	Review Date: 2022-07-19T11:38:58.707
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Culture, scheduling, and mostly flexibility
+
+
+	Cons: 
+		I have no cons at this time to report
+
+
+	Summary: 
+		HR
+
+
+Review 2:
+	Job Title: In Home Caregiver
+	Location: Effort, PA
+	Review Date: 2023-10-08T18:03:29.300
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Rewarding job to have here
+
+
+	Cons: 
+		Not enough hours not enough pay
+
+
+	Summary: 
+		Low pay for rewarding job
+
+
+Review 3:
+	Job Title: None
+	Location: None
+	Review Date: 2017-12-07T11:44:40.757
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good hours, money, people, time
+
+
+	Cons: 
+		No Benefits what so ever
+
+
+	Summary: 
+		HR Manager
+
+
+Review 4:
+	Job Title: Executive Director
+	Location: Zaria, Kaduna
+	Review Date: 2022-06-28T00:16:45.670
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		People relationship, growth, teachable people
+
+
+	Cons: 
+		There are no cons observed so far as the business is growing
+
+
+	Summary: 
+		Cultivation Ideas for Growth
+
+
+Review 5:
+	Job Title: Human Resources Manager
+	Location: Shahdol
+	Review Date: 2022-06-22T00:05:49.120
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Willing Join HR Dept. Human Resource Manager
+
+
+	Cons: 
+		No idea HR.Dept. Human Resource Manager
+
+
+	Summary: 
+		Willing Join HR Dept.
+
+
+Review 6:
+	Job Title: Teacher Assistant
+	Location: Calcutta
+	Review Date: 2020-04-17T01:01:27.717
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Work hard.
+		Responsible.
+		Ms PowerPoint.
+		Ms. Excel
+		Preapared the presentation for meeting.
+
+
+	Cons: 
+		Confident.
+		Strength and weaknesses are same.
+
+
+	Summary: 
+		Taken responsibility of all the staffs.
+
+
+Review 7:
+	Job Title: None
+	Location: Manila, Manila
+	Review Date: 2016-08-31T17:11:36.587
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		for the seek of my family needs esp the studies of my kids..
+
+
+	Cons: 
+		too much time to work
+
+
+	Summary: 
+		payroll and billing oic
+
+
+Review 8:
+	Job Title: None
+	Location: None
+	Review Date: 2018-06-25T23:30:52.427
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		A company that values culture, integrity, enthusiasm and honesty.
+
+
+	Cons: 
+		Work from home is not available
+
+
+	Summary: 
+		Review
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,644 @@
+
+Corning is a Electronics, Electrical Equip. company based in 14831 Corning, New York. 
+The company has 57,500 employees and has a revenue of $14,189 according to Fortune 500.
+The company is valued at $29,890 and has a profit of $1,316. The CEO of the company is Wendell P. Weeks.
+
+The Company has the following ratings: 
+Average ratings for Corning:
+Business Outlook: 0.44
+
+Career Opportunities: 3.4
+Distribution: 
+	1: 163 
+	2: 204 
+	3: 472 
+	4: 482 
+	5: 439 
+
+CEO: 0.72
+
+Compensation and Benefits: 3.8
+Distribution: 
+	1: 76 
+	2: 128 
+	3: 459 
+	4: 638 
+	5: 454 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 155 
+	2: 183 
+	3: 310 
+	4: 447 
+	5: 596 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 73 
+	2: 64 
+	3: 157 
+	4: 257 
+	5: 406 
+
+Overall: 3.7
+Distribution: 
+	1: 112 
+	2: 189 
+	3: 437 
+	4: 716 
+	5: 630 
+
+Senior Management: 3.2
+Distribution: 
+	1: 231 
+	2: 234 
+	3: 429 
+	4: 449 
+	5: 333 
+
+Work Life Balance: 3.5
+Distribution: 
+	1: 202 
+	2: 210 
+	3: 387 
+	4: 485 
+	5: 471 
+
+Review Count: 2092
+
+Recommend to Friend: 
+	RECOMMEND: 1166
+	WONT RECOMMEND: 413
+
+
+
+
+The company has 2525 reviews on Glassdoor. The last review was posted on 2024-04-14T20:04:46.887. 
+There are 20 Reviews for Corning:
+
+Review 1:
+	Job Title: Director
+	Location: None
+	Review Date: 2024-03-04T07:05:57.457
+	Business Outlook: NEUTRAL
+	Career Opportunities: 0
+	CEO: NO_OPINION
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good learning experience 
+		Good location for work life balance 
+		Ethical culture 
+
+
+	Cons: 
+		Isolated  location in upsate NY prevents long term career movement 
+		
+		Limited opportunity for career growth
+
+
+	Summary: 
+		Good R&amp;D company
+
+
+Review 2:
+	Job Title: Product Manager
+	Location: Boston, MA
+	Review Date: 2024-04-14T13:15:14.373
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Stability, core values and opportunity
+
+
+	Cons: 
+		There is bureaucracy and red tape limitations
+
+
+	Summary: 
+		Good Fortune 500 Company
+
+
+Review 3:
+	Job Title: None
+	Location: Charlotte, NC
+	Review Date: 2024-01-05T19:26:55.497
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Hybrid work schedule, nice office coffee bar, good company reputation, big company, pension
+
+
+	Cons: 
+		1. IT hardware outdated, software and technology not as good as you may think
+		2. Office politics, new employee and young professional get singled out. You can't expect to be treated with respect, especially when dealing with senior employees who have tenure with the company. Favoritism and double standards are common. You just can't trust anyone, don't give out any personal information. Slurs cycle around pretty quickly. 
+		3. Different teams and department go against each other, no cooperation or coordination, never ready for tasks. People do their job wrong and create a mass for others. But they don't care. Don't expect team members to look out for each other, they may stab your back!
+		4. New ideas and positive changes not welcomed. Many conversations are one-way. You just have to listen and agree (or keep your mouth shut)
+		5. There's diversity of course but seems no inclusion.
+		6. Lower than average 401k match, no higher education incentive, cannot accrual PTO, no overtime pay. 
+		7. If you are the favored one, that's good! You'll like this place.
+
+
+	Summary: 
+		Toxic work environment, check who you work with
+
+
+Review 4:
+	Job Title: Product Manager
+	Location: Corning, NY
+	Review Date: 2024-04-09T14:24:46.163
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Flexibility
+		Nice People
+		Flexibility
+		Nice People
+		Flexibility
+		Nice People
+
+
+	Cons: 
+		Layoffs
+		Slow growth
+		not given importance if not part of the core business.
+
+
+	Summary: 
+		If you are not part of the core business...then the pay is low
+
+
+Review 5:
+	Job Title: Technician
+	Location: Glendale, AZ
+	Review Date: 2024-04-11T19:13:47.223
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good company benefit and time off
+
+
+	Cons: 
+		paid time off and benefits
+
+
+	Summary: 
+		Really good 
+
+
+Review 6:
+	Job Title: Management
+	Location: None
+	Review Date: 2024-04-08T18:44:31.157
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		rich history of innovation
+		affordable small-town atmosphere with little traffic
+
+
+	Cons: 
+		Management/leadership is tone deaf and cannot figure out how to promote the right people
+
+
+	Summary: 
+		Would not recommend
+
+
+Review 7:
+	Job Title: Engineer
+	Location: Midland, NC
+	Review Date: 2024-04-14T20:04:46.887
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Interesting Automation- Related Problems to Solve
+
+
+	Cons: 
+		Absurd Amounts of Hours Working On-Call, little to not training opportunities, almost no opportunity for advancement, low salary, terrible location, incompetent management
+
+
+	Summary: 
+		Disappointing Organization
+
+
+Review 8:
+	Job Title: Senior Research Technician
+	Location: Painted Post, NY
+	Review Date: 2024-04-03T10:10:00.213
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Pay is good, work life balance is good
+
+
+	Cons: 
+		Sometimes work is very hectic, other times it can get very slow.
+
+
+	Summary: 
+		Decent company
+
+
+Review 9:
+	Job Title: Intern
+	Location: New York, NY
+	Review Date: 2024-04-02T21:11:03.603
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great Company, Amazing coworkers and good culture
+
+
+	Cons: 
+		Not too bad. Very laid back
+
+
+	Summary: 
+		Would Recommend
+
+
+Review 10:
+	Job Title: Senior Manager
+	Location: Wilmington, NC
+	Review Date: 2024-03-07T08:39:28.750
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Long history of glass and ceramic science. When the economy is good, the company air is good just like a family. Pay and benefits are not so bad but much less than the big tech companies.
+
+
+	Cons: 
+		Layoff happens too frequently. Changes are slow. A bit of military culture at the higher-up positions.
+
+
+	Summary: 
+		Frequent layoff
+
+
+Review 11:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-27T16:46:56.800
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Small town, short commute time, diverse community
+
+
+	Cons: 
+		Rampant favoritism as selected folks get good projects, promotion and also remote work. Rules are not applicable universally. 
+		Salary is not competitive at all. 
+		Very remote location, nothing to do!
+		Does not do anything to retain employees who are not favorites.
+
+
+	Summary: 
+		Favoritism is rampant
+
+
+Review 12:
+	Job Title: Quality Control Analyst
+	Location: Manassas, VA
+	Review Date: 2024-03-29T11:27:53.287
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		long breaks, free lunch once in a while
+
+
+	Cons: 
+		not enough compensation, no career advancement
+
+
+	Summary: 
+		ok for experience
+
+
+Review 13:
+	Job Title: Inspection Engineer
+	Location: None
+	Review Date: 2024-01-26T13:12:05.207
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good work-life balance. Polite culture. Based in a quaint little community that can be charming if that's your speed. Good opportunities to work on technically challenging projects.
+
+
+	Cons: 
+		Way too political. Promotion and salary increase is based purely on seniority and how many years you have with the company. Unless you invent the next class manufacturing process that revolutionizes the field, you can expect to be put on the same promotion track as virtually everyone else.
+
+
+	Summary: 
+		Too political
+
+
+Review 14:
+	Job Title: Process Operator
+	Location: Durham, NC
+	Review Date: 2024-03-25T11:22:20.347
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Overtime available
+		2.5 holiday pay if you work on holiday
+
+
+	Cons: 
+		Mandatory overtime and not sign in bonus
+
+
+	Summary: 
+		Good job but mandatory overtime
+
+
+Review 15:
+	Job Title: Technician
+	Location: Hickory, NC
+	Review Date: 2024-03-21T17:16:50.117
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Days off, mentors are great, freedom
+
+
+	Cons: 
+		On call, managers are not great, favoritism, and talk behind backs
+
+
+	Summary: 
+		Beware of what department your in
+
+
+Review 16:
+	Job Title: General Production Worker
+	Location: Big Flats, NY
+	Review Date: 2024-03-15T09:19:17.337
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 3
+
+	Pros: 
+		If you like working crazy hours then this is the place to work. Make pretty good money.
+
+
+	Cons: 
+		They show favoritism no matter how hard you work and learn everything about the equipment.
+
+
+	Summary: 
+		Production worker 
+
+
+Review 17:
+	Job Title: Research Scientist
+	Location: None
+	Review Date: 2024-03-26T09:07:52.437
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Very good work life balance
+
+
+	Cons: 
+		Not very good on culture
+
+
+	Summary: 
+		Corning
+
+
+Review 18:
+	Job Title: Administrative Assistant
+	Location: Winston-Salem, NC
+	Review Date: 2024-03-14T09:23:01.370
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Extremely diverse. Very safety cconscious.
+
+
+	Cons: 
+		They don't include temporary employees in company-wide events. Even though they rely on a lot of temporaries to do the work.
+
+
+	Summary: 
+		Decent to work at
+
+
+Review 19:
+	Job Title: Data Engineer
+	Location: Tewksbury, MA
+	Review Date: 2024-03-21T12:31:29.127
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Overall Good Work Life Balance
+
+
+	Cons: 
+		Less Pay than average pay in the market
+
+
+	Summary: 
+		Good Work Life Balance but less pay
+
+
+Review 20:
+	Job Title: Finishing Operator
+	Location: Painted Post, NY
+	Review Date: 2024-01-29T13:56:14.680
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good pay on the higher end for what you can make straight out the gate. Lots of chances to change jobs and advance.
+
+
+	Cons: 
+		Don't really care about employees just about numbers. They tend to lie in communication meetings. They lay off alot and right now seem to not be doing well but only because it's getting close to contract time. Swing shift work you'll forget who you are after awhile of doing these shifts.
+
+
+	Summary: 
+		Good pay but don't care about the employees
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

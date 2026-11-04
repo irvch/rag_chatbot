@@ -1,0 +1,640 @@
+
+Dow is a Chemicals company based in 48674 Midland, Michigan. 
+The company has 37,800 employees and has a revenue of $56,902 according to Fortune 500.
+The company is valued at $38,812 and has a profit of $4,582. The CEO of the company is James R. Fitterling.
+
+The Company has the following ratings: 
+Average ratings for Dow:
+Business Outlook: 0.69
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 205 
+	2: 357 
+	3: 819 
+	4: 924 
+	5: 844 
+
+CEO: 0.88
+
+Compensation and Benefits: 4.1
+Distribution: 
+	1: 75 
+	2: 160 
+	3: 673 
+	4: 1299 
+	5: 948 
+
+Culture and Values: 4.1
+Distribution: 
+	1: 192 
+	2: 262 
+	3: 565 
+	4: 841 
+	5: 1108 
+
+Diversity and Inclusion: 4.3
+Distribution: 
+	1: 62 
+	2: 56 
+	3: 149 
+	4: 300 
+	5: 700 
+
+Overall: 4.1
+Distribution: 
+	1: 157 
+	2: 243 
+	3: 734 
+	4: 1402 
+	5: 1183 
+
+Senior Management: 3.7
+Distribution: 
+	1: 334 
+	2: 380 
+	3: 775 
+	4: 809 
+	5: 580 
+
+Work Life Balance: 3.9
+Distribution: 
+	1: 189 
+	2: 305 
+	3: 747 
+	4: 934 
+	5: 980 
+
+Review Count: 3727
+
+Recommend to Friend: 
+	RECOMMEND: 2183
+	WONT RECOMMEND: 545
+
+
+
+
+The company has 4428 reviews on Glassdoor. The last review was posted on 2024-04-17T21:58:44.903. 
+There are 20 Reviews for Dow:
+
+Review 1:
+	Job Title: Engineer
+	Location: Freeport, TX
+	Review Date: 2024-04-11T11:28:07.273
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Great place to work great benefits, great pay diverse group of highly skilled highly confident individual to work with
+
+
+	Cons: 
+		Couldn’t think of any this place is great
+
+
+	Summary: 
+		Awesome place to work
+
+
+Review 2:
+	Job Title: Research and Development Technologist
+	Location: Midland, MI
+	Review Date: 2024-04-09T06:11:21.663
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Pay
+		Healthcare 
+		9% 401k
+		Numerous "soft benefits" which I wish were payouts. Like virgin health app and a sad recognition system. Still pros but shadows of historical past.
+		Strong safety system.
+		Diversity and inclusion programs
+		Work life balance for some employees (flexible hours)
+
+
+	Cons: 
+		Large company makes for a lot of bureaucracy. 
+		Strong safety system which may feel, again bureaucratic at times. 
+		
+		Diversity/inclusion programs in the hiring process are excluding candidates or delaying hiring because we don't have the required diversity in the pool of applicants at times. 
+		
+		Work life balance is not universal. Lower tier employees typically don't get this benefit.
+		
+		Top down approach to most things culture/values
+
+
+	Summary: 
+		Good pay for the area.
+
+
+Review 3:
+	Job Title: Associate Research Scientist
+	Location: Freeport, TX
+	Review Date: 2024-03-09T06:37:46.950
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Focus on new technology development for future plastics recycling and sustainability efforts, with strong investment in people and assets and patience to see those goals through (for now). Diverse workforce with many high performing contributors. Strong emphasis on expertise, creating easily identified knowledge centers and promoting career growth by depth, not breadth.
+
+
+	Cons: 
+		Slow career progression with low transparency. Sprawling organization that's difficult to reach and impact, and easy to get lost within. Difficult to move laterally, taking enormous effort from the employee with little support from management. Significant "churn" in support processes like safety and administrative tasks - often employee driven where teams are encouraged to make changes, often just reversing previous decisions with no clear progress over time.
+
+
+	Summary: 
+		Slow career growth but exciting company vision
+
+
+Review 4:
+	Job Title: None
+	Location: South Charleston, WV
+	Review Date: 2024-03-13T07:54:17.163
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Friendly workforce
+		Work Life Balance
+		Compensation
+
+
+	Cons: 
+		Leadership over the past 3 years has gotten worse. Plant director to managers. Doing more with less isn’t great and constantly cutting budgets but wonder why the plant is deteriorating and looks like a third world country isn’t ideal. Using band aids to fix problems or a skeleton crew for maintenance to cut costs also increases down time.
+
+
+	Summary: 
+		This particular location has gone down hill
+
+
+Review 5:
+	Job Title: Marketing Manager
+	Location: Houston, TX
+	Review Date: 2024-04-09T06:11:01.877
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Nice people, stable environment, good work/life balance. Easy to move up if you're willing to move around and check the boxes. Lots of managers want to see you succeed.
+
+
+	Cons: 
+		Slow and hampered by red tape, antithesis of innovative. Pressure to move to HQ in Midland, MI if you want to move higher.
+
+
+	Summary: 
+		Safe, but bland and uninspiring
+
+
+Review 6:
+	Job Title: Member Of Technical Staff
+	Location: None
+	Review Date: 2024-04-17T09:02:33.720
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Limited flexibility on the work schedule
+
+
+	Cons: 
+		Not profesional environment. Rudeness is accepted as normal communication. Technical knowledge of the people is questionable. Dow does not pay earned vacations time when the employee leaves the company.
+
+
+	Summary: 
+		Not recommended
+
+
+Review 7:
+	Job Title: Process Technician
+	Location: La Porte, TX
+	Review Date: 2024-04-11T12:14:58.787
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Many opportunities for overtime &amp; competitive pay.
+
+
+	Cons: 
+		Leadership was not trustworthy &amp; would bend rules (even those that involved safety) when it was convenient for them.
+
+
+	Summary: 
+		Dow Employee Review
+
+
+Review 8:
+	Job Title: Process Operator
+	Location: Seadrift, TX
+	Review Date: 2024-04-10T09:23:59.103
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Smaller plant, Apprenticeship programs, great with diversity and inclusion
+
+
+	Cons: 
+		Lower pay than other plants around. Short staffed shifts that create a lot of overtime
+
+
+	Summary: 
+		Process operator at Dow
+
+
+Review 9:
+	Job Title: Process Technician
+	Location: Deer Park, TX
+	Review Date: 2024-04-07T06:13:04.387
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		DOW is going to give you a great head start in the safety realm in the industry.
+
+
+	Cons: 
+		Not the competitive with a handful of other companies on the ship channel.
+
+
+	Summary: 
+		Great company to start at
+
+
+Review 10:
+	Job Title: Supply Chain Analyst
+	Location: Midland, MI
+	Review Date: 2024-03-27T11:35:27.620
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great Pay and Benefits. The people are amazing at Dow and the culture is top tier.
+
+
+	Cons: 
+		Ability to move up the ladder is difficult and politics are often played in every decision.
+
+
+	Summary: 
+		Dow Company Review 
+
+
+Review 11:
+	Job Title: Supply Chain Analyst
+	Location: Midland, MI
+	Review Date: 2024-03-27T11:35:27.620
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great Pay and Benefits. The people are amazing at Dow and the culture is top tier.
+
+
+	Cons: 
+		Ability to move up the ladder is difficult and politics are often played in every decision.
+
+
+	Summary: 
+		Dow Company Review 
+
+
+Review 12:
+	Job Title: Senior Process Technician
+	Location: Plaquemine, LA
+	Review Date: 2024-03-20T08:30:51.933
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Dow has a bigger emphasis on safety than at other chemical plants. They also have great benefits. Also there is room to move to a day job, provided you have proven your merit
+
+
+	Cons: 
+		This Plaquemine location involves crossing the Mississippi bridge
+		Operations are the most overworked group at times. Will involve speaking up to address concerns to fix this issue if it happens in your group
+
+
+	Summary: 
+		Working at Dow
+
+
+Review 13:
+	Job Title: Operations Leader
+	Location: Houston, TX
+	Review Date: 2024-04-04T20:41:58.987
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great goals - especially in sustainability, circular economy, and DEI.
+
+
+	Cons: 
+		Not a lot of cons
+
+
+	Summary: 
+		Great company
+
+
+Review 14:
+	Job Title: Regional Marketing Manager
+	Location: Switzerland, SC
+	Review Date: 2024-04-03T13:37:29.503
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Empowered
+		Market confirm salary 
+		Great culture
+
+
+	Cons: 
+		Work life balance - getting the job done
+
+
+	Summary: 
+		Great place to work
+
+
+Review 15:
+	Job Title: Senior Manager
+	Location: Houston, TX
+	Review Date: 2024-04-05T06:36:54.020
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great culture good work life balance
+
+
+	Cons: 
+		Pay is median compared to peers
+
+
+	Summary: 
+		Salary
+
+
+Review 16:
+	Job Title: Production Engineer
+	Location: Midland, TX
+	Review Date: 2024-04-03T03:15:46.033
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good people food and culture
+
+
+	Cons: 
+		Nothing to share here all good
+
+
+	Summary: 
+		Thu
+
+
+Review 17:
+	Job Title: Senior Project Engineering Manager
+	Location: Houston, TX
+	Review Date: 2024-03-30T07:07:39.747
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Great teams and network of people. Great work life balance
+
+
+	Cons: 
+		Not very transperent about professional development plan and salary expecations for position
+
+
+	Summary: 
+		Great Place to Work
+
+
+Review 18:
+	Job Title: Director
+	Location: Midland, MI
+	Review Date: 2024-03-18T11:21:08.713
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		A large diverse company with many career opportunities.
+
+
+	Cons: 
+		Can be a bit bureaucratic and lay offs at bottom of every cycle. They’ve lost of ton of experienced talent in the past 5-10 years
+
+
+	Summary: 
+		Great Career
+
+
+Review 19:
+	Job Title: Senior Scientist
+	Location: Midland, MI
+	Review Date: 2024-03-27T11:49:34.930
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great research in many groups.
+
+
+	Cons: 
+		Typical corporate dynamics. Changes at a snails pace.
+
+
+	Summary: 
+		Typical Corporation
+
+
+Review 20:
+	Job Title: Analytical Technician
+	Location: Carrollton, KY
+	Review Date: 2024-03-15T04:31:37.260
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Decent pay and Decent benefits
+
+
+	Cons: 
+		They do not care about the employee; the investors come first. The worst thing is the shift work schedule.
+
+
+	Summary: 
+		It's not what it used to be
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

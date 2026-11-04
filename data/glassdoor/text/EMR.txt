@@ -1,0 +1,622 @@
+
+Emerson Electric is a Industrial Machinery company based in 63136 St. Louis, Montana. 
+The company has 85,500 employees and has a revenue of $19,629 according to Fortune 500.
+The company is valued at $49,792 and has a profit of $3,231. The CEO of the company is Lal L. Karsanbhai.
+
+The Company has the following ratings: 
+Average ratings for Emerson Electric:
+Business Outlook: 0.72
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 452 
+	2: 743 
+	3: 1644 
+	4: 1800 
+	5: 1103 
+
+CEO: 0.9
+
+Compensation and Benefits: 3.4
+Distribution: 
+	1: 369 
+	2: 875 
+	3: 2006 
+	4: 1698 
+	5: 779 
+
+Culture and Values: 3.9
+Distribution: 
+	1: 409 
+	2: 532 
+	3: 1154 
+	4: 1717 
+	5: 1702 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 160 
+	2: 191 
+	3: 489 
+	4: 863 
+	5: 1148 
+
+Overall: 3.9
+Distribution: 
+	1: 314 
+	2: 546 
+	3: 1707 
+	4: 2590 
+	5: 1622 
+
+Senior Management: 3.5
+Distribution: 
+	1: 669 
+	2: 825 
+	3: 1484 
+	4: 1614 
+	5: 970 
+
+Work Life Balance: 3.9
+Distribution: 
+	1: 377 
+	2: 547 
+	3: 1376 
+	4: 1856 
+	5: 1552 
+
+Review Count: 6792
+
+Recommend to Friend: 
+	RECOMMEND: 3784
+	WONT RECOMMEND: 1222
+
+
+
+
+The company has 7507 reviews on Glassdoor. The last review was posted on 2024-04-17T09:10:25.043. 
+There are 20 Reviews for Emerson Electric:
+
+Review 1:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-21T07:49:51.523
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Strong focus on ethics and culture.
+
+
+	Cons: 
+		I have nothing negative to say.
+
+
+	Summary: 
+		Great company
+
+
+Review 2:
+	Job Title: Machinist
+	Location: Pasadena, TX
+	Review Date: 2024-04-10T08:32:21.053
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Decent pay, freedom of developing independent machining style.
+
+
+	Cons: 
+		Machining capability reminiscent of a shop from 1980. No CAM available, tooling disorganized. Daily focus on safety consistently contradicts reality in the shop. 13 days on 1 day off strongly encouraged, terrible work/ life balance. Deriding and unappreciative management. It's all about the numbers at the end of each month, but they will attempt to convince you otherwise.
+
+
+	Summary: 
+		Great company with poor management at this particular site. . 
+
+
+Review 3:
+	Job Title: IT Program Manager
+	Location: Round Rock, TX
+	Review Date: 2024-03-26T13:23:30.790
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Emerson is a globally recognized leader in engineering and technology solutions, particularly in the fields of automation, process management, and industrial innovation. Employees get oppurtunity for diversified experience.
+
+
+	Cons: 
+		Talent Development: Continuously investing in talent development and fostering a culture of innovation can further empower employees to drive growth and maintain Emerson's competitive edge.
+
+
+	Summary: 
+		Emerson is Global Leader.
+
+
+Review 4:
+	Job Title: Manufacturing Engineer
+	Location: Shakopee, MN
+	Review Date: 2024-04-16T18:37:35.837
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great culture for first full time job out of school.
+
+
+	Cons: 
+		Low paying compared to others.
+
+
+	Summary: 
+		Mfg. Eng. 
+
+
+Review 5:
+	Job Title: Electrical Engineer
+	Location: Los Angeles, CA
+	Review Date: 2024-04-17T09:10:25.043
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great work life balance and management
+
+
+	Cons: 
+		A little bit of a slow moving environment
+
+
+	Summary: 
+		Great time
+
+
+Review 6:
+	Job Title: VP Sales and Marketing
+	Location: Milwaukee, WI
+	Review Date: 2024-04-12T06:38:21.497
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Emerson has a great culture and people practices
+
+
+	Cons: 
+		Overall compensation long term is in line with large conglomerates. However, its a bit low for keeping top talent.
+
+
+	Summary: 
+		Great business
+
+
+Review 7:
+	Job Title: Lead Cyber Security Analyst
+	Location: Saint Louis, MO
+	Review Date: 2024-04-11T11:46:10.127
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		The company has great growth opportunities.
+
+
+	Cons: 
+		Over working employees, expected to work 40+ hours
+
+
+	Summary: 
+		Good Place to work
+
+
+Review 8:
+	Job Title: Engineering Specialist
+	Location: Marshalltown, IA
+	Review Date: 2024-04-10T07:47:47.730
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Great people to work with, sick time, flexible hours
+
+
+	Cons: 
+		Location, benefits package, new management
+
+
+	Summary: 
+		Use to be a great place to work
+
+
+Review 9:
+	Job Title: Global FP&A Analyst
+	Location: Cranberry Township, PA
+	Review Date: 2024-03-13T06:35:22.457
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Have some slower time periods.
+
+
+	Cons: 
+		FP&amp;A team has zero direction and no sense of leaderhship. Quick to blame the new hire for all their current issues that existed long before the new hire. They also lied in my interview saying the postions in office hours are flexible but there were not. Came in 30 min before our team and left 30 min before and got talked to about the issue the next day.
+
+
+	Summary: 
+		Horrible Finance Leadership @ PWS Global FP&amp;A
+
+
+Review 10:
+	Job Title: Laborer
+	Location: Marshalltown, IA
+	Review Date: 2024-04-06T21:30:59.160
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		One of the best highest paying employers in town.
+
+
+	Cons: 
+		I can't really think of any
+
+
+	Summary: 
+		Happy to work there.
+
+
+Review 11:
+	Job Title: Strategic Account Manager
+	Location: Houston, TX
+	Review Date: 2024-04-05T11:39:51.267
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Lots of good acquisitions and potential done by Emerson
+
+
+	Cons: 
+		Overall strategic goal that enables all the solutions to come together.
+
+
+	Summary: 
+		Lots of potential
+
+
+Review 12:
+	Job Title: Senior Sales Executive
+	Location: Houston, TX
+	Review Date: 2024-03-25T08:31:25.833
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Good people, technology is solid, and well structured
+
+
+	Cons: 
+		Salary is competitive, but any additional bonuses are not as competitive. The business model for the process automation business in North America working through partners is very challenging and lacks a true connection to the end-users.
+
+
+	Summary: 
+		Solid place to work
+
+
+Review 13:
+	Job Title: Mechanical Design Engineer
+	Location: Shakopee, MN
+	Review Date: 2024-04-05T09:51:07.957
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Investment in employees advancement and training
+
+
+	Cons: 
+		Large org with siloed departments
+
+
+	Summary: 
+		Good for work life balance
+
+
+Review 14:
+	Job Title: Sr Product  Analyst 
+	Location: None
+	Review Date: 2024-04-06T08:02:59.317
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Flexible work time and good people
+
+
+	Cons: 
+		Low pay and bad leadership
+
+
+	Summary: 
+		Not great
+
+
+Review 15:
+	Job Title: Human Resources
+	Location: Minneapolis, MN
+	Review Date: 2024-03-31T15:42:38.893
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Supportive team environment. Innovative thinkers.
+
+
+	Cons: 
+		Could offer a more competitive PTO plan.
+
+
+	Summary: 
+		Big Company with a small company feel
+
+
+Review 16:
+	Job Title: Inside Sales Engineer
+	Location: Shakopee, MN
+	Review Date: 2024-03-13T20:46:22.467
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Can provide outlet to other jobs in company
+
+
+	Cons: 
+		tied to phone at desk all day, taking in email and phone orders as well as customer calls regarding problems relating to products that you have little knowledge of when first starting. Most use this as a jumping point to get to other positions within company.
+
+
+	Summary: 
+		Busy Job with minimal upside
+
+
+Review 17:
+	Job Title: Director of Quality
+	Location: Saint Louis, MO
+	Review Date: 2024-03-25T09:20:53.510
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		flex schedule, work/life balance, opportunities
+
+
+	Cons: 
+		pay is average, lots of spin offs and layoffs over the last 3 years
+
+
+	Summary: 
+		historically good company with unknown future direction
+
+
+Review 18:
+	Job Title: MES Engineer
+	Location: Austin, TX
+	Review Date: 2024-03-29T08:37:04.480
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		good management, reasonable work life balance
+
+
+	Cons: 
+		turnover is kinda high, employees are stretched thin
+
+
+	Summary: 
+		Good job
+
+
+Review 19:
+	Job Title: Plant Area Manager
+	Location: Saint Louis, MO
+	Review Date: 2024-03-27T16:06:32.870
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Stable, structured, able leadership. People focused
+
+
+	Cons: 
+		Reaction times could be slow
+
+
+	Summary: 
+		Great company to work for
+
+
+Review 20:
+	Job Title: None
+	Location: Shakopee, MN
+	Review Date: 2024-03-26T13:26:54.140
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great people and profit sharing benefit is excellent.
+
+
+	Cons: 
+		Sometimes difficult red tape to get things done.
+
+
+	Summary: 
+		Excellent place to work
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

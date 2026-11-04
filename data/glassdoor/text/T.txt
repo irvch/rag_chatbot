@@ -1,0 +1,660 @@
+
+AT&T is a Telecommunications company based in 75202 Dallas, Texas. 
+The company has 160,700 employees and has a revenue of $120,741 according to Fortune 500.
+The company is valued at $137,250 and has a profit of -$8,524. The CEO of the company is John T. Stankey.
+
+The Company has the following ratings: 
+Average ratings for AT&T:
+Business Outlook: 0.45
+
+Career Opportunities: 3.4
+Distribution: 
+	1: 1277 
+	2: 1280 
+	3: 2392 
+	4: 2299 
+	5: 2981 
+
+CEO: 0.49
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 460 
+	2: 596 
+	3: 2023 
+	4: 3240 
+	5: 3860 
+
+Culture and Values: 3.2
+Distribution: 
+	1: 1722 
+	2: 1365 
+	3: 2138 
+	4: 2087 
+	5: 2814 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 820 
+	2: 668 
+	3: 1681 
+	4: 2372 
+	5: 4549 
+
+Overall: 3.5
+Distribution: 
+	1: 1256 
+	2: 1326 
+	3: 3129 
+	4: 3587 
+	5: 3774 
+
+Senior Management: 2.9
+Distribution: 
+	1: 2337 
+	2: 1570 
+	3: 2185 
+	4: 1812 
+	5: 2137 
+
+Work Life Balance: 3.2
+Distribution: 
+	1: 2011 
+	2: 1459 
+	3: 2293 
+	4: 1928 
+	5: 2415 
+
+Review Count: 39436
+
+Recommend to Friend: 
+	RECOMMEND: 5212
+	WONT RECOMMEND: 3470
+
+
+
+
+The company has 41817 reviews on Glassdoor. The last review was posted on 2024-04-18T19:14:57.697. 
+There are 20 Reviews for AT&T:
+
+Review 1:
+	Job Title: Senior Software Engineer
+	Location: Tustin, CA
+	Review Date: 2023-05-08T15:10:08.867
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Innovation Transformation Training and Growth Mindset Organization is embracing newest technologies to bring smiles to our customers faces
+
+
+	Cons: 
+		Transformation can be harder for some, but internal teams are excited about pushing new technology and processes to improve customer experience and customer product delivery. I am excited to see what the future brings! :)
+
+
+	Summary: 
+		Love working for AT&amp;T
+
+
+Review 2:
+	Job Title: Sales
+	Location: Ocala, FL
+	Review Date: 2024-02-13T14:47:03.310
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		lots of money, and work life balance
+
+
+	Cons: 
+		nothings i enjoyed it very much
+
+
+	Summary: 
+		great place
+
+
+Review 3:
+	Job Title: Retail Sales Consultant
+	Location: None
+	Review Date: 2014-09-23T15:19:34.667
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		1 of the best things about AT&T is the training you receive as a New Hire. The company sends you to a designated location for a month's worth of training. They teach you the basics of sales and how to maximize your customers in-store experiences. While at training if it is necessary, they will pay to put you in a hotel, give you an American Express card for daily meals and reimburse you for any travel expenses in a very timely manor. The training you receive is top of the line. 
+		
+		Next, lets talk pay. At&t pays their employees extremely well. With a base salary with paid overtime and full benefits and a compensation program, you won't want to leave the company just for that reason. They take care of their employees for the time you spend with them. 
+		
+		Room for advancement. At AT&T moving up is a breeze if your motivated and a hard working individual. My current assistant store manager has only been with the company 10 months and is already looking at becoming a small business rep.
+
+
+	Cons: 
+		The work and life balance. The hours are long and tiring to the point were when you get home all you want to do is sleep and on your days off as well.
+		
+		Customers you have to deal with and the ability for a sales rep to control the interaction . That is one of the biggest complaint I have about the company. A lot of times customers come into the store hot and as sales reps we don't have the discretion or ability to waive ridiculous fees or fix issues. Everything seems like it has to be refereed to customer care which makes for a bad customer experience in store.
+
+
+	Summary: 
+		Awesome! Very positive
+
+
+Review 4:
+	Job Title: IT Senior Manager
+	Location: Houston, TX
+	Review Date: 2018-08-15T03:37:25.520
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Decent benefits- that’s about it
+
+
+	Cons: 
+		HORRIBLE COMPANY!  Constant layoffs!   Management has also restricted Telecommuting.   Employees used to be able to work from home all the time- now it is limited to
+		4 times a month.  Impossible to find workspace at corporate locations- everything is “drop in” and you need to haul all your stuff into the office daily.   Long hours and absolutely NO WORK LIFE BALANCE.  Management does not care that you have a life outside of “the Death Star”.  Try to leave or work from home with a sick kid, and you get written up!  And I am a high level IT professional.
+
+
+	Summary: 
+		Horrible
+
+
+Review 5:
+	Job Title: Sales Executive
+	Location: Miami, FL
+	Review Date: 2024-04-14T06:46:22.703
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good benefits, paid vacation, ability to make compensation within a sales role. Diversity and inclusion, networking opportunities and opportunities to excel within the industry. Overall company culture and values is top notch.
+
+
+	Cons: 
+		Very little to no job security, constant changes with executive leadership roles, recent job cuts and position realignments have transitioned into shortages in the workplace making it more difficult to get the job done and provide the best possible outcome for employees and customers alike. While their is a compensation plan for sales positions, the commission structure has become less and less annually with more work and responsibilities on those employees that are lucky to have stayed in the company but the pay doesn’t align with the overall position.
+
+
+	Summary: 
+		Personal perspective from a seasoned professional
+
+
+Review 6:
+	Job Title: Analyst
+	Location: None
+	Review Date: 2024-04-11T08:42:00.887
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		AT&amp;T used to be a great place to work- you shared in the knowledge that your job was to help people connect across all demographics and stratispheres, and boy were we proud of Firstnet- helping first responders. the company perks and salaries were always in line with expectations, and WOW was it great to work in a place where they made you feel valued and smart. Always there were incentives for growth and awesome people to mentor you, and help you become exactly what you wanted to be.
+
+
+	Cons: 
+		Now the problem with AT&amp;T is that all of that is gone. The strict consolidation of the employee base to unheard of low numbers based in a few hubs, whole getting rid of some of the most valuable and brilliant minds in the industry, just because they can't move to one of the hubs has created an unmotivated unhappy workforce. People we have worked with forever are leaving through no fault of their own and the companies "inspirational" messages seem tone deaf to those who are staying and losing their co workers. AT&amp;T needs to either mitigate the disaterous losses, or introduce a culture of understanding. the losses are huge but it is not being recognized.
+
+
+	Summary: 
+		Current Culture is a mess
+
+
+Review 7:
+	Job Title: Store Manager
+	Location: San Francisco, CA
+	Review Date: 2024-02-09T16:08:03.177
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		It paid for my schooling.
+
+
+	Cons: 
+		Health benefits are increasing in price, So the spiff of providing health care isn’t that valuable any more. 
+		Leaders talk about wanting a clean business but we are over worked if we cannot meet targets in this economy. (More action plans added. More calls) 
+		Salaried employee are expected to work or be connected 7 days a week because “it’s your business” and “you’re salaried”. You’re talked down to by dictators in directors and associate director positions. Their strategy is to talk down to you and speak to you in a degrading manner. I’m starting to believe that this is a tactic to get people to quit to cut company’s cost. There is no work life balance and everything that you do, no matter how hard you work, no matter how much of an impact that you have on the company, it is not enough. Countless times employees have cried for help from HR to correct this concentration camp we are in. Nothing has change.
+
+
+	Summary: 
+		Talk to people the way you wanted to be treated
+
+
+Review 8:
+	Job Title: In-Home Sales Expert
+	Location: Hoover, AL
+	Review Date: 2024-03-12T04:43:32
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		I was so excited to get this job and was proud to be with a company like AT&amp;T and I believe as a whole it is a good company. However, the toxic culture in their sales channels is intolerable.
+
+
+	Cons: 
+		Micromanaged is an understatement. Was required to report to the HUB frequently as punishment for not trending to goal as early as the 4th day of the month. Reporting in person at 7:15am no matter where you live. Over 60 miles for me which meant leaving for work at 6am and expected to go to dispatches until 5:30pm. Expected to work as late at 9-10pm if closing. Manager would text and call after work hours and on scheduled off days and if you didn’t answer/respond you would be punished with having to report to HUB in person as early as 7am. 
+		 Was routinely subjected to group calls where team members who weren’t trending to goal are called names, made fun of, and threatened to be fired. 
+		 At 5 months in I was 5th in tenure/seniority on a 13 member team. 
+		 No one at my 3-team super HUB had been in their position longer than a year, including mangers. Major red flag
+
+
+	Summary: 
+		Horrible Work Conditions, Toxic Environment, No Work-Life boundaries
+
+
+Review 9:
+	Job Title: Lead Training Manager
+	Location: None
+	Review Date: 2024-04-15T11:55:05.227
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Large, legacy company with a solid, broad telecommunications infrastructure. T is very focused on profit motive, quarterly performance and consistent dividend growth. Large outsourced, offshore footprint.
+
+
+	Cons: 
+		Notorious for driving quarterly results with persistent layoffs. With no foresight or apparent criteria for who is selected, high performance and value add contribution are no guarantees of future employment.  
+		
+		Speed is a challenge due to size and structure.  Constant senior leader turnover and "innovation by committee" approach to new models or unique solutions, serve to only reinforce status quo.
+
+
+	Summary: 
+		Too Big to Fail, Too Big to Care
+
+
+Review 10:
+	Job Title: Sales Representative
+	Location: Cape Girardeau, MO
+	Review Date: 2024-04-16T08:09:25.733
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Pay/benefits. The pay/ benefits is the ONLY reason to work for this company.
+
+
+	Cons: 
+		They epitomize the "cold and uncaring corporate giant" stereotype. As an employee, you're ridiculously disposable. When I started we filled 4 floors of a building and had over 300 employees in the center. Just 4 years later, we barely used 2 floors and had under 100 employees. Your sales metrics(aka quota) change monthly and quite significantly. The worst part though, is your email. You receive on a daily basis at least 10 emails about your performance. Nothing like being made to feel worthless, not good enough, etc every single day
+
+
+	Summary: 
+		Metrics insanity
+
+
+Review 11:
+	Job Title: Sales Representative
+	Location: Springfield, MO
+	Review Date: 2024-02-24T07:29:19.870
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Good pay, great commission “The Golden handcuffs of AT&amp;T”
+
+
+	Cons: 
+		Work to family life is totally unbalanced. They don’t care if your kid is sick. They just don’t care. Their version of HR is horrible! He can never get a clear answer from anyone, and everyone says you have to go somewhere else to get the answer. If you call and you get somebody from overseas every time. It is so difficult to get your information from them. It’s ridiculous.
+
+
+	Summary: 
+		They don’t care.
+
+
+Review 12:
+	Job Title: Installation (Premise) Technician
+	Location: McHenry, IL
+	Review Date: 2024-04-04T14:47:24.920
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Working outside could be a great thing but also one that can be difficult. Every day brings new challenges and offers you the ability to use your skills without someone looking over your shoulder, overtime is available
+
+
+	Cons: 
+		Long hours, bad management, track everything you do from fast accelerations in your vehicle to how long a job takes to complete, extra steps are continuously being added in order to close out a job but no additional time is added causing a tech's time to look worse, feels as though management is looking to get rid of you as soon as you walk in, you will be written up....repeat, you will be written up. Only one (1) weekend off a month, schedules are seniority based and you could be stuck working 2nd shift, holidays, and nearly all weekends.
+
+
+	Summary: 
+		Think hard about choosing this position
+
+
+Review 13:
+	Job Title: Customer Service/Sales
+	Location: Pueblo, CO
+	Review Date: 2024-01-23T18:48:09.790
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		The people are the best thing at AT&amp;T. From your co-workers to the employee resource groups. Hands down the best part. The benefits package is solid and I think probably one of the better ones out there.
+
+
+	Cons: 
+		The commissions are an issue. I believe in continually setting the bar higher in order to get better, but AT&amp;T's management looks for ways to get out of paying them. For instance, when I started at AT&amp;T you were paid for every sale. Period. When I left, they had added so many stipulations to the commission there were 50 different ways for them to get out of paying you for any sales. So you may have sold 15 lines but at the end of the month you didn't hit whatever side benchmark they had placed priority on this month so you were paid Zero. Also, the performance reviews were so constant they could put you on an action plan at anytime. It sometimes seems like there are more employees on action plans than not on them. And guess what? That affects your commission too. Loved working with AT&amp;T at the beginning. Hated waking up at the end.
+
+
+	Summary: 
+		Things aren't as they seen
+
+
+Review 14:
+	Job Title: Integrated Solutions Consultant
+	Location: None
+	Review Date: 2024-01-21T15:37:47.463
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		-The position is in Management Level so you get Manager benefits for medical, vision, and service discount. 
+		- Drives company vehicle and reduces your cost on gas on your personal vehicle. 
+		- Great potential to make a lot of money with uncapped commission if you hit your targets.
+
+
+	Cons: 
+		- High expectations for the pay. Not a lot of support. 
+		- Long hours. You hit the road either 6:30am-7:00am and you will get home past 6:00pm and sometimes way later than that depending on the location of your last dispatch and how long the sales process is taking. 
+		- No matter the weather conditions; they want you on the road at all cost. 
+		- Management reward those that are not honest with their sales.
+		- Sales quotas out of control and they are never satisfied. 
+		- If you are the manager's favorite you get Saturdays off, if not then trust and believe you'll be working every Saturday. 
+		- A HIGH RISK job, you are in the customer house and ANYTHING can happen including client's pulling guns on you asking you to leave the house because they don't want a sales person bothering them while they are getting their internet or tv service installed.
+
+
+	Summary: 
+		A good job if you don't have a personal life
+
+
+Review 15:
+	Job Title: Wire Technician
+	Location: Charlotte, NC
+	Review Date: 2024-04-15T01:33:21.177
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 1
+
+	Pros: 
+		Medical
+		Vision
+		Dental
+		Little to no supervision
+		Excellent Vacation
+
+
+	Cons: 
+		Micro management
+		Family favoritism for promotions
+		Intellectual Property ownership of any and all inventions and ideas prior to and during employment
+		Mandatory 2 year non-compete agreement
+		Limited brotherhood protection
+		Lowest pay scale with most advanced technical requirements.
+		Limited opportunities to advance.
+
+
+	Summary: 
+		Great Position
+
+
+Review 16:
+	Job Title: Wire Technician
+	Location: None
+	Review Date: 2024-04-17T03:23:18.033
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		It’s all what you make of it
+
+
+	Cons: 
+		Only you can control how your work day goes!
+
+
+	Summary: 
+		It’s all what you make of it
+
+
+Review 17:
+	Job Title: Retail Sales Consultant
+	Location: Miami, FL
+	Review Date: 2024-04-11T06:59:34.103
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		I got started at $21 an hour because I had prior experience in management but I’ve heard of people getting started at $16 an hour which is the same T-Mobile corporate pays hourly and their commissions are better. You get MeTime for calling in sick and can use your PTO in case of emergencies. Typical sales job pressure where they tell you to stop thinking about customers pockets, nothing out of the ordinary. You have a workers union.
+
+
+	Cons: 
+		Flexibility does not exist in scheduling, work life balance, forget about it. I was a full time student before starting this job and had to stop my classes for the time being because it will not work with my schedule. Scheduling is seniority based, meaning the majority of your coworkers will want weekends off, sunday monday, thursday friday, or saturday sunday and you will be stuck having to work all those shifts and closing all your scheduled days. If you have an event or something that you want to attend that happens to fall on a weekend you better hope and pray you have PTO or you’re going to have to either call out and get points and they can fire you at a certain amount of points or work your shift. You cant just ask your boss to give you a specific day off because as i said the scheduling is seniority based and you “select” your schedules a month before. I say “select” because if you haven't been with the company that long you don’t really get any say in what your schedule will be like.
+
+
+	Summary: 
+		Not flexible, good hourly pay, lower commission than my last job.
+
+
+Review 18:
+	Job Title: Client Solutions Executive
+	Location: Dallas, TX
+	Review Date: 2024-01-21T02:29:41.013
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		-Pay is solid 
+		-Most teams (usually comprised of 5-8 people) were well managed.
+		-Uncapped commission (specifically, when you get out of training)
+		- Good opportunity for networking and career expansion since you are at the Dallas HQ of AT&amp;T. I met a lot of high level executives while eating lunch.
+
+
+	Cons: 
+		-I have a marketing degree and almost all of us there accepted the role because the job search is hard for fresh graduates.
+		-This is only a con if you really don't want to do this, but cold calling is your every day 8 hours a day.
+		-The work processes got a lot slower with new systems and no adjustment to the daily quota made it much harder to obtain (I believe this was adjusted after I left).
+		-For me cold calling is not what I want and the contract locks you in for 18 months if you get through your training period.
+
+
+	Summary: 
+		You have to LOVE cold calling
+
+
+Review 19:
+	Job Title: Senior Product/Program Manager
+	Location: Oakton, VA
+	Review Date: 2024-04-10T06:32:42.290
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		AT&amp;T pays well, is generally flexible, has excellent benefits, and offers interesting work.
+
+
+	Cons: 
+		The end of remote work was accompanied by rounds of layoffs. Given that our group had been functioning well despite three changes of managers over a two year period during the COVID era, the insistence that we would all be better off when we returned to the office seemed like a thinly-veiled excuse for planned layoffs. The fad for force reduction among tech companies hit AT&amp;T late last year.
+
+
+	Summary: 
+		Best Job I Ever Had
+
+
+Review 20:
+	Job Title: Senior Specialist Tech Development Program
+	Location: Saint Louis, MO
+	Review Date: 2024-04-18T10:17:54.377
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The pay and pay scales are good and the colleagues are great
+
+
+	Cons: 
+		They took away the remote status of some of my peers which was what was used to lure them into new positions. They also made a command from on high to move to a new city with 2 months notice.
+
+
+	Summary: 
+		Good to work for if you don't have to move
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

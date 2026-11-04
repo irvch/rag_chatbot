@@ -1,0 +1,641 @@
+
+Campbell Soup is a Food Consumer Products company based in 08103 Camden, New Jersey. 
+The company has 14,700 employees and has a revenue of $8,562 according to Fortune 500.
+The company is valued at $16,465 and has a profit of $757. The CEO of the company is Mark A. Clouse.
+
+The Company has the following ratings: 
+Average ratings for Campbell Soup:
+Business Outlook: 0.73
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 146 
+	2: 160 
+	3: 280 
+	4: 232 
+	5: 219 
+
+CEO: 0.76
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 41 
+	2: 61 
+	3: 237 
+	4: 382 
+	5: 306 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 155 
+	2: 126 
+	3: 191 
+	4: 232 
+	5: 249 
+
+Diversity and Inclusion: 3.7
+Distribution: 
+	1: 44 
+	2: 26 
+	3: 88 
+	4: 108 
+	5: 126 
+
+Overall: 3.9
+Distribution: 
+	1: 109 
+	2: 146 
+	3: 291 
+	4: 357 
+	5: 324 
+
+Senior Management: 3.3
+Distribution: 
+	1: 201 
+	2: 178 
+	3: 250 
+	4: 220 
+	5: 174 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 133 
+	2: 136 
+	3: 218 
+	4: 273 
+	5: 265 
+
+Review Count: 1229
+
+Recommend to Friend: 
+	RECOMMEND: 586
+	WONT RECOMMEND: 338
+
+
+
+
+The company has 1405 reviews on Glassdoor. The last review was posted on 2024-04-17T06:55:33.490. 
+There are 20 Reviews for Campbell Soup:
+
+Review 1:
+	Job Title: Director
+	Location: Camden, NJ
+	Review Date: 2024-03-19T10:55:57.323
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		So many fun employee activities to keep you engaged &amp; excited while in the office.
+		Beautifully renovated office space that is comfortable and aesthetically appealing
+		Amazing people to work with - they really care about each other and our collective success
+		Fun!
+
+
+	Cons: 
+		no real cons, there is a continuous improvement mindset which is a really good thing
+
+
+	Summary: 
+		Exciting place to work!
+
+
+Review 2:
+	Job Title: Project Manager
+	Location: Napoleon, OH
+	Review Date: 2024-04-04T18:47:25.523
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good PTO, unlimited sick days
+
+
+	Cons: 
+		Outdated equipment and bad outsourced IT department.
+
+
+	Summary: 
+		Good Place to work
+
+
+Review 3:
+	Job Title: General Labor/Machine Operator
+	Location: Napoleon, OH
+	Review Date: 2024-03-04T18:48:39.070
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Good pay, benefits from day one,
+
+
+	Cons: 
+		Forced overtime. You might have to work 12 hour days, 7 days a week with little warning. The supervisor can come to you when you are ready to clock out and tell you that you are forced over 4 more hours.
+
+
+	Summary: 
+		Good pay
+
+
+Review 4:
+	Job Title: Talent Acquisition
+	Location: Camden, NJ
+	Review Date: 2024-03-26T11:42:55.187
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		- Great teammates and coworkers who are willing to help and share their knowledge 
+		- Campbell's truly lives into the five C's values
+		- Internal development opportunities
+		- Company growth and expansion of brand portfolio
+		- Free soup Thursday and discounted company store
+		- Free onsite parking with security
+
+
+	Cons: 
+		- Challenging to move deliverables through to fruition 
+		- Lack of documentation and historical knowledge when it comes to TA processes &amp; policies
+
+
+	Summary: 
+		Fun and Caring Place to Work!
+
+
+Review 5:
+	Job Title: Director
+	Location: Camden, NJ
+	Review Date: 2024-04-17T06:55:33.490
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay, hybrid model, knowing brands
+
+
+	Cons: 
+		Poor culture of veterans protecting their silos and avoiding changes in a category with declining trends.
+
+
+	Summary: 
+		Needs change 
+
+
+Review 6:
+	Job Title: Talent Acquisition Partner
+	Location: Hanover, PA
+	Review Date: 2024-03-28T13:41:13.477
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Campbell's is very compassionate with a family first mindset. It is transparent that they care for their employees with their extensive benefit packages to help their employees grow both professionally and financially. They are also very involved in their local communities expressing their gratitude with generous donations. Hands down best company I have worked for.
+
+
+	Cons: 
+		In my honest opinion, there are no downsides to working for this company.
+
+
+	Summary: 
+		AMAZING company to work for!!
+
+
+Review 7:
+	Job Title: Machine Operator
+	Location: Richmond, UT
+	Review Date: 2024-01-15T20:09:50.727
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		The salary is pretty good and there are chances to advance but take years.
+
+
+	Cons: 
+		The work environment is terrible, there are a lot of people that gossip and spread rumors about people. I was harassed PHYSICALLY and went to a lead about it and they didn't do anything. I had issues with a lot of people that worked there and in the end was forced to quit because of how uncomfortable I was. It's best to not make friends or talk to anyone here, if you can stand that for the salary I suppose. Their turnover rate is awful as well, not a lot of people stay long at this job and it shows. Almost every day they're bringing in new people to train because of how often people quit. HR isn't very helpful either, they don't talk to any of their employees and their office is located literally right beside the entrance to the plant in the same building.
+
+
+	Summary: 
+		Good salary, terrible work environment
+
+
+Review 8:
+	Job Title: HR Representative
+	Location: Camden, NJ
+	Review Date: 2024-04-15T09:58:16.117
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Supportive co-workers, management is receptive to your interests.
+
+
+	Cons: 
+		Low base pay, strict 8-5 schedule
+
+
+	Summary: 
+		Company that truly lives into its values.
+
+
+Review 9:
+	Job Title: Team Leader
+	Location: Maxton, NC
+	Review Date: 2024-04-12T12:47:18.927
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Good Pay, Good Benefits, in house cafeteria
+
+
+	Cons: 
+		Seven Day work weeks are common, hard to balance work and family
+
+
+	Summary: 
+		Good Starter Company
+
+
+Review 10:
+	Job Title: Maintenance Technician
+	Location: Charlotte, NC
+	Review Date: 2024-04-15T08:06:59.447
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Nothing much, everything there is a mess
+
+
+	Cons: 
+		Everything is a mess. Long hours, low pay and a lot of micromanagement
+
+
+	Summary: 
+		Salary
+
+
+Review 11:
+	Job Title: Talent Acquisition Partner
+	Location: Camden, NJ
+	Review Date: 2024-03-26T08:04:01.553
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Campbell employees are treated like part of a family. There is tremendous opportunity for career development and advancement. Our organization is never status quo. We are always reaching for the next best practice and solution.
+
+
+	Cons: 
+		Based on the size of the organization it can be a challenge to ensure everyone is current with all processes and procedures. We move faster than most!
+
+
+	Summary: 
+		Great Culture
+
+
+Review 12:
+	Job Title: Director
+	Location: Camden, NJ
+	Review Date: 2024-03-19T10:55:57.323
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		So many fun employee activities to keep you engaged &amp; excited while in the office.
+		Beautifully renovated office space that is comfortable and aesthetically appealing
+		Amazing people to work with - they really care about each other and our collective success
+		Fun!
+
+
+	Cons: 
+		no real cons, there is a continuous improvement mindset which is a really good thing
+
+
+	Summary: 
+		Exciting place to work!
+
+
+Review 13:
+	Job Title: None
+	Location: None
+	Review Date: 2024-02-11T12:41:29.663
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		-Hybrid (Tues through Thurs in office)
+		-good big brands for a reputable company
+		-location allows people to live in Philly, Jersey, or Delaware
+		-pretty good benefits
+
+
+	Cons: 
+		-Lots of red tape &amp; bureaucracy. Leadership gets involved with every detail. Permission needed on everything, so you do not have a lot of independence.
+		-Tons of cooks in the kitchen for everything. Every decision somehow has 20 people involved, so it really slows down even the most random tiny project 
+		-Lots of turnover as the company consolidated offices which has led to swirling &amp; stress. It has more tension than it used to because now everyone is at world headquarters
+
+
+	Summary: 
+		Fine. Definite pro’s &amp; con’s. Changing environment.
+
+
+Review 14:
+	Job Title: Safety Specialist
+	Location: Charlotte, NC
+	Review Date: 2024-03-27T04:13:58.807
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Benefits package
+		Good pay
+		Room to grow
+
+
+	Cons: 
+		Changing culture - not necessarily bad but must be navigated
+
+
+	Summary: 
+		Great place to work
+
+
+Review 15:
+	Job Title: Maintenance Technician
+	Location: Paris, TX
+	Review Date: 2024-03-20T03:46:00.933
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Compensation and the ability to learn many different areas of electrical and mechanical troubleshooting.
+
+
+	Cons: 
+		7 day work weeks and the union isn’t all that great.
+
+
+	Summary: 
+		Fair job
+
+
+Review 16:
+	Job Title: Project Lead
+	Location: Camden, NJ
+	Review Date: 2024-03-19T10:13:05.320
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Headquarters is beautiful. I love the gym and free soup Thursday is definitely a bonus :) The company has a great work-life balance and culture. Everyone makes you feel welcome and like you are at home.
+
+
+	Cons: 
+		I wish we had summer Fridays, but the work-life balance makes up for it!
+
+
+	Summary: 
+		Great Company!
+
+
+Review 17:
+	Job Title: Associate Vice President
+	Location: Camden, NJ
+	Review Date: 2024-03-12T11:20:35.050
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good company, stable, okay benefits. Good people to work with.
+
+
+	Cons: 
+		Favoritism, Politics are worse than at other companies. Folks can get promoted from Director to SVP because they kiss up to the right person. No one is held accountable for actions.
+
+
+	Summary: 
+		Okay place to work - Politically Savvy a must
+
+
+Review 18:
+	Job Title: Talent Acquisition Partner
+	Location: None
+	Review Date: 2024-03-26T08:26:49.890
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The people are amazing! Great benefits &amp; pay. Flexible schedule and great leadership
+
+
+	Cons: 
+		There are no cons that I have come across
+
+
+	Summary: 
+		Great place to work!
+
+
+Review 19:
+	Job Title: Machine Operator
+	Location: Charlotte, NC
+	Review Date: 2024-03-27T12:12:06.523
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Workers are great. Terrible management
+
+
+	Cons: 
+		Terrible management in all ways
+
+
+	Summary: 
+		Good job
+
+
+Review 20:
+	Job Title: None
+	Location: Camden, NJ
+	Review Date: 2024-01-30T07:56:20.937
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 5
+
+	Pros: 
+		Friendly and welcoming folks, Hybrid schedule allows employees to get to know each other in person. Delicious food in the cafeteria. Respect for after-work hours and work-life balance. Passion for the company + brands + history. Great benefits and perks.
+
+
+	Cons: 
+		Large size makes it harder to get to know people outside of own team (at least as a new hire) but gets easier.
+
+
+	Summary: 
+		Warm and Welcoming People, Healthy Work-Life Balance
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

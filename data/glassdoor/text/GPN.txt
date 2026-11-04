@@ -1,0 +1,632 @@
+
+Global Payments is a Financial Data Services company based in 30326 Atlanta, Georgia. 
+The company has 25,000 employees and has a revenue of $8,976 according to Fortune 500.
+The company is valued at $27,761 and has a profit of $112. The CEO of the company is Jeffrey S. Sloan.
+
+The Company has the following ratings: 
+Average ratings for Global Payments:
+Business Outlook: 0.54
+
+Career Opportunities: 3.2
+Distribution: 
+	1: 170 
+	2: 145 
+	3: 248 
+	4: 223 
+	5: 184 
+
+CEO: 0.77
+
+Compensation and Benefits: 3.2
+Distribution: 
+	1: 106 
+	2: 132 
+	3: 295 
+	4: 263 
+	5: 172 
+
+Culture and Values: 3.4
+Distribution: 
+	1: 168 
+	2: 121 
+	3: 195 
+	4: 200 
+	5: 254 
+
+Diversity and Inclusion: 3.7
+Distribution: 
+	1: 56 
+	2: 52 
+	3: 129 
+	4: 149 
+	5: 243 
+
+Overall: 3.5
+Distribution: 
+	1: 150 
+	2: 148 
+	3: 299 
+	4: 334 
+	5: 257 
+
+Senior Management: 3.1
+Distribution: 
+	1: 230 
+	2: 127 
+	3: 209 
+	4: 214 
+	5: 175 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 149 
+	2: 102 
+	3: 205 
+	4: 254 
+	5: 252 
+
+Review Count: 1189
+
+Recommend to Friend: 
+	RECOMMEND: 460
+	WONT RECOMMEND: 343
+
+
+
+
+The company has 1264 reviews on Glassdoor. The last review was posted on 2024-04-16T04:17:10.417. 
+There are 20 Reviews for Global Payments:
+
+Review 1:
+	Job Title: PCI Compliance Analyst
+	Location: Atlanta, GA
+	Review Date: 2024-04-11T06:20:43.690
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great Support, great leadership and team
+
+
+	Cons: 
+		A bit unstable in work
+
+
+	Summary: 
+		GP
+
+
+Review 2:
+	Job Title: Cutomer Service Agent
+	Location: None
+	Review Date: 2024-04-05T11:35:54.827
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Good Benefits including vacation time.
+
+
+	Cons: 
+		The stress has cause a terrible turn over. There's not enough staff to help agents.  The management can be very hard on the agent, and think that's a good thing.  If you fail KIP you don't get a raise, but you still making them rich.  No consideration of why and error is made, 
+		They train people in 2 or 3 days and expect them to pass all the calls in 30 days.
+
+
+	Summary: 
+		The Job is so stressful and can be overwhelming
+
+
+Review 3:
+	Job Title: Mortgage Underwriter
+	Location: Jeffersonville, IN
+	Review Date: 2024-04-16T04:17:10.417
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Pay and benefits. Work life balance
+
+
+	Cons: 
+		Stressful, doing more with less
+
+
+	Summary: 
+		Good company to work for
+
+
+Review 4:
+	Job Title: Business Analyst
+	Location: Lindon, UT
+	Review Date: 2024-04-05T18:12:00.610
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good work Environment, lots of work from home.
+
+
+	Cons: 
+		Lots of layoffs, comprised of several companies that have never properly merged with managers constantly jockeying for position.
+
+
+	Summary: 
+		OK Company
+
+
+Review 5:
+	Job Title: Director
+	Location: Atlanta, GA
+	Review Date: 2024-03-31T16:23:41.380
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		People are very strong
+		Opportunities across the US (and international)
+
+
+	Cons: 
+		Very little career opportunities
+		Huge company leads to becoming "just a number"
+		Instability among several business units
+
+
+	Summary: 
+		Good people...poor career opportunities
+
+
+Review 6:
+	Job Title: Implementation Analyst
+	Location: Tempe, AZ
+	Review Date: 2024-03-13T18:32:21.460
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great work environment. Team members are eager to help you learn and grow. Great collaboration with other teams and resources. Everyone wants you to succeed.
+
+
+	Cons: 
+		Pay is pretty stagnant. There is a lot of information that you will learn in this position. It will take 1-2 years to learn a lot of the day to day processes.
+
+
+	Summary: 
+		Current Employment
+
+
+Review 7:
+	Job Title: Manager, Technical Support
+	Location: Lindon, UT
+	Review Date: 2024-03-28T13:44:41.070
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		When there is good leadership the company is manageable and can even be enjoyable.
+
+
+	Cons: 
+		When you have poor leaders it doesn't matter how well you do.
+
+
+	Summary: 
+		Leaders Make a Difference
+
+
+Review 8:
+	Job Title: Senior Trainer - Learning & Development
+	Location: Lindon, UT
+	Review Date: 2024-03-09T14:49:43.847
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Most people recognize that this work is not an emergency so it's easy to have good work-life balance.
+		Promotions are available.
+
+
+	Cons: 
+		There are constant mergers, organizational changes, and chaos.
+		Internal hires are paid significantly less than external hires.
+		There is little to no focus on diversity and management is clearly uninterested in protecting their employees.
+
+
+	Summary: 
+		Standard Corporate Job
+
+
+Review 9:
+	Job Title: Human Resources Business Partner HRBP
+	Location: Alpharetta, GA
+	Review Date: 2024-03-26T18:47:34.330
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		-growing in business model &amp; growing in DE&amp;I
+
+
+	Cons: 
+		different departments have different ways of doing things
+
+
+	Summary: 
+		company is growing
+
+
+Review 10:
+	Job Title: Manager, Customer Success
+	Location: San Diego, CA
+	Review Date: 2024-03-27T20:32:52.490
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good company, great culture, leadership truly cares
+
+
+	Cons: 
+		Not many negatives about working here.
+
+
+	Summary: 
+		Great company 
+
+
+Review 11:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-26T18:39:39.127
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Peer interaction
+		Direct leadership quality
+
+
+	Cons: 
+		LOE not reflected in salary
+		C suite leadership is disconnected
+		Compensation is lackluster
+
+
+	Summary: 
+		Disconnected
+
+
+Review 12:
+	Job Title: Sales Representative
+	Location: Salt Lake City, UT
+	Review Date: 2024-04-03T18:04:29.710
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Team members are very supportive
+
+
+	Cons: 
+		Job security is always in stake
+
+
+	Summary: 
+		Global payments salary
+
+
+Review 13:
+	Job Title: Customer Service
+	Location: None
+	Review Date: 2024-03-13T23:30:25.383
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good benefits and you get a lot of experience
+
+
+	Cons: 
+		It is a large company, so they have a lot of red tape
+
+
+	Summary: 
+		Decent company
+
+
+Review 14:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-16T15:12:11.547
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Fantastic company with great leaders.
+
+
+	Cons: 
+		No cons at this time
+
+
+	Summary: 
+		Great company
+
+
+Review 15:
+	Job Title: Customer Service Representative
+	Location: Columbus, GA
+	Review Date: 2024-03-13T09:06:03.073
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great company to work for.
+
+
+	Cons: 
+		Call volume at time can be overwhelming at time
+
+
+	Summary: 
+		Pay
+
+
+Review 16:
+	Job Title: Senior Software Engineer
+	Location: Plano, TX
+	Review Date: 2024-03-05T07:27:08.407
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Good people and good benefits.
+
+
+	Cons: 
+		Could have used more support, direction from management.
+
+
+	Summary: 
+		Good Place to  work
+
+
+Review 17:
+	Job Title: Talent Acquisition
+	Location: Alpharetta, GA
+	Review Date: 2024-02-22T13:12:14.967
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great benefits! Career growth is a strong focus of management.
+
+
+	Cons: 
+		Lots of reorganization lately which has made things feel very unsettled.
+
+
+	Summary: 
+		Great company to work for
+
+
+Review 18:
+	Job Title: Senior Manager
+	Location: None
+	Review Date: 2024-02-19T10:08:19.387
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		I was offered a job at Global Payments and they rescinded the offer 2 days before my start date. I had already resigned from my previous role so I'm out of work as a result of what Global Payments did to me. They gave me no explanation as to why they rescinded the job offer.
+
+
+	Cons: 
+		They are disrespectful to new hires
+
+
+	Summary: 
+		Rescinded job offer
+
+
+Review 19:
+	Job Title: Fraud Specialist I
+	Location: None
+	Review Date: 2024-02-04T18:32:58.183
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Easy, low call volume, routine
+
+
+	Cons: 
+		The job was easy but the times where additional assistance was needed, the help line rarely answered, and I was rarely added to the Skype help chat. The rare times I was added, the assistance was minimal there as well.
+
+
+	Summary: 
+		Lack of support
+
+
+Review 20:
+	Job Title: Senior IOS Engineer
+	Location: Jacksonville, FL
+	Review Date: 2024-02-25T07:14:54.447
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Work Balance &amp; Supportive team.
+
+
+	Cons: 
+		Pay and compensation and shortage of Engineering Manager due to competitive pay.
+
+
+	Summary: 
+		Work Balance
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

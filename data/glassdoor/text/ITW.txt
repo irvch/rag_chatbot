@@ -1,0 +1,629 @@
+
+Illinois Tool Works is a Industrial Machinery company based in 60025 Glenview, Illinois. 
+The company has 46,000 employees and has a revenue of $15,932 according to Fortune 500.
+The company is valued at $74,209 and has a profit of $3,034. The CEO of the company is Scott Santi.
+
+The Company has the following ratings: 
+Average ratings for Illinois Tool Works:
+Business Outlook: 0.6
+
+Career Opportunities: 3.3
+Distribution: 
+	1: 185 
+	2: 150 
+	3: 278 
+	4: 239 
+	5: 180 
+
+CEO: 1
+
+Compensation and Benefits: 3.5
+Distribution: 
+	1: 58 
+	2: 143 
+	3: 300 
+	4: 316 
+	5: 211 
+
+Culture and Values: 3.4
+Distribution: 
+	1: 186 
+	2: 105 
+	3: 221 
+	4: 225 
+	5: 239 
+
+Diversity and Inclusion: 3.7
+Distribution: 
+	1: 45 
+	2: 40 
+	3: 78 
+	4: 124 
+	5: 136 
+
+Overall: 3.6
+Distribution: 
+	1: 137 
+	2: 148 
+	3: 274 
+	4: 369 
+	5: 272 
+
+Senior Management: 3.2
+Distribution: 
+	1: 245 
+	2: 141 
+	3: 212 
+	4: 214 
+	5: 165 
+
+Work Life Balance: 3.5
+Distribution: 
+	1: 119 
+	2: 146 
+	3: 270 
+	4: 294 
+	5: 191 
+
+Review Count: 1202
+
+Recommend to Friend: 
+	RECOMMEND: 572
+	WONT RECOMMEND: 342
+
+
+
+
+The company has 1331 reviews on Glassdoor. The last review was posted on 2024-04-15T19:53:57.727. 
+There are 20 Reviews for Illinois Tool Works:
+
+Review 1:
+	Job Title: General Technician
+	Location: Chippewa Falls, WI
+	Review Date: 2024-03-15T10:21:04.987
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		time off 
+		3 to 4 day work week
+		great employees
+		good management
+
+
+	Cons: 
+		can be a little overwhelming at first
+
+
+	Summary: 
+		Great place overall
+
+
+Review 2:
+	Job Title: Mechanical Engineer
+	Location: Glenview, IL
+	Review Date: 2024-02-21T11:19:24.910
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		ITW is huge, and up until about 2019 they were entirely acquisition focused. Everything brought under the ITW umbrella was intended to grow the business purely by increasing the number of fires they had irons in. Corporate is very good at this, and they have nearly limitless resources to make sure these businesses work. You be just about any kind of engineer and find good work here.
+		
+		Corporate is good at turning these seemingly unrelated, distant companies into a coherent business under a single umbrella, and employees are encouraged to use other departments as resources.
+
+
+	Cons: 
+		ITW is a holding company that eats up smaller product firms to bring them under a unified brand with the security of a nearly limitless bank account and endless muscle for "turnaround". You don't know what you're getting into when you get hired by a particular division, if you only look at the company average. Some departments are stable and well-loved by upper management, some are "problem children" who get re-organized or moved around multiple times a year.
+
+
+	Summary: 
+		A Multi-Industry Giant
+
+
+Review 3:
+	Job Title: Senior Operators
+	Location: None
+	Review Date: 2024-04-15T19:53:57.727
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		I would never recommend anyone to work with this company
+
+
+	Cons: 
+		Very unprofessional and totally not fair with employees. Treated unfair.
+
+
+	Summary: 
+		Not a good place to work for 
+
+
+Review 4:
+	Job Title: Machine Operator
+	Location: None
+	Review Date: 2024-03-28T23:30:25.820
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Easy work. Can learn alot
+
+
+	Cons: 
+		Management and leaders were childish. Toxic team environment
+
+
+	Summary: 
+		It was ok
+
+
+Review 5:
+	Job Title: Analyst
+	Location: Chicago, IL
+	Review Date: 2024-03-26T06:57:17.893
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great enviroment for colaboration with pairs
+
+
+	Cons: 
+		Need to offer better compensation
+
+
+	Summary: 
+		Nice company
+
+
+Review 6:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-12T09:56:32.417
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Lots of opportunities for learning.
+
+
+	Cons: 
+		Incredibly lean company. Often wearing many hats.
+
+
+	Summary: 
+		Lots of opportunity
+
+
+Review 7:
+	Job Title: Financial Analyst
+	Location: Glenview, IL
+	Review Date: 2024-03-07T08:10:25.597
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great business and good people
+
+
+	Cons: 
+		None I can think of
+
+
+	Summary: 
+		Good comapny good people
+
+
+Review 8:
+	Job Title: None
+	Location: El Dorado Hills, CA
+	Review Date: 2024-02-17T01:23:37.673
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		three and four day shifts
+
+
+	Cons: 
+		benefits slowly stripped year after year. unfair and unprofessional practices allowed to go on. constant push for more numbers and profit.
+
+
+	Summary: 
+		corporate manufacturing
+
+
+Review 9:
+	Job Title: Accountant
+	Location: Glenview, IL
+	Review Date: 2024-02-23T04:59:31.707
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Nice location close to where I live
+
+
+	Cons: 
+		Can be stressful at quarter end
+
+
+	Summary: 
+		Good employer
+
+
+Review 10:
+	Job Title: Buyer
+	Location: Chicago, IL
+	Review Date: 2024-02-18T03:12:03.873
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great management and great company to work for
+
+
+	Cons: 
+		New CEO does not value work life balance
+
+
+	Summary: 
+		ITW
+
+
+Review 11:
+	Job Title: Saes Manager
+	Location: Chicago, IL
+	Review Date: 2024-02-15T14:11:34.227
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Great benefits and household brands
+
+
+	Cons: 
+		Slow to adapt and inter company cooperation good be better.
+
+
+	Summary: 
+		Good company
+
+
+Review 12:
+	Job Title: Lead Manufacturing Engineering
+	Location: Westminster, MA
+	Review Date: 2023-10-03T08:59:49.623
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Large spaces for offices/ production floor
+
+
+	Cons: 
+		Cons: 1. Inexperienced and Ineffective Plant Management: The division suffers from a lack of experienced and competent plant management, leading to various operational challenges. 2. Micro-Management Issues: Employees often feel stifled by excessive micro-management, which hampers productivity and job satisfaction. 3. High Attrition Rate: Due to poor internal management practices, the division experiences a consistently high attrition rate, causing disruptions in the workforce. 4. Inefficient HR Performance: The internal HR department exhibits poor performance and lacks the necessary knowledge for effective hiring and employee support. 5. Lack of Organized Processes: The division lacks organized and efficient processes, which results in confusion and inefficiency among employees. 6. Lack of Support: Employees often feel unsupported and face difficulties when seeking assistance or guidance within the division. 7. Unsupportive Plant Manager: The plant manager is described as pushy and lacking understanding, making it challenging for employees to communicate or resolve issues. 8. Unsatisfactory Leadership Roles: Key leadership positions such as Manufacturing Engineering Manager, Operational Manager, and Manufacturing Engineer are dissatisfied with the new plant manager, leading to a significant turnover in these roles.
+
+
+	Summary: 
+		"Steer Clear of Offers from This ITW Division"
+
+
+Review 13:
+	Job Title: Director
+	Location: Glenview, IL
+	Review Date: 2024-02-03T06:45:21.557
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Strong performing company, good culture
+
+
+	Cons: 
+		Very conservative environment. Sometimes felt awkward to be a little different
+
+
+	Summary: 
+		Nice work environment
+
+
+Review 14:
+	Job Title: Quality
+	Location: Washington, NC
+	Review Date: 2024-01-11T17:03:31.603
+	Business Outlook: NEGATIVE
+	Career Opportunities: 0
+	CEO: DISAPPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Some coworkers, learn new skills on your own
+
+
+	Cons: 
+		Everything sucks about the place. No room for improvement. Everyone gets raises except the main key players. Team leads abuse power and get hard workers fired because they don’t like them. HR ACTS BLIND!
+
+
+	Summary: 
+		Crappy place
+
+
+Review 15:
+	Job Title: Human Resources Generalist
+	Location: Chicago, IL
+	Review Date: 2024-01-03T08:48:52.223
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		- supportive work environment
+		- provided opportunities for growth
+
+
+	Cons: 
+		Not any specific cons. It was a good place to work.
+
+
+	Summary: 
+		Great place to work 
+
+
+Review 16:
+	Job Title: Engineer
+	Location: Hebron, IN
+	Review Date: 2024-01-08T18:24:43.367
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Diversified product lines.
+		Strong Financial company
+
+
+	Cons: 
+		Too much power given to Human Resource group
+
+
+	Summary: 
+		Decent place to work
+
+
+Review 17:
+	Job Title: Factory Worker
+	Location: Rockford, MI
+	Review Date: 2023-09-24T20:40:11.697
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Got in right away and pay was just meh
+
+
+	Cons: 
+		Worked there a whole 2 weeks through a temp service and was just let go with no explanation whatsoever. When I asked the boss why, he refused to tell me. Just said the temp agency should’ve told me-I was there the day he said they could’v should’ve told me but no word and no email or call. Went in every night, did my job without fooling around or causing trouble. Extremely boring and repetitive, backbreaking work with a couple very short breaks. No communication. Boss was snotty when he told me I was let go. Expect you to make rate the very next day after you start.
+
+
+	Summary: 
+		Horrible! Would not recommend to anyone!
+
+
+Review 18:
+	Job Title: Sales Manager
+	Location: Chicago, IL
+	Review Date: 2024-01-11T03:39:29.950
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Organization is very well managed
+
+
+	Cons: 
+		Size od some smaller companies
+
+
+	Summary: 
+		Sales
+
+
+Review 19:
+	Job Title: Gen Tech
+	Location: None
+	Review Date: 2024-01-01T11:07:48.513
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Keeping busy, decent pay, nice coworkers
+
+
+	Cons: 
+		Some cells had way more work than others for the same pay
+
+
+	Summary: 
+		Great Place
+
+
+Review 20:
+	Job Title: Senior Manager
+	Location: Appleton, WI
+	Review Date: 2023-12-12T06:08:26.403
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Open to work enviroment, are allowed to make judgment calls and follow through on plans.
+
+
+	Cons: 
+		Somewhat fragmented business units make it a challange at times to prioritize.
+
+
+	Summary: 
+		Great Opportunities
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

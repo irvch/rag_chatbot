@@ -1,0 +1,622 @@
+
+Sempra is a Utilities: Gas and Electric company based in 92101 San Diego, California. 
+The company has 15,785 employees and has a revenue of $14,439 according to Fortune 500.
+The company is valued at $47,563 and has a profit of $2,138. The CEO of the company is None.
+
+The Company has the following ratings: 
+Average ratings for Sempra:
+Business Outlook: 0.86
+
+Career Opportunities: 3.9
+Distribution: 
+	1: 7 
+	2: 28 
+	3: 53 
+	4: 46 
+	5: 38 
+
+CEO: 0.96
+
+Compensation and Benefits: 4.5
+Distribution: 
+	1: 3 
+	2: 12 
+	3: 24 
+	4: 63 
+	5: 71 
+
+Culture and Values: 4.1
+Distribution: 
+	1: 7 
+	2: 16 
+	3: 30 
+	4: 35 
+	5: 56 
+
+Diversity and Inclusion: 4.4
+Distribution: 
+	1: 1 
+	2: 2 
+	3: 6 
+	4: 10 
+	5: 22 
+
+Overall: 4.3
+Distribution: 
+	1: 6 
+	2: 15 
+	3: 43 
+	4: 59 
+	5: 80 
+
+Senior Management: 3.8
+Distribution: 
+	1: 13 
+	2: 20 
+	3: 46 
+	4: 50 
+	5: 41 
+
+Work Life Balance: 4.1
+Distribution: 
+	1: 6 
+	2: 18 
+	3: 44 
+	4: 50 
+	5: 53 
+
+Review Count: 203
+
+Recommend to Friend: 
+	RECOMMEND: 125
+	WONT RECOMMEND: 33
+
+
+
+
+The company has 248 reviews on Glassdoor. The last review was posted on 2024-02-21T15:19:07.347. 
+There are 20 Reviews for Sempra:
+
+Review 1:
+	Job Title: Associate Director
+	Location: San Diego, CA
+	Review Date: 2023-06-21T13:50:56.127
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great benefits and culture. Highly recommend.
+
+
+	Cons: 
+		Nothing comes to mind but you dinners to be in the office some days of the week.
+
+
+	Summary: 
+		Great place to work!
+
+
+Review 2:
+	Job Title: Senior Consultant
+	Location: None
+	Review Date: 2024-02-21T15:19:07.347
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		they are great, cool location
+
+
+	Cons: 
+		not any, i really like them
+
+
+	Summary: 
+		sempra
+
+
+Review 3:
+	Job Title: Project Manager
+	Location: San Diego, CA
+	Review Date: 2024-01-24T20:48:03.487
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Stable place to work at Sempra
+
+
+	Cons: 
+		Limit career growth at Sempra
+
+
+	Summary: 
+		Project manager 
+
+
+Review 4:
+	Job Title: None
+	Location: None
+	Review Date: 2023-12-11T16:31:54.967
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Good work life balance and benefits
+
+
+	Cons: 
+		Many regulations, Slow pace, Too big.
+
+
+	Summary: 
+		Good work life balance and benefits
+
+
+Review 5:
+	Job Title: Finance
+	Location: None
+	Review Date: 2023-04-15T15:23:30.860
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Relatively competitive pay, good resources to learn, good people.
+
+
+	Cons: 
+		Was hired on as hybrid 2 days onsite, and now employees are being made to come in physically 3 days for no true work reason other than “just because”. Extremely disappointing that they were being disingenuous throughout the advertising, interview and hiring process about the hybrid aspect. I would expect them to take it even further in the near future since they so casually decided for everyone without discussion. In short, if your position is being presented as certain amount of days from home, be warned that we were all told one day more than what we got.
+
+
+	Summary: 
+		Not a true hybrid role
+
+
+Review 6:
+	Job Title: Domain Engineer
+	Location: San Diego, CA
+	Review Date: 2023-09-18T17:08:06.620
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great company to work for.
+
+
+	Cons: 
+		I don't have any complaints.
+
+
+	Summary: 
+		Great Company
+
+
+Review 7:
+	Job Title: Project Manager
+	Location: San Diego, CA
+	Review Date: 2023-06-18T23:28:39.197
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Flexibility, growth opportunities, diverse culture. Awesome benefits!
+
+
+	Cons: 
+		Cafe could use better options
+
+
+	Summary: 
+		Amazing Company
+
+
+Review 8:
+	Job Title: Senior Accountant
+	Location: San Diego, CA
+	Review Date: 2023-03-07T20:49:17.357
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good pay and benefits at Sempra
+
+
+	Cons: 
+		Management is working towards bringing people back into the office 3+ days a week
+
+
+	Summary: 
+		Good pay &amp; benefits
+
+
+Review 9:
+	Job Title: Payroll Anaylst
+	Location: None
+	Review Date: 2023-04-05T08:47:59.867
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		great benefits, great location, company cares
+
+
+	Cons: 
+		hyrbid 3 days a week from 2 days
+
+
+	Summary: 
+		Best company to work for
+
+
+Review 10:
+	Job Title: Senior Software Developer
+	Location: San Diego, CA
+	Review Date: 2022-02-19T14:12:35.607
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		One of the only companies to still offer a 401k with match, and a completely free-of-charge Pension plan which vests after 4 years of Full Time Employment.
+
+
+	Cons: 
+		Hard to get FTE status. Most employees start as a contractor through another staffing agency. If they like you, you will have the opportunity to get a position directly with the organization, but as a yearly-contract employee. It's a bit strange, as they give you benefits, the 401k, and everything of an FTE, however, they have a yearly option to either renew or not renew your contract, and they tend to let you know later, which has effect on your mental well-being; waiting until the last minute until you know if your job is secure for the the next. However, I wasn't aware of anyone who did not get their yearly contract renewed. This is often due to once you become a Full Time Employee, you are almost completely impervious to be fired.
+
+
+	Summary: 
+		Great Work/Life Balance and Comp Package
+
+
+Review 11:
+	Job Title: Test Engineer
+	Location: San Diego, CA
+	Review Date: 2023-03-17T15:20:53.577
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great work life balance, great time off
+
+
+	Cons: 
+		low chances for promotion, laid back management
+
+
+	Summary: 
+		Great Company
+
+
+Review 12:
+	Job Title: Manager
+	Location: San Diego, CA
+	Review Date: 2022-10-16T21:04:02.843
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Decent hours, friendly people, good bonus
+
+
+	Cons: 
+		People are promoted one above their competency level, not provided any leadership training, chummy elbow rubbers
+
+
+	Summary: 
+		Decent salary and bonus, touchy politics and hierarchical
+
+
+Review 13:
+	Job Title: Engineering
+	Location: Houston, TX
+	Review Date: 2022-10-31T16:55:33.120
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great team/family atmosphere. Very professional, competent staff. Outstanding benefits.
+
+
+	Cons: 
+		Should have started here sooner in my career.....
+
+
+	Summary: 
+		Insider Info
+
+
+Review 14:
+	Job Title: Principal Structural Engineer
+	Location: None
+	Review Date: 2022-12-08T20:39:00.857
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Great benefits, good working environment
+
+
+	Cons: 
+		No opportunity for career development
+
+
+	Summary: 
+		Good Company
+
+
+Review 15:
+	Job Title: None
+	Location: None
+	Review Date: 2022-05-08T23:13:31.953
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		They are good to give certain folks training to assist with their growth.
+
+
+	Cons: 
+		Growth is a problem, seems folks are always overlooked by management. Current management are not real leaders. HR here doesn't help the situation and just seems things are getting worse. Most of the middle management and workforce has recently left for better positions at other companies. Everyone now seems over worked with folks working over 12 hours a day.
+
+
+	Summary: 
+		Was a great place
+
+
+Review 16:
+	Job Title: Communications Manager
+	Location: San Diego, CA
+	Review Date: 2022-09-27T23:36:21.557
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great people to work with
+
+
+	Cons: 
+		Slow to accept change, hierarchical
+
+
+	Summary: 
+		Working at Sempra
+
+
+Review 17:
+	Job Title: Project Manager
+	Location: San Diego, CA
+	Review Date: 2022-09-21T17:53:34.763
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		good benefit, and good co-worker,
+
+
+	Cons: 
+		many coroprate politics which slow things down
+
+
+	Summary: 
+		Project Manager
+
+
+Review 18:
+	Job Title: Information Support Assistant
+	Location: San Diego, CA
+	Review Date: 2022-08-12T14:01:44.607
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Location, once full time benefits are great
+
+
+	Cons: 
+		If a contractor may be strung along
+
+
+	Summary: 
+		Good company depending on leadership
+
+
+Review 19:
+	Job Title: IT Business Advisor
+	Location: Los Angeles, CA
+	Review Date: 2022-07-12T16:50:53.343
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Good salary and benefit. no stress, everybody is cool
+
+
+	Cons: 
+		topics run slowly in Sempra, there isn't time pressure
+
+
+	Summary: 
+		Company culture
+
+
+Review 20:
+	Job Title: None
+	Location: None
+	Review Date: 2022-06-15T11:56:47.833
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Great Salary, bonuses, benefits. Location is unbeatable.
+
+
+	Cons: 
+		Very long working hours. Anybody below a director is not valued as much by HR.
+
+
+	Summary: 
+		Great place for motivated insdividuals
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

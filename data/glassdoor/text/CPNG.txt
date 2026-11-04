@@ -1,0 +1,647 @@
+
+Coupang is a Internet Services and Retailing company based in 98101 Seattle, Washington. 
+The company has 63,000 employees and has a revenue of $20,583 according to Fortune 500.
+The company is valued at $28,388 and has a profit of -$92. The CEO of the company is Bom Kim.
+
+The Company has the following ratings: 
+Average ratings for Coupang:
+Business Outlook: 0.63
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 41 
+	2: 35 
+	3: 79 
+	4: 114 
+	5: 119 
+
+CEO: 0.68
+
+Compensation and Benefits: 3.7
+Distribution: 
+	1: 29 
+	2: 32 
+	3: 108 
+	4: 150 
+	5: 68 
+
+Culture and Values: 3.1
+Distribution: 
+	1: 64 
+	2: 56 
+	3: 84 
+	4: 100 
+	5: 81 
+
+Diversity and Inclusion: 3.3
+Distribution: 
+	1: 37 
+	2: 28 
+	3: 70 
+	4: 81 
+	5: 67 
+
+Overall: 3.6
+Distribution: 
+	1: 42 
+	2: 35 
+	3: 119 
+	4: 159 
+	5: 129 
+
+Senior Management: 2.9
+Distribution: 
+	1: 69 
+	2: 62 
+	3: 92 
+	4: 106 
+	5: 54 
+
+Work Life Balance: 2.8
+Distribution: 
+	1: 62 
+	2: 68 
+	3: 92 
+	4: 94 
+	5: 69 
+
+Review Count: 487
+
+Recommend to Friend: 
+	RECOMMEND: 238
+	WONT RECOMMEND: 114
+
+
+
+
+The company has 536 reviews on Glassdoor. The last review was posted on 2024-04-17T17:35:18.177. 
+There are 20 Reviews for Coupang:
+
+Review 1:
+	Job Title: HR Manager
+	Location: Seattle, WA
+	Review Date: 2024-03-11T05:42:15.223
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Able to learn from good colleagues
+
+
+	Cons: 
+		Inconsistent policy, decision changes frequently
+
+
+	Summary: 
+		Fast changing, dynamic
+
+
+Review 2:
+	Job Title: Recruiter
+	Location: Koreatown, Los Angeles
+	Review Date: 2024-03-17T17:16:27.373
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		systematic hiring process and good peers
+
+
+	Cons: 
+		Too much metrics-centric culture. But it can be understandalbe
+
+
+	Summary: 
+		Good for a 1st step in recruiter
+
+
+Review 3:
+	Job Title: Ranking Engineer
+	Location: Mountain View, CA
+	Review Date: 2024-02-05T22:59:55.627
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Flexible work (WFH friendly), free snack, free drinks
+
+
+	Cons: 
+		Takes every opportunity to cut your pay. Would pay new hires double the compensation rather than reward old employees with a raise.
+		Lots of politics. Annoying middle managers chasing you for status update, leaving trivial comments in code, just so they can put their names on the project.
+		Lots of pride in making the process complex rather then simplifying it. Engineering life is increasingly hard thanks to all the innovative processes added throughout the years.
+
+
+	Summary: 
+		Limited Growth and Pay
+
+
+Review 4:
+	Job Title: Senior Software Engineer
+	Location: None
+	Review Date: 2024-01-10T10:19:57.900
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		* Fast skill growth and high standards
+		* Interesting problems
+		* Excellent benefits
+
+
+	Cons: 
+		* Sabotage and brutal competition for credit
+		* 50% of target bonus is only given to top 60%, 100% of target bonus is only given to top 10%
+		* Major burnout culture
+		* All focus is on short-term, it's a chaotic scramble for gains.
+		* Questionable stewardship on team &amp; between teams
+		* Highly political
+		* Heavy pressure on management from leadership, which pushes down, without any real vision.
+		* They basically took the Amazon values but made them worse and even more intense (but they don't really live by those values)
+
+
+	Summary: 
+		Cutthroat Company
+
+
+Review 5:
+	Job Title: Picker/Packer
+	Location: Riverside, CA
+	Review Date: 2024-02-15T16:39:41.767
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		No point system bathroom breaks when ever
+
+
+	Cons: 
+		No over time no way to make more money lot of favoritism
+
+
+	Summary: 
+		Ok place to work 
+
+
+Review 6:
+	Job Title: Sales Director
+	Location: Missouri City, TX
+	Review Date: 2024-02-19T18:37:10.967
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Frienddly, hardworking and reliable staff
+
+
+	Cons: 
+		highly competitive cauing lots of stress
+
+
+	Summary: 
+		Great company
+
+
+Review 7:
+	Job Title: Senior Product Manager
+	Location: None
+	Review Date: 2024-02-15T10:41:45.337
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		can't think of any pros from this company
+
+
+	Cons: 
+		You have to work in korean time no matter what, which is sucks. AND it has toxic culture. You have to be ready to jump in a fight/battle/combat all the time. There is no collaboration or team spirit. Work ethic is quite bad.
+
+
+	Summary: 
+		Be aware
+
+
+Review 8:
+	Job Title: Sr Data Analyst
+	Location: Mountain View, CA
+	Review Date: 2023-11-01T15:07:21.350
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Competitive Salaries based on location
+
+
+	Cons: 
+		The leadership team appears to be lacking a clear strategic direction, leading to hasty and imprudent decision-making. This is evidenced by impulsive hiring practices for new initiatives and abrupt staff reductions. Notably, these actions adversely affect employees on H1B visas, and it is apparent that HR and management are not well-versed in matters pertaining to H1B visa holders. The work schedules imposed are exceptionally demanding, particularly for those operating from the United States, who must synchronize their activities with teams situated in Korea. Consequently, employees should anticipate late-night meetings extending until 1 AM Pacific Standard Time (PST). Furthermore, there is a noticeable deficiency in effective team structuring by managers, resulting in a lack of collaboration among employees and the duplication of efforts in the completion of tasks. This undermines overall operational efficiency within the organization.
+
+
+	Summary: 
+		Worst Company to work at
+
+
+Review 9:
+	Job Title: Lead Product Management
+	Location: Seattle, WA
+	Review Date: 2023-11-03T10:37:51.313
+	Business Outlook: NEUTRAL
+	Career Opportunities: 0
+	CEO: DISAPPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Competitive pay as they try to get tech talents in the area.
+
+
+	Cons: 
+		- Not much opportunity to be promoted if you do not work in the HQ Korea office. - If you have family or children and want to eat dinner with them, do not work there. You will be on calls from 4-9pm every week night. - Top down/ruled culture. - Not much creativity or generating value for customers. Everything is copied and pasted from Amazon.
+
+
+	Summary: 
+		Limited upward mobility in Product Management outside of Korea
+
+
+Review 10:
+	Job Title: Senior Product Manager
+	Location: Seattle, WA
+	Review Date: 2023-10-09T00:46:38.180
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Well developed agile culture &amp; Decision making by metrics
+
+
+	Cons: 
+		Too many non-capable directors. I felt IC level is capable but leadership is not.
+
+
+	Summary: 
+		Good place for working as a e-commerce Product Manager
+
+
+Review 11:
+	Job Title: Senior Software Engineer
+	Location: Seattle, WA
+	Review Date: 2023-11-18T12:29:22.780
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Competitive pay 
+		Free lunch
+		Stocked regridgerators
+
+
+	Cons: 
+		Toxic work culture and leadership
+
+
+	Summary: 
+		work for money
+
+
+Review 12:
+	Job Title: Senior Software Engineer
+	Location: None
+	Review Date: 2023-05-28T20:29:01.827
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Good tech stack 
+		Profitable company 
+		Good abtest framework 
+		Pay is industry standard. RSUs are given.
+
+
+	Cons: 
+		Hyper-competitive culture. Only place where it feels like I'm being pitted against my teammates. 
+		Work-life balance can get rough, multiple parallel projects and evening meetings with folks in SK/China. 
+		Company principals are a more toxic version of Amazon's. 
+		Raises/bonuses and awards are determined more by politics than business impact. 
+		An up-or-out policy for tech roles through the senior level. 
+		No sudo access on personal machines. Lots of mandatory software installs.  
+		URA (unregretted attrition) quota is high, and an environment is created for low performers that encourages them to leave. 
+		My title was changed without telling me. 
+		The stock has terrible performance. 
+		Upper management losing their temper in meetings and 1:1s is not uncommon.
+
+
+	Summary: 
+		A knives out work place
+
+
+Review 13:
+	Job Title: Graphic Designer
+	Location: Los Angeles, CA
+	Review Date: 2023-08-24T08:38:35.477
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Friendly people, start up company
+
+
+	Cons: 
+		Poor management system with lack of communication
+
+
+	Summary: 
+		So so
+
+
+Review 14:
+	Job Title: Software Engineer
+	Location: Seattle, WA
+	Review Date: 2023-02-19T11:15:14.113
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Salary is good, the same as FAANG.
+
+
+	Cons: 
+		- WLB: The company, despite being valued at around 30 billion, lacks work-life balance and effective management strategies. US employees are required to work overtime frequently to accommodate the Korean business team, which could be prevented with better long-term planning and clear milestones. - Poor management culture: the managers lack a long-term vision and frequently change plans, causing developers to work on weekends, nights, and holidays. Alternative days off promised by managers are not reliable since plans are subject to frequent changes. - Too much politic: The company culture is politically driven, and some employees who talk well but do little work tend to receive better performance reviews due to the stack-ranking system. This job can negatively impact one's mental health, and earning the same amount by working two or more jobs is a more viable option than working here.
+
+
+	Summary: 
+		Very poor management culture
+
+
+Review 15:
+	Job Title: Staff Mobile Engineer
+	Location: None
+	Review Date: 2023-06-17T17:48:33.570
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Has a good team atmosphere.
+
+
+	Cons: 
+		Considering the current economic situation, the company's business is growing slightly slower.
+
+
+	Summary: 
+		Good company
+
+
+Review 16:
+	Job Title: SFA
+	Location: Mountain View, CA
+	Review Date: 2023-06-17T06:02:35.880
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Lot of diverse projects. Friendly people.
+
+
+	Cons: 
+		Work Korean Hours. Nice pay.
+
+
+	Summary: 
+		Nice work and balance
+
+
+Review 17:
+	Job Title: Software Engineer
+	Location: Mountain View, CA
+	Review Date: 2023-05-03T11:32:32.537
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Successful product Opportunity to grow the product further
+
+
+	Cons: 
+		Too much politics and egoistic leaders. Favoritism
+
+
+	Summary: 
+		Becoming toxic
+
+
+Review 18:
+	Job Title: Director
+	Location: None
+	Review Date: 2023-02-07T11:45:31.937
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: DISAPPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		fair pay autonomy good people
+
+
+	Cons: 
+		management= when there are changes to organization there is zero communication on the why or who was added or let go. This creates a lot of stress on the everyday employee who suddenly has a new boss
+
+
+	Summary: 
+		communication is a problem
+
+
+Review 19:
+	Job Title: Staff Engineer
+	Location: Mountain View, CA
+	Review Date: 2023-03-19T13:13:16.497
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		highly skilled very nice engineers
+
+
+	Cons: 
+		Frequently changed management leadership with short term view
+
+
+	Summary: 
+		Disappointed management
+
+
+Review 20:
+	Job Title: None
+	Location: San Mateo, CA
+	Review Date: 2023-01-14T16:16:26.557
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Flexible work environment Technology leadership team is good Collaborative teams
+
+
+	Cons: 
+		Not enough people in critical roles Does not pay market Many roles outsourced No senior tech leadership diversity
+
+
+	Summary: 
+		Give a fair shot
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

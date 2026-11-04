@@ -1,0 +1,626 @@
+
+EnLink Midstream is a Pipelines company based in 75201 Dallas, Texas. 
+The company has 1,132 employees and has a revenue of $9,542 according to Fortune 500.
+The company is valued at $5,102 and has a profit of $361. The CEO of the company is Jesse Arenivas.
+
+The Company has the following ratings: 
+Average ratings for EnLink Midstream:
+Business Outlook: 0.52
+
+Career Opportunities: 3.3
+Distribution: 
+	1: 15 
+	2: 14 
+	3: 27 
+	4: 24 
+	5: 21 
+
+CEO: 0.63
+
+Compensation and Benefits: 4.1
+Distribution: 
+	1: 2 
+	2: 7 
+	3: 16 
+	4: 37 
+	5: 39 
+
+Culture and Values: 3.4
+Distribution: 
+	1: 17 
+	2: 13 
+	3: 10 
+	4: 20 
+	5: 41 
+
+Diversity and Inclusion: 3.3
+Distribution: 
+	1: 6 
+	2: 2 
+	3: 7 
+	4: 8 
+	5: 9 
+
+Overall: 3.5
+Distribution: 
+	1: 11 
+	2: 17 
+	3: 22 
+	4: 32 
+	5: 37 
+
+Senior Management: 3
+Distribution: 
+	1: 23 
+	2: 14 
+	3: 11 
+	4: 27 
+	5: 24 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 7 
+	2: 9 
+	3: 27 
+	4: 28 
+	5: 29 
+
+Review Count: 119
+
+Recommend to Friend: 
+	RECOMMEND: 61
+	WONT RECOMMEND: 31
+
+
+
+
+The company has 126 reviews on Glassdoor. The last review was posted on 2024-03-10T06:15:48.453. 
+There are 20 Reviews for EnLink Midstream:
+
+Review 1:
+	Job Title: Operations
+	Location: Lenorah, TX
+	Review Date: 2023-09-08T21:34:02.557
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great bosses all around. Changing for the best.
+
+
+	Cons: 
+		Lack of shutdowns to get issues fixed.
+
+
+	Summary: 
+		Great
+
+
+Review 2:
+	Job Title: Former Grunt
+	Location: None
+	Review Date: 2024-03-10T06:15:48.453
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		There's plenty of work to do
+
+
+	Cons: 
+		There's plenty of people in decision making positions who lack the skills or knowledge to perform the most basic parts of their job.
+
+
+	Summary: 
+		Like an over-oiled machine
+
+
+Review 3:
+	Job Title: None
+	Location: None
+	Review Date: 2023-12-14T14:09:34.553
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Local operations have family atmosphere
+
+
+	Cons: 
+		Promotions are not too common.
+
+
+	Summary: 
+		good enough
+
+
+Review 4:
+	Job Title: None
+	Location: None
+	Review Date: 2023-09-19T19:28:51.887
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Pay is medium level to low.
+
+
+	Cons: 
+		This management doesn't have a clue on how to run a company. Very poor decisions are made and employees are spread very thin.
+
+
+	Summary: 
+		Look elsewhere
+
+
+Review 5:
+	Job Title: Engineer
+	Location: None
+	Review Date: 2023-09-06T11:22:39.553
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Loved the people here at Enlink
+
+
+	Cons: 
+		Can be very gossiping at Enlink
+
+
+	Summary: 
+		Great Place
+
+
+Review 6:
+	Job Title: Mechanic
+	Location: Midland, TX
+	Review Date: 2023-08-21T02:23:45.277
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Flex work schedule and benefits
+
+
+	Cons: 
+		Midland Odessa area just very busy with traffic
+
+
+	Summary: 
+		Great company
+
+
+Review 7:
+	Job Title: Cost Analyst
+	Location: Dallas, TX
+	Review Date: 2023-08-18T11:26:31.703
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good positive work-life balance environment.
+
+
+	Cons: 
+		They think this a Man's World.
+
+
+	Summary: 
+		Decent Employer
+
+
+Review 8:
+	Job Title: Commercial Manager
+	Location: Houston, TX
+	Review Date: 2023-04-04T05:08:55.150
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		I don’t work in HQ so the office has good vibe Quarterly fun events during work hours Jeans everyday Free snacks 6% 401k match, bonus info is easily available
+
+
+	Cons: 
+		My role has a hood work life balance. Some of the scheduling roles and day-to-day roles are understaffed and it shows in the hours. Company re-org happens often and is widespread so your role might be a new one without a lot of input from you.
+
+
+	Summary: 
+		Small Company Good Work Life Balance in the right groups
+
+
+Review 9:
+	Job Title: None
+	Location: Oklahoma City, OK
+	Review Date: 2023-05-26T18:04:22.970
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good culture and people seem happy to work here
+
+
+	Cons: 
+		Communication between departments is sometimes a challenge.
+
+
+	Summary: 
+		Great company
+
+
+Review 10:
+	Job Title: Financial Analyst
+	Location: Dallas, TX
+	Review Date: 2023-06-08T07:44:54.983
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great Company headed in the right direction
+
+
+	Cons: 
+		None that are applicable (N/A)
+
+
+	Summary: 
+		Great Company
+
+
+Review 11:
+	Job Title: Property Tax Analyst
+	Location: Dallas, TX
+	Review Date: 2023-05-03T11:23:26.367
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Flexability People are very nice and willing to help no matter what it is
+
+
+	Cons: 
+		No cons that I encountered
+
+
+	Summary: 
+		EnLink
+
+
+Review 12:
+	Job Title: Pipeline Operator
+	Location: Fort Worth, TX
+	Review Date: 2023-03-30T12:45:45.493
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Plenty of over time throughout the year
+
+
+	Cons: 
+		They keep employees to a minimum so it’s easy to get burnt out
+
+
+	Summary: 
+		Family Enviroment
+
+
+Review 13:
+	Job Title: Financial Planner
+	Location: None
+	Review Date: 2023-02-14T15:47:48.870
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Good salary and goof benefits
+
+
+	Cons: 
+		1) very "clique-ish" if you're not part of the "in crowd" you will get overlooked for growth opportunities. 2) say they want diversity, but don not like nor want to hear dissenting opinions
+
+
+	Summary: 
+		Beware
+
+
+Review 14:
+	Job Title: None
+	Location: None
+	Review Date: 2023-02-14T09:42:23.217
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		growing very very fast fast
+
+
+	Cons: 
+		not replacing some personel in a timley manner
+
+
+	Summary: 
+		idk
+
+
+Review 15:
+	Job Title: I & E Technician
+	Location: None
+	Review Date: 2022-12-01T06:11:41.933
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Very family oriented. Great work/life. Awesome schedule.
+
+
+	Cons: 
+		None that jumps out at me.
+
+
+	Summary: 
+		Great!
+
+
+Review 16:
+	Job Title: Manager
+	Location: Dallas, TX
+	Review Date: 2022-11-10T09:55:09.933
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay, benefits, hybrid work schedule
+
+
+	Cons: 
+		No advancement for people of color, poor interview process, unequal opportunities
+
+
+	Summary: 
+		Unorganized
+
+
+Review 17:
+	Job Title: Safety & Compliance Specialist
+	Location: None
+	Review Date: 2022-06-23T10:13:48.257
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great team and family oriented. Work life life balance is one of the best things to say about EnLink. From the mechanics to the control room board operators from the local leadership to corporate they really do care for the employees.
+
+
+	Cons: 
+		I don't work there anymore.
+
+
+	Summary: 
+		Great Company
+
+
+Review 18:
+	Job Title: None
+	Location: Dallas, TX
+	Review Date: 2022-05-27T18:13:38.633
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		- 401k match 6% 
+		- Yearly bonus paid even during 2020 oil downturn
+		- low medical premiums if you complete yearly physical and blood draw
+		- engineers are constantly rotated for new/diverse experience
+
+
+	Cons: 
+		- middle size company so not a lot of opportunity for leadership advancement
+		- may get stuck in one part of the business without opportunity to move around if not an engineer
+
+
+	Summary: 
+		Overall good company
+
+
+Review 19:
+	Job Title: Measurement Technician
+	Location: None
+	Review Date: 2022-09-24T08:04:38.990
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Pay, freedom, vehicle, benefits, computer
+
+
+	Cons: 
+		Hot mess, no money for repairs, little guidance
+
+
+	Summary: 
+		Avoid
+
+
+Review 20:
+	Job Title: None
+	Location: Dallas, TX
+	Review Date: 2022-06-20T08:14:28.290
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good bonus and pay. Insurance decent.
+
+
+	Cons: 
+		Doesn’t look after employees in downturns.
+
+
+	Summary: 
+		Decent place,  but have a backup plan.
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

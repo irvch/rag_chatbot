@@ -1,0 +1,641 @@
+
+BJ's Wholesale Club is a General Merchandisers company based in 01752 Marlborough, Massachusetts. 
+The company has 34,000 employees and has a revenue of $19,315 according to Fortune 500.
+The company is valued at $10,186 and has a profit of $513. The CEO of the company is Robert W. Eddy.
+
+The Company has the following ratings: 
+Average ratings for BJ's Wholesale Club:
+Business Outlook: 0.37
+
+Career Opportunities: 2.8
+Distribution: 
+	1: 539 
+	2: 508 
+	3: 717 
+	4: 458 
+	5: 361 
+
+CEO: 0.45
+
+Compensation and Benefits: 3
+Distribution: 
+	1: 455 
+	2: 508 
+	3: 815 
+	4: 483 
+	5: 317 
+
+Culture and Values: 2.9
+Distribution: 
+	1: 613 
+	2: 426 
+	3: 599 
+	4: 471 
+	5: 385 
+
+Diversity and Inclusion: 3.4
+Distribution: 
+	1: 192 
+	2: 122 
+	3: 268 
+	4: 333 
+	5: 356 
+
+Overall: 3.1
+Distribution: 
+	1: 522 
+	2: 576 
+	3: 976 
+	4: 759 
+	5: 478 
+
+Senior Management: 2.6
+Distribution: 
+	1: 770 
+	2: 439 
+	3: 566 
+	4: 416 
+	5: 344 
+
+Work Life Balance: 3
+Distribution: 
+	1: 542 
+	2: 395 
+	3: 721 
+	4: 523 
+	5: 393 
+
+Review Count: 3317
+
+Recommend to Friend: 
+	RECOMMEND: 1006
+	WONT RECOMMEND: 1237
+
+
+
+
+The company has 3419 reviews on Glassdoor. The last review was posted on 2024-04-17T11:54:16.880. 
+There are 20 Reviews for BJ's Wholesale Club:
+
+Review 1:
+	Job Title: Warehouse Stocking
+	Location: None
+	Review Date: 2024-04-10T14:55:00.623
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great place to work great benifits
+
+
+	Cons: 
+		A little bit more to offer for employees
+
+
+	Summary: 
+		Okay
+
+
+Review 2:
+	Job Title: Customer Service Representative
+	Location: Willoughby, OH
+	Review Date: 2024-04-17T07:51:20.553
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good Pay, Great Leadership, and felxible hours.
+
+
+	Cons: 
+		Customers can be evry rude, condescending, and even threatinbging/creepy
+
+
+	Summary: 
+		Good Pay with good Team, Beware Customers
+
+
+Review 3:
+	Job Title: Manager
+	Location: None
+	Review Date: 2024-03-25T16:26:21.993
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		fast paced environment for people who like to be constantly moving and always something to do and learn
+
+
+	Cons: 
+		Over the last few years the culture of this company has drastically plummeted. they do not support or empower their leaders to lead buildings successfully. Leaders become undervalued and overworked. It was an eye opening experience to see that the more you invest your time and energy with this company the more they take and expect and do not reciprocate the investment back into you. You become burnt out and feeling undervalued.
+
+
+	Summary: 
+		poor training and support
+
+
+Review 4:
+	Job Title: Meat Clerk
+	Location: Clearwater, FL
+	Review Date: 2024-04-15T09:37:25.343
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		decent pay, PTO time gained quickly, nice co workers and bosses.
+
+
+	Cons: 
+		A lot of work at times. Sometimes co workers leave having done barely anything leaving you to catch-up.
+
+
+	Summary: 
+		Good nanagement and job
+
+
+Review 5:
+	Job Title: Senior Manager
+	Location: None
+	Review Date: 2024-04-17T11:54:16.880
+	Business Outlook: NEGATIVE
+	Career Opportunities: 0
+	CEO: DISAPPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great and supportive immediate team.
+
+
+	Cons: 
+		After layoffs. Do more with less attitude. Promotions and raises capped this year.
+
+
+	Summary: 
+		Do more with less
+
+
+Review 6:
+	Job Title: Front Line Supervisor
+	Location: Albany, NY
+	Review Date: 2024-04-17T07:24:55.263
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Fun team to work with
+
+
+	Cons: 
+		Some times management is non existent
+
+
+	Summary: 
+		Mediocre
+
+
+Review 7:
+	Job Title: Associate
+	Location: Stroudsburg, PA
+	Review Date: 2024-03-18T09:49:45.820
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Most managers have great personalities and try their hardest to help you get ahead.
+
+
+	Cons: 
+		Upper management are some of the biggest idiots you will encounter as per a typical corporate environment, will look at the wage workers with the energy of a feudal lord or tax collector looking at his withering a dying serfs and wonders, "Why aren't they working harder? Do they not love providing numbers that make me look good?"
+
+
+	Summary: 
+		Great job if you like being used 
+
+
+Review 8:
+	Job Title: Cross Dock Manager
+	Location: Jacksonville, FL
+	Review Date: 2024-04-05T10:47:30.780
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Great team (lower leve)
+		Paid weekly
+
+
+	Cons: 
+		Upper/Top management has forgot it takes a team to success….treat team members as low collar people. Your just body to them
+
+
+	Summary: 
+		Needs new upper management 
+
+
+Review 9:
+	Job Title: Recovery Clerk
+	Location: Northborough, MA
+	Review Date: 2024-04-05T11:00:00.793
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		This was a good job for the summer. And because I liked making things neat, it was a good job for me.
+
+
+	Cons: 
+		Difficult to contact managers to let them know I was needed time off or a change in schedule.
+
+
+	Summary: 
+		Good for the summer
+
+
+Review 10:
+	Job Title: Meat Manager
+	Location: Bridgeville, PA
+	Review Date: 2024-04-10T05:57:38.853
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		A good salary for a small department.
+
+
+	Cons: 
+		Too light on labor. They don't replace anyone that leaves.
+
+
+	Summary: 
+		it's meat
+
+
+Review 11:
+	Job Title: Produce Clerk
+	Location: Manchester, CT
+	Review Date: 2024-03-30T21:25:42.523
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Pay is alright that's really it.
+
+
+	Cons: 
+		so many to name. Rude customers who reach over you with no manners and don't say excuse me, rude employees who are just as bad as the customers,a micromanaging coworker who complains about everything, Employees who act like they're a manager, the place is dirty even has roaches in the break room, understaffed, people calling out at the last moment and so much more
+
+
+	Summary: 
+		This place is a hot mess
+
+
+Review 12:
+	Job Title: Associate Marketing Analyst
+	Location: None
+	Review Date: 2023-11-02T10:02:19.340
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Decent Pay Hybrid Schedule (In Office Tues-Thurs) New building with good location 5 Free BJ Memberships
+
+
+	Cons: 
+		To reference the above headline- Watch your coffee basically means to always be aware of your surroundings, people etc.. because you never know who/what you can trust. Lack of Communication: My biggest disappointment was the lack of communication from management. I was terminated without any prior warning, feedback, or the chance to improve my performance. Constructive feedback is crucial for professional growth.
+
+
+	Summary: 
+		Watch Your Coffee
+
+
+Review 13:
+	Job Title: OMNI Associate
+	Location: Stoneham, MA
+	Review Date: 2024-04-10T02:15:11.507
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Good benefits, lunch and gifts
+
+
+	Cons: 
+		Tiredness, pressuring, frustration and not secure for back stress
+
+
+	Summary: 
+		Not bad
+
+
+Review 14:
+	Job Title: Overnight Stocker
+	Location: Coventry, RI
+	Review Date: 2024-04-08T16:09:44.070
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		People were good to work with.
+
+
+	Cons: 
+		A lot of physical labor.
+
+
+	Summary: 
+		Overnight Stacker Salary
+
+
+Review 15:
+	Job Title: Supervisor
+	Location: North Dartmouth, MA
+	Review Date: 2024-03-22T13:44:46.443
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Only the 401k and breakfast
+
+
+	Cons: 
+		They call kids with disabilities retards at the North Dartmouth store. The HR lady sleeps with married men. They talk to you like a piece of trash. If you aren't in their circle they plot on you together ro get you fired. You can go above and beyond. It's like a pathetic higschool group and these people are clearly over 30. The manager calls a Trans kid the he she and constantly makes fun of him. Call other kids retards, bches, and other names. You don't get breaks in certain departments.
+
+
+	Summary: 
+		🗑
+
+
+Review 16:
+	Job Title: Deli Clerk
+	Location: Seekonk, MA
+	Review Date: 2024-04-15T08:03:45.983
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		None really, other than maybe vacation days?
+
+
+	Cons: 
+		Management sucks, unappreciative. They will fire you for no reason
+
+
+	Summary: 
+		Management sucks
+
+
+Review 17:
+	Job Title: Manager
+	Location: New York, NY
+	Review Date: 2024-03-19T13:43:49.067
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The people you get to spend time with and get to know.
+
+
+	Cons: 
+		BJs has really been on a downward spiral.
+		
+		I’m not sure what happened to “leadership” but bullying, favoritism, discrimination, horrible work environment is not what this company was.
+		
+		Unless you know someone or someone likes you, you will get nowhere at BJs. They fire yearly at home office and rehire or “restructure” as they like to call it then tell the clubs there’s no money for operations all while putting on connect another SVP being hired on at 200k+ it’s insulting. 
+		
+		Home office is so far out of touch with what goes on daily in clubs. 
+		
+		HR is a total joke. The HRBPs have their favorites with Managers it’s really a conflict of interest when they hang out with each other outside of work.
+		
+		There has been a god like complex with all of the higher ups. It’s very hard to watch and I’m not sure why this is being taught or not corrected when it starts. It will make your stomach turn. You try to have a conversation with one of them and you get shamed rather than worked with on whatever is happening.
+		
+		The people they are putting into regional/director roles are an absolute joke. They don’t care about the job. The Club Managers they are hiring or promoting from within really will make you scratch your head. 
+		
+		Policies don’t apply unless the HRBP decides they don’t like you. I’m surprised BJs has not had more lawsuits. It will happen because we have incompetent people making these decisions. 
+		
+		Lastly. There’s no training here. All you have to be is completely full of yourself and you have the job, can basically let a building burn to the ground, no one will say a word because you’re shiny. 
+		
+		It starts at the top. What’s the old saying? Stuff rolls downhill.
+
+
+	Summary: 
+		Headed downhill fast
+
+
+Review 18:
+	Job Title: Asset Protection Associate
+	Location: Morton, PA
+	Review Date: 2024-04-11T17:17:49.603
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Free membership, that might be it.
+
+
+	Cons: 
+		Cut corners, high turnover, staff is unmotivated and for good reason. Management is abysmal.
+
+
+	Summary: 
+		Shoddy at best
+
+
+Review 19:
+	Job Title: Bakery Clerk
+	Location: Torrington, CT
+	Review Date: 2024-03-28T14:50:02.930
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		I actually can say I like my job too a certain point.
+
+
+	Cons: 
+		I dislike my Bakery managers there's 3 acting managers and two older over worked production clerks!!
+
+
+	Summary: 
+		Bakery Department
+
+
+Review 20:
+	Job Title: Service Supervisor
+	Location: Jersey City, NJ
+	Review Date: 2024-04-01T18:07:35.383
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great people to work with
+
+
+	Cons: 
+		GM isn’t great best way to say is she nags a lot
+
+
+	Summary: 
+		Okay job. Bad boss
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

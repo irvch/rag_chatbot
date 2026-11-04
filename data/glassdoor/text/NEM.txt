@@ -1,0 +1,624 @@
+
+Newmont is a Mining, Crude-Oil Production company based in 80237 Denver, Colorado. 
+The company has 14,600 employees and has a revenue of $11,915 according to Fortune 500.
+The company is valued at $38,947 and has a profit of -$429. The CEO of the company is Thomas R. Palmer.
+
+The Company has the following ratings: 
+Average ratings for Newmont:
+Business Outlook: 0.86
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 42 
+	2: 52 
+	3: 104 
+	4: 111 
+	5: 101 
+
+CEO: 0.9
+
+Compensation and Benefits: 4.2
+Distribution: 
+	1: 5 
+	2: 19 
+	3: 59 
+	4: 134 
+	5: 192 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 46 
+	2: 38 
+	3: 70 
+	4: 102 
+	5: 130 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 11 
+	2: 10 
+	3: 27 
+	4: 47 
+	5: 79 
+
+Overall: 4
+Distribution: 
+	1: 43 
+	2: 40 
+	3: 79 
+	4: 149 
+	5: 181 
+
+Senior Management: 3.6
+Distribution: 
+	1: 65 
+	2: 58 
+	3: 99 
+	4: 98 
+	5: 89 
+
+Work Life Balance: 3.5
+Distribution: 
+	1: 44 
+	2: 50 
+	3: 125 
+	4: 104 
+	5: 85 
+
+Review Count: 494
+
+Recommend to Friend: 
+	RECOMMEND: 281
+	WONT RECOMMEND: 99
+
+
+
+
+The company has 615 reviews on Glassdoor. The last review was posted on 2024-04-17T13:51:10.867. 
+There are 20 Reviews for Newmont:
+
+Review 1:
+	Job Title: Category Analyst
+	Location: Denver, CO
+	Review Date: 2024-03-26T08:54:38.190
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Amazing people, benefits, and solid pay.
+
+
+	Cons: 
+		Large company with lots of employees can lead to some bureaucracy
+
+
+	Summary: 
+		Great Company
+
+
+Review 2:
+	Job Title: Geologist
+	Location: Denver, CO
+	Review Date: 2024-04-10T14:51:43.623
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Global portfolio and project variety. Great at moving rocks.
+
+
+	Cons: 
+		Low priority on exploration and long term vision. Little geoscience representation at most senior levels. Bureaucracy and politics made worse by M&amp;As. Disorganized supply chain, a lawyer at every water cooler, and terrible HR. Low to median salaries for geoscience specialists. Poor work life balance.
+
+
+	Summary: 
+		Struggle Bus
+
+
+Review 3:
+	Job Title: Manager
+	Location: Denver, CO
+	Review Date: 2024-03-10T18:08:02.040
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Some really good talent still left at the lower level
+
+
+	Cons: 
+		Too many to list... don't forget that culture eats strategy for lunch.
+
+
+	Summary: 
+		Disjointed organization, toxic leadership
+
+
+Review 4:
+	Job Title: Senior Manager
+	Location: Denver, CO
+	Review Date: 2024-02-06T05:44:50.237
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Talented people, good benefit, solid bonus
+
+
+	Cons: 
+		Corporate culture in Denver is toxic, don't execute their values
+
+
+	Summary: 
+		Values and Culture
+
+
+Review 5:
+	Job Title: Environmental Health and Safety Manager
+	Location: Englewood, CO
+	Review Date: 2023-12-22T20:56:05.357
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Good salary, great PTO and insurance
+
+
+	Cons: 
+		Poor management made a toxic work environment. Plenty of Silos and need to be in the right "click". No support from upper management
+
+
+	Summary: 
+		Poor management ruin good people
+
+
+Review 6:
+	Job Title: Senior Director
+	Location: Denver, CO
+	Review Date: 2023-12-19T22:58:17.060
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		It's truly a values based organization. Lots of resources and good opportunities for mobility and advancement.
+
+
+	Cons: 
+		Can be bureaucratic. A lot of layers of management. Depending on the group, work/life balance can be tough.
+
+
+	Summary: 
+		Great Benefits and Good Managers
+
+
+Review 7:
+	Job Title: Engineer
+	Location: Elko, NV
+	Review Date: 2024-01-10T11:26:05.350
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great company for the size
+
+
+	Cons: 
+		It is still a large company
+
+
+	Summary: 
+		Great
+
+
+Review 8:
+	Job Title: Investor Relations Analyst
+	Location: Denver, CO
+	Review Date: 2023-12-22T14:43:08.213
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		More stable than oil and gas
+
+
+	Cons: 
+		Doesn’t pay the same wages as oil and gas to offset the harm done to the world
+
+
+	Summary: 
+		Low Pay for the Negative World Impact
+
+
+Review 9:
+	Job Title: Category Manager
+	Location: Denver, CO
+	Review Date: 2024-01-03T08:09:40.343
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Big org, lots of processes
+
+
+	Cons: 
+		Red tape involved with everything
+
+
+	Summary: 
+		Pretty good so far
+
+
+Review 10:
+	Job Title: Mechanic
+	Location: Cripple Creek, CO
+	Review Date: 2023-08-27T19:54:41.377
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Company pays really good and has really good benefits
+
+
+	Cons: 
+		Management on the shifter level leaves alot to be desired, some of the shifters like to bend the rules and company policy to.make the numbers for keeping the equipment up, even going as far as sending equipment out broken and also breaking safety protocols
+
+
+	Summary: 
+		Not sure
+
+
+Review 11:
+	Job Title: Director, Global Benefits
+	Location: None
+	Review Date: 2023-10-05T22:43:50.710
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		- leaders live the values - great pay and benefits - challenging work - opportunities to travel
+
+
+	Cons: 
+		Nothing to report at this time
+
+
+	Summary: 
+		Great employer
+
+
+Review 12:
+	Job Title: Metallurgist
+	Location: None
+	Review Date: 2023-07-20T08:12:49.943
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Great pay Great experience; challenging, a lot of technological advancements
+
+
+	Cons: 
+		Mines in small towns, not a lot of diversity Not a great work/life balance
+
+
+	Summary: 
+		Salary review
+
+
+Review 13:
+	Job Title: Assay Technician
+	Location: Cripple Creek, CO
+	Review Date: 2023-06-19T22:22:46.970
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great benefits are really good for entire family
+
+
+	Cons: 
+		Nightshifts can be long and hard
+
+
+	Summary: 
+		Yep
+
+
+Review 14:
+	Job Title: Director
+	Location: Denver, CO
+	Review Date: 2023-06-22T19:31:21.520
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay, good PTO, good benefits
+
+
+	Cons: 
+		Constantly reorganizing and changing No consistency
+
+
+	Summary: 
+		Ever changing
+
+
+Review 15:
+	Job Title: Human Resources
+	Location: Denver, CO
+	Review Date: 2023-05-18T21:55:12.607
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 1
+
+	Pros: 
+		Values based leadership. Collaboration and opportunities to learn.
+
+
+	Cons: 
+		Poor WorkLife balance. Lack of consideration for personal time.
+
+
+	Summary: 
+		Great Culture
+
+
+Review 16:
+	Job Title: None
+	Location: None
+	Review Date: 2023-04-03T19:52:38.303
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great benefits and dynamic Company
+
+
+	Cons: 
+		Company is very too heavy
+
+
+	Summary: 
+		Never bored!
+
+
+Review 17:
+	Job Title: Analyst
+	Location: None
+	Review Date: 2022-12-29T21:54:15.637
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Great benefits, lots of opportunities, multicultural environment
+
+
+	Cons: 
+		Accounting dept could be pretty stressful when deadlines need to be met
+
+
+	Summary: 
+		Great company overall
+
+
+Review 18:
+	Job Title: HR Service Center Administrator
+	Location: Denver, CO
+	Review Date: 2022-06-29T16:05:27.490
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Rewards such as compensation, bonuses, awards, holistic benefits package to include wellbeing in terms of mind &amp; body &amp; community. 
+		Plenty of room to grow within the company just no clear career path. But sometimes that the beauty of it!
+
+
+	Cons: 
+		No time to use the great benefits - little work life balance. Company and people are very stuck in their ways to try new ideas. The few that are open to trying new things can't because they have too much on their plates to prioritize revamping old processes.
+		No clear career path.
+
+
+	Summary: 
+		Great benefits and compensation but lacks culture
+
+
+Review 19:
+	Job Title: HR Specialist
+	Location: Denver, CO
+	Review Date: 2022-12-01T14:05:22.467
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Great benefits, hybrid work, company cares about their workers
+
+
+	Cons: 
+		Not a lot of promotion opportunities, which usually are pre-determined Favoritism
+
+
+	Summary: 
+		Would recommend!
+
+
+Review 20:
+	Job Title: Account Manager
+	Location: None
+	Review Date: 2022-10-31T18:44:37.097
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Compensation and benefits are great
+
+
+	Cons: 
+		work/life balance does not exist, working in weekends and extra hours frequently
+
+
+	Summary: 
+		Work/life balance
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

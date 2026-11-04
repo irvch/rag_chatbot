@@ -1,0 +1,642 @@
+
+JetBlue Airways is a Airlines company based in 11101 Long Island City, New York. 
+The company has 18,785 employees and has a revenue of $9,158 according to Fortune 500.
+The company is valued at $2,383 and has a profit of -$362. The CEO of the company is Robin Hayes.
+
+The Company has the following ratings: 
+Average ratings for JetBlue Airways:
+Business Outlook: 0.48
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 233 
+	2: 244 
+	3: 483 
+	4: 548 
+	5: 728 
+
+CEO: 0.7
+
+Compensation and Benefits: 3.3
+Distribution: 
+	1: 218 
+	2: 277 
+	3: 611 
+	4: 567 
+	5: 559 
+
+Culture and Values: 3.5
+Distribution: 
+	1: 270 
+	2: 174 
+	3: 300 
+	4: 407 
+	5: 975 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 72 
+	2: 54 
+	3: 137 
+	4: 227 
+	5: 598 
+
+Overall: 3.7
+Distribution: 
+	1: 228 
+	2: 237 
+	3: 494 
+	4: 780 
+	5: 992 
+
+Senior Management: 3.1
+Distribution: 
+	1: 443 
+	2: 287 
+	3: 474 
+	4: 476 
+	5: 515 
+
+Work Life Balance: 3.3
+Distribution: 
+	1: 282 
+	2: 249 
+	3: 511 
+	4: 517 
+	5: 669 
+
+Review Count: 2733
+
+Recommend to Friend: 
+	RECOMMEND: 1451
+	WONT RECOMMEND: 578
+
+
+
+
+The company has 2863 reviews on Glassdoor. The last review was posted on 2024-04-15T18:40:02.297. 
+There are 20 Reviews for JetBlue Airways:
+
+Review 1:
+	Job Title: Flight Attendant
+	Location: None
+	Review Date: 2024-03-20T02:00:12.790
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Impressive training facilities, great interview process.
+
+
+	Cons: 
+		You have to pay for your own flight to get to the interview, the jump seat test at the interview is bigger than the one at training.
+
+
+	Summary: 
+		Impressive training facilities 
+
+
+Review 2:
+	Job Title: Customer Service Representative
+	Location: San Francisco, CA
+	Review Date: 2024-04-06T12:43:47.683
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good culture at SFO. It is definitely a job where your coworkers will get you through.
+
+
+	Cons: 
+		No profit sharing. “We were never profitable enough” I think that’s key to balance out low hourly.
+
+
+	Summary: 
+		Great Culture
+
+
+Review 3:
+	Job Title: Airline Pilot
+	Location: New York, NY
+	Review Date: 2024-04-15T18:40:02.297
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Competitive pay, great equipment and work environment
+
+
+	Cons: 
+		Limited route structure compared to other major airlines
+
+
+	Summary: 
+		Woke company that flies airliners
+
+
+Review 4:
+	Job Title: Flight Attendant
+	Location: Boston, MA
+	Review Date: 2024-04-11T14:54:22.960
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Free travel, not bad layovers
+
+
+	Cons: 
+		Lower pay compared to competitors, corporate is not your friend even if you have an issue inflight.
+
+
+	Summary: 
+		Corporate warfare
+
+
+Review 5:
+	Job Title: Inflight Crewmember
+	Location: Orlando, FL
+	Review Date: 2024-04-05T07:28:02.357
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		JetBlue is as fun job with great people and a wonderful environment. You have to be prepared for the lifestyle of being a flight attendant but once you get used to it you’ll have a lot of fun.
+
+
+	Cons: 
+		Being on reserve which is on call in the beginning
+
+
+	Summary: 
+		Great Company
+
+
+Review 6:
+	Job Title: Airport Operations Crew Member
+	Location: Salt Lake City, UT
+	Review Date: 2024-04-09T18:23:20.443
+	Business Outlook: NEGATIVE
+	Career Opportunities: 0
+	CEO: DISAPPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Coworkers are amazing to work with.
+
+
+	Cons: 
+		Company has gone down hill in last 8 years.
+
+
+	Summary: 
+		Jetblue
+
+
+Review 7:
+	Job Title: Flight Attendant
+	Location: Orlando, FL
+	Review Date: 2024-04-04T10:39:49.923
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Flight Benefits, Flexibility, Health Insurance,
+
+
+	Cons: 
+		Pay, Excessive Delays and Cancellations, Just a number
+
+
+	Summary: 
+		Get ready to struggle
+
+
+Review 8:
+	Job Title:  Inflight Crew member 
+	Location: None
+	Review Date: 2024-02-17T09:09:18.703
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		High turnover so seniority goes up pretty fast
+
+
+	Cons: 
+		Too much to list. Couldn’t care less about their customers certainly don’t care about their employees.
+		They don’t follow their own values safety/caring/integrity is a joke.
+		Exploit their flight attendants 
+		18 hrs duty days with no breaks. Clean the planes for free. 
+		Only airline won’t allow their flight crew to sit in business class in uniform.
+		Have to interview for your own airline to work business class. As if it’s something special. 
+		Don’t follow contract they agreed upon. 
+		Planes are ran into the ground.
+		WiFi and TVs constantly broken.
+		All talk “recycle” goes in the same bin as everything else. 
+		One year they gave extra money for not calling out sick during the busy months. Now you get punished with extra “points” . And instead of cash they gave you true blue points what a joke.
+
+
+	Summary: 
+		Profits over people
+
+
+Review 9:
+	Job Title: Ground Operations
+	Location: Boston, MA
+	Review Date: 2024-03-26T16:38:37.633
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		flight benefits/ 401k 5% match/ 
+		
+		full time health care benefits
+
+
+	Cons: 
+		not able to do anything during first 90 days; can't switch from full time to part time fast, have to wait; having to work a minimum of hours per week
+
+
+	Summary: 
+		New Hire
+
+
+Review 10:
+	Job Title: Senior Analyst
+	Location: None
+	Review Date: 2024-03-29T20:43:05.323
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Values, company culture, flight benefits
+
+
+	Cons: 
+		Poor leadership, hard to move up in some departments
+
+
+	Summary: 
+		Good company, management could be better
+
+
+Review 11:
+	Job Title: Maintenance Planner
+	Location: Orlando, FL
+	Review Date: 2024-03-25T12:22:54.760
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Flight benefits
+		Career growth
+		Caring culture
+
+
+	Cons: 
+		No profit sharing
+		Can be disorganized
+		Very reactive
+
+
+	Summary: 
+		Pretty good
+
+
+Review 12:
+	Job Title: Lead Software Engineer
+	Location: New York, NY
+	Review Date: 2024-03-20T18:42:37.420
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Director and below are all great and skilled folks. Airline benefits are great.
+
+
+	Cons: 
+		VP level and up are filled with incompetent and malicious individuals who support bigotry and workplace bullying.
+
+
+	Summary: 
+		Great Company Horrible Senior Leadership
+
+
+Review 13:
+	Job Title: Flight Attendant
+	Location: Orlando, FL
+	Review Date: 2024-03-29T21:49:01.593
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Very caring environment and respectful peers
+
+
+	Cons: 
+		Overtime work and barely any social life
+
+
+	Summary: 
+		N/A
+
+
+Review 14:
+	Job Title: Airport Operations Crew Member
+	Location: Fort Lauderdale, FL
+	Review Date: 2024-03-12T19:09:25.550
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Company is good just need to hire the right people for their management team
+
+
+	Cons: 
+		Manager feel empower they are the worse ,talk about the employees don’t have confidentiality you go to the office with a personal
+		Problem
+		And the whole station knows about it managers are the first one to gossip
+
+
+	Summary: 
+		Worse management you can have
+
+
+Review 15:
+	Job Title: Flight Attendant
+	Location: New York, NY
+	Review Date: 2024-02-14T14:04:53.823
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		As with most flight attendant jobs, the best part is the flexibikity. Getting a lot of days off really makes up for any delays or other setbacks.
+
+
+	Cons: 
+		Delays
+		I've had two experiences me and my crew were forgotten and not given a place to rest and they broke many regulations. It doesn't happen all the time but just be mindful.
+
+
+	Summary: 
+		Growing pains
+
+
+Review 16:
+	Job Title: Quality Assurance Auditor
+	Location: None
+	Review Date: 2024-03-27T09:58:08.503
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Always caring about each other
+
+
+	Cons: 
+		Business Travel Expense while traveling
+
+
+	Summary: 
+		Love JetBlue
+
+
+Review 17:
+	Job Title: None
+	Location: Boston, MA
+	Review Date: 2024-03-10T17:17:14.647
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Great team of coworkers and young modern company.
+
+
+	Cons: 
+		Inflight leadership is out of touch and tone deaf. Delegating random and excessive tasks/responsibilities to overworked and underpaid roles
+
+
+	Summary: 
+		Disappointing direction
+
+
+Review 18:
+	Job Title: Customer Service Representative
+	Location: Salt Lake City, UT
+	Review Date: 2024-03-21T10:58:48.517
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great leadership, people were friendly!
+
+
+	Cons: 
+		Slow career growth for the time being there.
+
+
+	Summary: 
+		Great for starters
+
+
+Review 19:
+	Job Title: Airport Operations Crew Member
+	Location: None
+	Review Date: 2024-03-26T06:51:01.860
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Opportunity to grow
+		Carrers programs
+
+
+	Cons: 
+		Lack of professionalism on sup level
+
+
+	Summary: 
+		Opportunity to grow
+
+
+Review 20:
+	Job Title: Inflight Crewmember
+	Location: New York, NY
+	Review Date: 2024-03-19T15:28:41.713
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Opportunity to work with great people, visit amazing cities, and flexible work schedule
+
+
+	Cons: 
+		Long days, reserve pay &amp; don't commute if you don't have to
+
+
+	Summary: 
+		Great Culture
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

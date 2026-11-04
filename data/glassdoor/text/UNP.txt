@@ -1,0 +1,643 @@
+
+Union Pacific is a Railroads company based in 68179 Omaha, Nebraska. 
+The company has 33,179 employees and has a revenue of $24,875 according to Fortune 500.
+The company is valued at $123,146 and has a profit of $6,998. The CEO of the company is Lance M. Fritz.
+
+The Company has the following ratings: 
+Average ratings for Union Pacific:
+Business Outlook: 0.26
+
+Career Opportunities: 2.3
+Distribution: 
+	1: 835 
+	2: 443 
+	3: 491 
+	4: 386 
+	5: 322 
+
+CEO: 0.15
+
+Compensation and Benefits: 3.3
+Distribution: 
+	1: 216 
+	2: 287 
+	3: 585 
+	4: 765 
+	5: 621 
+
+Culture and Values: 2
+Distribution: 
+	1: 1218 
+	2: 368 
+	3: 366 
+	4: 225 
+	5: 213 
+
+Diversity and Inclusion: 2.8
+Distribution: 
+	1: 320 
+	2: 142 
+	3: 243 
+	4: 148 
+	5: 153 
+
+Overall: 2.3
+Distribution: 
+	1: 1045 
+	2: 480 
+	3: 541 
+	4: 432 
+	5: 324 
+
+Senior Management: 1.8
+Distribution: 
+	1: 1373 
+	2: 346 
+	3: 366 
+	4: 214 
+	5: 154 
+
+Work Life Balance: 1.8
+Distribution: 
+	1: 1347 
+	2: 402 
+	3: 363 
+	4: 205 
+	5: 154 
+
+Review Count: 2824
+
+Recommend to Friend: 
+	RECOMMEND: 707
+	WONT RECOMMEND: 1621
+
+
+
+
+The company has 3032 reviews on Glassdoor. The last review was posted on 2024-04-17T19:54:37.367. 
+There are 20 Reviews for Union Pacific:
+
+Review 1:
+	Job Title: Railroad Conductor
+	Location: None
+	Review Date: 2023-11-12T18:38:07.460
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good pay and benefits. Job it’s self is pretty easy
+
+
+	Cons: 
+		Horrible schedule and culture. 24/7 on call
+
+
+	Summary: 
+		Fine
+
+
+Review 2:
+	Job Title: Transportation
+	Location: United States Air Force Acad, CO
+	Review Date: 2024-03-17T07:31:33.143
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		There is nothing good to say.
+
+
+	Cons: 
+		When ask questions on employee surveys like do you feel valued as an employee? It's an overwhelming majority of no. I dont feel valued as human with this company. They boast about these great things while they constantly defy government agencies. They tell lies to justify cutting jobs. People wake up it's not just this place it's all big business. PSR has ruined company after company. It swept thru Canada. When you point out things like the derailment of trains is down over the past 5yrs. Great that's because you are running fewer trains, building monster 2+ mile long trains causing an impact on public safety. They want there to be not one person on a train. Safety safety safety. When you cut out all the workers in a major industry, you know have less people buying the product you ship do to not being employed and making money. When you cut costs repeatedly by cutting lower management and employees you lose good knowledge of the day to day working on the ground. Promote the lies and reward the bad.
+
+
+	Summary: 
+		PSR trash
+
+
+Review 3:
+	Job Title: Operations Manager
+	Location: United States Coast Guard - Air Station Sacramento
+	Review Date: 2024-02-09T14:35:17.130
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The engines are yellow. That is a good color, right?
+
+
+	Cons: 
+		Too many to list. In a world where everyone everywhere else is getting a raise, my overall pay for this year is more than a 4% decrease in pay. There is little incentive to work here anymore. I used to enjoy what I do, but don’t see it as worth it and think I am going to start looking elsewhere.
+
+
+	Summary: 
+		Deep regrets
+
+
+Review 4:
+	Job Title: Director
+	Location: Omaha, NE
+	Review Date: 2024-04-17T19:54:37.367
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		benefits and salary are more than fair
+
+
+	Cons: 
+		long hours and stressful environment
+
+
+	Summary: 
+		Demanding work environment
+
+
+Review 5:
+	Job Title: Train Dispatcher
+	Location: Omaha, NE
+	Review Date: 2024-04-16T17:57:34.380
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Health care
+		STD
+		Paid vacation, personal, and sick days
+
+
+	Cons: 
+		Stressful 
+		24/7/365
+		Poor leadership
+		Opportunities are not equal
+
+
+	Summary: 
+		Good pay and benefits
+
+
+Review 6:
+	Job Title: Management Trainee
+	Location: Colton, CA
+	Review Date: 2024-02-08T21:03:48.013
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		continuously learning and challenging. 
+		everyday is a different day!
+
+
+	Cons: 
+		Manager's attitude always looking to blame someone.
+		Upper management has favorite employee's who rules don't apply.
+		Managers are trained to look for something negative to catch employees doing something bad.
+		Leadership promotes to manage by FEAR.
+		No effective training managers DH and RS are always mad &amp; frustrated.
+		Managers only take time to write a negative commit.
+		We are encourage to target new employees.
+
+
+	Summary: 
+		horrible management
+
+
+Review 7:
+	Job Title: Staff Auditor
+	Location: Omaha, NE
+	Review Date: 2024-04-15T08:20:28.593
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		The people here are good to work with.
+
+
+	Cons: 
+		Some of the work is not fulfilling.
+
+
+	Summary: 
+		Staff Auditor
+
+
+Review 8:
+	Job Title: Manager of Yard Operations
+	Location: Houston, TX
+	Review Date: 2024-04-13T19:49:21.430
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Make good money compared to other jobs
+
+
+	Cons: 
+		Schedules
+		Work alot
+		12 hr days
+
+
+	Summary: 
+		Salary
+
+
+Review 9:
+	Job Title: Train Conductor
+	Location: Pocatello, ID
+	Review Date: 2024-04-01T21:15:18.267
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Pay scale for area. Healthcare.
+
+
+	Cons: 
+		No schedule. Get called out of town potentially ever 10 hours.
+		Local management causes a hostile working environment.
+		There is not local HR help.
+		Company is run wholly by share holders opinions.
+		New ways of railroading (and or reinventing the wheel) get introduced every 3-5 years. 
+		Ceo is all about profits.
+		Don't plan on spending time with your family. You will work every major holiday.
+
+
+	Summary: 
+		Stay away from this corrupted company 
+
+
+Review 10:
+	Job Title: Railroad Conductor/Switchman
+	Location: Houston, TX
+	Review Date: 2023-12-14T16:58:04.397
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Decent pay and decent benefits. Other employees looking out for each other.
+
+
+	Cons: 
+		Literally everything else. I have been employed here for 2 years on the TE&amp;Y side. 75% of the people I hired out with either got fired or quit within their first 2 months out of training. This place will take all of your time away from your family. There are serious problems with management trying to fire you over some ridiculous rule that is hidden deep in a rule book. Plus management is HIGHLY incompetent and seem to be snakes, the good ones never seem to stay. I have missed most of the important days in my life such as birthdays and major holidays due to work. I am in a constant state of feeling tired but not being able to sleep due to being on call and going to work around huge machines while tired is HIGHLY DANGEROUS and management couldn’t care less as long as you are making numbers. I personally looked past all of the negative reviews about this place before taking the job, but looking back now I should have taken the hint and not hired out. I wouldn’t recommend any of my close family or friends working here even after asking me if UP was hiring. I only recommend this job to my enemies! But seriously, I DO NOT RECOMMEND THIS JOB.
+
+
+	Summary: 
+		Terrible place to work. Don’t waste your time
+
+
+Review 11:
+	Job Title: Railroad Conductor
+	Location: Oregon City, OR
+	Review Date: 2024-04-02T19:27:08.827
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Good money. Job security after 5 years
+
+
+	Cons: 
+		No job security.... No schedule.... Work days nights holidays
+
+
+	Summary: 
+		UP
+
+
+Review 12:
+	Job Title: Electronic Technician
+	Location: East Saint Louis, IL
+	Review Date: 2024-03-14T17:16:49.397
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good Pay and decent Healthcare. They do have an employee stock option where they match 40% up to 4%
+
+
+	Cons: 
+		Terrible work/family balance. Dwindling Healthcare coverage and raising premium costs. Horrible management and work environment. Only care about the shareholders.
+
+
+	Summary: 
+		Electronic Technician
+
+
+Review 13:
+	Job Title: Systems Consultant
+	Location: Omaha, NE
+	Review Date: 2024-04-10T18:55:09.870
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good long term benefits with pension
+
+
+	Cons: 
+		Reached a ceiling in the current env
+
+
+	Summary: 
+		Capped Out
+
+
+Review 14:
+	Job Title: Locomotive Engineer/Conductor
+	Location: None
+	Review Date: 2024-04-03T22:25:05.940
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Pay and new work rest cycle for engineers.
+
+
+	Cons: 
+		Union Pacific participates in PSR which is a terrible environment for employees and customers.
+
+
+	Summary: 
+		Union Pacific
+
+
+Review 15:
+	Job Title: Human Resources Generalist
+	Location: Omaha, NE
+	Review Date: 2024-03-26T19:09:22.120
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		I can’t think of any
+
+
+	Cons: 
+		There were no cons.
+		 It was a good job
+
+
+	Summary: 
+		Good first job
+
+
+Review 16:
+	Job Title: Railroad Electrician
+	Location: None
+	Review Date: 2024-01-26T10:37:46.583
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		The Mechanical Department has taught me alot about how we move goods from one place to another. Locomotives are an interesting piece of machinery and im grateful for the learning experience. Solid pay and benefits.
+
+
+	Cons: 
+		Working for the Railroad has a tendency to be hard on your personal life. Ive missed holidays, birthdays and vacations due to stringent time off practices. The pay if it was better could off set the cons. But in reality the time away from doesn't always equate to a financially secure life. Im feeling I need more.
+
+
+	Summary: 
+		It's been a unique journey.
+
+
+Review 17:
+	Job Title: Senior Telecommunications Technician
+	Location: None
+	Review Date: 2024-03-27T23:13:02.730
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		pay, benefits, outdoors, work vehicle, co-workers
+
+
+	Cons: 
+		Physical, demand, management, four, five
+
+
+	Summary: 
+		UPRR telecom tech
+
+
+Review 18:
+	Job Title: Senior Utility clerk
+	Location: Eugene, OR
+	Review Date: 2024-03-24T14:18:11.107
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Pay that is about it
+
+
+	Cons: 
+		Just a number and mindless drone
+
+
+	Summary: 
+		Wish they cared more about employees
+
+
+Review 19:
+	Job Title: Carman
+	Location: Salt Lake City, UT
+	Review Date: 2024-03-25T12:11:44.363
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Pay is decent and job is easy
+
+
+	Cons: 
+		No job security and dumb management
+
+
+	Summary: 
+		No job security
+
+
+Review 20:
+	Job Title: Analyst
+	Location: Omaha, NE
+	Review Date: 2024-03-18T18:04:07.413
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Great pay and benefits, somewhat flexible.
+
+
+	Cons: 
+		Culture, management, leadership, advancement, job security
+
+
+	Summary: 
+		Average
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

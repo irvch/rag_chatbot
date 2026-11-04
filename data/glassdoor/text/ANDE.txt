@@ -1,0 +1,633 @@
+
+Andersons is a Food Production company based in 43537 Maumee, Ohio. 
+The company has 2,244 employees and has a revenue of $17,351 according to Fortune 500.
+The company is valued at $1,396 and has a profit of $131. The CEO of the company is Patrick E. Bowe.
+
+The Company has the following ratings: 
+Average ratings for Andersons:
+Business Outlook: 0.75
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 17 
+	2: 25 
+	3: 51 
+	4: 33 
+	5: 26 
+
+CEO: 0.78
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 7 
+	2: 21 
+	3: 38 
+	4: 56 
+	5: 28 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 19 
+	2: 11 
+	3: 15 
+	4: 31 
+	5: 65 
+
+Diversity and Inclusion: 3.6
+Distribution: 
+	1: 16 
+	2: 7 
+	3: 10 
+	4: 11 
+	5: 16 
+
+Overall: 3.9
+Distribution: 
+	1: 15 
+	2: 16 
+	3: 30 
+	4: 77 
+	5: 56 
+
+Senior Management: 3.6
+Distribution: 
+	1: 23 
+	2: 13 
+	3: 42 
+	4: 34 
+	5: 38 
+
+Work Life Balance: 3.9
+Distribution: 
+	1: 16 
+	2: 17 
+	3: 29 
+	4: 36 
+	5: 53 
+
+Review Count: 194
+
+Recommend to Friend: 
+	RECOMMEND: 99
+	WONT RECOMMEND: 40
+
+
+
+
+The company has 214 reviews on Glassdoor. The last review was posted on 2024-04-06T15:40:25.987. 
+There are 20 Reviews for Andersons:
+
+Review 1:
+	Job Title: Senior Analyst
+	Location: Toledo, OH
+	Review Date: 2024-04-06T15:40:25.987
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Management is honest, does what they say
+
+
+	Cons: 
+		Like any big public company, wheels move slow
+
+
+	Summary: 
+		Awesome place to be working
+
+
+Review 2:
+	Job Title: Human Resources Manager
+	Location: Maumee, OH
+	Review Date: 2024-04-03T15:56:33.667
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		It's close to the highway for a quick getaway
+
+
+	Cons: 
+		Way too many to post
+
+
+	Summary: 
+		Truly Tragic
+
+
+Review 3:
+	Job Title: Grain Operations
+	Location: Albion, MI
+	Review Date: 2024-02-29T09:43:38.160
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Family-oriented, As well as with good overtime opportunities.
+
+
+	Cons: 
+		Work ethic is lacking with other workers when supervisors aren't watching all the time.
+
+
+	Summary: 
+		Great Place
+
+
+Review 4:
+	Job Title: Financial Analyst
+	Location: Maumee, OH
+	Review Date: 2024-02-12T13:46:08.120
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Flexible work life balance
+		Manageable work load
+
+
+	Cons: 
+		Retirement benefits could be a little better
+
+
+	Summary: 
+		Great company
+
+
+Review 5:
+	Job Title: Manager
+	Location: Maumee, OH
+	Review Date: 2024-02-05T17:10:43.923
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Excellent place to work- solid culture and legacy and opportunities for advancement.
+
+
+	Cons: 
+		Small-midsize company- sometimes slow to change
+
+
+	Summary: 
+		Great Place!
+
+
+Review 6:
+	Job Title: Grain Trader
+	Location: Toledo, OH
+	Review Date: 2023-09-22T10:09:19.137
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great 9-5 job in a good area with even better people.
+
+
+	Cons: 
+		Promotions were extremely difficult and often did not seem based on merit.
+
+
+	Summary: 
+		Great People, little room for advancement
+
+
+Review 7:
+	Job Title: IT Manager
+	Location: Maumee, OH
+	Review Date: 2023-10-02T11:18:17.183
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Flexible, and care about their employees
+
+
+	Cons: 
+		Slow to adopt a new way of doing things
+
+
+	Summary: 
+		Great Place
+
+
+Review 8:
+	Job Title: Trader
+	Location: Maumee, OH
+	Review Date: 2023-08-10T18:16:38.527
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Corporate values are very good.
+
+
+	Cons: 
+		Slow moving and bureaucratic culture.
+
+
+	Summary: 
+		Great corporate values, not extremely exciting place to work.
+
+
+Review 9:
+	Job Title: Merchant In Training (MIT)
+	Location: Idaho Falls, ID
+	Review Date: 2023-04-30T22:29:57.237
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		- Company does a great job training new traders to become proficient in their role - Rewards production (Once an MIT graduates there are great bonuses and money to be made as an associate/senior merchant) - Strong outlook for growth in one's career (not even necessarily in just trading), you get the ability to move around to new roles somewhat - Company is large and stable for the future
+
+
+	Cons: 
+		- Large company - Not very many other cons I can think of
+
+
+	Summary: 
+		Merchant in Training (MIT Program)
+
+
+Review 10:
+	Job Title: Shipping and Receiving
+	Location: Houston, TX
+	Review Date: 2023-07-20T12:57:09.283
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		You will have a job for the time being
+
+
+	Cons: 
+		Underplayed ,overworked they do not appreciate anything you do for them no matter how hard you work and if your late more then once no matter if your momma died your fired
+
+
+	Summary: 
+		Low pay and they treat you like crap
+
+
+Review 11:
+	Job Title: Manager
+	Location: Maumee, OH
+	Review Date: 2023-05-31T04:19:39.970
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Company built on family values and strives to live by values. Experienced senior leadership with lots of upward growth. Flexible work schedule means I can be with my kids when I need to be. Good benefits.
+
+
+	Cons: 
+		Want to see more around diversity. Merit increases not great even with good company performance
+
+
+	Summary: 
+		Work/life balance and values
+
+
+Review 12:
+	Job Title: Crewleader
+	Location: None
+	Review Date: 2023-06-09T12:55:45.457
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		The pay has been competitive my whole career. Lots of room to advance.
+
+
+	Cons: 
+		Lots of OT, wanted or not. Dangerous at times
+
+
+	Summary: 
+		Great pay, room to advance but lots of OT
+
+
+Review 13:
+	Job Title: None
+	Location: None
+	Review Date: 2022-08-15T09:23:00.077
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Lots of vacation. Decent medical and dental. 401k
+
+
+	Cons: 
+		Depending on if you are a favorite or not will depend on what your workload will be. Management has no accountability.  Neither do the favorite employees that don't do their job and cost the company THOUSANDS of dollars.
+		
+		Getting raises is a difficult process that is always drawn out sometimes taking MONTHS.  
+		
+		Be prepared for so much micromanaging that you'll question your will to live.  We are never left alone to do our job. Oh and if you do something wrong. Get prepared to get talked to at least 4 times by 4 different people.
+		
+		They say they want to promote from within, but that is definitely not the case. You can be the best worker here but they will find some little reason not to give you the promotion. 
+		
+		I understand that there is going to be a huge difference between managers, presidents, supervisors, CEO and regular employees. But when regular employees get a 2.5% raise and a $2000 bonus, and others get $8k to $12k and our leadership gets MILLIONS. Employees are losing money year over year vs cost of living.
+		
+		There is no such thing as loyalty.
+
+
+	Summary: 
+		Almost Perfect
+
+
+Review 14:
+	Job Title: Information Technology Analyst
+	Location: None
+	Review Date: 2023-05-25T19:47:39.470
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 5
+
+	Pros: 
+		Plenty of opportunities to grow Positive work environment Engaging work yet not stressful
+
+
+	Cons: 
+		The slow days are REALLY slow Some days you will be swamped with work
+
+
+	Summary: 
+		Great company
+
+
+Review 15:
+	Job Title: Manager
+	Location: None
+	Review Date: 2023-05-31T19:46:56.830
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Communication across the company is very good.
+
+
+	Cons: 
+		Healthcare plans are not as good as my previous employer
+
+
+	Summary: 
+		The andersons
+
+
+Review 16:
+	Job Title: Engineer
+	Location: Maumee, OH
+	Review Date: 2023-05-11T13:18:24.320
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Benefits are good and they care about growing from within
+
+
+	Cons: 
+		Groups don’t work as well together as they could because of imaginary business lines
+
+
+	Summary: 
+		Good benefits
+
+
+Review 17:
+	Job Title: Accountant
+	Location: Maumee, OH
+	Review Date: 2023-03-30T17:05:38.117
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Pay and benefits are decent.
+
+
+	Cons: 
+		When I started working for this company it was family oriented, with support from management and teamwork. Towards the end it became very polital, everyone out for themselves and no communication with management.
+
+
+	Summary: 
+		Company has changed
+
+
+Review 18:
+	Job Title: Operations
+	Location: None
+	Review Date: 2022-11-23T04:27:35.133
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Always will have work and pretty flexible to work for.
+
+
+	Cons: 
+		They tell you the more the employee does the more they know the more they get paid which that never happens it's a standard rate across the board for everybody so the people that go above and beyond get the same amount as those that don't do really anything.
+
+
+	Summary: 
+		Lots to be desired
+
+
+Review 19:
+	Job Title: Accountant II
+	Location: Overland Park, KS
+	Review Date: 2023-03-27T14:24:20.567
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Fantastic place to work - no complaints
+
+
+	Cons: 
+		None that I can think of
+
+
+	Summary: 
+		Fantastic
+
+
+Review 20:
+	Job Title: Senior Procurement Analyst
+	Location: None
+	Review Date: 2023-02-22T13:11:03.103
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		incentives. flexibility, support team building.
+
+
+	Cons: 
+		accountability, decision making x x x x
+
+
+	Summary: 
+		good
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

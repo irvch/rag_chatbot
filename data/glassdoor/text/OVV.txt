@@ -1,0 +1,623 @@
+
+Ovintiv is a Mining, Crude-Oil Production company based in 80202 Denver, Colorado. 
+The company has 1,744 employees and has a revenue of $12,464 according to Fortune 500.
+The company is valued at $8,772 and has a profit of $3,637. The CEO of the company is Brendan M. Mccracken.
+
+The Company has the following ratings: 
+Average ratings for Ovintiv:
+Business Outlook: 0.5
+
+Career Opportunities: 3
+Distribution: 
+	1: 41 
+	2: 57 
+	3: 97 
+	4: 85 
+	5: 33 
+
+CEO: 0
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 8 
+	2: 18 
+	3: 33 
+	4: 116 
+	5: 139 
+
+Culture and Values: 3.1
+Distribution: 
+	1: 37 
+	2: 42 
+	3: 56 
+	4: 76 
+	5: 73 
+
+Diversity and Inclusion: 3.3
+Distribution: 
+	1: 12 
+	2: 9 
+	3: 20 
+	4: 22 
+	5: 15 
+
+Overall: 3.6
+Distribution: 
+	1: 23 
+	2: 35 
+	3: 95 
+	4: 123 
+	5: 90 
+
+Senior Management: 2.7
+Distribution: 
+	1: 64 
+	2: 46 
+	3: 85 
+	4: 75 
+	5: 37 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 16 
+	2: 23 
+	3: 49 
+	4: 81 
+	5: 143 
+
+Review Count: 366
+
+Recommend to Friend: 
+	RECOMMEND: 190
+	WONT RECOMMEND: 91
+
+
+
+
+The company has 443 reviews on Glassdoor. The last review was posted on 2024-04-02T08:03:37.113. 
+There are 20 Reviews for Ovintiv:
+
+Review 1:
+	Job Title: Intern
+	Location: Denver, CO
+	Review Date: 2023-08-15T13:01:48.177
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		*great benefits with great 401k
+
+
+	Cons: 
+		*lower base pay than the rest of the market
+
+
+	Summary: 
+		Great company
+
+
+Review 2:
+	Job Title: Senior IT Security Analyst
+	Location: The Woodlands, TX
+	Review Date: 2024-04-02T08:03:37.113
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		At one time, they were a collaborative, inclusive culture with strong leadership. Their deteriorating leadership is driving good people away.
+
+
+	Cons: 
+		Weak executive leadership lacking strategic vision.
+
+
+	Summary: 
+		Bad Managers Run Talent Off
+
+
+Review 3:
+	Job Title: Sourcing Specialist
+	Location: Denver, CO
+	Review Date: 2023-11-02T08:00:19.180
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Work/Life Balance, benefits, Paid Time off
+
+
+	Cons: 
+		Management team in SCM doesn't know much about SCM
+
+
+	Summary: 
+		SCM Management
+
+
+Review 4:
+	Job Title: Geologist
+	Location: Denver, CO
+	Review Date: 2023-08-11T12:47:11.427
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		great place to work and people
+
+
+	Cons: 
+		none at this time right now
+
+
+	Summary: 
+		Working
+
+
+Review 5:
+	Job Title: Pumper/Lease Operator
+	Location: None
+	Review Date: 2023-07-13T10:05:53.327
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great pay and benefits, Good shift
+
+
+	Cons: 
+		Lots of micro-managing going on
+
+
+	Summary: 
+		Good company
+
+
+Review 6:
+	Job Title: Land Negotiator
+	Location: Houston, TX
+	Review Date: 2023-06-21T09:45:50.590
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good benefits Good development opportunities for young professionals.
+
+
+	Cons: 
+		Lack of communication from management on many deals.
+
+
+	Summary: 
+		Good Company
+
+
+Review 7:
+	Job Title: Legal Assistant
+	Location: Denver, CO
+	Review Date: 2023-06-23T08:06:17.267
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Pay, flexibility, interesting work, laid back
+
+
+	Cons: 
+		Volatile industry. Not enough communication from management
+
+
+	Summary: 
+		Good Place
+
+
+Review 8:
+	Job Title: Administrative Assistant
+	Location: Denver, CO
+	Review Date: 2023-06-01T11:53:03.407
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Wonderful work life balance for employees
+
+
+	Cons: 
+		None that I can think off
+
+
+	Summary: 
+		Great Company
+
+
+Review 9:
+	Job Title: None
+	Location: None
+	Review Date: 2023-05-26T12:07:08.350
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Great company to work for
+
+
+	Cons: 
+		Non great work environment today
+
+
+	Summary: 
+		Great
+
+
+Review 10:
+	Job Title: Sourcing
+	Location: None
+	Review Date: 2023-02-03T12:19:00.343
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Most everything is a pro
+
+
+	Cons: 
+		Can’t think of much to say
+
+
+	Summary: 
+		No complaints
+
+
+Review 11:
+	Job Title: Cloud Solutions Specialist
+	Location: None
+	Review Date: 2022-08-06T20:26:06.653
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		I guess good benefits, otherwise the culture is dog trash. barely a hybrid environment. traditionalist reluctant to change. people need to either die or retire for change to occur.
+
+
+	Cons: 
+		there are plenty of cons here. a majority of the work force is older so it's hard to find common ground based upon morals and values. very inflexible with life and work. If you want to be effective here bow down to the bureaucracy of those who refuse to change because they are comfortable and just want to retire. Nothing exciting going on at this company, just old money that refuses anything
+
+
+	Summary: 
+		garbage culture and company. you will feel repressed here
+
+
+Review 12:
+	Job Title: Water Resources Engineer
+	Location: Denver, CO
+	Review Date: 2022-10-17T15:50:37.043
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		9/80 schedule is nice, good people to work with, and fast paced environment to develop in.
+
+
+	Cons: 
+		Remote work not really an option. Office life needs some updates to give more of a reason to come into the office daily in this type of post-covid environment, and to brave 16th street in downtown Denver.
+
+
+	Summary: 
+		Good Work, if you can survive the 16th Street Commute
+
+
+Review 13:
+	Job Title: No One
+	Location: The Woodlands, TX
+	Review Date: 2022-10-09T07:29:29.433
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good Place to Work. Good People
+
+
+	Cons: 
+		Nothing bad to say about the company
+
+
+	Summary: 
+		NO1
+
+
+Review 14:
+	Job Title: HSE Specialist
+	Location: None
+	Review Date: 2021-12-11T14:42:54.053
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Good Benefits, Every other Friday off, Field Office is much better than the corporate Denver office. Work/Home balance is nice.
+
+
+	Cons: 
+		Very liberal company. If you’re a white male I would look other places for a corporate job. More concerned with culture/diversity instead of who would be best at the job. The cooperate offices spend most of their time on made up job justification meetings. Corporate is over staffed and field is understaffed. Waste thousands of dollars monthly flying charter planes to the field instead of relocating the corporate office to the Permian.
+
+
+	Summary: 
+		Better Companies
+
+
+Review 15:
+	Job Title: Coordinator
+	Location: None
+	Review Date: 2022-07-06T07:20:57.283
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		They are a good company to work for. They seem to care about the employees.
+
+
+	Cons: 
+		They are a little Too too heavy
+
+
+	Summary: 
+		Good company to work for
+
+
+Review 16:
+	Job Title: None
+	Location: None
+	Review Date: 2022-07-18T07:24:28.103
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great pay and benefits package
+
+
+	Cons: 
+		Top Management not always supportive
+
+
+	Summary: 
+		Oil &amp; Gas
+
+
+Review 17:
+	Job Title: Completions Coordinator
+	Location: San Antonio, TX
+	Review Date: 2022-04-19T16:01:13.430
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Salary and benefits 
+		Desire to be the best company in the industry until 2013
+
+
+	Cons: 
+		Lost sense of adventure and stopped employees from pushing the envelope
+
+
+	Summary: 
+		Was good until Suttles came along
+
+
+Review 18:
+	Job Title: Reservoir Engineer
+	Location: Houston, TX
+	Review Date: 2022-04-20T11:49:29.570
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good company overall. Decent compensation, nice office, good projects.
+
+
+	Cons: 
+		Very corporate, very hierarchical, not a lot of upper management exposure even in projects you lead, driven by years of experience more than ability.
+
+
+	Summary: 
+		Good company overall
+
+
+Review 19:
+	Job Title: Manager
+	Location: The Woodlands, TX
+	Review Date: 2022-04-20T18:59:17.817
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		9/80 schedule, that’s about it
+
+
+	Cons: 
+		Disorganized, low effort, low competency leadership culture. Very strong CYA / deniability tradition here. Lip service on issues, all the time.
+
+
+	Summary: 
+		Dysfunctional Failure
+
+
+Review 20:
+	Job Title: None
+	Location: None
+	Review Date: 2022-04-21T10:56:35.987
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		9/80 schedule. Average vacation. Stock options vest 1/3 every year.
+
+
+	Cons: 
+		No hybrid options. Layoffs common in O&amp;G markets.
+
+
+	Summary: 
+		Average
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

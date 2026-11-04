@@ -1,0 +1,631 @@
+
+Prudential Financial is a Insurance: Life, Health (Stock) company based in 07102 Newark, New Jersey. 
+The company has 39,583 employees and has a revenue of $60,050 according to Fortune 500.
+The company is valued at $30,363 and has a profit of -$1,438. The CEO of the company is Charles F. Lowrey.
+
+The Company has the following ratings: 
+Average ratings for Prudential Financial:
+Business Outlook: 0.62
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 383 
+	2: 515 
+	3: 986 
+	4: 976 
+	5: 836 
+
+CEO: 0.73
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 228 
+	2: 339 
+	3: 949 
+	4: 1228 
+	5: 952 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 364 
+	2: 334 
+	3: 649 
+	4: 953 
+	5: 1076 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 114 
+	2: 100 
+	3: 258 
+	4: 407 
+	5: 584 
+
+Overall: 3.8
+Distribution: 
+	1: 328 
+	2: 451 
+	3: 1069 
+	4: 1529 
+	5: 1246 
+
+Senior Management: 3.4
+Distribution: 
+	1: 528 
+	2: 486 
+	3: 898 
+	4: 940 
+	5: 700 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 317 
+	2: 312 
+	3: 773 
+	4: 1051 
+	5: 1232 
+
+Review Count: 4633
+
+Recommend to Friend: 
+	RECOMMEND: 2175
+	WONT RECOMMEND: 1045
+
+
+
+
+The company has 5414 reviews on Glassdoor. The last review was posted on 2024-04-17T08:37:04.803. 
+There are 20 Reviews for Prudential Financial:
+
+Review 1:
+	Job Title: Senior Claims Examiner
+	Location: Jacksonville, FL
+	Review Date: 2024-01-03T12:04:11.460
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great pay, great benefits, amazing coworkers and managers, and an overall great place to work
+
+
+	Cons: 
+		it's tough to move from temp to permanent, there's a LOT of competition but they pick the best of the best
+
+
+	Summary: 
+		Amazing Company
+
+
+Review 2:
+	Job Title: Customer Service Representative
+	Location: Jacksonville, FL
+	Review Date: 2024-03-21T09:42:36.070
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Pay is good, culture is great
+
+
+	Cons: 
+		Long hours, no part-time availability, glued to a desk all day taking call after call
+
+
+	Summary: 
+		Call center customer service rep
+
+
+Review 3:
+	Job Title: Finance
+	Location: Newark, NJ
+	Review Date: 2024-03-23T15:39:06.500
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Standard advantages of working for a large company:
+		- Decent benefits
+		- Substantial resources (educational, technological) at your disposal
+		- Opportunity to move around into other groups
+
+
+	Cons: 
+		Senior management spends so much time pandering to Wall Street that they don't dedicate the attention needed to producing an efficient organization. Every earnings call Charlie drones on about becoming a "more nimble, less market sensitive" company, while the company's operating model remains the same. The company is disorganized and bureaucratic, making it hard to get things done without many layers of approval. This may be changing for the better with the recent layoffs, but time will tell.
+		
+		In addition, the company can be highly political. Promotions or the ability to move into certain groups are often based on having an MBA, or tenure length, rather than the ability and motivation to actually get things done. There are Directors and VPs who are absolutely coasting, while a handful of hard-working individuals pull all the weight.
+		
+		Compensation is often below market, and Senior management celebrates this. On an internal company call, when discussing compensation within the company, Rob Falzon made the hilarious statement of "we don't want our employees to be mercenaries (hired soldiers)" - implying that Prudential employees should be okay with being under-compensated, because Pru makes up for it with such a great "culture." The problem with this, of course, aside from being plagiarized from a Goldman Sachs CEO, is that culture doesn't pay bills. If expenses at the company are a problem, Rob can always volunteer up his generous pay package as the first cost-cutting target.
+
+
+	Summary: 
+		Disorganized, Bureaucratic Company with Clueless Senior Management
+
+
+Review 4:
+	Job Title: Lead Data Engineer
+	Location: Newark, NJ
+	Review Date: 2024-04-17T08:37:04.803
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Good Pay/ Benefits and stock purchase plan.
+
+
+	Cons: 
+		Culture is not great and have been doing a lot of layoffs lately. This has caused reorganization and chaos within the teams. Also, the push to return to office has cause more problems than it resolved.
+
+
+	Summary: 
+		Good Pay/Benefits, Culture is not great
+
+
+Review 5:
+	Job Title: Associate - level 8
+	Location: None
+	Review Date: 2024-01-30T11:44:58.600
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Pre-COVID and during the pandemic, the company showed tremendous flexibility and concern for employees’ welfare. This was rewarded with good earnings and no productivity loss - so we were told.
+
+
+	Cons: 
+		Entire business is going through layoffs and extreme cost-cutting. It’s not clear what drives this, as earnings aren’t terrible. McKinsey and other consultancies have been involved. Intention to downsize and restructure was announced last year and is set to drag out through Q4 ‘24, placing most levels into a state of prolonged anxiety. Intentions have been a tightly held secret as they relate to most people’s jobs. Policies have changed to the detriment of morale - forced RTO without intentional meetings to collaborate or departmental seating. Monthly as opposed to bi-weekly payroll switch with little prep. Overall opacity from leadership and complete lack of flexibility from business. And HR has always been a weak spot at Pru - with out-dated policies and comes off to employees like a gatekeeper/enforcer as opposed to a resource or partner. The distinct message that no one has value or much hope for career here is being clearly communicated. Maybe they hope for attrition to save costs.
+
+
+	Summary: 
+		Tough Times at Pru
+
+
+Review 6:
+	Job Title: Disability Claims Examiner
+	Location: None
+	Review Date: 2024-03-28T07:33:06.750
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Work from home, pto,, nice coworkers
+
+
+	Cons: 
+		The hiring process was ridiculous. Training even more ridiculous! In the beginning, they pretend they care about work/life balance but in reality acts like it’s a big deal! After training they throw you out there and you have no clue what your doing! Then there is work overload! The pay doesn’t match the amount of follows/tasks you are doing! Too many systems, too many dos and don’ts. They are wrong for this. I had to quit! There is also no internet or gym reimbursement!
+
+
+	Summary: 
+		Don’t do it
+
+
+Review 7:
+	Job Title: Customer Service Associate
+	Location: None
+	Review Date: 2024-03-12T12:31:09.527
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Job can be done remote.
+
+
+	Cons: 
+		Company not very transparent about anything, little room for growth, calls are back to back. Management never keeps promises. I felt bullied at work sometimes from other colleagues. My mental health deteriorated so badly that there were times I was afraid of my own self. I cried almost everyday during, before and after my shift, I never felt heard and I felt like I couldn’t get any help while on calls, only favorable people get to move around the contact center and get offered more opportunities…… overall I give my experience a 3/10
+
+
+	Summary: 
+		My mental health deteriorated……..
+
+
+Review 8:
+	Job Title: VP Accounting
+	Location: Newark, NJ
+	Review Date: 2024-03-15T12:02:40.927
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Huge company that provides opportunities to try out different roles as your grow and develop without having to change companies
+
+
+	Cons: 
+		The landscape and culture has shifted over the last year or two as Market Competitiveness program has eliminated roles as expense cutting has become a priority. Ensure you fully vet your future management team and understand the challenges and opportunities before accepting any role. While I have had wonderful managers, I also have had some passive aggressive ones that never had my best interest (personally and professionally) in mind.
+
+
+	Summary: 
+		Changing Culture
+
+
+Review 9:
+	Job Title: Financial Representative
+	Location: Chicago, IL
+	Review Date: 2024-04-16T11:26:23.120
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Decent reputation, large array of products
+
+
+	Cons: 
+		Commission decreased while benefits increased. The cost of doing business is fairly high comparated to other Financial Services organizations.
+
+
+	Summary: 
+		Don't
+
+
+Review 10:
+	Job Title: IT Project Management Analyst
+	Location: Newark, NJ
+	Review Date: 2024-04-15T18:10:37.757
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Team felt like family and career opportunities
+
+
+	Cons: 
+		downsizing if you are legacy
+
+
+	Summary: 
+		Great for growth
+
+
+Review 11:
+	Job Title: Vice President
+	Location: Scottsdale, AZ
+	Review Date: 2024-04-05T12:03:58.950
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Before McKinsey came in and took over, it had a great company culture
+
+
+	Cons: 
+		Tons of layoffs, continuously every quarter. They no longer allow for remote roles outside of New Jersey.
+
+
+	Summary: 
+		Great Pay
+
+
+Review 12:
+	Job Title: Vice President Operations
+	Location: Ramsey, NJ
+	Review Date: 2024-04-12T09:59:16.793
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Family friendly employer with lots of support and flexible work arrangements. Good total compensation.
+
+
+	Cons: 
+		Strategy is in flux. Firm going through major restructuring driven by Mckinsey. Stressful work environment
+
+
+	Summary: 
+		Prudential 
+
+
+Review 13:
+	Job Title: Marketing Specialist
+	Location: Newark, NJ
+	Review Date: 2024-04-12T07:42:34.813
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Prudential has a great working culture. Leadership seems very solid
+
+
+	Cons: 
+		A lot of change recently makes for uneasy feelings
+
+
+	Summary: 
+		Great company
+
+
+Review 14:
+	Job Title: Customer Service Representative
+	Location: Dresher, PA
+	Review Date: 2024-02-19T08:29:59.657
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		It was a good first desk job. I was hired through a temp agency and working here helped me gain some experience in insurance to get my foot in the door elsewhere after 8 months, which was a hell of a lot longer than some other people lasted.
+
+
+	Cons: 
+		It was a call center job. Some people were nice to deal with and others were absolutely horrible. You see the worst of humanity working in a call center.
+
+
+	Summary: 
+		First Step out of Retail and it wasn't the best but wasn't the worst either
+
+
+Review 15:
+	Job Title: Associate Manager
+	Location: Newark, NJ
+	Review Date: 2024-03-27T12:50:22.820
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		PTO, pension, stock purchase plan, annual well-belling money
+
+
+	Cons: 
+		Limited growth, poor training, poor business unit communication
+
+
+	Summary: 
+		Great Company Limited Growth
+
+
+Review 16:
+	Job Title: Associate Actuary
+	Location: Newark, NJ
+	Review Date: 2024-03-31T19:23:26.683
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		- Great work-life balance 
+		- Competitive pay (one of the market leaders)
+
+
+	Cons: 
+		- Talent mobility is more difficult than advertised (easier for employees that are more senior or in a rotational program) 
+		- More layoffs than anticipated (might be temporary because of re-orgs, etc.)
+
+
+	Summary: 
+		Pros outweigh the cons
+
+
+Review 17:
+	Job Title: Financial Planner
+	Location: San Diego, CA
+	Review Date: 2024-04-09T18:08:42.667
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Has a good "orphan" leads program
+
+
+	Cons: 
+		Leadership is reactive, not proactive
+
+
+	Summary: 
+		Not great
+
+
+Review 18:
+	Job Title: HR Associate
+	Location: Newark, NJ
+	Review Date: 2024-04-10T19:37:11.130
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Coworkers were great and made each day interesting
+
+
+	Cons: 
+		A lot of bureaucratic nonsense
+
+
+	Summary: 
+		Just ok
+
+
+Review 19:
+	Job Title: Finance Specialist
+	Location: Newark, NJ
+	Review Date: 2024-04-10T17:23:44.700
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Work life balance/ hybrid work enviroment
+
+
+	Cons: 
+		Pay is not very competitive
+
+
+	Summary: 
+		Good benefits, comp ok
+
+
+Review 20:
+	Job Title: Financial Advisor
+	Location: Seattle, WA
+	Review Date: 2024-04-01T18:57:46.083
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The Managing Director at this location, Brad Knuffke, is the best manager I've worked with in my 25 year career.
+
+
+	Cons: 
+		This career requires you to be a hard worker to get started - there are no free lunches.
+
+
+	Summary: 
+		Best leadership I've ever worked with
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

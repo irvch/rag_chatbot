@@ -1,0 +1,653 @@
+
+Baxter International is a Medical Products and Equipment company based in 60015 Deerfield, Illinois. 
+The company has 60,000 employees and has a revenue of $15,113 according to Fortune 500.
+The company is valued at $20,504 and has a profit of -$2,433. The CEO of the company is Jose E Almeida.
+
+The Company has the following ratings: 
+Average ratings for Baxter International:
+Business Outlook: 0.52
+
+Career Opportunities: 3.4
+Distribution: 
+	1: 444 
+	2: 553 
+	3: 945 
+	4: 900 
+	5: 659 
+
+CEO: 0.7
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 176 
+	2: 363 
+	3: 962 
+	4: 1253 
+	5: 741 
+
+Culture and Values: 3.6
+Distribution: 
+	1: 425 
+	2: 383 
+	3: 734 
+	4: 882 
+	5: 923 
+
+Diversity and Inclusion: 3.8
+Distribution: 
+	1: 130 
+	2: 133 
+	3: 312 
+	4: 470 
+	5: 745 
+
+Overall: 3.6
+Distribution: 
+	1: 352 
+	2: 458 
+	3: 1030 
+	4: 1353 
+	5: 978 
+
+Senior Management: 3.2
+Distribution: 
+	1: 664 
+	2: 549 
+	3: 842 
+	4: 773 
+	5: 576 
+
+Work Life Balance: 3.5
+Distribution: 
+	1: 466 
+	2: 446 
+	3: 840 
+	4: 928 
+	5: 810 
+
+Review Count: 4182
+
+Recommend to Friend: 
+	RECOMMEND: 2020
+	WONT RECOMMEND: 1027
+
+
+
+
+The company has 4707 reviews on Glassdoor. The last review was posted on 2024-04-17T10:24:03.847. 
+There are 20 Reviews for Baxter International:
+
+Review 1:
+	Job Title: Sr. Mechanical Engineer
+	Location: Bengaluru
+	Review Date: 2024-03-27T21:03:47.293
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Individual development good .
+		Good pay scale
+
+
+	Cons: 
+		No employee engagement activity.
+		No free food facility
+
+
+	Summary: 
+		Good company. Best work life balance
+
+
+Review 2:
+	Job Title: Quality Engineer 1
+	Location: Mountain Home, AR
+	Review Date: 2024-03-21T20:29:03.223
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Better benefits than most companies. Pays decently. Really good emphasis on work/life balance.
+
+
+	Cons: 
+		Pay increases are lower than industry averages.
+
+
+	Summary: 
+		Good place to work at, especially when starting your career off
+
+
+Review 3:
+	Job Title: Contract Administrator
+	Location: None
+	Review Date: 2024-01-23T14:49:02.553
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Baxter has been going through many changes in the last couple of years. Buying Hill-Rom, spinning of the kidney portfolio. 
+		- The people I work with have been great. For the most part helpful and dedicated.
+		- The company had pretty decent benefits. Better than I've had at my last couple of companies but still not as great as they have been in the past (per longer term employees)
+
+
+	Cons: 
+		- This is a huge risk adverse company. There is a lot of "that's not within my scope." Not that people don't want to help. We are all so siloed that even something that should be simple takes an inordinate about of time to get resolved. It's frustrating to have to contact multiple people to get one approval or one answer.
+		- Managers (at least lower level) have too many reports to be effective. Most people are working remotely, at least part of the time, so everything is Teams calls or messaging. It's hard to have any feeling of being a part of something. Again because of the silo and no cross-training.
+		- Because of the number of reports, training is lacking and getting answers takes too much time.
+		- Because everyone is siloed you don't know where to go outside your immediate area. 
+		- When Baxter bought Hill-Rom, we went from unlimited PTO to 4 weeks combined sick time and vacation.
+
+
+	Summary: 
+		Mixed Emotions
+
+
+Review 4:
+	Job Title: Principal Engineer
+	Location: Plymouth, MN
+	Review Date: 2024-04-17T05:20:58.720
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Seems like a great time to get into a company that is growing- the spinoff is coming up in 2024 and will be a good thing.
+
+
+	Cons: 
+		Nothing that I can really think of yet.
+
+
+	Summary: 
+		Exciting Times
+
+
+Review 5:
+	Job Title: Connected Solutions Technician 
+	Location: None
+	Review Date: 2024-04-10T15:42:46.357
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Baxter has great team work I must say, if I have a issue i van reach across many different departments for solutions. Benefits are ok, not the best certainly not the worst.
+
+
+	Cons: 
+		Technicians are required to drive their own cars, company can directly tell you what you can have in you personal vehicle. Management has no backbone, are yes men and are black/white by the book. Management cannot make their own discussions, need to talk with other leadership about simple things.
+
+
+	Summary: 
+		Baxter is a joke
+
+
+Review 6:
+	Job Title: Mechanical Design Engineer
+	Location: Syracuse, NY
+	Review Date: 2024-04-17T10:24:03.847
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Baxter is a good place to work. Culture is positive and benefits are satisfactory.
+
+
+	Cons: 
+		Management is often non-aligned to goals and strategy.
+
+
+	Summary: 
+		Baxter Review
+
+
+Review 7:
+	Job Title: Field Service Engineer (FSE)
+	Location: None
+	Review Date: 2024-03-24T18:31:54.767
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Company vehicles- however the company recently started to increase the fee that's handed down to the employee to offset some of the cost of the car.
+		
+		Flexible hours so long as your customer is OK with it first.
+		
+		The position seems to be pretty reliable over the years. I haven't seen layoffs at the FSE level.
+
+
+	Cons: 
+		As a FSE, you are vastly underpaid at Baxter for your responsibilities working on critical care equipment. You are signing off on a instrument you service and sometimes that same device will be rolled back onto a patient within the hour. If something happens to that patient, the onus will be on you along with the company, though mostly you. Be prepared to be scrutinized over such patient incident while getting paid somewhere comparable to a cable man installer with far less liability. The responsibilities for this job just doesn't align with their starting salary structure, period. Shameful.
+		
+		You have wait for someone to retire or leave for the chance of becoming a senior FSE. If there is another senior level in your area, you cannot be elevated to a senior as well. The company has put out this notion that this is not the case anymore but I've yet to see this very fact get disproven.
+		
+		Guys in the field justify their lack of fair salaries by working longer hours, but even that over the past year the company is hammering back on overtime a great deal. And of course work/life balance comes into question whenever you're relying on some overtime to make a decent living.
+		
+		Worst of all, the supervisor for the North east coast is novice at the leadership position as well as forgetful. Two bad combinations. Also doesn't expound and elaborate as others normally would when given out instructions, so you're sometimes left with an awkward silence over the phone thinking more is still left to be said. Would not recommend this leadership at the local level.
+
+
+	Summary: 
+		Do not recommend this place
+
+
+Review 8:
+	Job Title: Sterilizer Operator
+	Location: North Cove, NC
+	Review Date: 2024-01-11T21:42:28.997
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Decent pay for the area with many different departments to work and chances to work overtime.
+
+
+	Cons: 
+		Company values production above all else. There is little work life balance because of mandatory overtime. I've worked at Baxter over 8 years and I have worked more Saturday's than not. They keep pay just high enough to say the pay is good for the area, but working there you don't even make the average American salary. Entry level work is hard with no appreciation, everyone is just a warm body to fill a spot. The company is moving towards automated systems, so there will be less openings in the future. PTO is pretty much held hostage from the employees; for example, i have 160 hours of PTO a year, but I can only use 40 hours a quarter with no sick leave and must also plan for possible maintenence shutdowns which can last anywhere from a few days to 2 weeks. If PTO is not saved and reserved for shutdowns you dont get paid. Im sure there are worse job's, but don't believe any hype about this place, everyone works there because we have no other options, and those higher ups sure do take advantage of that. Good luck out there!
+
+
+	Summary: 
+		Beware
+
+
+Review 9:
+	Job Title: Senior Director Finance
+	Location: Chicago, IL
+	Review Date: 2024-04-13T20:56:04.150
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Dynamic environment, lots going on which makes the job fun and exciting.
+
+
+	Cons: 
+		Spin-Off, changes and uncertainty keeps things challenging
+
+
+	Summary: 
+		Great place but uncertainty
+
+
+Review 10:
+	Job Title: Team Lead
+	Location: None
+	Review Date: 2024-04-13T23:30:06.360
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Endless opportunities to move up in any direction.
+
+
+	Cons: 
+		The management often picks and chooses who they like and what
+
+
+	Summary: 
+		Moved up
+
+
+Review 11:
+	Job Title: FP&A Manager
+	Location: Deerfield, IL
+	Review Date: 2024-04-04T02:38:42.667
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		They offer good benefits overall.
+
+
+	Cons: 
+		No trust in leadership due to poor operational decisions creating a chaotic work environment.
+
+
+	Summary: 
+		The grass is not greener here
+
+
+Review 12:
+	Job Title: Technical Support Representative
+	Location: Largo, FL
+	Review Date: 2024-02-17T10:40:52.350
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Baxter has an internal training site where HR can track additional optional courses available for free and can be paid as OT if your supervisor allows you to. Courses ranges from Excel, Tableau, Beginner Leadership, etc. These can be added into your work profile and development plan and increase your chances of advancement within all of Baxter.
+		They accomodated me as a United States Army Reservist extremely well.
+		Their tuition reimbursement plan is amazing and easy to submit and receive payment.
+		Their supplement income for Reservists transitioning to active duty training is amazing for filling in pay gaps.
+
+
+	Cons: 
+		Shift hours are based on need. There are 3 shifts and transferring shifts is difficult because it usually is based on minimum time served on 3rd shift, cross training and seniority.
+
+
+	Summary: 
+		great remote work culture and leadership
+
+
+Review 13:
+	Job Title: Quality Lab Associate I
+	Location: Cleveland, MS
+	Review Date: 2024-04-10T19:13:20.093
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great Pay, Bonus, PTO. People are generally smart.
+
+
+	Cons: 
+		Management and Corporate constantly trying new projects
+
+
+	Summary: 
+		Great Benefits
+
+
+Review 14:
+	Job Title: Senior Business Analyst
+	Location: Deerfield, IL
+	Review Date: 2024-04-12T10:45:35.233
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Benefits, Summer Hours and PTO
+
+
+	Cons: 
+		BaxFlex is now BaxRigid with previous Hybrid or WFH policies being completely reversed against employee suggestions/complaints. All because they couldn't sell their campus.
+
+
+	Summary: 
+		Falsely Recruited
+
+
+Review 15:
+	Job Title: IT Support
+	Location: None
+	Review Date: 2024-03-14T13:29:51.463
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Benefits were decent, Pay was in the middle.
+
+
+	Cons: 
+		Stuck with no true ways to be promoted or advance within the company. A lot of dangling the carrot, but then the position you are trying to get into is closed, again. Very low/poor annual raises.
+
+
+	Summary: 
+		Lack of a defined ladder to climb
+
+
+Review 16:
+	Job Title: Assistant Supervisor
+	Location: None
+	Review Date: 2024-04-09T10:40:03.007
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Everything here is a pro
+
+
+	Cons: 
+		People’s attitudes can sometimes be bad.
+
+
+	Summary: 
+		Good place to work
+
+
+Review 17:
+	Job Title: Senior Data Analyst
+	Location: Columbus, OH
+	Review Date: 2024-04-05T15:03:12.663
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Friendly environment to work remotely
+
+
+	Cons: 
+		Nothing i saw bad in baxter
+
+
+	Summary: 
+		Great place to work
+
+
+Review 18:
+	Job Title: Regulatory
+	Location: Batesville, IN
+	Review Date: 2024-04-03T11:56:33.267
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The flexibility was good, and management was okay.
+
+
+	Cons: 
+		Nothing. I just found a better paying job. I value my connections there.
+
+
+	Summary: 
+		Good
+
+
+Review 19:
+	Job Title: Customer Service Technician
+	Location: Golden, CO
+	Review Date: 2024-01-04T13:51:31.090
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		-Small team feel
+		-Big healthcare company benefits are decent
+		-Work from home was an option several years before COVID
+		-High quality training. 
+		-Clear corporate goals.
+		-Middle management is pretty effective. 
+		-This company attracts productive workers.
+
+
+	Cons: 
+		-Strict attendance policies
+		-recent merger led to poorly trained leaders ending up in management positions and hurting the team/working environment.
+		-HR is not your friend
+		-Large corporate structure means making quick changes to procedure as needed is VERY slow.
+		-Once you're on a team, you're basically waiting for your supervisor to advance, change jobs or retire for any natural advancement. There's very little growth opportunity with in the same job. You'll need to apply elsewhere within the company to grow your career. This is fairly common at large companies, but still frustrating to deal with over multiple years.
+
+
+	Summary: 
+		Great company overall, but pick your team and manager carefully
+
+
+Review 20:
+	Job Title: Senior Leadership
+	Location: Chicago, IL
+	Review Date: 2024-03-25T08:49:52.240
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Baxter's field action decision process is well organized, driven by patient safety professionals and always puts patient safety front and center.
+
+
+	Cons: 
+		Where broad spectrum of risk scenarios exist, the decision is typically to allow no risk to patients.
+
+
+	Summary: 
+		Keeping patient safety the top priority
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,662 @@
+
+Lumen Technologies is a Telecommunications company based in 71203 Monroe, Louisiana. 
+The company has 29,000 employees and has a revenue of $17,478 according to Fortune 500.
+The company is valued at $2,654 and has a profit of -$1,548. The CEO of the company is Kathleen E. Johnson.
+
+The Company has the following ratings: 
+Average ratings for Lumen Technologies:
+Business Outlook: 0.38
+
+Career Opportunities: 3.1
+Distribution: 
+	1: 1137 
+	2: 1193 
+	3: 1834 
+	4: 1269 
+	5: 709 
+
+CEO: 0.71
+
+Compensation and Benefits: 3.3
+Distribution: 
+	1: 552 
+	2: 970 
+	3: 1891 
+	4: 1858 
+	5: 865 
+
+Culture and Values: 3.4
+Distribution: 
+	1: 1166 
+	2: 920 
+	3: 1428 
+	4: 1304 
+	5: 1029 
+
+Diversity and Inclusion: 3.8
+Distribution: 
+	1: 218 
+	2: 172 
+	3: 424 
+	4: 650 
+	5: 782 
+
+Overall: 3.4
+Distribution: 
+	1: 941 
+	2: 1111 
+	3: 2195 
+	4: 1871 
+	5: 1006 
+
+Senior Management: 3
+Distribution: 
+	1: 1641 
+	2: 1162 
+	3: 1513 
+	4: 1102 
+	5: 637 
+
+Work Life Balance: 3.7
+Distribution: 
+	1: 736 
+	2: 749 
+	3: 1513 
+	4: 1739 
+	5: 1391 
+
+Review Count: 7139
+
+Recommend to Friend: 
+	RECOMMEND: 2844
+	WONT RECOMMEND: 2652
+
+
+
+
+The company has 7506 reviews on Glassdoor. The last review was posted on 2024-04-17T13:16:52.537. 
+There are 20 Reviews for Lumen Technologies:
+
+Review 1:
+	Job Title: Sr Engineering Manager
+	Location: Monroe, LA
+	Review Date: 2024-01-23T13:50:47.863
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Things change, so adapt and overcome during IT transformations to make the best of constant changes
+
+
+	Cons: 
+		You must be willing to adapt and overcome during IT transformations, be flexible.
+
+
+	Summary: 
+		Solid Leadership
+
+
+Review 2:
+	Job Title: Senior Project Manager
+	Location: None
+	Review Date: 2024-04-12T18:49:41.403
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		A legacy telecom company that is working hard to transition to a forward-thinking telecom. 
+
+
+	Cons: 
+		Legacy products, processes, and procedures hindered progress. 
+
+
+	Summary: 
+		Great Company
+
+
+Review 3:
+	Job Title: Project Engineer
+	Location: Monroe, LA
+	Review Date: 2024-04-16T18:15:20.037
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		WFH and great team members to work with.
+
+
+	Cons: 
+		Leadership continues to reduce headcount without understanding the consequences of their decisions; impact it has on customers and employees, those who are actually doing the work. Leadership continues to create VP positions, with high salaries, while most employees haven't received a merit increase in years. Performance reviews are a joke, employees are not evaluated based on actual performance, they are undervalued. Lumen continues to recreate the wheel, 1 step forward 3 steps backwards. Reporting concerns to the Integrity Line is pointless! New hires are brought in at higher salaries than employees who have worked for the company for years. Do not speak out or you will experience retaliation.
+
+
+	Summary: 
+		Poor Culture
+
+
+Review 4:
+	Job Title: Customer Service Representative (CSR)
+	Location: None
+	Review Date: 2024-03-22T14:38:39.880
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		The job was fun, up until the point of where it wasn't. I enjoyed talking with our customers and overall, was able to provide quality service. The trainers, supervisors, and team members were very supportive, but were extremely taxed, and not able to assist right away because there was so much on their plate. They did try. My team was great, but we all felt the pressure.
+
+
+	Cons: 
+		The company is more profit-driven, rather than people-driven, &amp; more than once I took a call from a very confused customer who had been sold a product that they really didn't understand, couldn't afford, or need, and when money (or getting that sale) comes over customers, it just doesn't sit right with me.
+		Constant VPN issues.
+		The training was actually quite short, and I feel they put us on the phones too quickly, there were many things that came up that we had no idea how to handle on our own, forms that had to be filled out, sales pitches that had to be made on every call, and keeping all of our ducks in a row became very stressful, especially when we were worried about keeping the customer on hold for too long while we scrambled to get help or an answer from our peers. I was supported, but not in the way that I needed. The constant VPN and Salesforce issues were the last straw.
+
+
+	Summary: 
+		WFH Was A Total Mess
+
+
+Review 5:
+	Job Title: Senior Lead/Manager
+	Location: None
+	Review Date: 2024-01-08T11:28:09.607
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Lumen pays an average salary in the industry, tries to promote from within, and is in a fast paced ever changing industry.  My manager let me 'run my business' in regards to leveraging my experience and placing me in projects that fit my strengths.  I had a lot of expertise in my position and leveraged that to drive successful project implementations.  The benefits package is pretty good with group health plans, retirement, and other perks like discounts with partner company products and services.
+
+
+	Cons: 
+		New hires would sometimes make more than a comparable existing employee with years of experience.  There was no manager involvement in the last reduction in workforce, it seems to have been based on age and pay, there was no explanation from the stranger who called me to let me know.  The company continually tries to reinvent it's image and business focus, so it needs a strong leader to help drive the changes necessary to move forward.  Hopefully the new CEO will be able to turn the company into a leaner, more profitable service provider.
+
+
+	Summary: 
+		Telecom tech provider trying to modernize it's portfolio
+
+
+Review 6:
+	Job Title: Enhanced Premise Technician
+	Location: Omaha, NE
+	Review Date: 2024-03-12T15:44:29.383
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Get to work alone occasionally with people
+		
+		Get to work outside pro/con
+		
+		Local management is fantastic and get along great with there tech's usually because they have tech expertise so they understand our issues 
+		
+		It’s a union at the tech level so benefits are great and pay is way above average
+		
+		Ticket based system so easy to route your day in the morning
+
+
+	Cons: 
+		Corporation has no care for the bottom people.
+		
+		Has a metric system that you can be let go according to there metrics 
+		
+		Upper management Will force lower management to breath down your neck and if you have a issue that goes to upper management be happy we have a union 
+		
+		Will gps your vehicles constantly and they have your idle time and get judged based off of it doesn’t matter whether they give you work or not
+
+
+	Summary: 
+		Good pay but it’s a corporation
+
+
+Review 7:
+	Job Title: Solutions Architect
+	Location: None
+	Review Date: 2024-04-16T09:01:09.783
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		The work is simple.
+		Work/Life Balance is good.
+		Some great managers.
+
+
+	Cons: 
+		Politics over anything else.
+		Beware of bad manager - they micromanage and need their ego stroked vs letting good people lead.
+		You won't get a raise for many many years.
+		Outside of traditional circuits, products get screwy. 
+		Cyber products other than DDOS are a mess
+
+
+	Summary: 
+		May not be the best place
+
+
+Review 8:
+	Job Title: Director, Product Management
+	Location: Denver, CO
+	Review Date: 2024-04-02T07:51:33.567
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		-Opportunities to lean into incredible projects that help drive the future of Lumen
+		-Leadership opportunities for those who want them 
+		-New C-Suite is strong and pushing a lot of change
+
+
+	Cons: 
+		-Company is going through a lot of changes, so working here requires an iron stomach at times 
+		-Lots of old company politics but that is changing as the company goes from Telco to Techco
+		-Limited mid- to long-term career visibility can be stressful
+
+
+	Summary: 
+		Opportunity to be part of a transformation
+
+
+Review 9:
+	Job Title: Account Specialist
+	Location: Boise, ID
+	Review Date: 2024-04-16T11:28:49.470
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Good money, good benefits, paid time off, weekends and holidays off
+
+
+	Cons: 
+		Mandatory overtime, back to back calls, call handling time is micromanaged
+
+
+	Summary: 
+		Good money, always working 
+
+
+Review 10:
+	Job Title: Forecaster
+	Location: Monroe, LA
+	Review Date: 2024-03-28T18:03:23.300
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Hybrid or WFH based now for many departments. 
+		Able to take trainings and classes to better understand what you work on.
+		Opportunities open up all the time for those that want to keep growing in the company. 
+		New goals, new challenges, new opportunities to learn and offered trainings for salaried and non salaried employees.
+
+
+	Cons: 
+		Downside most groups still work on a point system. 
+		Several layoffs in the past year and continuing with more.
+		Some leadership never gets involved with their lower peers.
+		Communication from department to department is terrible. Basically you do something mess it up and then provided a process that was probably just created.
+		Insurance is insane! Very expensive even for a single person with large deductibles forget adding anyone to it. 
+		AZ and CO are offered different insurance packages with additional benefits. 
+		Some departments are not flexible at all. 
+		The company that handles FMLA for us is ridiculous and make it so hard to have the right paperwork submitted(you basically have to give them everything from the time you were born to an expiration due date)
+
+
+	Summary: 
+		#Allin
+
+
+Review 11:
+	Job Title: Senior Network implementation Project Manager
+	Location: Salem, OR
+	Review Date: 2024-04-14T15:25:51.860
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Stability, a lot of work. job security
+
+
+	Cons: 
+		Useless spending and lack of help where it matters.
+
+
+	Summary: 
+		Great Company - Horrible Leadership
+
+
+Review 12:
+	Job Title: Project Management
+	Location: None
+	Review Date: 2024-02-22T18:48:28.030
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Remote work, direct team and management
+
+
+	Cons: 
+		no pay increase in 10 years, low bonuses, slim promotional opportunities, company doesn't keep up with COL, so may have to cut back or take 2nd jobs to live
+
+
+	Summary: 
+		Stagnant Pay
+
+
+Review 13:
+	Job Title: Repair Technician
+	Location: None
+	Review Date: 2024-01-11T15:55:55.283
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Adequate compensation and benefits packages, which is not because they value their workforce nor because they are generous but because they need to distract their own employees from the abusive climate they foster for their organization.
+
+
+	Cons: 
+		A company driven by greed, avarice, and a complete disregard for the actual needs of customers, as well as a prejudicial dismissal of proper infrastructure maintenance and properly trained staff organization wide. Lackluster and often inoperable remote diagnostic tools for their customer service/repair departments, and a disgustingly high usage of off shore foreign agents and therefore often unintelligible and under trained technicians, which is bad for the U.S. Economy and is a significant contributor to customer dissatisfaction; besides the poor service quality and reliability of their line of products. Also, a focus on diversity, equity and inclusion is perverse and corruptive atmosphere that is rotting the company from within.
+
+
+	Summary: 
+		Lumen - A darkness festering in the Telecom industry
+
+
+Review 14:
+	Job Title: Network Planner
+	Location: Seattle, WA
+	Review Date: 2024-04-09T20:06:26.637
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good manager, good team. Good resources to check info in inventories and system
+
+
+	Cons: 
+		High pressure from sales, upper management seems to support them over preventing toxic work environment. Many sales staff believe rules and procedures are unnecessary and will try to shout you down if you tell them to manage their customers.
+
+
+	Summary: 
+		Unstable
+
+
+Review 15:
+	Job Title: Cloud Engineer
+	Location: Dallas, TX
+	Review Date: 2024-04-17T02:58:02.430
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great team and work life balance
+
+
+	Cons: 
+		Not great compensation and clear career growth
+
+
+	Summary: 
+		Cloud Engineer at Lumen
+
+
+Review 16:
+	Job Title: Senior Software Developer
+	Location: None
+	Review Date: 2024-01-25T11:00:23.097
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Very relaxed with their work from home policy,
+		Intelligent and collaborative peers.
+
+
+	Cons: 
+		C level exec's shuffled themselves around every 6 months, Eventually after hiring their 16th member of the board they decided to lay off 1200 of the people actually making the company money, This happened directly before the holidays so those effected were dropped into a tough situation with the hiring market effectively paused until well after the severance package ran dry. When I was with the company, everything outside of my direct team was ran poorly at best, with the CEO deciding to pay large sums of money to force every employee in the company to effectively write a book report on one of her friends books. We were Dared to be Led to the unemployment line.
+
+
+	Summary: 
+		Snowball barreling down a hill
+
+
+Review 17:
+	Job Title: Manager
+	Location: Tulsa, OK
+	Review Date: 2024-01-09T13:33:35.227
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Work from home is a nice...so your senior management can't see the disgust on your face.
+
+
+	Cons: 
+		You are a glorified tech, only you are paid less, are expected tell your senior manager what you're doing at all times, even outside of work, make less than your employees, expected to be engaged 24X7, with no life balance AT ALL. You are tied to a call queueu, like an agent, and just waiting to get screamed at by a customer, that most likely is not yours. You have 0 time to actually manage, due to this, because if you are managing, In meetings, one on one's, you are not in the phone queueu, and missing your call adherence metrics. You are on call, and get no flex days. PTO? Not a chance. You are 24X7, and get customer, employee, senior manager calls constantly. Don't you dare not answer! That's not customer obsessed!!! 
+		0 career pathing, 0 information on how you progress in the company. 
+		"At Lumen, we pay for performance..until we have to pay for performance, then we make up reasons you were not performing".
+		Did I mention 0 raises for managers? Did I mention bonus structure is the same as your employees?
+
+
+	Summary: 
+		Glorified Customer Service Agent/ Tech
+
+
+Review 18:
+	Job Title: Enhanced Premise Technician
+	Location: Ogden, UT
+	Review Date: 2024-03-30T10:45:57.623
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		The job is simple and essential.
+
+
+	Cons: 
+		A simple job that gets overcomplicated due to inexperienced management. It will all get blamed on recent layoffs causing a reduction in the workforce. Layoffs happen once a year or once every other year. The company should provide tools but you will have to purchase your own tools to get the job done. A work phone is supposed to be supplied to all technicians as a security precaution. It isn't always provided. Technicians will be micromanaged. Taking time off puts you on a layoff list.
+
+
+	Summary: 
+		Unorganized 
+
+
+Review 19:
+	Job Title: Customer Success Professional
+	Location: Irvine, CA
+	Review Date: 2024-04-11T21:33:16.847
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good place to work. Growth opportunities are there.
+
+
+	Cons: 
+		Huge company. You are just a number at the end of the day
+
+
+	Summary: 
+		Good place
+
+
+Review 20:
+	Job Title: Senior Operations Manager
+	Location: Denver, CO
+	Review Date: 2024-04-15T10:45:55.947
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Flexibility, awesome teammates, fulfilling work, constantly learning
+
+
+	Cons: 
+		Because of the rapid evolution of tech, there is constant change.
+
+
+	Summary: 
+		Great team, interesting work, flexibility
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

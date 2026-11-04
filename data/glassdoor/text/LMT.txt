@@ -1,0 +1,670 @@
+
+Lockheed Martin is a Aerospace & Defense company based in 20817 Bethesda, Maryland. 
+The company has 116,000 employees and has a revenue of $65,984 according to Fortune 500.
+The company is valued at $120,319 and has a profit of $5,732. The CEO of the company is Jim Taiclet.
+
+The Company has the following ratings: 
+Average ratings for Lockheed Martin:
+Business Outlook: 0.74
+
+Career Opportunities: 4
+Distribution: 
+	1: 476 
+	2: 707 
+	3: 1655 
+	4: 2362 
+	5: 2648 
+
+CEO: 0.88
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 291 
+	2: 595 
+	3: 1908 
+	4: 2799 
+	5: 2245 
+
+Culture and Values: 3.9
+Distribution: 
+	1: 663 
+	2: 762 
+	3: 1537 
+	4: 2186 
+	5: 2653 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 231 
+	2: 247 
+	3: 620 
+	4: 1040 
+	5: 1925 
+
+Overall: 4.1
+Distribution: 
+	1: 406 
+	2: 618 
+	3: 1902 
+	4: 3666 
+	5: 3385 
+
+Senior Management: 3.6
+Distribution: 
+	1: 924 
+	2: 1013 
+	3: 1983 
+	4: 2156 
+	5: 1677 
+
+Work Life Balance: 4.2
+Distribution: 
+	1: 428 
+	2: 529 
+	3: 1468 
+	4: 2189 
+	5: 3205 
+
+Review Count: 12196
+
+Recommend to Friend: 
+	RECOMMEND: 5400
+	WONT RECOMMEND: 1451
+
+
+
+
+The company has 13931 reviews on Glassdoor. The last review was posted on 2024-04-17T11:01:34.907. 
+There are 20 Reviews for Lockheed Martin:
+
+Review 1:
+	Job Title: Quality Engineer
+	Location: Palm Coast, FL
+	Review Date: 2024-04-17T11:01:34.907
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 5
+
+	Pros: 
+		Flexible schedule; work from home; benefits
+
+
+	Cons: 
+		Lack of community for WFH; lack of challenging work
+
+
+	Summary: 
+		LM
+
+
+Review 2:
+	Job Title: Senior Systems Analyst
+	Location: Fredericksburg, VA
+	Review Date: 2018-08-02T07:44:57.753
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		High level of integrity throughout the company, open communications, and sincere interest in doing the right thing.
+
+
+	Cons: 
+		Unfortunately, I need to come up with twenty words of cons.  When in reality after 41+ years in IT, I have no cons for Lockheed Martin.  They are not perfect, but highly acceptable.
+
+
+	Summary: 
+		Lockheed Martin IT
+
+
+Review 3:
+	Job Title: Associate Software Engineer
+	Location: King of Prussia, PA
+	Review Date: 2024-04-15T11:03:44.660
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		- professional coworkers
+		- generous tuition assistance
+		- decent pay
+
+
+	Cons: 
+		- My manager was not helpful, only had two one on ones each year and would often make verbal promises that he eventually forgot months later. 
+		- boring and broken tech; testing your code locally could even be a struggle and there were pointless Java updates
+		- program clearance took way too long; I was at the company for three years not knowing what I was working before I couldn’t take it anymore
+		- paradoxical optimizations; teammates would often talk endlessly on how to optimize the broken tech they’ve been assigned to. It all felt kind of pointless
+		- confused management and lots of cancellations; 4/5 of the projects I worked on were cancelled which was very demoralizing
+		- clocking in hours on spreadsheets is annoying; often found myself working late because I was lost on a assignment and didn’t want to mischarge. Ended up subtracting my vacation time frequently
+		- teammates were often bad at explaining things (especially through writing). I recall my software architect explaining dependency injection in a condescending manner to insinuate it’s too difficult to explain. After learning it myself a year later, I’d say it’s not that complicated at all. 
+		- teammates were a bit backstabby during year end reviews
+
+
+	Summary: 
+		Avoid
+
+
+Review 4:
+	Job Title: Senior Materials Process Engineer
+	Location: None
+	Review Date: 2024-03-03T08:00:28.917
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		No particular order:
+		
+		1. Work/Life Balance 
+		2. Salary
+		3. Broad range of projects/programs (depending on job function)
+		4. Ability to "jump" careers within a single company (e.g. RMS, Space, MFC, Aero could be considered sub-companies within LM) and work on everything ranging from quality assurance, failure analysis, software engineering, manufacturing, systems engineering, program management, propulsion systems, radars, combat ships, missiles, satellites, wildfire prevention, and so much more! There are honestly so many diverse roles within a single company it is incredible. 
+		5. Community Involvement / volunteering opportunities
+		6. Strong collaboration with academia, different business areas (RMS, Space,...), industry, etc. 
+		7. Many diverse work locations (Sunnyvale, CA; Palmdale, CA; Ft. Worth, TX; Grand Prarie, TX; Marietta, GA; King of Purssia, PA; Stratford, CT; etc.)
+		8. The company has over $150B dollars in backlog which will provide years of work for employees. In addition, they continue to grow and secure sizeable contracts from around the world leading to their $67.6B in net sales in 2023. 
+		9. Job security
+
+
+	Cons: 
+		In general, the pro's heavily out weigh the cons.
+		
+		1. Working with union can be challenging at times
+		2. May encounter co-workers who seek the spot light vs. working as team 
+		3. May encounter leadership team members with different views on promotions/years of experience required (e.g. must have "X" years of experience before being promoted to "Y" level, as opposed to promoting based on knowledge, results, etc.)
+		4. If you're a high performer and leading high profile projects/programs you can find yourself working more than 40+ hours per week. Some may find this as a negative but when you are younger this can truly accelerate your career and be an opportunity for you to deliver results that far exceed your peers.
+
+
+	Summary: 
+		Great Company
+
+
+Review 5:
+	Job Title: Procurement Representative
+	Location: Moorestown, NJ
+	Review Date: 2024-04-15T13:52:44.787
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		I believe Lockheed Martin most competitive aspect in the market is their 4 day work week. This + a young and understanding manager make for a great work life balance. There are opportunities for growth for early career employees which is wonderful &amp; the job security is extremely reassuring for people who feel anxious about the current job market &amp; limited offerings.
+
+
+	Cons: 
+		Some of the work can be redundant. Unless there are opportunities presented to you, you can get stuck in the same position for years. Also, government work faces a lot of bureaucratic issues involving tedious responsibilities, delays in resolving specific issues.
+
+
+	Summary: 
+		Great job security, leadership opportunities, nice work life balance
+
+
+Review 6:
+	Job Title: Software Engineer
+	Location: Littleton, CO
+	Review Date: 2024-04-10T11:21:34.027
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The hours you can work per week, and how you distribute them is incredibly flexible. Traditionally you can work 10 hour 4 day weeks, but if you want to spread it out to 5 days or squeeze in hours in a shorter period you can.
+		
+		Pretty easy work and colleagues are very flexible and knowledgeable.
+		
+		Salary is very good and above average, but could offer a bonus for the in person nature of the job.
+
+
+	Cons: 
+		Doesn't feel like there is much growth. Old technologies and generally work on things that aren't industry standard.
+		
+		All the work is done in a security environment so there isn't much room to do any work from home. Bonus structure is unclear.
+
+
+	Summary: 
+		Flexible hours, but not much growth
+
+
+Review 7:
+	Job Title: Engineer
+	Location: El Segundo, CA
+	Review Date: 2024-04-02T07:05:22.313
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Not many pros to list honestly.
+
+
+	Cons: 
+		Rude coworkers and supervisors. Apathetic work ethic. Impossible to find someone to help or mentor you. I joined with the belief that their ego would be justified, could not be further from the truth. Do not let them intimidate you in an interview or at a job fair, they are not at all what they think they are. Their onboarding process is one of the worst convoluted messes I have ever witnessed, so good luck. Never felt less welcome joining a team ever. You WILL be a number to them.
+
+
+	Summary: 
+		Absolute Dumpster Fire
+
+
+Review 8:
+	Job Title: Engineering Aide III
+	Location: Lone Tree, CO
+	Review Date: 2024-04-05T11:08:00.840
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		A lot of opportunity to grow, take on side tasks, network, join clubs, etc. Their internal job portal is top tier. They have so many benefits like tuition reimbursement, access to their on-campus health and wellness facilities, and flextime with 4 day work weeks. There are also tons of internal training resources. They also have a young leadership program as well as apprenticeships available. I plan on staying at Lockheed, becoming an engineer, and retiring here.
+
+
+	Cons: 
+		This is a huge company, so seeing the big picture of what your working on takes a lot of effort and connecting. It is possible, but you most likely will not get on the job experience each step of the way.
+
+
+	Summary: 
+		Many pros. This is most definitely a career company.
+
+
+Review 9:
+	Job Title: Senior Mechanical Engineer
+	Location: Silverdale, WA
+	Review Date: 2024-04-17T07:52:05.407
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Very good 401k contributions. 6% automatic and 50% of your first 8% matched for a total possible company contribution of 10%. Decent paid time off of 4 weeks per year and 10 holidays, several schedule options for good flexibility.
+
+
+	Cons: 
+		Recent changes to performance bonus and raise structure make future growth less predictable. Pay in the defense industry has fallen behind other tech industries.
+
+
+	Summary: 
+		Stable job with good benefits, lacks excitement and growth opportunities
+
+
+Review 10:
+	Job Title: Human Resources
+	Location: Orlando, FL
+	Review Date: 2024-04-16T07:07:59.410
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 5
+
+	Pros: 
+		Lots of well-credentialed, smart professionals. Important mission. High salaries with real possibilities to grow. 4/10 work schedule.
+
+
+	Cons: 
+		Too many layoffs are affecting culture; when people are afraid, they retreat. Transition to remote has some drawbacks. 
+		I did not realize it's cyclical: it has ups and downs. This is fine for young people but can be dangerous for others.
+
+
+	Summary: 
+		Great company, too many layoffs
+
+
+Review 11:
+	Job Title: Design Engineer
+	Location: Sunnyvale, CA
+	Review Date: 2024-03-05T08:57:50.443
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		A lot of stability, they do want you to stay there forever. The people surrounding you have been there either a few years or 40 which means there is a ton of expertise. Everyone is generally very kind and polite. The resources and facilities are huge, as well as their knowledge base. The best part is the flexible hours. 40 hours in a week and basically whenever you want. It would be hard to revert back to working on Fridays now.
+
+
+	Cons: 
+		It is strange when they announce we achieved billions in profits but we only got 95% of our bonus because some department didn't meet their deliverables, even though the rest of us did. When we asked what was our incentive then to work harder they told us it was an honor and privilege to be an engineer and we should have an intrinsic satisfaction in just doing a good job. Also the bureaucracy of the company is staggering, it is difficult to complete almost any task without jumping through hoops.
+
+
+	Summary: 
+		Stable but Annoying
+
+
+Review 12:
+	Job Title: Systems Engineer
+	Location: None
+	Review Date: 2024-03-24T16:50:39.123
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		-Great and friendly coworkers
+		-Good location
+
+
+	Cons: 
+		I feel like the only real con I have is my main gripe and what feels like a constant cloud over the head of my department. Regardless of however productive and meaningful my work feels it doesn't translate to meaningful upward movement in the company. I've been rated differently in my yearly reviews, basically between "Achieved goals" to "Over-achieved" but it never translates to a meaningful pay increase or more important positions. This is despite the fact that I've never had a negative word said against me or my work and no real guidance for approval other than "keep doing what you're doing". It more just feels like a vast majority of employees are fit into buckets, and regardless of how well or bad you do you'll only ever stick out if you're really messing up in multiple ways.
+
+
+	Summary: 
+		Too Large to Stick Out
+
+
+Review 13:
+	Job Title: Software Engineer
+	Location: Denver, CO
+	Review Date: 2024-04-17T10:34:48.747
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Good Place to work 
+		People are fair to work with a few bad apples but other than that most people are great.
+
+
+	Cons: 
+		The administration is laying off hundreds of engineers to "save money"
+		Lockheed Martin is quick to lay off employees regardless of how loyal you are. I have seen lifers get kicked out the door without a clue why
+
+
+	Summary: 
+		Good Place/Bad Admin
+
+
+Review 14:
+	Job Title: Software Engineer
+	Location: Fort Worth, TX
+	Review Date: 2024-04-05T17:43:32.887
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Love my coworkers, they are capable, no making excuses for them
+		
+		Get to do lots of extreme engineering
+		
+		Lots of room to try your hand at everything. 
+		
+		Managers here tend to be great
+		
+		Flexibility, you are seen a person and are given room to manage work and life.
+
+
+	Cons: 
+		Salary can be lacking
+		
+		If you work on plant, facilities are a bit lame, no windows, spotty cell service
+		
+		Funding for programs can be spotty, so be prepared to play ball.
+
+
+	Summary: 
+		Great Placce to work, but not without its problems
+
+
+Review 15:
+	Job Title: Senior Design Engineer
+	Location: Cape Canaveral, FL
+	Review Date: 2024-04-16T05:43:08.720
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good pay, nice people. Work comes in, work goes out in an effective manner.
+
+
+	Cons: 
+		You may be out of a job in any career that relies on federal funding to pay their employees, if funds don't go through.
+
+
+	Summary: 
+		Federal funding cuts, forced layoffs
+
+
+Review 16:
+	Job Title: Project Engineer 2
+	Location: Virginia Beach, VA
+	Review Date: 2024-04-08T10:39:56.793
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		you learn a lot, most of the people are great
+
+
+	Cons: 
+		if your manager has no idea of the work you do, then the people you train that are at his site will get promoted over you, albeit for still less pay. You will get a 1% raise a year if you work your butt off. also hours 40-45 aren't paid for, they are considered a donation to the company. Last, overtime is just straight time. have fun...
+
+
+	Summary: 
+		Don't work for the contract part of Lockheed
+
+
+Review 17:
+	Job Title: Senior Staff Engineer
+	Location: Las Cruces, NM
+	Review Date: 2024-04-03T10:05:32.753
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		The salaries and competence of team mates is off the chart. They are an industry leader for a reason. Lots of advancement opportunities for those willing to learn and work hard. Also some of the best management you will find in any company.
+
+
+	Cons: 
+		The benefits package, including leave and healthcare, are worse than most other companies. Senior employees start on the leave scale the same as people right out of school. High deductible health plans mean you will be paying a lot more out of pocket for healthcare.
+
+
+	Summary: 
+		LM to Infinity and Beyond
+
+
+Review 18:
+	Job Title: Senior Manager | Program Manager
+	Location: Grand Prairie, TX
+	Review Date: 2024-04-01T10:56:27.820
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Lots of job opportunity, especially for early career. When I wanted to move, I was able to relocate with the company and experience another business area and product line. I have transitioned from an engineering career to program management, with lots of leadership development opportunities.
+
+
+	Cons: 
+		The higher you go, the less opportunity there is (naturally, think pyramid)... or at least less opportunity for you to explore. The job openings start to come to you rather than you going for them, so if you are ready to move and there are no openings, you are basically stuck.
+
+
+	Summary: 
+		Enough opportunity to keep me here 15+ years
+
+
+Review 19:
+	Job Title: Quality Engineer Staff
+	Location: Grand Prairie, TX
+	Review Date: 2024-04-15T08:25:54.460
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Advanced/development programs are fun and exciting.
+
+
+	Cons: 
+		Manufacturing however is sad. Nobody cares about quality, only pushing parts out the door. That's not QA's job.
+		
+		Upward mobility is based on whose ego you stroke, not value added.
+
+
+	Summary: 
+		Quality? What's that?
+
+
+Review 20:
+	Job Title: Software Engineer
+	Location: Denver, CO
+	Review Date: 2024-04-15T11:26:02.300
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: NO_OPINION
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		More laid back work culture, with a flexible schedule. For me at least my boss is very understanding and considerate of personal issues and very accommodating.
+
+
+	Cons: 
+		Lower salaries and benefits, and working in an extremely corportate environment with deprecated tools so there isn't much flexibility.
+
+
+	Summary: 
+		Review
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

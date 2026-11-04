@@ -1,0 +1,631 @@
+
+Dominion Energy is a Utilities: Gas and Electric company based in 23219 Richmond, Virginia. 
+The company has 17,200 employees and has a revenue of $17,174 according to Fortune 500.
+The company is valued at $46,699 and has a profit of $994. The CEO of the company is Robert M. Blue.
+
+The Company has the following ratings: 
+Average ratings for Dominion Energy:
+Business Outlook: 0.64
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 57 
+	2: 83 
+	3: 183 
+	4: 205 
+	5: 215 
+
+CEO: 0.71
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 19 
+	2: 43 
+	3: 157 
+	4: 275 
+	5: 249 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 61 
+	2: 53 
+	3: 145 
+	4: 187 
+	5: 268 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 35 
+	2: 36 
+	3: 65 
+	4: 98 
+	5: 217 
+
+Overall: 3.9
+Distribution: 
+	1: 47 
+	2: 62 
+	3: 175 
+	4: 319 
+	5: 314 
+
+Senior Management: 3.3
+Distribution: 
+	1: 101 
+	2: 83 
+	3: 173 
+	4: 190 
+	5: 186 
+
+Work Life Balance: 3.7
+Distribution: 
+	1: 72 
+	2: 76 
+	3: 153 
+	4: 203 
+	5: 238 
+
+Review Count: 918
+
+Recommend to Friend: 
+	RECOMMEND: 518
+	WONT RECOMMEND: 136
+
+
+
+
+The company has 1129 reviews on Glassdoor. The last review was posted on 2024-04-17T06:35:06.507. 
+There are 20 Reviews for Dominion Energy:
+
+Review 1:
+	Job Title: Customer Service Representative
+	Location: Gastonia, NC
+	Review Date: 2024-04-07T16:33:22.307
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Friendly management and staff. 
+		They care about their clients
+		Training was a breeze
+		So much support
+
+
+	Cons: 
+		None so far. Thankfully its been good
+
+
+	Summary: 
+		Love my job
+
+
+Review 2:
+	Job Title: Engineer 1
+	Location: Salt Lake City, UT
+	Review Date: 2024-03-07T11:08:30.937
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		As a first job out of college, this is an awesome position because you get project management experience on top of engineering experience! Extremely stable career and industry, very reliable. Extremely flexible work, availability to work remote or hybrid with flexible hours.
+
+
+	Cons: 
+		Pay does not match the level of project management experience required. Very very very old-fashioned in their ways. No upward mobility. Many employees that are severely complacent in their work. Employee experience is extremely dependent on who your manager is (i.e. will they advocate for you and believe in you).
+
+
+	Summary: 
+		Project Management &amp; Engineering Experience!
+
+
+Review 3:
+	Job Title: Hourly Trader
+	Location: None
+	Review Date: 2024-04-17T06:35:06.507
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Learn power generation and financial analysis
+
+
+	Cons: 
+		Shift work can be difficult
+
+
+	Summary: 
+		Great place to work
+
+
+Review 4:
+	Job Title: Gas Project Leader
+	Location: Akron, OH
+	Review Date: 2024-04-11T03:35:37.253
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Hybrid work schedules, good health benefits
+
+
+	Cons: 
+		Poor management-full of micro managers at every level, very short staffed in all departments
+
+
+	Summary: 
+		So-so Job
+
+
+Review 5:
+	Job Title: Engineer Technician
+	Location: Akron, OH
+	Review Date: 2024-04-03T10:13:22.140
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Your work is your work and if you need to schedule around a personal reason you have the ability to do that.
+
+
+	Cons: 
+		There is no training for this position so you will need to be a self starter if you want to succeed.
+
+
+	Summary: 
+		Must be a self starter
+
+
+Review 6:
+	Job Title: Designer
+	Location: Richmond, VA
+	Review Date: 2024-03-28T10:38:31.027
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay, good benefits, good people
+
+
+	Cons: 
+		Lack of transparency by management
+
+
+	Summary: 
+		Designer
+
+
+Review 7:
+	Job Title: Electrical Engineer I
+	Location: None
+	Review Date: 2024-01-02T13:11:26.853
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Good Benefits and compensation compared to DOD/GOV industry I'd worked previously. Large company with established procedures and processes for most things. Seems to be adequately staffed across the board.
+
+
+	Cons: 
+		My leadership up through the VP level is new and it shows.  The project management skills and ability to delegate or hold people accountable are completely lacking. Some teams and individuals are completely overwhelmed with work while others play games on their phones for lack of work.  There is not a unity of mission across the company and many groups build out their own little empires and stay detached from the business case / customer realities. And this should be read with the context that I'm comparing to the federal government.
+
+
+	Summary: 
+		Great Benefits and Compensation
+
+
+Review 8:
+	Job Title: Non-Licensed Operator
+	Location: None
+	Review Date: 2024-01-30T18:02:35.400
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Good job stability
+		Ample opportunity for overtime if desired
+		Best sick time of anywhere I've worked
+
+
+	Cons: 
+		Base pay is below industry average
+		Very short staffed with multiple crews requiring overtime coverage to staff the watch. They've been trying to hire but given the qualifications process it'll be months until anybody that is hired can make a dent in the staffing issue and until then people are openly talking about where else they're applying/interviewing so it may still get worst before better.
+		The job requires shift work which can be a strain on sleep cycles and families.
+		Shift differential pay is a flat payout so it doesn't scale with your pay progression and hasn't been updated in nearly 20 years.
+		Plant performance had been on the decline within the industry.
+
+
+	Summary: 
+		No place is perfect
+
+
+Review 9:
+	Job Title: Financial Analyst
+	Location: Surry, VA
+	Review Date: 2024-03-23T08:48:45.247
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Pay is nice and 401k benefits is above average,
+
+
+	Cons: 
+		Most people gossip in the power plant about others. Plants are in the middle of nowhere when it comes to a commute.
+
+
+	Summary: 
+		Office Politics 
+
+
+Review 10:
+	Job Title: Engineer III
+	Location: Waterford, CT
+	Review Date: 2023-07-23T12:10:58.093
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Working at a nuclear power plant offers many challenges on a regular basis and will require a lot of effort in understanding government regulations and gathering industry knowledge. If you like being consistently challenged, this is a good working environment for that. The annual salaries are in the mid to lower side of the industry average. Bonuses have been good and relatively consistent over the past few years.
+
+
+	Cons: 
+		As noted above, this job will ask a lot of you and your patience. If you’re in the right engineering working group, it can be fun and a great learning opportunity. Over time is becoming more frequent and is expected during refueling outage (i.e. ‘qualifying events’). Overtime for engineering is only paid during qualifying events. However, outside of these events, engineering does not receive overtime pay where overtime may be required. Workloads are generally high and a lot of on the job training is necessary to perform one’s job. For those coming from outside the industry, there is a lot of Jargon (think NASA) and becoming comfortable in the industry can take from 3-5 years.
+
+
+	Summary: 
+		Millstone Power Station - Engineering
+
+
+Review 11:
+	Job Title: Dept coordinator
+	Location: Mineral, VA
+	Review Date: 2024-01-08T05:04:08.777
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Benefits, pay is adequate but not comparable to industry, great co-workers
+
+
+	Cons: 
+		Upper (Corp) Management does not seem to care about the working folks at the power stations. Dept and positions are created our of thin air for those locations and jobs are being cut left and right at the stations with no reduction in work load. Salaried exempt folks are expected to be reachable 24/7 for no additional pay even when working weeks of extra hours.
+
+
+	Summary: 
+		Too much work, too few people
+
+
+Review 12:
+	Job Title: Project Manager
+	Location: Richmond, VA
+	Review Date: 2024-02-05T11:51:45.293
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Like a government job (job security &amp; office politics) just with much higher pay and an annual bonus
+
+
+	Cons: 
+		Health care benefits are costly. Older white males were discriminated against for promotions. If experience was not from Dominion it did not count. Want military hires to make the numbers look good but after getting in the door you may not go as far and as fast as you did in the military.
+
+
+	Summary: 
+		Glad to be retired
+
+
+Review 13:
+	Job Title: Construction Specialist
+	Location: Richmond, VA
+	Review Date: 2024-03-18T17:59:31.263
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Independent work, ability to travel, great wages
+
+
+	Cons: 
+		Isolated, overnights in hotels, mostly driving
+
+
+	Summary: 
+		Great workspace
+
+
+Review 14:
+	Job Title: Customer Projects Designer
+	Location: None
+	Review Date: 2024-03-14T21:05:19.530
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great place to work for the most part
+
+
+	Cons: 
+		Advancement can be an issue depending on the department
+
+
+	Summary: 
+		Gh
+
+
+Review 15:
+	Job Title: Engineering Technician
+	Location: Akron, OH
+	Review Date: 2024-03-13T18:05:33.830
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Work is challenging and enjoyable
+
+
+	Cons: 
+		Some management tends to micromanage, some do not
+
+
+	Summary: 
+		Pretty good place to work
+
+
+Review 16:
+	Job Title: Customer Service
+	Location: Raleigh, NC
+	Review Date: 2024-02-23T18:53:19.743
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Holidays off is a great benefit.
+
+
+	Cons: 
+		They will pay their new employees the same as an employee that’s been working there 5-10 years.
+
+
+	Summary: 
+		Unfair pay
+
+
+Review 17:
+	Job Title: Operations
+	Location: Richmond, VA
+	Review Date: 2024-02-19T12:14:22.040
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Good benefits and bonus structure.
+
+
+	Cons: 
+		Nepotism is heavy, no matter what is said. Passed over three times by someone junior whose father works in same dept. Lacks diversity. Poor culture. Wasn't what was promised or expected. I'll never return.
+
+
+	Summary: 
+		Left disappointed
+
+
+Review 18:
+	Job Title: Supervisor
+	Location: Cedar City, UT
+	Review Date: 2024-03-03T14:29:40.950
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Pay is decent. Good job if you work in the right area.
+
+
+	Cons: 
+		Management micromanage. Some un honest management.
+
+
+	Summary: 
+		Good company bad Management 
+
+
+Review 19:
+	Job Title: Finance Analyst
+	Location: Richmond, VA
+	Review Date: 2024-03-04T19:27:51.670
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Excellent Culture / Management and Good benefits
+
+
+	Cons: 
+		Not applicable - great place to work
+
+
+	Summary: 
+		Great Place to Work
+
+
+Review 20:
+	Job Title: Engineer
+	Location: Richmond, VA
+	Review Date: 2024-03-09T18:15:01.883
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Interesting &amp; challenging work every day
+
+
+	Cons: 
+		Too much work on some occasions
+
+
+	Summary: 
+		Good Role
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

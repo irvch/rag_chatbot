@@ -1,0 +1,629 @@
+
+KKR is a Securities company based in 10001 New York, New York. 
+The company has 4,150 employees and has a revenue of $7,273 according to Fortune 500.
+The company is valued at $45,225 and has a profit of -$841. The CEO of the company is Joseph Y. Bae.
+
+The Company has the following ratings: 
+Average ratings for KKR:
+Business Outlook: 0.71
+
+Career Opportunities: 3.5
+Distribution: 
+	1: 23 
+	2: 19 
+	3: 35 
+	4: 47 
+	5: 89 
+
+CEO: 0.88
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 8 
+	2: 7 
+	3: 22 
+	4: 64 
+	5: 109 
+
+Culture and Values: 3.4
+Distribution: 
+	1: 20 
+	2: 22 
+	3: 28 
+	4: 45 
+	5: 88 
+
+Diversity and Inclusion: 3.5
+Distribution: 
+	1: 9 
+	2: 8 
+	3: 16 
+	4: 26 
+	5: 41 
+
+Overall: 3.8
+Distribution: 
+	1: 16 
+	2: 21 
+	3: 42 
+	4: 77 
+	5: 139 
+
+Senior Management: 3.3
+Distribution: 
+	1: 21 
+	2: 15 
+	3: 44 
+	4: 48 
+	5: 79 
+
+Work Life Balance: 3
+Distribution: 
+	1: 28 
+	2: 31 
+	3: 53 
+	4: 55 
+	5: 43 
+
+Review Count: 295
+
+Recommend to Friend: 
+	RECOMMEND: 147
+	WONT RECOMMEND: 34
+
+
+
+
+The company has 395 reviews on Glassdoor. The last review was posted on 2024-03-13T15:41:33.520. 
+There are 20 Reviews for KKR:
+
+Review 1:
+	Job Title: Senior Director
+	Location: New York, NY
+	Review Date: 2024-03-13T15:41:33.520
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		People are brilliant and scrappy
+
+
+	Cons: 
+		Company is too large now
+
+
+	Summary: 
+		Great company
+
+
+Review 2:
+	Job Title: None
+	Location: New York, NY
+	Review Date: 2024-02-21T10:45:45.370
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Great name and reputation in the business
+		Opportunities to work cross functionally
+
+
+	Cons: 
+		Extremely long hours
+		High turnover
+		Inexperienced leadership. KKR's operations department has suffered from high turnover at the leadership level and hiring of inexperienced professionals to backfill previous leadership. This creates an operational nightmare as the long tenured "leaders" only know KKR's way of completing tasks and aren't open to ideas from new joiners. It's unfortunate as the business allows new joiners to sometime begin meetings in order to have "fresh eyes" provide a new look. Operations side of the house could learn from this model. 
+		
+		HR department also needs to consider how they approach situations professionally instead of taking offense to open and honest feedback.
+
+
+	Summary: 
+		Great Name - Operational Nightmare
+
+
+Review 3:
+	Job Title: Manager
+	Location: New York, NY
+	Review Date: 2024-02-26T14:36:14.890
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Smart people, great location, and free lunch. Benefits are pretty good too
+
+
+	Cons: 
+		They're asking four days onsite which may not be possible for everyone.
+
+
+	Summary: 
+		Nice Place
+
+
+Review 4:
+	Job Title: Floater/Assistant
+	Location: None
+	Review Date: 2024-02-24T10:56:48.347
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Beautiful office and good compensation
+
+
+	Cons: 
+		Administrative management is not always honest in their job descriptions and has a chip on their shoulder, so if you give any feedback it’s taken extremely personally.
+
+
+	Summary: 
+		Play the game to get ahead 
+
+
+Review 5:
+	Job Title: Director
+	Location: San Francisco, CA
+	Review Date: 2024-02-28T06:40:00.410
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Talented group , growth opportunities
+
+
+	Cons: 
+		Long hours and limited resources
+
+
+	Summary: 
+		Talented group
+
+
+Review 6:
+	Job Title: Financial Analyst
+	Location: New York, NY
+	Review Date: 2024-02-14T14:14:36.537
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Kind people and company that really makes employees comfortable
+
+
+	Cons: 
+		Hours can be long as usual for most finance jobs
+
+
+	Summary: 
+		Great Place to Work
+
+
+Review 7:
+	Job Title: Manager
+	Location: San Francisco, CA
+	Review Date: 2024-02-06T13:01:54.790
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		The job has great benefits, especially wellness
+
+
+	Cons: 
+		Upward mobility can be difficult, the economic impact hurts the bottom tier of workers with cut bonuses and pay increase
+
+
+	Summary: 
+		Overall a good job
+
+
+Review 8:
+	Job Title: Financial Analyst
+	Location: New York, NY
+	Review Date: 2024-02-14T20:18:19.083
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		High deal transactions
+		Industry leaders
+
+
+	Cons: 
+		Very stoic environment
+		Sometimes hard to converse with people
+
+
+	Summary: 
+		Good company culture, very hard to get into
+
+
+Review 9:
+	Job Title: Associate
+	Location: New York, NY
+	Review Date: 2024-02-07T19:26:49.193
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Exposure and the level responsibility
+
+
+	Cons: 
+		The job requirements are intense
+
+
+	Summary: 
+		Solid experience
+
+
+Review 10:
+	Job Title: None
+	Location: New York, NY
+	Review Date: 2024-01-04T18:32:08.030
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		They tell you it’s a collaborative, one firm culture but don’t be fooled
+
+
+	Cons: 
+		Toxic/backstabbing culture, no work life balance and too many incompetent managers who do not care about their people and only talk the talk
+
+
+	Summary: 
+		Toxic culture 
+
+
+Review 11:
+	Job Title: Executive Assistant
+	Location: Menlo Park, CA
+	Review Date: 2024-01-02T16:55:57.693
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Beautiful office, stock, benefits, lunch
+
+
+	Cons: 
+		Cliquey, hr out of touch
+
+
+	Summary: 
+		Review
+
+
+Review 12:
+	Job Title: Principal
+	Location: New York, NY
+	Review Date: 2023-09-08T13:45:41.437
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		-Standout performers are truly exceptional and inspiring to work for and alongside -Beautiful offices, great benefits -Management makes an effort to be transparent and responsive, committed to DEI initiatives
+
+
+	Cons: 
+		-Most of the workforce joined in last 2 years and quality of many recent hires is not the same as it used to be -Core culture of accountability, excellence, and 'like and trust' has noticeably diminished -Everyone is expected to be 'always on' and hyper-responsive which is exciting, but can be intense
+
+
+	Summary: 
+		Solid brand and well intentioned management, but fading culture
+
+
+Review 13:
+	Job Title: Floater
+	Location: None
+	Review Date: 2023-12-20T04:52:09.410
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Nice city views and a lot of sunlight in office
+
+
+	Cons: 
+		Comparable to a sweatshop, employees are overworked and the new building has shaking elevators and helicopters circling it feeling unsafe on the 80th floor. No respect from administrative staff managers and unstable company
+
+
+	Summary: 
+		Sweatshop
+
+
+Review 14:
+	Job Title: None
+	Location: New York, NY
+	Review Date: 2023-09-30T11:18:14.897
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Benefits are good, nice offices.
+
+
+	Cons: 
+		Expect to be yelled at, lack of any feedback- even when you ask for it, horrible onboarding experience and absolutely no flexibility on working hours or understanding of work-life balance. No training, expect you to know or figure out everything on your own. HR did not provide any formal review or feedback and during the introductory period you can be let go for no reason at all.
+
+
+	Summary: 
+		Toxic work environment, no work/life balance, not worth it!
+
+
+Review 15:
+	Job Title: Analyst
+	Location: New York, NY
+	Review Date: 2023-11-30T17:32:01.307
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 1
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		KKR has a collaborative culture and amazing.
+
+
+	Cons: 
+		The standard is high and hours are long.
+
+
+	Summary: 
+		Great Place to Start Career
+
+
+Review 16:
+	Job Title: Vice President
+	Location: New York, NY
+	Review Date: 2023-11-20T21:32:56.140
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good culture. Flat organization. Supported
+
+
+	Cons: 
+		Needs more structure for employees
+
+
+	Summary: 
+		Good culture
+
+
+Review 17:
+	Job Title: Business Analyst
+	Location: New York, NY
+	Review Date: 2023-10-22T08:21:12.933
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great mentorship, benefits, and ability to work on long term projects early on
+
+
+	Cons: 
+		Manual systems that need to implemented into technology
+
+
+	Summary: 
+		KKR Business Analyst Experience Review
+
+
+Review 18:
+	Job Title: Business Analyst
+	Location: New York, NY
+	Review Date: 2023-10-21T12:23:20.010
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Nice people and inclusive team environments.
+
+
+	Cons: 
+		Relatively small company compared to others.
+
+
+	Summary: 
+		Best people
+
+
+Review 19:
+	Job Title: Operations Professional
+	Location: New York, NY
+	Review Date: 2023-08-19T07:25:59.413
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Culture is friendly, smart individuals. Collaboration is encouraged in the same office and globally. Pay seems fair, great benefits.
+
+
+	Cons: 
+		Long work hours. Promotions are done at the end of the year, regardless of your starting date. Turnover is noticeable, performance is the biggest factor.
+
+
+	Summary: 
+		Great Culture
+
+
+Review 20:
+	Job Title: Associate
+	Location: Houston, TX
+	Review Date: 2023-08-01T10:05:39.970
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Strong culture and management want to see you succeed
+
+
+	Cons: 
+		Nothing I can think of during my first year
+
+
+	Summary: 
+		Great Company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

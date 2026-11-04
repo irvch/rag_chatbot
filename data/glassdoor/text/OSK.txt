@@ -1,0 +1,638 @@
+
+Oshkosh is a Construction and Farm Machinery company based in 54902 Oshkosh, Wisconsin. 
+The company has 15,000 employees and has a revenue of $8,282 according to Fortune 500.
+The company is valued at $5,445 and has a profit of $174. The CEO of the company is John C. Pfeifer.
+
+The Company has the following ratings: 
+Average ratings for Oshkosh:
+Business Outlook: 0.62
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 37 
+	2: 54 
+	3: 102 
+	4: 151 
+	5: 184 
+
+CEO: 0.87
+
+Compensation and Benefits: 3.7
+Distribution: 
+	1: 17 
+	2: 30 
+	3: 110 
+	4: 211 
+	5: 160 
+
+Culture and Values: 4
+Distribution: 
+	1: 48 
+	2: 39 
+	3: 66 
+	4: 96 
+	5: 262 
+
+Diversity and Inclusion: 3.7
+Distribution: 
+	1: 14 
+	2: 13 
+	3: 36 
+	4: 36 
+	5: 46 
+
+Overall: 4
+Distribution: 
+	1: 36 
+	2: 38 
+	3: 102 
+	4: 180 
+	5: 242 
+
+Senior Management: 3.5
+Distribution: 
+	1: 72 
+	2: 56 
+	3: 93 
+	4: 133 
+	5: 173 
+
+Work Life Balance: 4
+Distribution: 
+	1: 51 
+	2: 39 
+	3: 96 
+	4: 149 
+	5: 194 
+
+Review Count: 600
+
+Recommend to Friend: 
+	RECOMMEND: 398
+	WONT RECOMMEND: 109
+
+
+
+
+The company has 716 reviews on Glassdoor. The last review was posted on 2024-04-16T08:45:24.940. 
+There are 20 Reviews for Oshkosh:
+
+Review 1:
+	Job Title: Human Resources
+	Location: Oshkosh, WI
+	Review Date: 2024-04-11T07:47:36.400
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Amazing People First Company that is growing and expanding. Transforming into a technology company leading change in our industry.
+
+
+	Cons: 
+		Not a con, but a lot of work ahead because of our strong demand for our products.
+
+
+	Summary: 
+		Great Company
+
+
+Review 2:
+	Job Title: HR Manager
+	Location: Oshkosh, WI
+	Review Date: 2024-04-16T08:45:24.940
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		- Great flexibility (based on your individual role's responsibilities and leader)
+		- Continuous improvement is extremely important to the organization (submit ideas, recognition, etc.)
+		- Sense of connectedness with others
+
+
+	Cons: 
+		- Great programs can lose momentum when people leave
+
+
+	Summary: 
+		Sense of Connectedness
+
+
+Review 3:
+	Job Title: Cyber Security Engineer
+	Location: Oshkosh, WI
+	Review Date: 2024-04-15T08:28:56.770
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great management
+		Great leadership
+		Work/Life Balance is very nice
+		Salary is competitive
+
+
+	Cons: 
+		Can be on-call sometimes
+		Interview can be thorough
+
+
+	Summary: 
+		Great Work/Life Balance
+
+
+Review 4:
+	Job Title: Organizational Development Specialist
+	Location: Oshkosh, WI
+	Review Date: 2024-04-11T17:41:46.820
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: NO_OPINION
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good pay, lots of opportunity
+
+
+	Cons: 
+		Leadership, lack of diversity, less opportunity for women and people of color
+
+
+	Summary: 
+		Great place to work in the valley
+
+
+Review 5:
+	Job Title: Autonomy Engineer
+	Location: Oshkosh, WI
+	Review Date: 2024-03-28T16:51:29.113
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Innovative, Fun, Friendly, Collaborative, and Flexible
+
+
+	Cons: 
+		Can be bureaucratic at times, simple internal processes can take a long time to resolve.
+
+
+	Summary: 
+		Excellent Culture, Good Work-life Balance, Empowering Leaders
+
+
+Review 6:
+	Job Title: Sr Project Engineer
+	Location: Oshkosh, WI
+	Review Date: 2024-03-16T06:35:13.333
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		People first culture has seen tremendous changes for the positive in the company. Multiple ways to work and collaborate and diverse opportunities.
+
+
+	Cons: 
+		Some buildings/work environments get more attention than others.
+
+
+	Summary: 
+		Great Employer Who Listens
+
+
+Review 7:
+	Job Title: Associate Engineer
+	Location: Oshkosh, WI
+	Review Date: 2024-03-12T21:42:19.090
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Was able to be creative with a fun and exciting product line.
+
+
+	Cons: 
+		Very unprofessional behavior in the office. Also they coach team members to write company reviews.
+
+
+	Summary: 
+		Great product but bad work environment 
+
+
+Review 8:
+	Job Title: Senior Electrical Engineer
+	Location: Oshkosh, WI
+	Review Date: 2024-02-20T17:37:38.790
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Roles and responsibilities were very clear. I enjoyed the team and work. I knew my mission and felt like I was contributing.
+
+
+	Cons: 
+		Job growth/career path wasn't very straightforward.
+
+
+	Summary: 
+		God company 
+
+
+Review 9:
+	Job Title: Compensation Analyst
+	Location: Oshkosh, WI
+	Review Date: 2024-02-27T09:24:17.073
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Positive work environment. Great management. Flexible work.
+
+
+	Cons: 
+		No cons at this time!
+
+
+	Summary: 
+		Great Place to Work!
+
+
+Review 10:
+	Job Title: None
+	Location: Oshkosh, WI
+	Review Date: 2024-02-23T13:18:24.103
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Flexible work schedule, and ability to work remotely
+
+
+	Cons: 
+		below average pay for some professions
+
+
+	Summary: 
+		Great Company to Work For
+
+
+Review 11:
+	Job Title: Buyer
+	Location: None
+	Review Date: 2024-02-01T10:02:42.410
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good salary
+		Benefits are good
+		People first
+
+
+	Cons: 
+		Good company overall very close to values
+
+
+	Summary: 
+		Great company
+
+
+Review 12:
+	Job Title: Automation Analyst
+	Location: Oshkosh, WI
+	Review Date: 2023-12-08T06:38:07.567
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Fast-paced, you can learn a lot in a short period. 
+		Flexibility,
+		Supportive team.
+
+
+	Cons: 
+		Old club, no room for career growth and advancement. 
+		Management is on the look to win external awards over earning internal business, not much buy-in from stakeholders. 
+		Fast to set aside technologies and seek new shiny technologies without considering the costs.
+
+
+	Summary: 
+		Standard corporation work environment  
+
+
+Review 13:
+	Job Title: Welder, Quality Assurance, General Maintenance and Repair
+	Location: Jefferson City, TN
+	Review Date: 2023-11-26T17:17:55.553
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Laid back, 2nd shift gets 1.50/hr extra, decent pay for the area
+
+
+	Cons: 
+		Not worth the headache, you don't get paid enough for what you do, management doesn't care about you nor will they listen to what you have to say, have seen people be fired for little to no reason, horrible communication
+
+
+	Summary: 
+		I wouldn't
+
+
+Review 14:
+	Job Title: Product Manager
+	Location: Orlando, FL
+	Review Date: 2024-01-11T10:35:33.387
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Lots of resources and support.
+
+
+	Cons: 
+		Navigating those resources between different branches
+
+
+	Summary: 
+		New to OSK
+
+
+Review 15:
+	Job Title: None
+	Location: None
+	Review Date: 2023-12-18T17:06:23.897
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Nice corporate office
+		Huge organization with lots of opportunity for internal movement
+
+
+	Cons: 
+		A lot of senior leadership strife
+		Few people actually get along or aren't trying to win at someone else's expense
+		Very little strategy or defined goals at corporate
+		Micromanaged by finance organization
+
+
+	Summary: 
+		They claim to be friendly
+
+
+Review 16:
+	Job Title: Engineer
+	Location: Hagerstown, MD
+	Review Date: 2023-12-03T14:29:18.317
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The people were generally nice to work with,
+
+
+	Cons: 
+		There are some people who have been there too long and don't know how to manage. They are leaders because they stabbed someone else in the back.
+
+
+	Summary: 
+		No bad
+
+
+Review 17:
+	Job Title: General Labour
+	Location: Oshkosh, WI
+	Review Date: 2023-12-21T13:01:01.727
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay and benefits ok
+
+
+	Cons: 
+		Company doesn’t always treat employees fairly
+
+
+	Summary: 
+		General labor 
+
+
+Review 18:
+	Job Title: Project Manager
+	Location: Oshkosh, WI
+	Review Date: 2023-05-08T18:00:28.277
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		In my experience on the engineering side, there is significant work-life balance improvements in the past several years. I believe Oshkosh Corp learned from past mistakes on employee burnout and many of my colleagues agree that things have much improved. Pay is competitive - people need to be reminded that cost of living in Oshkosh area is significantly lower than a big city The new Global Headquarters building is impressive
+
+
+	Cons: 
+		Still hard to get promoted within several years (if even then). Lack of stretch assignments given. Still a lot of silos and compartmentalization of skillsets. Also there is a lot of politics in the middle management level - more than I have previously experienced at similarly sized companies.
+
+
+	Summary: 
+		Great work-life balance, competitive pay, good growth opportunities
+
+
+Review 19:
+	Job Title: None
+	Location: Oshkosh, WI
+	Review Date: 2024-01-04T06:27:36.570
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		great friends and a lot of fun
+
+
+	Cons: 
+		low pay job and no respect
+
+
+	Summary: 
+		low paying
+
+
+Review 20:
+	Job Title: Director
+	Location: Hagerstown, MD
+	Review Date: 2023-11-13T11:17:45.953
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		People first culture, flexible work schedules, internal promotions and advancement is important to the culture of the company
+
+
+	Cons: 
+		Healthcare plan could be better.
+
+
+	Summary: 
+		Great company to have a career in
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

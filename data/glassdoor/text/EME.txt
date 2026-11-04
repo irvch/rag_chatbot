@@ -1,0 +1,523 @@
+
+EMCOR Group is a Engineering & Construction company based in 06851 Norwalk, Connecticut. 
+The company has 35,500 employees and has a revenue of $11,076 according to Fortune 500.
+The company is valued at $7,754 and has a profit of $406. The CEO of the company is None.
+
+The Company has the following ratings: 
+Average ratings for EMCOR Group:
+Business Outlook: 0.53
+
+Career Opportunities: 3.1
+Distribution: 
+	1: 2 
+	2: 2 
+	3: 5 
+	4: 3 
+	5: 3 
+
+CEO: -1
+
+Compensation and Benefits: 3.3
+Distribution: 
+	1: 1 
+	2: 1 
+	3: 7 
+	4: 4 
+	5: 2 
+
+Culture and Values: 3.1
+Distribution: 
+	1: 3 
+	2: 1 
+	3: 4 
+	4: 4 
+	5: 3 
+
+Diversity and Inclusion: 3.3
+Distribution: 
+	1: 1 
+	2: 2 
+	3: 5 
+	4: 4 
+	5: 3 
+
+Overall: 3.1
+Distribution: 
+	1: 3 
+	2: 1 
+	3: 5 
+	4: 4 
+	5: 3 
+
+Senior Management: 2.9
+Distribution: 
+	1: 2 
+	2: 4 
+	3: 4 
+	4: 1 
+	5: 4 
+
+Work Life Balance: 3.2
+Distribution: 
+	1: 1 
+	2: 4 
+	3: 3 
+	4: 4 
+	5: 3 
+
+Review Count: 16
+
+Recommend to Friend: 
+	RECOMMEND: 8
+	WONT RECOMMEND: 5
+
+
+
+
+The company has 18 reviews on Glassdoor. The last review was posted on 2024-02-19T18:19:11.610. 
+There are 16 Reviews for EMCOR Group:
+
+Review 1:
+	Job Title: Mehcanical Estimator/Mechanical Engineer
+	Location: None
+	Review Date: 2022-06-23T08:17:48.710
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great company with great benefits.
+
+
+	Cons: 
+		Needs to work on embracing new technology in the estimating and project management field.
+
+
+	Summary: 
+		Mechanical Estimator
+
+
+Review 2:
+	Job Title: PMO Project Manager
+	Location: None
+	Review Date: 2024-02-19T18:19:11.610
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Not much work. Feel free to have a second job during the day
+
+
+	Cons: 
+		Director level management isn't fit for the position. The PMO director is unorganized, far behind, terrible decision making skills, terrible communication style. Overall just not fit for the job. She cannot stand by her time frames yet expects above and beyond from you.
+		If you get an interview, be ready to wait a month or two. She doesn't trust the leaders below to make hiring decisions, so the process drags on until she finally has time to make a decision. Promotions will also be promised, but never delivered. And then finally, be ready to be laid off. The company is terrible at selling and signing clients. They are known as the dollar general of PMO. Cheap, terrible technology, terrible processes. So when they finally get a client, they will likely lose them, and then lay off the entire team. Save yourself the headache and go somewhere else. Unless you like being treated like this is a McDonalds level job and be treated like children.
+
+
+	Summary: 
+		Be ready to be laid off
+
+
+Review 3:
+	Job Title: Project Manager
+	Location: Philadelphia, PA
+	Review Date: 2024-01-22T17:37:11.737
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Fair management 
+		Reasonable COL per location
+
+
+	Cons: 
+		Meager raises
+		Eager to lay off
+		Retention is not attempted
+
+
+	Summary: 
+		Fair
+
+
+Review 4:
+	Job Title: Business Development
+	Location: Arlington, VA
+	Review Date: 2024-01-08T08:38:23.237
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 5
+	Work Life Balance: 2
+
+	Pros: 
+		Job security seemed high. The executive staff were great.
+
+
+	Cons: 
+		Not a good work/life balance. Raises were low and no bonuses offered.
+
+
+	Summary: 
+		Lots of work
+
+
+Review 5:
+	Job Title: Production Control Clerk
+	Location: Arlington, VA
+	Review Date: 2023-12-19T10:44:36.850
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Opportunities to learn on the job.
+
+
+	Cons: 
+		Unless you are an union employee, raises are not guaranteed, nor of a significant value.
+
+
+	Summary: 
+		People First
+
+
+Review 6:
+	Job Title: Project Manager
+	Location: New York, NY
+	Review Date: 2023-09-26T15:49:22.497
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Remote work and that’s the only pro
+
+
+	Cons: 
+		Too many process and micromanagement. This company does not want people with ideas and process improvements. They want you to sit quiet and do as you’re told running a dictatorship. Those that stay are very timid and don’t speak up for themselves. Management sticks up for management.
+
+
+	Summary: 
+		Do not work here
+
+
+Review 7:
+	Job Title: HVAC Technician
+	Location: Manchester, NH
+	Review Date: 2023-09-19T14:04:14.117
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Made my own schedule No On call Work independently
+
+
+	Cons: 
+		No Room For Growth Tried to transfer and was offered less per hour than i was making, and then offer was revoked completely.
+
+
+	Summary: 
+		Solid Company
+
+
+Review 8:
+	Job Title: Office Worker
+	Location: El Cajon, CA
+	Review Date: 2023-08-03T19:18:19.750
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good Location, and flexible hours,
+
+
+	Cons: 
+		To get your job done prepare pushing people around and start chasing project managers and purchasing. Be aware of assistant controller Fernando F. who likes spread his hands by touching girls in his department, definitely he heeds s. harassment training on monthly basis.
+
+
+	Summary: 
+		Poor management
+
+
+Review 9:
+	Job Title: Administrative Assistant
+	Location: None
+	Review Date: 2023-02-07T18:31:32.503
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Ability to work in variety of areas and for different companies
+
+
+	Cons: 
+		Limited HR presence at job site when need arose
+
+
+	Summary: 
+		Decent but benefits could’ve been better
+
+
+Review 10:
+	Job Title: None
+	Location: None
+	Review Date: 2022-09-07T08:55:23.520
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good benefits and flexibility for work-life balance at the subsidiaries.
+
+
+	Cons: 
+		Corporate environment makes for more hoops to jump through at the subsidiary level to make any structural changes.
+
+
+	Summary: 
+		Standard Corporate Construction Services
+
+
+Review 11:
+	Job Title: Facilities Maintenance Electrician
+	Location: Tualatin, OR
+	Review Date: 2022-06-08T10:28:47.360
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		No pros that I can list...
+
+
+	Cons: 
+		Really hard to get development.
+		Too many hoops to jump through to get training.
+		Hires talent as needed, does not develop.
+
+
+	Summary: 
+		Company Culture is focused on everything but developing people.
+
+
+Review 12:
+	Job Title: Account Payable Specialist
+	Location: Norristown, PA
+	Review Date: 2022-04-28T10:47:01.913
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Balance life 
+		Everyone helps each other
+		Great Health benefits 
+		Hybrid
+
+
+	Cons: 
+		I can't think of one for know
+
+
+	Summary: 
+		Great
+
+
+Review 13:
+	Job Title: Regional Manager
+	Location: None
+	Review Date: 2022-03-08T09:22:06.303
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Smaller company that is growing greatly and now is the time to get in!!
+
+
+	Cons: 
+		Techs must be able to use iphone technology and lots of different programs.
+
+
+	Summary: 
+		Great Company
+
+
+Review 14:
+	Job Title: Building Operator
+	Location: Philadelphia, PA
+	Review Date: 2022-03-21T07:20:43.507
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great company to work for.
+
+
+	Cons: 
+		No cons to think of at this moment
+
+
+	Summary: 
+		Working
+
+
+Review 15:
+	Job Title: Manager of Facilities
+	Location: Trenton, NJ
+	Review Date: 2021-08-20T07:29:27.273
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Steady work so you are assured a 40 plus work week with OT from time to time
+
+
+	Cons: 
+		Your location at which you are reporting to may be up for rebid every 2-5 years.
+
+
+	Summary: 
+		FM EMCOR
+
+
+Review 16:
+	Job Title: None
+	Location: None
+	Review Date: 2022-06-08T17:11:08.430
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Decent Pay, environment is professional
+
+
+	Cons: 
+		Work life balance isn't that great, they're not allowing remote work in certain areas
+
+
+	Summary: 
+		Decent Pay
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

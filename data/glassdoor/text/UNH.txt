@@ -1,0 +1,681 @@
+
+UnitedHealth Group is a Health Care: Insurance and Managed Care company based in 55343 Minnetonka, Minnesota. 
+The company has 400,000 employees and has a revenue of $324,162 according to Fortune 500.
+The company is valued at $440,854 and has a profit of $20,120. The CEO of the company is Andrew P. Witty.
+
+The Company has the following ratings: 
+Average ratings for UnitedHealth Group:
+Business Outlook: 0.64
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 1167 
+	2: 1161 
+	3: 1970 
+	4: 2045 
+	5: 2038 
+
+CEO: 0.76
+
+Compensation and Benefits: 3.5
+Distribution: 
+	1: 792 
+	2: 1171 
+	3: 2321 
+	4: 2381 
+	5: 1716 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 1195 
+	2: 894 
+	3: 1692 
+	4: 1883 
+	5: 2670 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 286 
+	2: 246 
+	3: 601 
+	4: 884 
+	5: 1510 
+
+Overall: 3.7
+Distribution: 
+	1: 1008 
+	2: 1045 
+	3: 2411 
+	4: 2980 
+	5: 2539 
+
+Senior Management: 3.4
+Distribution: 
+	1: 1687 
+	2: 1168 
+	3: 1833 
+	4: 1682 
+	5: 1531 
+
+Work Life Balance: 3.7
+Distribution: 
+	1: 1109 
+	2: 940 
+	3: 1755 
+	4: 2098 
+	5: 2454 
+
+Review Count: 15654
+
+Recommend to Friend: 
+	RECOMMEND: 4796
+	WONT RECOMMEND: 2565
+
+
+
+
+The company has 16771 reviews on Glassdoor. The last review was posted on 2024-04-18T02:19:18.287. 
+There are 20 Reviews for UnitedHealth Group:
+
+Review 1:
+	Job Title: Service Coordinator
+	Location: Houston, TX
+	Review Date: 2024-04-16T11:07:53.620
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Remote, Pto, employee EAP program, flex scheduling
+
+
+	Cons: 
+		Have not seem co workers in a long time. The company is not big on face to face engagements
+
+
+	Summary: 
+		Uhc
+
+
+Review 2:
+	Job Title: IT Project Manager
+	Location: Eden Prairie, MN
+	Review Date: 2015-08-13T14:25:59.473
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		I will preface this review with a statement you need to heed when reading this review as well as any reviews for this company -- "It depends on your area."  
+		
+		This is a GIGANTIC company and YMMV depending on your group. Keep that in mind when reading.
+		
+		Anyway, I've been here only 6 months, but I think I have enough of a feel for Optum to write a review.
+		
+		The positives:
+		Great work/life balance: I never have to stay late, work on weekends, etc. I get 23 vacation days and my manager encourages me to use them AND completely unplug while away. 
+		
+		Beautiful office: I work at the new Optum office in Eden Prairie. Building is modern and comfortable. Full size gym and locker room, and workout classes. Great parking ramp with a skyway so you never need to go outside in the rain or snow!
+		
+		Work from home: VERY progressive with WFH! I can work from wherever I want. if I want to WFH one day, I can. If I want to WFH the whole week, I can do that, too. No one questions you.
+		
+		Total autonomy
+		
+		No drama: This is a very heads down place! I can't stress that enough. No one socializes with each other -- most of the time, you never even talk to your cube neighbors (because they're probably working from home). This is a positive for me though -- after working in some high drama offices, this is a refreshing change. 
+		
+		All meetings are over webex: Great news if you hate in-person meetings like I do -- because there are very few! In the 6 months I've been here, I've had 4 in person meetings. This is also a con because you never meet your coworkers - read the con list for more info. 
+		
+		30 minute "best practice" meeting times: You will not get invited to 2+ hour meetings, ever. Nearly all meetings are only 30 minutes. You might have the one-off meeting that's an hour, but it's rare. 
+		
+		Good, standardized PM practices. But some of the documentation requirements are too rigid and can slow progress down. Our group is trying to move to 100% agile. Slowly.... All of my projects so far have been waterfall SDLC. Although as a new person, it would help to have a PM to shadow on some of these documentation/audit practices. I've had to learn as I go. 
+		
+		- Great cafeteria with cheap prices. I can get a lunch here cheaper than I can bring it from home.
+		
+		-Very engaging training classes!!! All training classes are over LearnSource (i.e. your computer) but the videos are well done and entertaining.
+
+
+	Cons: 
+		-Building seems empty because so many people WFH. It's almost kind of...sad. Such a nice building but no one is there.
+		
+		-Internet explorer is the browser of choice. Yuck. You have to have special permissions to download Google Chrome or Firefox on your computer.
+		
+		-If you like socializing with your coworkers, this is NOT a place for you! I can't stress that enough!! You will NOT meet your new BFF here. Everyone is very heads-down and focused on work -- no one chit chats about football or True Detective! You will not have coworkers stopping by your desk (to chat about a TV show OR to even chat about work). Most of my days, I don't talk to anyone in person. It's kind of depressing -- and I'm an introvert! There are no happy hours, social events outside of work, etc (this is a positive for me because I hate that stuff).
+		
+		-Lots of contractors. Not that it's a bad thing - I've had great experiences with the PM contractors. They obviously don't last as long as the employees, and there's more contractor PMs than employee PMs.
+		
+		-Difficult, as a new person, to know "who's who." There is no face-to-face meetings, so as a PM, it's tough to know who does what, since there's no face to put with the name. I struggle with this a lot, as I'm not used to this extreme of a "remote" workforce! 
+		
+		-No wifi for your phone. Wifi is only available for visitors and you must have a user name and password. 
+		
+		-Nearly all social media websites are blocked. Not really a con, but something you might want to know. You won't be browsing facebook at work!
+		
+		-LOTS of meetings. Sure, the meetings aren't in person, they're over Webex, but you will have a LOT of them.
+		
+		-Some "know-it-all" ego-driven coworkers, especially on the tech side. But this is typical of IT in general. I've witnessed this at every org in which I've worked.
+
+
+	Summary: 
+		Very heads-down
+
+
+Review 3:
+	Job Title: Senior Project Manager
+	Location: Minneapolis, MN
+	Review Date: 2014-12-26T11:11:43.117
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Definitely the big kid on the block - which has pros and cons. Rapid growth through M&A in the last decade. Economies of scale are offset by integration challenges. Still - tons of opportunity here.
+
+
+	Cons: 
+		Benefits are awesome as long as you don't need them. Worst benefit package of any major matrix org I've been employed by. It's a slap in the face because their salaries are on the low side on top of it. Retention is a constant problem and it's not hard to understand why.
+
+
+	Summary: 
+		In chaos lies job security...if you can deal with it.
+
+
+Review 4:
+	Job Title: Business Process Analyst
+	Location: Columbia, MD
+	Review Date: 2024-04-02T11:54:44.247
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Over the past 5+ years, I’ve never had issues with leadership. My current manager is very understanding and has been very supportive in helping me grow. I got a promotion just after 1 year of joining his team. As long as work is done, he’s not worried about us leaving here and there to pickup kids from school, appointments, etc. We just have to block out the times in the calendar. (I work from home)
+
+
+	Cons: 
+		I noticed that incentives, bonuses, raises, etc have not been what they used to be. We did really well this year, exceeding the amount of members we thought we’d bring in. However, it has been hard to get new hire approvals and I was not happy about my raise this year as well as my promotion salary. I’ve been hearing the same from others in and outside my team/department.
+
+
+	Summary: 
+		Overall ok but not sure about pay
+
+
+Review 5:
+	Job Title: Clinical Administrative Coordinator
+	Location: Austin, TX
+	Review Date: 2024-04-04T21:20:09.617
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		The company attempted to stay connected with employees during and after the pandemic.
+
+
+	Cons: 
+		I worked for almost 8 years in this company and I had the opportunity to switch roles internally, which was a nightmare itself with talent acquisition. I tried to switch roles after I was placed in a new role, with a completely different department and rules and I did not ask to be moved, and I was advised I was unable to apply internally during work hours. The new position I did not ask to work at was taking away my holidays and Monday through Friday shift. I now had to work 1 Sunday a month, for the same pay and holidays were mandatory.
+
+
+	Summary: 
+		Used to be a great place to work
+
+
+Review 6:
+	Job Title: Sr.  Clincal Administrative Coordinator 
+	Location: Lake Charles, LA
+	Review Date: 2024-04-14T18:22:00.260
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Coworkers are great, helpful and supportive
+
+
+	Cons: 
+		Management doesn’t care mostly just about care about employees just numbers. They had more changes and jobs aids weekly almost 35 changes in 6 months and were immediate without notice and implemented within 24 hr
+
+
+	Summary: 
+		Call center
+
+
+Review 7:
+	Job Title: Scheduling Coordinator
+	Location: None
+	Review Date: 2024-03-01T04:21:07.233
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Great team leader and coworkers.
+
+
+	Cons: 
+		You are worked to the bone. You have 8 minutes average a month to use the bathroom, if you go over you get put on a PIP! i now have had urinary issues since starting this job. then there’s back to back to back calls and your after call work should be less than a minute . VERY strange policies and scripting..When i was hired i was told i would be scheduling appointments for members who wanted house call visits, unfortunately found out it was cold calling members. oh and if they don’t want the visit? you must defend why they should have this visit! people get called 2-3x a week who do not want to participate.
+
+
+	Summary: 
+		Do not work here if you have a bladder
+
+
+Review 8:
+	Job Title: Service Escalations Account Manager
+	Location: None
+	Review Date: 2024-03-25T10:49:02.230
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Some decent benefits such as the one flexible holiday per year. 
+		Remote work with company provided internet as long as their VPN actually works
+
+
+	Cons: 
+		Ignorant distasteful supervisors will find a way to fire you if they don't like you. 
+		Training is laughable and you are penalized if you aren't able to figure everything immediately.
+		Fmla is a joke
+		If you want a supervisor position you have to have a degree in supterfuge and lying.
+
+
+	Summary: 
+		Be on your p's and q's manament will create reasons to fire you
+
+
+Review 9:
+	Job Title: Nurse Practitioner
+	Location: Florida, NY
+	Review Date: 2024-04-12T07:34:49.987
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good clinical support, good coworkers
+
+
+	Cons: 
+		When I did a lateral transfer my salary was cut by 25k. Company refused to raise it at all. In general salary is not raised to reflect inflation, experience, years in the company. It could be good up front but after few years you fall behind people with similar experiences
+
+
+	Summary: 
+		Salary
+
+
+Review 10:
+	Job Title: Associate Project Manager
+	Location: Cambridge, MA
+	Review Date: 2024-04-17T15:30:34.890
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Work life balance, lots of different groups to work in
+
+
+	Cons: 
+		Not a lot of room for growth due to the large size of the company
+
+
+	Summary: 
+		Good place to work
+
+
+Review 11:
+	Job Title: Resolution Specialist
+	Location: Richardson, TX
+	Review Date: 2024-04-17T18:37:13.120
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		It’s decent money, easy enough to get hired.
+
+
+	Cons: 
+		Benefits suck
+		Local management is a hit or miss.
+
+
+	Summary: 
+		Decent money, but just a job
+
+
+Review 12:
+	Job Title: Sr Technical Manager
+	Location: Minnetonka, MN
+	Review Date: 2024-04-16T18:00:41.373
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Large organization with options to move around if you are a go getter.
+
+
+	Cons: 
+		Poor interview structure, non-organized onboarding
+
+
+	Summary: 
+		Good place for growth if you go above and beyond
+
+
+Review 13:
+	Job Title: Lead Project Manager
+	Location: None
+	Review Date: 2024-04-02T17:07:14.477
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Many positions have hybrid work arrangements
+
+
+	Cons: 
+		I qualify for 15% annual incentive bonus, but for the past 2 years I have received $0. So, don't consider bonus for consideration of overall pay. Plus, many employees this year got 0% pay increase this year even when told they were performing as expected.
+
+
+	Summary: 
+		No pay increase for 2 years
+
+
+Review 14:
+	Job Title: Claims Representative
+	Location: California City, CA
+	Review Date: 2024-02-23T21:40:24.900
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		They have performance based bonuses. In the claims dept it averages to $300 monthly if you meet your metrics.
+
+
+	Cons: 
+		Health insurance costs are extremely high even though we work for the company. Pay raises are abysmal. Within my dept, they typically range from 1%-5% but expect 3% or under. My manager has told me in my annual review that he reserves 4-5% for the SME's. I've been with this company for 2 years and have exceeded my metrics the entire time. Always volunteer for overtime, have taken on extra responsibilities and cross training and I have several Bravo awards. For the past few months I have been applying to other positions within the company but have gotten 0 responses. I haven't even been able to receive an invitation for an interview. It makes it very difficult to want to stay in a company that pays so little and doesn't allow it's current employees to grow.
+
+
+	Summary: 
+		Huge company but difficult to grow
+
+
+Review 15:
+	Job Title: Resolution Specialist
+	Location: None
+	Review Date: 2024-02-19T11:01:19.997
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		In-depth developmental application focused on self-growth that encourages SUP/Manager involvement and engagement
+		Pay is above average for entry-level
+		KPI are easy to hit.
+		Company hosts roadshows and other engagement activities
+
+
+	Cons: 
+		SUPs/Managers don't use the tools they are given or trained on to help team members.
+		Lack of positive culture: even if you exceed expectations, you will receive monthly coaching for meetings instead of exceeding on a non-KPI metric.
+		Not allowed to watch or participate in company engagement activities. 
+		If you go to HR and bring a case, your SUP/Manager can ignore HR
+
+
+	Summary: 
+		Some departments are great! Some are....
+
+
+Review 16:
+	Job Title: HSS clinical coordinator RN
+	Location: Omaha, NE
+	Review Date: 2024-03-23T12:46:57.483
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		I really enjoy working from home. There are constant changes within UHC, but I still work from home and that is what I have to remind myself every day.
+
+
+	Cons: 
+		Pretty flexible. PTO is generally approved as long as it's requested 24 hours in advance, which is huge coming from the hospital environment. Decent PTO accrual as well, I started off with earning 7.something hours every 2 weeks.
+
+
+	Summary: 
+		Great work from home nursing job
+
+
+Review 17:
+	Job Title: Collections Representative
+	Location: Minnetonka, MN
+	Review Date: 2024-04-17T09:50:50.973
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Low call volume, decent pay for job
+
+
+	Cons: 
+		Metrics and quality, angry members
+
+
+	Summary: 
+		Okay
+
+
+Review 18:
+	Job Title: Scheduling Coordinator
+	Location: None
+	Review Date: 2023-12-25T18:48:03.633
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Really only thing is work from home. Benefits are ok but not great in my opinion.
+
+
+	Cons: 
+		The workload and call volume you need to keep up with for the amount of pay you receive is not worth it! The system is based off numbers of appointments being scheduled/completed but yet majority of the customers think we are a scam. So with that we get yelled at, cussed out on a daily basis. You get QA and graded for calls but yet can’t play back the call to listen to the mistake! No work life balance you get 30sec or less between a call, not even enough time to drink water! This dept runs their staff down! When I was being hired for this position I literally thought I be just scheduling appts, but I have to sale the appointment. I absolutely hate if a member tells me there not interested that I have to come back in try to change their mind! I also get a lot of complaints from members that we call them too much and it’s aggravating. Not worth the stress, and no matter how good you are you have to wait a whole year to get promoted or transfer to a new position.
+
+
+	Summary: 
+		HouseCalls
+
+
+Review 19:
+	Job Title: Accountant
+	Location: Minneapolis, MN
+	Review Date: 2024-04-05T08:11:47.440
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Management is very helpful with recommendations for other positions.
+		Alot of Positions are remote.
+
+
+	Cons: 
+		You have to buy company stock at a 10% discount.
+		Raises are less than 2%.
+		On boarding is a stressful process in every department, but customer service.
+		They are experiences lay offs..
+
+
+	Summary: 
+		United Health Experince 
+
+
+Review 20:
+	Job Title: Utilization Review Nurse
+	Location: None
+	Review Date: 2024-04-12T06:49:06.710
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		decent pay
+		work from home
+
+
+	Cons: 
+		alot of favoritism with how many cases are assigned to who and when.
+		Work weekends
+		Speaking to HR concerning manAgement is a waste of time
+
+
+	Summary: 
+		UR Review
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

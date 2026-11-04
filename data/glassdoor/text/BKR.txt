@@ -1,0 +1,633 @@
+
+Baker Hughes is a Oil and Gas Equipment, Services company based in 77073 Houston, Texas. 
+The company has 55,000 employees and has a revenue of $21,156 according to Fortune 500.
+The company is valued at $29,386 and has a profit of -$601. The CEO of the company is Lorenzo Simonelli.
+
+The Company has the following ratings: 
+Average ratings for Baker Hughes:
+Business Outlook: 0.65
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 343 
+	2: 495 
+	3: 1073 
+	4: 1073 
+	5: 866 
+
+CEO: 0.8
+
+Compensation and Benefits: 3.8
+Distribution: 
+	1: 123 
+	2: 298 
+	3: 1019 
+	4: 1420 
+	5: 976 
+
+Culture and Values: 3.9
+Distribution: 
+	1: 309 
+	2: 390 
+	3: 795 
+	4: 1118 
+	5: 1207 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 153 
+	2: 159 
+	3: 452 
+	4: 745 
+	5: 1088 
+
+Overall: 3.9
+Distribution: 
+	1: 237 
+	2: 353 
+	3: 1060 
+	4: 1676 
+	5: 1323 
+
+Senior Management: 3.4
+Distribution: 
+	1: 550 
+	2: 570 
+	3: 969 
+	4: 896 
+	5: 655 
+
+Work Life Balance: 3.7
+Distribution: 
+	1: 389 
+	2: 470 
+	3: 960 
+	4: 1013 
+	5: 987 
+
+Review Count: 4663
+
+Recommend to Friend: 
+	RECOMMEND: 2482
+	WONT RECOMMEND: 870
+
+
+
+
+The company has 5491 reviews on Glassdoor. The last review was posted on 2024-04-17T20:27:22.327. 
+There are 20 Reviews for Baker Hughes:
+
+Review 1:
+	Job Title: Software Engineer
+	Location: New Orleans, LA
+	Review Date: 2024-03-28T21:08:52.523
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Patient and attentive to entry-level employees. Willing to give gracious chances to new engineers. Great company culture and atmosphere. Remote position.
+
+
+	Cons: 
+		They don't truly match 401K unless you stay for a certain number of years. I left before 2 years and tried to pull out my 401K and they actually only gave me my contributions and not the company matching. I think this is normal for most companies.
+
+
+	Summary: 
+		Great company
+
+
+Review 2:
+	Job Title: Technology Specialist
+	Location: Houston, TX
+	Review Date: 2024-04-14T14:00:23.507
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Salary and benefits are good. Excellent co-workers.
+
+
+	Cons: 
+		You are only as good as right now. When they are done with you, they will send you out the door and never look back, and excellent performance or being a critical skills employee doesn't matter at all. In the end, you are a number in a spreadsheet and when your number is up, it's up. In addition, I've had some of the worst managers of my career. I had some good managers too, but the bad ones were awful and the worse they were, the more they tended to get promoted.
+
+
+	Summary: 
+		Mixed bag
+
+
+Review 3:
+	Job Title: Senior Engineer
+	Location: None
+	Review Date: 2024-02-14T15:22:24.237
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Good benefits, flexible work arrangements. Managers respected technical people and didn't micromanage. Most employees are high performers.
+
+
+	Cons: 
+		They have had layoffs it seems every year for the last decade. Nobody is safe other than executive level making the cuts. Constant restructuring &amp; rebranding from retiring the names of the legacy OFS divisions, one baker hughes, failed hallibirton merger, being acquired by GE, combining with GE O&amp;G, renaming to BHGE, to being sold again by GE, to new logos and another rebrand, now another restructure. There only focus seems to being acquired again and it be successful. 
+		
+		Latest round of layoffs came from yet another restructuring into 2 business segments. It came down from executive level what positions didn't fit the new org charts and to lay them off. Managers had no say even up to director level. Indiscriminate cuts, with day's notice, no plans to replace expertise or workload. 
+		
+		The company was already being ran very lean with no technical talent in the pipeline. Few people doing a lot of work. Sometimes only a single point of contact for entire products or services. I dont see a bright future for the company.
+
+
+	Summary: 
+		Company that's lost its way. Constant layoffs, no direction, seems to be hoping for acquisition.
+
+
+Review 4:
+	Job Title: Mechanical Design Engineer
+	Location: Houston, TX
+	Review Date: 2024-04-07T12:18:56.050
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Decent pay and benefits, job security in between layoffs, culture is supportive
+
+
+	Cons: 
+		Management was always unsophisticated: good people that just didn't have the skills they needed, but they could be effective at common sense type operations. Now that the GE style executive leadership has decided to milk cash from the business, middle management's lack of competence has become a bigger issue. They're unable to downsize and prioritize efficiently.
+
+
+	Summary: 
+		It's a paycheck
+
+
+Review 5:
+	Job Title: Group Engineering and Technology Manager
+	Location: Houston, TX
+	Review Date: 2024-03-11T08:32:40.777
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Baker Hughes corporate level, especially the CEO, sets a great example and a vision for the enrgy transition
+
+
+	Cons: 
+		After the acquisition by GE, and their subsequent departure, it has left a lot of legacy GE systems and behaviors and focusing on different goals. As such that there are a lot of product lines that are not aligned with the corporate vision and seems like many are livng in silos and you don't feel like Baker Hughes at all.
+
+
+	Summary: 
+		Disjointed at the Product level
+
+
+Review 6:
+	Job Title: Systems Administrator
+	Location: Minden, NV
+	Review Date: 2024-04-15T13:00:45.483
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		The company has the resources to service its network and technology infrastructure
+
+
+	Cons: 
+		The company is so massive, that roles can fall through the cracks and become hard to look for support.
+
+
+	Summary: 
+		Sys Admin with Baker Hughes - Massive Company
+
+
+Review 7:
+	Job Title: Mechanical Engineer
+	Location: Houston, TX
+	Review Date: 2024-04-12T14:41:38.830
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		The company culture was flexible, compensation was competitive, work was interesting and enjoyable.
+
+
+	Cons: 
+		Remote work led my team to feel a bit disjointed. I saw my boss once a week.
+
+
+	Summary: 
+		Great company with good compensation
+
+
+Review 8:
+	Job Title: None
+	Location: None
+	Review Date: 2024-02-10T20:56:23.680
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Good benefits and surprisingly progressive on policies like permissive leave
+
+
+	Cons: 
+		NOT innovative as a whole. Most functions working like it’s 10 years ago with old technology. They want to be an energy tech company but most leadership doesn’t understand basic tech to help administratively do our jobs well.
+		
+		Every all hands is scripted and full of toxic positivity. No consideration for the intelligence of employees who want and need more transparency. The most lackluster and uninvolved HR leadership, but thanks for the mental health moments..
+		
+		And yes layoffs. But the most lazy and short sighted. Absolutely great people being let go, some with decades of tenure. Baker Hughes’ brand is going to take a hit as it seems they can’t figure out how to responsibly shift business strategy.
+
+
+	Summary: 
+		Layoffs layoffs layoffs
+
+
+Review 9:
+	Job Title: Manager
+	Location: Houston, TX
+	Review Date: 2024-04-13T17:35:13.740
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Global company and geographic footprint
+
+
+	Cons: 
+		Promotions are limited; it’s about who you know rather than what you know
+
+
+	Summary: 
+		Work/Life Balance
+
+
+Review 10:
+	Job Title: Mechanical Engineer
+	Location: Houston, TX
+	Review Date: 2024-04-15T12:18:31.230
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Benefits are pretty great. Pay is ok, company match is good
+
+
+	Cons: 
+		None so far. Maybe the fact that they still use oracle.
+
+
+	Summary: 
+		Great benefits
+
+
+Review 11:
+	Job Title: Production Worker
+	Location: Billerica, MA
+	Review Date: 2024-04-04T12:45:46.123
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		They have the best team, everyone is so friendly and happy! No micromanagement from managers at the site. I will miss everyone!
+
+
+	Cons: 
+		The upper management should have find ways to save the business and not let people go that easy... so sad!
+
+
+	Summary: 
+		Best company that I worked for
+
+
+Review 12:
+	Job Title: Director
+	Location: Houston, TX
+	Review Date: 2024-04-14T08:23:19.270
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great people to work with.
+
+
+	Cons: 
+		Too many rif's with the oil cycle turns.
+
+
+	Summary: 
+		Too many RIF's
+
+
+Review 13:
+	Job Title: Project Manager
+	Location: Houston, TX
+	Review Date: 2024-04-12T03:14:43.607
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Great flexibility with work schedule.
+
+
+	Cons: 
+		Disconnected senior management that make decisions without fully understanding what the real issues are.
+
+
+	Summary: 
+		Unstable strategic direction
+
+
+Review 14:
+	Job Title: Sourcing
+	Location: Houston, TX
+	Review Date: 2024-03-28T09:56:36.827
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		People (minus management), benefits good
+
+
+	Cons: 
+		Top heavy poor management, impossible workload, not enough people to do all the work leading to long hours and non-existent work life balance. No direction, toxic work environment. They only want yes men and cheap labor now. They do not practice "core values".
+
+
+	Summary: 
+		Heading downhill fast
+
+
+Review 15:
+	Job Title: Sr. Internal Auditor
+	Location: Houston, TX
+	Review Date: 2024-04-10T15:13:19.170
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		relatively work-life balance for employees
+
+
+	Cons: 
+		stressful and continually receiving push for deadlines
+
+
+	Summary: 
+		Friendly Leadership
+
+
+Review 16:
+	Job Title: MWD Field Specialist
+	Location: Houston, TX
+	Review Date: 2024-04-10T08:33:14.810
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good management. Everyone is friendly and helpful
+
+
+	Cons: 
+		No opportunities to move up
+
+
+	Summary: 
+		Great overal
+
+
+Review 17:
+	Job Title: Sr. Mechanical Engineer
+	Location: None
+	Review Date: 2024-04-10T09:31:43.590
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Hr culture ensures good work environment
+
+
+	Cons: 
+		Administration over reaching to bog down projects
+
+
+	Summary: 
+		Good
+
+
+Review 18:
+	Job Title: Global Product Manager
+	Location: None
+	Review Date: 2024-04-05T10:35:47.257
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Training Work life balance Pay
+		
+		
+
+
+	Cons: 
+		Limited opportunity for advancement at upper middle leveled 
+		Overboard on some things like safety, etc
+
+
+	Summary: 
+		Good company to learn from
+
+
+Review 19:
+	Job Title: Eqipment Operator
+	Location: Oklahoma City, OK
+	Review Date: 2024-04-09T03:15:27.470
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Benefits are good 4k good
+
+
+	Cons: 
+		Hours and schedule are inconsistent
+
+
+	Summary: 
+		Salery
+
+
+Review 20:
+	Job Title: District Manager
+	Location: Midland, TX
+	Review Date: 2024-02-15T08:58:29.840
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Great culture within the regions and the people you work very much care about their customers.
+
+
+	Cons: 
+		VP level and up are very out of touch with how each branch of the company works and therefore make decisions that may be good for one branch but are very detrimental to others. Executive levels are not plugged in with their counterparts for customers and therefore business is lost frequently with national contracts in spite of customers' regional levels requesting Baker Hughes to remain their provider.
+
+
+	Summary: 
+		Great Culture But Too Much
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,633 @@
+
+Northern Trust is a Commercial Banks company based in 60603 Chicago, Illinois. 
+The company has 23,600 employees and has a revenue of $7,752 according to Fortune 500.
+The company is valued at $18,309 and has a profit of $1,336. The CEO of the company is Michael G. O'Grady.
+
+The Company has the following ratings: 
+Average ratings for Northern Trust:
+Business Outlook: 0.66
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 328 
+	2: 510 
+	3: 1146 
+	4: 1309 
+	5: 1015 
+
+CEO: 0.86
+
+Compensation and Benefits: 3.4
+Distribution: 
+	1: 363 
+	2: 675 
+	3: 1502 
+	4: 1138 
+	5: 626 
+
+Culture and Values: 3.9
+Distribution: 
+	1: 278 
+	2: 302 
+	3: 678 
+	4: 1214 
+	5: 1658 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 110 
+	2: 110 
+	3: 319 
+	4: 630 
+	5: 1154 
+
+Overall: 3.9
+Distribution: 
+	1: 279 
+	2: 387 
+	3: 1227 
+	4: 1871 
+	5: 1457 
+
+Senior Management: 3.5
+Distribution: 
+	1: 518 
+	2: 551 
+	3: 1129 
+	4: 1186 
+	5: 877 
+
+Work Life Balance: 3.7
+Distribution: 
+	1: 335 
+	2: 378 
+	3: 874 
+	4: 1305 
+	5: 1401 
+
+Review Count: 5235
+
+Recommend to Friend: 
+	RECOMMEND: 2779
+	WONT RECOMMEND: 887
+
+
+
+
+The company has 5600 reviews on Glassdoor. The last review was posted on 2024-04-18T01:51:04.280. 
+There are 20 Reviews for Northern Trust:
+
+Review 1:
+	Job Title: Bank Teller
+	Location: Los Angeles, CA
+	Review Date: 2024-03-07T16:26:25.540
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Graet best amazing so much fun
+
+
+	Cons: 
+		My eye balls are burning hot and dying
+
+
+	Summary: 
+		Hreat
+
+
+Review 2:
+	Job Title: None
+	Location: None
+	Review Date: 2024-01-30T07:18:00.707
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Nice work life balance. You'll never find a job that works long hours- unless you make it into the C-Suite.
+
+
+	Cons: 
+		For those fresh out of college, NT isn’t a bad launching pad for your career, offering a decent work-life balance with reasonable hours. However, don’t expect the traditional grind of a banking institution—NT leans more towards the culture of a tech company, favoring personal charisma over proven expertise in its hiring practices. If you’re young and have the right look, you’re more likely to be in favor. 
+		
+		Tenure at NT is commonplace, and while this implies a level of job security, it also points to a stagnation of industry-relevant knowledge and talent. These long-term employees maintain their positions not through current expertise but through the inertia of NT’s workplace culture, which seems resistant to turnover. They're unable to find work elsewhere. 
+		
+		The hiring process at NT explicitly aims for diversity, with sex and race being decisive factors, often to the detriment of Caucasian candidates. This isn’t speculation; it’s a fact I’ve verified through conversations with those who still work there. This policy, while common knowledge internally( among managers only) is delicate and potentially contentious if discussed beyond the company’s walls.
+
+
+	Summary: 
+		It's "OK." Pretty easy going. 
+
+
+Review 3:
+	Job Title: Consultant
+	Location: Chicago, IL
+	Review Date: 2024-04-15T12:28:18.143
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Work-life balance is really great when comparing to similar companies
+
+
+	Cons: 
+		Advancement/promotions can be difficult but possible
+
+
+	Summary: 
+		Great company
+
+
+Review 4:
+	Job Title: Sr Data Scientist
+	Location: Chicago, IL
+	Review Date: 2024-04-17T10:54:24.593
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		work life balance is really good
+
+
+	Cons: 
+		no growth opportunities
+		gender biased
+
+
+	Summary: 
+		Good Company with work life balance but not so good culture
+
+
+Review 5:
+	Job Title: Consultant
+	Location: Chicago, IL
+	Review Date: 2024-04-12T22:21:30.360
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Solid job, requires attention to detail. Very diverse place to work at. They invest in you and generally promote from within.
+
+
+	Cons: 
+		They tend not to fire people, so you may have to carry other peoples weight
+
+
+	Summary: 
+		Investor Services
+
+
+Review 6:
+	Job Title: System Analyst
+	Location: Atlanta, GA
+	Review Date: 2024-03-18T18:35:02.570
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		I had the privilege of working with Northern Trust the banking industry, and I must say it was an enriching experience. From the moment I stepped through the doors, I was greeted with warmth and professionalism, setting the tone for what would be an incredible journey.
+
+
+	Cons: 
+		One of the main challenges I encountered during my time at Northern Trust was a lack of effective communication. Important information often seemed to get lost in translation between different departments or levels of management, leading to confusion and inefficiencies. This communication gap sometimes resulted in delays in decision-making and implementation of projects, which could have been avoided with clearer communication channels.
+
+
+	Summary: 
+		Back to school
+
+
+Review 7:
+	Job Title: Alternative Investment Senior analyst
+	Location: Tempe, AZ
+	Review Date: 2024-04-12T10:05:05.773
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good benefits, secure and stable employment
+
+
+	Cons: 
+		Pay is hidden and promotions are done without warning or interviews
+
+
+	Summary: 
+		Nepotism but Good Benefits
+
+
+Review 8:
+	Job Title: Team Lead
+	Location: Chicago, IL
+	Review Date: 2024-04-16T09:41:16.793
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Opportunities for career growth, Great Culture
+
+
+	Cons: 
+		Mostly siloed work structure and lack of bigger view
+
+
+	Summary: 
+		Procurement - Strategy &amp; Analytics
+
+
+Review 9:
+	Job Title: Consultant
+	Location: Chicago, IL
+	Review Date: 2024-04-16T12:20:31.243
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		They provide a good amount of PTO.
+
+
+	Cons: 
+		Bonuses are not attractive and raises increase only about 2-5%.
+
+
+	Summary: 
+		Not fairly paid
+
+
+Review 10:
+	Job Title: Analyst
+	Location: Chicago, IL
+	Review Date: 2024-04-16T13:42:57.770
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Remote work is nice to have
+
+
+	Cons: 
+		going hybrid so can no longer work there
+
+
+	Summary: 
+		Good Company
+
+
+Review 11:
+	Job Title: Senior Account Manager
+	Location: Chicago, IL
+	Review Date: 2024-04-15T13:22:02.297
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		work on a great team
+
+
+	Cons: 
+		low salary, low morale accross the board
+
+
+	Summary: 
+		Culture Improvement
+
+
+Review 12:
+	Job Title: Hedge Fund Analyst
+	Location: Chicago, IL
+	Review Date: 2024-04-05T19:15:37.513
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		The chairs are alright I guess- 😂
+
+
+	Cons: 
+		No raise, no bonus, terrible management. I started almost four years. I got a $200 bonus once, after taxes like $160. Impossible to live in the city with such a low salary.
+
+
+	Summary: 
+		Not worth the trouble
+
+
+Review 13:
+	Job Title: Wealth Strategist Sales Associate
+	Location: Miami, FL
+	Review Date: 2024-04-12T18:30:53.660
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great work environment. A lot to learn.
+
+
+	Cons: 
+		No cons as of yet
+
+
+	Summary: 
+		Wealth Strategist Sales Associate Salary
+
+
+Review 14:
+	Job Title: Vice President
+	Location: Chicago, IL
+	Review Date: 2024-04-02T09:10:44.633
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great job security and amazing work life balance
+
+
+	Cons: 
+		NT is one of the many company’s that is going horribly woke and compromising the quality and integrity of their employees and service.
+
+
+	Summary: 
+		Great but going better woke
+
+
+Review 15:
+	Job Title: Trader
+	Location: None
+	Review Date: 2024-03-26T16:23:43.610
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		People are very friendly regardless if they are on your team or not. Northern provides a welcoming friendly environment to all partners. 
+		
+		Northern supports further education whether if that is a masters program or certificates all are highly encouraged
+
+
+	Cons: 
+		Low compensation compared to industry peers.
+		Technology is old but the tech help desk are very easy to talk to
+
+
+	Summary: 
+		Great company reputation but with downsides
+
+
+Review 16:
+	Job Title: Business Process Manager
+	Location: Chicago, IL
+	Review Date: 2024-04-03T10:57:15.520
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Pay and benefits are good. Inclusive and diverse. Great mentorship programs and networking programs.
+
+
+	Cons: 
+		Would like more support from management for career growth. 
+		
+		No formal training, often required to figure things out on your own.
+
+
+	Summary: 
+		Nice
+
+
+Review 17:
+	Job Title: Sr. Account Manager
+	Location: Los Angeles, CA
+	Review Date: 2024-04-10T15:39:06.593
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great Culture
+		Work Life Balance
+
+
+	Cons: 
+		Pay progression and job title/role progression
+
+
+	Summary: 
+		Great culture
+
+
+Review 18:
+	Job Title: Analyst
+	Location: Chicago, IL
+	Review Date: 2024-04-08T10:38:44.123
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Good work life balance at NT
+
+
+	Cons: 
+		I don’t have any at this stage
+
+
+	Summary: 
+		Good
+
+
+Review 19:
+	Job Title: Senior Analyst
+	Location: Chicago, IL
+	Review Date: 2024-04-03T12:30:11.127
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Good culture, decent amount of PTO, the pay is average
+
+
+	Cons: 
+		Pay could be a little more competitive, busy season can be overwhelming
+
+
+	Summary: 
+		A good stepping stone company
+
+
+Review 20:
+	Job Title: Sr. Network Engineer
+	Location: None
+	Review Date: 2023-10-30T06:15:49.667
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		The company has many technology stacks to explore, I was in charge of delivery of many of them from the technical standpoint. We survived covid excelently and was given a round mound of responsibility rebound as a new department manager. After 2 years he asked me what I did, after 1000s of unanswered emails with questions like do we go ahead with this project as outlined in 100 page power point. YES? or NO? Delivering 100% uptime is possible for an application but not rewarded by anything but more work. 2AM swats are full of CIOs and managers who built problems 20 years ago defending their poor choices. The appearance of a review process, and the appearance of hiring from within in the company that was not done.
+
+
+	Cons: 
+		3 out of 8 years Bonus were near nothing, 2 years they were 8+ months late and had no performance component (COL). Outside hires in without promoting from within cause chaos. It was a joke that you had to leave for 4 years to get promoted to a band higher. Your workload had to disappear before any sort of horizontal reassignment. Change Management in IT is a smoking dumpster fire of wasted quarters. Upgrades not getting done.
+
+
+	Summary: 
+		This Company Cannot Promote From Within
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

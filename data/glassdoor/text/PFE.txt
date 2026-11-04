@@ -1,0 +1,660 @@
+
+Pfizer is a Pharmaceuticals company based in 10001 New York, New York. 
+The company has 83,000 employees and has a revenue of $100,330 according to Fortune 500.
+The company is valued at $230,292 and has a profit of $31,372. The CEO of the company is Albert Bourla.
+
+The Company has the following ratings: 
+Average ratings for Pfizer:
+Business Outlook: 0.61
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 494 
+	2: 782 
+	3: 1754 
+	4: 1821 
+	5: 1617 
+
+CEO: 0.59
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 154 
+	2: 391 
+	3: 1276 
+	4: 2410 
+	5: 2213 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 421 
+	2: 553 
+	3: 1137 
+	4: 1643 
+	5: 2179 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 136 
+	2: 169 
+	3: 488 
+	4: 857 
+	5: 1541 
+
+Overall: 3.9
+Distribution: 
+	1: 293 
+	2: 571 
+	3: 1584 
+	4: 2791 
+	5: 2754 
+
+Senior Management: 3.4
+Distribution: 
+	1: 744 
+	2: 833 
+	3: 1636 
+	4: 1686 
+	5: 1370 
+
+Work Life Balance: 3.7
+Distribution: 
+	1: 404 
+	2: 593 
+	3: 1452 
+	4: 1987 
+	5: 2003 
+
+Review Count: 8016
+
+Recommend to Friend: 
+	RECOMMEND: 4318
+	WONT RECOMMEND: 1287
+
+
+
+
+The company has 9769 reviews on Glassdoor. The last review was posted on 2024-04-17T21:52:59.627. 
+There are 20 Reviews for Pfizer:
+
+Review 1:
+	Job Title: Senior Clinical Research Manager
+	Location: Sydney
+	Review Date: 2024-02-06T01:12:43.223
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Leadership Role: Enjoying a pivotal position in guiding clinical research teams and influencing the direction of significant medical studies.
+		
+		Strategic Impact: Engaging in strategic planning, contributing to the success of research projects, and achieving organizational objectives.
+		
+		Diverse Responsibilities: Managing various aspects of clinical trials, from protocol development to regulatory compliance, providing a well-rounded experience.
+		
+		Professional Fulfillment: Contributing to advancements in healthcare, improving patient outcomes, and finding personal satisfaction in the meaningful impact of clinical research.
+
+
+	Cons: 
+		Intense Workload: Managing complex trials may lead to long hours and high-pressure situations, potentially impacting work-life balance.
+		
+		Regulatory Challenges: Navigating stringent regulations and compliance issues can be demanding and stressful.
+		
+		Resource Constraints: Dealing with budget limitations and resource constraints may pose challenges in executing comprehensive research programs.
+		
+		Project Uncertainties: Facing unexpected obstacles and uncertainties in clinical trials, which can be emotionally and professionally taxing.
+
+
+	Summary: 
+		Career Progressing Role
+
+
+Review 2:
+	Job Title: District Manager
+	Location: Columbia, SC
+	Review Date: 2024-04-16T11:50:53.837
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Flex Time. Team Building. Goal Attainment. Customer Relationships.
+
+
+	Cons: 
+		Some travel depending on how large the territory.
+
+
+	Summary: 
+		Like owning your own business
+
+
+Review 3:
+	Job Title: Marketing Assistant
+	Location: None
+	Review Date: 2024-04-15T11:54:05.743
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		 spent [X amount of time, e.g., "two years"] at Pfizer, and it was an enriching journey from start to finish. From the moment I joined, I was impressed by the company's commitment to innovation, quality, and making a positive impact on global health.
+		
+		One of the standout aspects of working at Pfizer is the collaborative environment. Colleagues were always willing to lend a helping hand, share their expertise, and work together towards common goals. This fostered a sense of camaraderie that made coming to work each day enjoyable.
+		
+		The opportunities for growth and development at Pfizer are unparalleled. The company invests in its employees through various training programs, mentorship initiatives, and career advancement opportunities. I felt supported in my professional development journey and was able to take on new challenges that helped me grow both personally and technically.
+		
+		Pfizer's dedication to diversity and inclusion is evident in its workforce and company culture. I appreciated the emphasis on creating a welcoming and inclusive environment where everyone's contributions are valued and respected.
+		
+		The work itself was both challenging and rewarding. I had the opportunity to contribute to projects that have the potential to make a significant difference in people's lives. Knowing that my work directly impacted patients and healthcare outcomes gave me a strong sense of purpose and fulfillment.
+		
+		Of course, like any company, there were challenges along the way. However, I found that Pfizer is proactive in addressing issues and continuously strives to improve processes and workflows.
+		
+		Overall, my time at Pfizer was incredibly valuable. I leave with fond memories, new skills, and a deep appreciation for the company's mission and culture. I would highly recommend Pfizer to anyone looking for a rewarding career in the pharmaceutical industry.
+		
+		
+
+
+	Cons: 
+		In such a large organization, communication can sometimes be a challenge. Important information may not always cascade down effectively, leading to misunderstandings or delays in projects.
+
+
+	Summary: 
+		A Fulfilling Experience at Pfizer
+
+
+Review 4:
+	Job Title: Sr. Scientist
+	Location: None
+	Review Date: 2024-03-25T08:37:59.470
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		- Good work life balance unless you are in the thick of a project
+		- Stable(ish) job, except for when there are layoffs because the people in-charge messed up
+		- Good commute as going away from the city
+		- Good amount vested in your retirement if you stay past 3 year mark
+
+
+	Cons: 
+		- Absolutely ZERO investment in work culture. Even holiday events are bring your own food, forget about holiday parties
+		- People have been working here for 20+ years, so very nepo culture as in some get promoted twice in two years and others are holding the same position for 10+ years even when you can see everyone works hard
+		- Compensation does not match what other companies around here pay, especially since Cambridge is so close. Even their own site in Cambridge has way better benefits.
+
+
+	Summary: 
+		Stable(ish) job with good work-life balance for the most part
+
+
+Review 5:
+	Job Title: Senior Manager
+	Location: Boston, MA
+	Review Date: 2024-03-04T08:55:40.593
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		I have had a great experience working for Pfizer. I enjoy working with majority of people who are passionate about their job. Many opportunities to learn if you have the courage to step outside your comfort zone. Some leaders are good advocates for their teams.
+
+
+	Cons: 
+		there are some people who don’t pull in their weight and some end up picking up their slack. Majority of the company is truly focused on patients, but there are some colleagues who are more interested in their career and those who truly care about the job are left with carrying the weight. Extroverts know how to talk their way up the ladder and take credit from the introverts who do all the thinking and put in the work.
+
+
+	Summary: 
+		Great Company to work for, but there is always room for improvement
+
+
+Review 6:
+	Job Title: Director, Medical Affairs
+	Location: New York, NY
+	Review Date: 2024-04-14T03:55:29.233
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 0
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		I worked with the best colleagues and teams. People are well intentioned, talented and collaborative
+
+
+	Cons: 
+		After experiencing the highest of highs during the initial years of the Covid vaccine, it has been the lowest of lows since 4Q 2023. Low morale, cuts all around, and strict in office attendance.
+
+
+	Summary: 
+		Great people, poor executive decisions
+
+
+Review 7:
+	Job Title: Senior Associate Scientist
+	Location: Pearl River, NY
+	Review Date: 2024-04-15T14:24:50.280
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Nothing that you cannot get somewhere else which is why people jump from this company to others.
+
+
+	Cons: 
+		The corporate political nonsense dominates more than anything else with toxic work life as a byproduct. They dangle promotions over your head &amp; have you work unreasonable deadlines/stress then make you feel you have to cure cancer &amp; devote your life just to grow in the slightest. Very depressing &amp; company loyalty/seniority is not valued at all.
+
+
+	Summary: 
+		Very political, no growth for merit nor hardwork
+
+
+Review 8:
+	Job Title: Scientist
+	Location: None
+	Review Date: 2024-04-01T12:47:10.743
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Unlimited sick days, good PTO, 10 caretaker days
+
+
+	Cons: 
+		Everyone knows we laid off 40% of our staff. This was because of a gross overestimate and miscaculation of incoming revenue from Paxalovid. What they told us was the work you did in 2023 was unpresidented and amazing, but now we have to lay you off. Management is a joke, everyone is a suck-up, Ph.D's are valued over experience. Salary is below industry standard. STAY AWAY.
+
+
+	Summary: 
+		The CEO allowed something terrible to happen and didn't resign
+
+
+Review 9:
+	Job Title: Medical Science Liaison (MSL)
+	Location: Salt Lake City, UT
+	Review Date: 2024-04-17T07:54:38.557
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 4
+
+	Pros: 
+		Excellent 401K match, job security, good benefits,
+
+
+	Cons: 
+		Large organization so change is slow. I don’t particularly feel valued by the company, lack of planning also makes it harder to do my job
+
+
+	Summary: 
+		Decent
+
+
+Review 10:
+	Job Title: Quality Manager
+	Location: New York, NY
+	Review Date: 2024-04-17T19:07:42.147
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Decent benefits, holidays, vacation, nice people
+
+
+	Cons: 
+		Return to office mandates, stock has been way down, always in fear of layoffs
+
+
+	Summary: 
+		Quality Manager
+
+
+Review 11:
+	Job Title: None
+	Location: La Jolla, CA
+	Review Date: 2024-03-20T15:41:27.210
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		1. If you like the big pharma atmosphere, this is one of the few gigs in town
+		2. There are talented individuals here and across the company who have invested years into developing their craft (pension used to help retain this talent)
+
+
+	Cons: 
+		1. Constantly trying to adapt to organizational change, wondering when your time is up
+		2. Governance and process stifles creativity and zaps energy
+		3. Morale was low and is lower now since legacy Seagen colleagues are treated preferentially
+
+
+	Summary: 
+		Not on a good course
+
+
+Review 12:
+	Job Title: Senior Director Market Access
+	Location: New York, NY
+	Review Date: 2024-04-15T17:45:13.287
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Very smart and driven colleagues
+
+
+	Cons: 
+		Constant reorganization - changes take place before we have a chance to settle into a new structure and demonstrate its benefit.
+
+
+	Summary: 
+		Usual large org challenges
+
+
+Review 13:
+	Job Title: Director
+	Location: New York, NY
+	Review Date: 2024-04-17T21:52:59.627
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 1
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		great people yo fo project work eith
+
+
+	Cons: 
+		must follow chain of command
+
+
+	Summary: 
+		good people 
+
+
+Review 14:
+	Job Title: Maintenance Technician III
+	Location: Bothell, WA
+	Review Date: 2024-04-17T15:39:07.700
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Free snacks and fruits provided
+
+
+	Cons: 
+		Pay, Benefits, Culture, lack of training
+
+
+	Summary: 
+		Eh
+
+
+Review 15:
+	Job Title: Associate Director
+	Location: New York, NY
+	Review Date: 2024-04-14T07:00:50.820
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Interesting colleagues and opportunities for interactions
+
+
+	Cons: 
+		Layoffs and reorganizations happen a lot
+
+
+	Summary: 
+		Good while it lasted
+
+
+Review 16:
+	Job Title: snr, associate
+	Location: New York, NY
+	Review Date: 2024-04-15T14:05:51.050
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good welfARE for employees and contractors
+
+
+	Cons: 
+		Growth path is for employees to plot and navigate
+
+
+	Summary: 
+		ww dfs
+
+
+Review 17:
+	Job Title: Senior Data Scientist Manager
+	Location: Los Angeles, CA
+	Review Date: 2024-04-14T06:11:56.743
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Highly collaborative. New applications with commercial healthcare data. Geographic ML applications.
+
+
+	Cons: 
+		Political environment, several nocode frameworks, team needs more training.
+
+
+	Summary: 
+		Great flexibility
+
+
+Review 18:
+	Job Title: Associate Statistical Programmer
+	Location: Peapack, NJ
+	Review Date: 2024-04-13T00:09:30.433
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Get involved in some complex programming challenges that will help sharpen those SAS, R and Python skills.
+
+
+	Cons: 
+		I encountered very few such cases.
+
+
+	Summary: 
+		Great Place to work and grow.
+
+
+Review 19:
+	Job Title: None
+	Location: Morrisville, NC
+	Review Date: 2024-04-13T15:01:44.550
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		People are all great to work with and are always helpful.
+
+
+	Cons: 
+		Lots of turnover and people feel unsettled.
+
+
+	Summary: 
+		Started out awesome, but faded to quickly.
+
+
+Review 20:
+	Job Title: Professional Healthcare Representative II
+	Location: Savannah, GA
+	Review Date: 2024-04-15T05:31:31.100
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great benefits
+		Great managers
+		Great pay
+
+
+	Cons: 
+		No mobility
+		Inconsistency in retention
+		Layoffs are consent
+
+
+	Summary: 
+		Great Company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

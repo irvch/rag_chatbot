@@ -1,0 +1,627 @@
+
+Halliburton is a Oil and Gas Equipment, Services company based in 77032 Houston, Texas. 
+The company has 45,000 employees and has a revenue of $20,297 according to Fortune 500.
+The company is valued at $28,605 and has a profit of $1,572. The CEO of the company is Jeffrey A. Miller.
+
+The Company has the following ratings: 
+Average ratings for Halliburton:
+Business Outlook: 0.65
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 440 
+	2: 687 
+	3: 1451 
+	4: 1462 
+	5: 1003 
+
+CEO: 0.81
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 247 
+	2: 560 
+	3: 1427 
+	4: 1658 
+	5: 1150 
+
+Culture and Values: 3.5
+Distribution: 
+	1: 587 
+	2: 699 
+	3: 1291 
+	4: 1262 
+	5: 973 
+
+Diversity and Inclusion: 3.8
+Distribution: 
+	1: 143 
+	2: 159 
+	3: 415 
+	4: 515 
+	5: 573 
+
+Overall: 3.8
+Distribution: 
+	1: 393 
+	2: 611 
+	3: 1759 
+	4: 2042 
+	5: 1199 
+
+Senior Management: 3.3
+Distribution: 
+	1: 875 
+	2: 913 
+	3: 1405 
+	4: 1024 
+	5: 611 
+
+Work Life Balance: 3.2
+Distribution: 
+	1: 945 
+	2: 1024 
+	3: 1382 
+	4: 994 
+	5: 672 
+
+Review Count: 6012
+
+Recommend to Friend: 
+	RECOMMEND: 2992
+	WONT RECOMMEND: 1410
+
+
+
+
+The company has 6669 reviews on Glassdoor. The last review was posted on 2024-04-17T23:28:06.577. 
+There are 20 Reviews for Halliburton:
+
+Review 1:
+	Job Title: Purchasing Specialist
+	Location: Conroe, TX
+	Review Date: 2024-04-13T06:55:49.050
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Worked for 20 years. Not micromanager. Best place to work, excellent coworkers. Cross training. Used my diverse skills and qualifications will make me an asset to the company.
+
+
+	Cons: 
+		Laided off after 20 yrs.
+
+
+	Summary: 
+		Best Place to Work
+
+
+Review 2:
+	Job Title: Field Engineer
+	Location: Odessa, TX
+	Review Date: 2024-04-17T06:47:09.017
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		The pay was ok upfront, but not great if layoffs happen before engineering schools.
+
+
+	Cons: 
+		I was hired, was there 2 months for training, and was laid off before the first engineering school.
+
+
+	Summary: 
+		Be Careful about Downturns
+
+
+Review 3:
+	Job Title: CNC Machine Operator
+	Location: Alvarado, TX
+	Review Date: 2024-04-17T23:28:06.577
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good benefits, employees stock purchase program
+
+
+	Cons: 
+		Straight production, lower pay bracket
+
+
+	Summary: 
+		Good people,  bad management 
+
+
+Review 4:
+	Job Title: Lab Technician
+	Location: Victoria, TX
+	Review Date: 2024-04-03T15:53:27.040
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Pay was ok, mostly bc of the overtime
+
+
+	Cons: 
+		No room to grow, no positions to move to, total boys club
+
+
+	Summary: 
+		No room for growth
+
+
+Review 5:
+	Job Title: Tool Technician
+	Location: New Iberia, LA
+	Review Date: 2024-04-11T20:38:30.893
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Good people felt like family
+
+
+	Cons: 
+		Low pay, favoritism, hard to move up unless you know someone or family
+
+
+	Summary: 
+		Good place to work but low pay
+
+
+Review 6:
+	Job Title: Service Manager
+	Location: Texas City, TX
+	Review Date: 2024-04-12T05:49:27.970
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Very good company to work with
+
+
+	Cons: 
+		Halliburton has been changed; not a school company anymore.
+
+
+	Summary: 
+		Service Manager
+
+
+Review 7:
+	Job Title: Diesel Technician II
+	Location: Odessa, TX
+	Review Date: 2024-04-08T12:36:43.073
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good company
+		Good benefits
+		Good pay
+		Good hours
+
+
+	Cons: 
+		Layoffs happen no one is able to be except from it
+
+
+	Summary: 
+		Good company
+
+
+Review 8:
+	Job Title: Field Service Representative III
+	Location: Odessa, TX
+	Review Date: 2024-03-18T19:27:35.170
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Good benefits, opportunity for growth, got work.
+
+
+	Cons: 
+		Very corporate. Starting to go "woke." Too many managers, getting paid for nothing, management inauthentic.
+
+
+	Summary: 
+		Mud Engineer
+
+
+Review 9:
+	Job Title: Frac Operator
+	Location: Odds, TX
+	Review Date: 2024-04-05T22:13:35.340
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good money and lots of opportunities to grow your career
+
+
+	Cons: 
+		No life balance and job security
+
+
+	Summary: 
+		Company only care about profit 
+
+
+Review 10:
+	Job Title: Associate Mechanical Assembler
+	Location: Duncan, OK
+	Review Date: 2024-04-08T08:11:26.857
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Great people to work with
+
+
+	Cons: 
+		Stingy management when it comes to raises
+
+
+	Summary: 
+		Great benefits
+
+
+Review 11:
+	Job Title: Operator Frac Hand
+	Location: El Reno, OK
+	Review Date: 2024-03-18T09:15:06.803
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		I learned a lot and got to travel
+
+
+	Cons: 
+		favorites get played and that sucks for the ones who work hard- I say that as a favorite- although I did work hard and was a favorite, I could still see how it affected others and I didnt think it was fair
+
+
+	Summary: 
+		hard work- okay pay
+
+
+Review 12:
+	Job Title: FRAC Equipment Operator
+	Location: Zanesville, OH
+	Review Date: 2024-04-03T18:04:56.020
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Not a bad paycheck expected it to be like the military unless you get put on a half way decent crew
+
+
+	Cons: 
+		Don’t expect to move up unless your good at kissing butt
+		Horrible management 
+		Except to be screw over
+
+
+	Summary: 
+		Decent paycheck that’s about it 
+
+
+Review 13:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-19T16:29:11.983
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Most of the employees are down to earth and great to work around. Company also has decent benefits.
+
+
+	Cons: 
+		Most of the senior officials have no idea what is going on at the lower levels. Company will lose a lot of business in the near future.
+
+
+	Summary: 
+		Do Not Work For This Company
+
+
+Review 14:
+	Job Title: Accountant
+	Location: Houston, TX
+	Review Date: 2024-03-27T11:33:44.813
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Pay and benefits and work flexibility
+
+
+	Cons: 
+		Overtime and the corporate work culture
+
+
+	Summary: 
+		All around good but not incredible
+
+
+Review 15:
+	Job Title: Technical Professional
+	Location: Odessa, TX
+	Review Date: 2024-03-21T13:16:27.863
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Somewhat intentions to want to change
+
+
+	Cons: 
+		Backwards mentality, Outdated technologies. Customers please don’t buy from these clowns
+
+
+	Summary: 
+		Worst company to work for
+
+
+Review 16:
+	Job Title: Administrative Specialist
+	Location: Houston, TX
+	Review Date: 2024-03-27T17:17:02.803
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Pay, nice co worker ok
+
+
+	Cons: 
+		Too much politics in management
+
+
+	Summary: 
+		Company is ok
+
+
+Review 17:
+	Job Title: Electronics Technician
+	Location: Odessa, TX
+	Review Date: 2024-03-20T20:15:45.480
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Money, but only if you work 120 hours per week
+
+
+	Cons: 
+		Poor management, blatent disrespect, lack of opportunity.
+
+
+	Summary: 
+		Run far far away
+
+
+Review 18:
+	Job Title: Operations Manager
+	Location: None
+	Review Date: 2024-03-17T05:22:07.340
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Very safety focused with good pay and excellent opportunities for advancement if you own it.
+
+
+	Cons: 
+		The pace of work can sometimes be overwhelming
+
+
+	Summary: 
+		Solid company
+
+
+Review 19:
+	Job Title: Senior Directional Driller
+	Location: Midland, TX
+	Review Date: 2024-03-12T14:46:06.913
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay. 28 on / 14 off
+
+
+	Cons: 
+		Too big. Lots of office politics influencing deciding who works and who doesn’t. (Obviously, I was the odd man out).
+
+
+	Summary: 
+		Pay and Benefits
+
+
+Review 20:
+	Job Title: Equipment Operator
+	Location: El Reno, OK
+	Review Date: 2024-03-17T04:41:24.750
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good introduction to frac operations
+
+
+	Cons: 
+		Low pay for the field
+
+
+	Summary: 
+		Good place to start
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

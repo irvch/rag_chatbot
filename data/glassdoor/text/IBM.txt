@@ -1,0 +1,676 @@
+
+International Business Machines is a Information Technology Services company based in 10504 Armonk, New York. 
+The company has 303,100 employees and has a revenue of $60,530 according to Fortune 500.
+The company is valued at $118,913 and has a profit of $1,639. The CEO of the company is Arvind Krishna.
+
+The Company has the following ratings: 
+Average ratings for International Business Machines:
+Business Outlook: 0.73
+
+Career Opportunities: 3.9
+Distribution: 
+	1: 1479 
+	2: 2038 
+	3: 6037 
+	4: 10474 
+	5: 12130 
+
+CEO: 0.86
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 1933 
+	2: 3570 
+	3: 9044 
+	4: 9747 
+	5: 7619 
+
+Culture and Values: 4.1
+Distribution: 
+	1: 1349 
+	2: 1625 
+	3: 4325 
+	4: 9502 
+	5: 14983 
+
+Diversity and Inclusion: 4.3
+Distribution: 
+	1: 917 
+	2: 942 
+	3: 3664 
+	4: 8838 
+	5: 17284 
+
+Overall: 4.1
+Distribution: 
+	1: 1220 
+	2: 1847 
+	3: 7288 
+	4: 14875 
+	5: 15814 
+
+Senior Management: 3.7
+Distribution: 
+	1: 2699 
+	2: 2958 
+	3: 6907 
+	4: 9723 
+	5: 9305 
+
+Work Life Balance: 4.1
+Distribution: 
+	1: 1444 
+	2: 1810 
+	3: 5154 
+	4: 9325 
+	5: 13983 
+
+Review Count: 103792
+
+Recommend to Friend: 
+	RECOMMEND: 20231
+	WONT RECOMMEND: 4289
+
+
+
+
+The company has 113817 reviews on Glassdoor. The last review was posted on 2024-04-18T01:59:52.323. 
+There are 20 Reviews for International Business Machines:
+
+Review 1:
+	Job Title: Senior Software Engineer
+	Location: None
+	Review Date: 2024-04-17T14:36:28.613
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Flexibility: You can work when and where you want.
+		Control: You have control over your business.
+		Potential income: You have the potential to earn a lot of money.
+		Fulfillment: It can be exciting and fulfilling.
+		Impact: You can positively impact others.
+		Skill development: You can develop a variety of skills.
+
+
+	Cons: 
+		ncertain income: You might have an uncertain income.
+		Long hours: You might work long hours.
+		Stress: You might experience more stress.
+		Risk: You face multiple risks, including bankruptcy, financial risk, and competitive risks.
+		Responsibility: You have a lot of responsibility.
+		Networking: You need to network.
+		
+
+
+	Summary: 
+		na
+
+
+Review 2:
+	Job Title: Advisory Engineer
+	Location: Hopewell Junction, NY
+	Review Date: 2014-08-26T09:02:30.030
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Disclaimer: A lot of what I'm writing below of course depends on the work area and management chain.  But I found this to be fairly pervasive policies in IBM in my 9+ years with the company. 
+		1. IBM's policies and management are very flexible when it comes to working remotely or accommodating various life situations (sick days, doctor visits, etc.).  Management is encouraged to measure an employee by their work and impact, and not by hours spent at their office. 
+		2. Great colleagues!  Though unfortunately, many have been leaving due to the instability of IBM's HW development business. 
+		3. At least in my area, there's a high level of flexibility on which projects should I undertake based on my and my management assessment of business impact.
+
+
+	Cons: 
+		1. Unfortunately, IBM still uses the "normal distribution" rating system, where at the end of the year each employee is ranked as a top contributor (5%), above average contributor (15%), average contributor (~75%), and bottom contributor (5%).  This curve is difficult to apply in the R&D world, where you may have many members of the team working long and hard hours, and end up being "average contributors" at the end of the year, because there just isn't room for all to be top contributors. 
+		
+		2. The above may not be so disturbing, if only IBM didn't practically cancelled all raises, performance bonuses and incentive for the non top-performers. I've had a consistent "above average" rating in the last 4-5 years, and my raise and performance bonus were ridiculous mere 1.5-2% of my salary.  Were I rated "average contributor" I would have gotten NOTHING. So you can imagine that people can go year after year without any raise to their salary.
+		
+		From talking to manager friend, this is IBM's way to eliminate the non-top-performers without having to fire them, as part of its direction of reducing US manpower. 
+		
+		3. Hiring freeze in many areas - again, as part of IBM's attempt to reduce its workforce across North America and Europe we see many jobs move to the India and Far East markets.  This is of course upsetting to see local teams shrink and disappear, especially when many great local IBM colleagues and experts begin to drop out. From my experience thus far working with India SW teams - they are still very far away from the standards I would have expected from US and Europe based teams. 
+		
+		4. Poor top down communication about company's and divisions' future.  Employees learn from rumors and news websites what's about to come...
+
+
+	Summary: 
+		Advisory Engineer in STG, IBM
+
+
+Review 3:
+	Job Title: Automation Sales Specialist
+	Location: New York, NY
+	Review Date: 2024-03-25T06:40:14.027
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		IBM's training and mentorship are some of the best in the F500 community, and maybe the tech industry as a whole. The people are reasonable, the workload is fast-paced and interesting, but not at the expense of your health. Pay has become more competitive in recent years, leading folks like me to stay for years, even when courted by higher-growth startups. Overall, there's lots to like about IBM.
+		
+		The new CEO, Arvind Krishna, also seems to have a good handle on what IBM needs to succeed, and he's steering the ship confidently in the right direction, after many years previously of stagnant growth.
+
+
+	Cons: 
+		Some of the "old guard" at IBM are stubborn, resistant to change and adapt to clients' needs. But those folks are starting to leave the company. Sales quotas occasionally can be quite aggressive, but if you are a nice/reasonable person and visibly show effort/hustle, management can be lenient on performance targets. Targets are also subject to change at a moment's notice.
+		
+		Also, promotions can be extremely slow, and you have to fight for every new career opportunity. Management won't guide you in your career - that's up to you and you alone.
+
+
+	Summary: 
+		IBM Proves Why it's a Top Employer
+
+
+Review 4:
+	Job Title: Senior Managing Consultant
+	Location: None
+	Review Date: 2024-03-26T09:14:54.750
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		IBM is a consistent company that has been around for a long time with several different areas to move into if you want to change your skills and career options
+
+
+	Cons: 
+		In consulting they punish people for things that they are not in control of. IBM will put people on Performance Improvement Plans because their billable rate is on the low side, but if the partners haven't sold work for the consultants it is not a performance issue. It feels like this is a workaround for unemployment and severance. If there isn't work to be done, this should be a reduncancy termination that has severance and a positive leaving experience. That is not how IBM handles this which is a shame.
+
+
+	Summary: 
+		Good company that could be great
+
+
+Review 5:
+	Job Title: Senior Managing Consultant
+	Location: Los Angeles, CA
+	Review Date: 2024-03-22T08:46:38.803
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		IBM has the potential to be a leader for good in the way the world works.
+
+
+	Cons: 
+		IBM's leadership has proven over and over again that it's always going to be profit over people. If IBM ever does anything that confuses you (or looks like it's against its values), just ask yourself if it makes sense from a finance and/or legal perspective. Usually, that's where the decisions come from.
+
+
+	Summary: 
+		Great potential - Toxic culture
+
+
+Review 6:
+	Job Title: UX Designer
+	Location: None
+	Review Date: 2024-03-29T14:52:52.973
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Phenomenal place for designers. Robust support system with great design leadership up to the top, as well as a huge network of mentors. As an individual contributor, I rarely have to waste effort trying to explain to my engineering or PM stakeholders that UX is important, but YMMV depending on your team or org. Good people, culture, work life balance, decent benefits and pay, and career growth opportunities. I feel I am treated like a decent human being here, and I don't take that for granted.
+
+
+	Cons: 
+		Lots of moving parts in this company and releases take a long time (6+ months) due to technical debt. Designs can be "handed off" often a year or more before something releases. Also this is relatively unsexy B2B / enterprise work, and the complexity is not for everyone. Learn to embrace it or you won't do well or be happy here.
+
+
+	Summary: 
+		Great culture and people
+
+
+Review 7:
+	Job Title: Enterprise Account Executive
+	Location: New York, NY
+	Review Date: 2024-04-08T07:51:57.013
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		IBM’s gives plenty of training opportunities and encourages their workers to constantly upskill. If you have the right accounts, you can make a lot of money with minimal efforts.
+
+
+	Cons: 
+		If you have the wrong account mix or there is no ELA closing for your accounts, you can find it really difficult to make your numbers. Quota is based on assumptions that are often wrong. You will have multiple managers that are mainly interested in forecasting and will often push you towards how they want you to forecast in order to appease their superiors, regardless of whether you feel the numbers are accurate.
+
+
+	Summary: 
+		Success more reliant on luck and ELA’s
+
+
+Review 8:
+	Job Title: Account Manager
+	Location: None
+	Review Date: 2024-04-16T17:37:38.397
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Pros? if there was a pro it'd be maybe getting something out of learning on your own if you are allowed the time.
+
+
+	Cons: 
+		back stabbing is the culture. broken promises is all they are good for. Work life balance simply can not exist if you were to do your work. dedication, hard work, and loyalty are meaningless.
+
+
+	Summary: 
+		The finest toxicity
+
+
+Review 9:
+	Job Title: Technical Owner
+	Location: New York, NY
+	Review Date: 2024-02-01T18:45:09
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Professional Growth and Learning: IBM places a strong emphasis on continuous learning and development. As a Technical Owner, you may have access to training programs, certifications, and opportunities for professional growth to stay updated with the latest technologies and industry trends.
+
+
+	Cons: 
+		High Workload and Pressure: IBM, being a large and globally recognized company, can have high expectations and a fast-paced work environment. Some employees may feel overwhelmed by the workload and pressure.
+		
+		Limited Work-Life Balance: In certain roles or during demanding projects, employees might find it challenging to maintain a healthy work-life balance. Long working hours and tight deadlines may contribute to this issue.
+		
+		Bureaucracy: Large organizations often have established bureaucratic processes, which could lead to delays in decision-making and project execution. Navigating through these processes might be cumbersome for some employees.
+		
+		Limited Managerial Support: Your experience of feeling overworked without sufficient support from management is a common concern in various workplaces. In a large company, communication channels can sometimes be complex, and individual experiences may differ based on teams and managers.
+		
+		Emphasis on Metrics: Some employees may feel that the company places a strong emphasis on metrics and performance indicators, which could potentially impact the work environment and stress levels.
+		
+		Limited Flexibility: Depending on the role and team, some employees might find that the company has a more structured and less flexible approach to work arrangements.
+		
+		Communication Challenges: In a large organization, communication can sometimes be a challenge. Important information might not always be effectively communicated across teams, leading to misunderstandings or a lack of clarity.
+
+
+	Summary: 
+		Overworked and Underpaid
+
+
+Review 10:
+	Job Title: Sales
+	Location: None
+	Review Date: 2024-04-12T09:43:37.233
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Large well funded company with decent worker benefits. 
+		Much of the technology is cutting edge.
+		A huge group of smart people!
+
+
+	Cons: 
+		Mickey mouse games with the execs at various times during the year.
+		Never know when the grimm reaper is coming for you.
+		A certain amount of social loafing going on - no - you are not as smart as you think you are and you are not helping me one bit...
+
+
+	Summary: 
+		Lets wait and see
+
+
+Review 11:
+	Job Title: Software Engineer
+	Location: Cambridge, MA
+	Review Date: 2024-04-12T20:18:05.433
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		- I had a great manager a few years back, but he was terminated simply due to his work location.
+
+
+	Cons: 
+		- Very aggressive "high performance culture" is being enforced; this is being used as an excuse to terminate people —&gt; real reason is that IBM is aiming to have 60-70% of employees based out of India.
+		
+		- Strict return-to-office policy whereby badge swipes are tracked and time spent working on the network is also monitored.
+		
+		- There are no bonus; promotions are rare and you have to fight for one. This is not like consulting where there is a set track to follow with clear expectations, Lots of favoritism. Your career will fall apart if you work here.
+
+
+	Summary: 
+		Negative cultural changes are making company toxic
+
+
+Review 12:
+	Job Title: Account Technical Leader
+	Location: Milwaukee, WI
+	Review Date: 2024-04-13T04:41:29.377
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Working with some of the most brilliant people in Information Technology, Education opportunities, and some great leaders
+
+
+	Cons: 
+		The employment experience at IBM is solely dependent on the quality of the leadership at the Front line and second line, which is vastly varied across the organization. I've worked for and with some of the best leaders and some of the worst leaders I've ever encountered.
+
+
+	Summary: 
+		The People Make IBM
+
+
+Review 13:
+	Job Title: Engineer
+	Location: New York, NY
+	Review Date: 2024-04-17T00:06:03.427
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Everything good was ruined by their transphobia
+
+
+	Cons: 
+		Everything is bad. Nothing can be seen as good because they are bad where it's most important
+
+
+	Summary: 
+		Bigoted and Transphobic corporation 
+
+
+Review 14:
+	Job Title: Senior Applications Developer
+	Location: Boulder, CO
+	Review Date: 2024-04-16T17:20:38.177
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Generally good coworkers to work with.
+		People treat each other well at the same level.
+		Enjoyed working remote.
+
+
+	Cons: 
+		Not sure what the full plan was. They were opaque about what was going on before layoffs.
+		Apparently IBM pays lower than the norm.
+		Interesting that Arvind apparently got a 23mil raise.
+
+
+	Summary: 
+		Good place to be, until your division is going to be cut.
+
+
+Review 15:
+	Job Title: IBM Cloud Sales
+	Location: Chicago, IL
+	Review Date: 2024-04-17T15:24:03.643
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Excellent training, benefits, good pay, variety and challenges.
+
+
+	Cons: 
+		Everyone has a number, either sales, utilization, or customer satisfaction, and if Watson says you are not performing, you are on a Performance Plan.
+
+
+	Summary: 
+		Great company with great benefits, but everyone has a number.
+
+
+Review 16:
+	Job Title: DevOps Consultant
+	Location: None
+	Review Date: 2024-03-07T00:12:18.427
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		They buy cutting edge consulting companies and take them back in time a decade or 2? They give 1% raises while charging clients insane rates for your expertise? They cut bench time in half so you get laid off quicker? All processes take 5 times longer.(raises, counter offers, ect.)
+
+
+	Cons: 
+		They do not promote internal movement. Applying internally is almost as useless as applying externally through LinkedIn or their web portal. You either get denied or never hear back. Most companies will at least interview internal employees.
+
+
+	Summary: 
+		IBM on the wrong side of history...again
+
+
+Review 17:
+	Job Title: Digital Sales
+	Location: Atlanta, GA
+	Review Date: 2024-04-17T09:47:26.890
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Pay
+		Hybrid
+		Travel
+		Benefits
+		Paternity leave
+
+
+	Cons: 
+		IBM has a horrible reputation of micromanaging not only their employees, but also their business partners. It's very hard to get things done at IBM and if you do a great job, you won't get promoted. They do not promote good work, they promote people who know people.
+
+
+	Summary: 
+		Micromanaged
+
+
+Review 18:
+	Job Title: Research Manager
+	Location: None
+	Review Date: 2024-03-27T05:15:36.973
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		It's a good place to coast. Since there is no meritocracy, you can get away with minimum work if you manage appearances with your leadership.
+
+
+	Cons: 
+		No meritocracy. Seniority is preferred over impact and skills. Extremely hard to get ahead based on your skills/contributions. It is much more important to impress executives and be a good politician than to do actual work. If you are young and ambitious, it can really affect your career trajectory. I wish I knew and I had joined a big tech company instead. Also pay is half compared to big tech, and the stock has not been growing.
+
+
+	Summary: 
+		If you have talent, run away!
+
+
+Review 19:
+	Job Title: Data Package Specialist
+	Location: Baton Rouge, LA
+	Review Date: 2024-03-09T15:20:29.573
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		If you're willing to put in the work then opportunities will open for you that greatly contribute to your career development, you are very much the driver of your career with IBM. What you get out of your career at IBM Consulting is very much based on what you are willing to give in terms of time &amp; skills development.
+
+
+	Cons: 
+		Early in your career it can be hard to understand the career progression structure, early on in your career project assignments can seem like they don't align with your existing or desired skillset, coaches don't do much to help you develop your career other than require certification in certain strategic areas, career progression depends on how aggressive you are at building your own case for promotion and badgering your coach for promotion nominations to the next band level.
+
+
+	Summary: 
+		Overall good company, pay gets better as you progress bands, you are the driver of your own career at IBM Consulting
+
+
+Review 20:
+	Job Title: Senior Software Engineer
+	Location: San Jose, CA
+	Review Date: 2023-11-04T09:27:38.643
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		IBM has a low bar for hiring engineers, so if you're having trouble finding an SWE job at GAFA you can probably get one at IBM (once the job market opens up again).
+
+
+	Cons: 
+		IBM used to be famous for putting its employees first. When I joined, I was told about how good the benefits were, and how IBM was a "family." In the past few years, that philosophy has been discarded. Every few months upper management makes sweeping policy changes, with no employee input, that significantly hurt US employees. When employees react en masse with concern, alarm, and constructive feedback, they ignore or gaslight us, or commit the strawman fallacy by mischaracterizing employees' concerns and then dismissing them. For example, in November 2023 (right after the employee engagement survey concluded), the did away with 401k matching, replacing it with a novel financial vehicle called an "RBA" with much lower yields, and tried to spin it as a good thing for us. Based on publicly available information, I'm estimating that this will probably save IBM at least $100M over the next decade in US benefits payouts. It also means IBM holds our retirement money, rather than the employee. IBM simply does not care about retaining talent right now -- if you are a senior or well-paid employee in the US, they see you as an expense, and they're showing you the door.
+
+
+	Summary: 
+		IBM no longer cares about its talent
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,645 @@
+
+Southwest Airlines is a Airlines company based in 75235 Dallas, Texas. 
+The company has 66,656 employees and has a revenue of $23,814 according to Fortune 500.
+The company is valued at $19,338 and has a profit of $539. The CEO of the company is Robert E. Jordan.
+
+The Company has the following ratings: 
+Average ratings for Southwest Airlines:
+Business Outlook: 0.68
+
+Career Opportunities: 4.1
+Distribution: 
+	1: 191 
+	2: 243 
+	3: 539 
+	4: 774 
+	5: 1886 
+
+CEO: 0.72
+
+Compensation and Benefits: 4.1
+Distribution: 
+	1: 122 
+	2: 152 
+	3: 493 
+	4: 956 
+	5: 1921 
+
+Culture and Values: 4
+Distribution: 
+	1: 217 
+	2: 191 
+	3: 389 
+	4: 544 
+	5: 2095 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 110 
+	2: 76 
+	3: 199 
+	4: 323 
+	5: 1122 
+
+Overall: 4.1
+Distribution: 
+	1: 219 
+	2: 240 
+	3: 539 
+	4: 965 
+	5: 2441 
+
+Senior Management: 3.5
+Distribution: 
+	1: 449 
+	2: 316 
+	3: 656 
+	4: 772 
+	5: 1391 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 358 
+	2: 312 
+	3: 673 
+	4: 758 
+	5: 1543 
+
+Review Count: 4412
+
+Recommend to Friend: 
+	RECOMMEND: 2794
+	WONT RECOMMEND: 580
+
+
+
+
+The company has 4957 reviews on Glassdoor. The last review was posted on 2024-04-17T08:48:49.990. 
+There are 20 Reviews for Southwest Airlines:
+
+Review 1:
+	Job Title: Customer Service Supervisor
+	Location: Denver, CO
+	Review Date: 2024-01-30T14:06:36.253
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		A company that treats you well (pay, benefits, etc.), awesome Coworkers, near-infinite opportunity to move up, and a fiscally responsible company that has never once had layoffs in 50+ years of business.
+
+
+	Cons: 
+		The inherent nature of working in operations is at times a bit inflexible and reliability is paramount. It is also seniority based and 24/7/365 shift work, so you have to be committed to the long haul to achieve ideal control of your schedule.
+
+
+	Summary: 
+		Its a career, not a job
+
+
+Review 2:
+	Job Title: Flight Attendant
+	Location: Dallas, TX
+	Review Date: 2024-04-17T08:48:49.990
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The pay is great and the work is flexible
+
+
+	Cons: 
+		Can be long work days if delays
+
+
+	Summary: 
+		Working in the air
+
+
+Review 3:
+	Job Title: Sr. Project Manager
+	Location: Dallas, TX
+	Review Date: 2024-04-17T07:23:54.670
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		They do care about their employees. They do care about their customers. They are struggling to keep their culture with this remote world. Still a fun place to work. Great opportunities for young professionals.
+
+
+	Cons: 
+		They have grown and promoted some inexperienced leaders causing some unnecessary growing pains. Not much career growth for older professionals.
+
+
+	Summary: 
+		Still a really good company
+
+
+Review 4:
+	Job Title: Operations Agent
+	Location: Indianapolis, IN
+	Review Date: 2024-04-10T09:57:20.687
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Great community, benefits, and privileges! Flight crews treat ground crews like family, and senior leadership always makes an effort to show LUV and care for their employees.
+
+
+	Cons: 
+		Schedule, just like any other airline, the days to work and days off are entirely based on seniority. Though most people are willing to pick up days for you and help you out! Another con is the "Probationary period". Each employee must work 6 months without calling off for sick, personal, or even vacation days. 6 months of rigorous work and long days. The days get to you after awhile, but keep your head-up and you will survive!
+
+
+	Summary: 
+		9/10, would go back to again!
+
+
+Review 5:
+	Job Title: Customer Service Supervisor
+	Location: San Diego, CA
+	Review Date: 2024-04-01T10:25:53.567
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Travel benefits, decent pay, TONs of OT (if that’s your thing), great people to work alongside and lead
+
+
+	Cons: 
+		Management should be reevaluated. Nepotism is extremely prevalent! No mentoring - unless you fit in with cookie cutter ideas. If you challenge, or disagree, with that thought process you will be blacklisted and good luck trying to promote (unless you want to move stations)
+
+
+	Summary: 
+		If your single this is your job
+
+
+Review 6:
+	Job Title: Senior Data Analyst
+	Location: Dallas, TX
+	Review Date: 2024-04-14T09:38:22.157
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 2
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		No involuntary layoffs in its history (even through pandemic).
+		Diverse at lower levels (gate agents, ticket agents, customer service).
+
+
+	Cons: 
+		Emphasis on consensus decision-making can lead to paralysis.
+		Not diverse at upper levels (senior management, pilots).
+
+
+	Summary: 
+		Southwest Values its Employees
+
+
+Review 7:
+	Job Title: CSA - Customer Service Associate
+	Location: Austin, TX
+	Review Date: 2024-03-23T15:17:35.763
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		NonRev Perk, Uniforms paid for, no minimum to keep FT status
+
+
+	Cons: 
+		Micromanaging SUPs and Mgrs, low pay for 1st 5 years, cannot use accrued sick time until after 6 months, training is not thorough enough, all have to bid for shifts every month and a half, gate shifts are by a lone agent, CSA’s have to be proficient at three spots, not just one. All have to stay 30 min extra daily to cover their lunch, Mandatory overtime is a thing, No grace from the hospitality, LUV airline. Some co workers tattle to SUPs if you ask them for help then SUPs call you in and reprimand you. Many are also unkind to passengers.
+
+
+	Summary: 
+		Not the Hospitality, or LUV airline
+
+
+Review 8:
+	Job Title: Ramp Agent
+	Location: Phoenix, AZ
+	Review Date: 2024-01-07T20:20:49.460
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Health insurance, and some of my coworkers are cool.
+
+
+	Cons: 
+		You are micromanaged to no end. You mess up, even slightly, you get disciplined. You will have no life outside of work, you will have mandatory overtime to no end, if working 16 hours a day, 6 days a week and sleeping in your car parked in the employee lot, or on the floor of the locker room, then this is the job for you. The company advertises and indoctrinates new hires that this will be the best job they’ve ever worked at. I was a victim of this too. You are nothing to this company, you are only a number and a last name on a schedule paper. Management doesn’t care about you, don’t be fooled by their so called open door policy. The union will do nothing to defend you. The union is okay with the company stalling contract negotiations, and letting its members live off poverty wages and letting them eat scraps for food. You will be worked like a dog. You will be on a gate and will have back to back to back turns, and you will have to fight with your supervisor to get your 30 minute lunch period, that is not only contractually guaranteed, but guaranteed by law in most states. And when you hurt yourself, the company makes the OJI process a nightmare to deal with as well.
+
+
+	Summary: 
+		Smoke and mirrors
+
+
+Review 9:
+	Job Title: Flight Attendant
+	Location: Dallas, TX
+	Review Date: 2024-03-25T14:26:48.407
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Life balance flexibility, Great Crews, Benefits.
+
+
+	Cons: 
+		Be careful while on probation. Even if something happens that you can't prevent, you have what they call a fact finding meeting. It's up to that Manager in that meeting to determine whether you get to keep your job or not. So if they don't like you, don't know you, it could end your career. Even if you were sick and have a Doctors note. They can extend your probation if they want too.
+
+
+	Summary: 
+		Just be careful on probation 
+
+
+Review 10:
+	Job Title: Flight Attendant
+	Location: Baltimore, MD
+	Review Date: 2024-04-05T17:20:10.673
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Flexible schedule. 3 days on a week, 4 days off
+
+
+	Cons: 
+		Make sure you know your contract. Schedulers often time take advantage of new employees who don’t fully know what options they should be given during irregular ops.
+
+
+	Summary: 
+		New Hire Pay As A SWA FA
+
+
+Review 11:
+	Job Title: Technology Analyst
+	Location: Dallas, TX
+	Review Date: 2023-11-04T08:57:53.493
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 2
+
+	Pros: 
+		- Can’t beat free flights and profit sharing. - Even if you live in the Waco circle, you’re pretty much remote and only have to come into the office three weeks out of the year. - Learning about the airline industry is really interesting. - Senior leaders are very transparent about company performance and changes.
+
+
+	Cons: 
+		- For corporate employees, paid time off is very low- 15 days per year including sick and personal time is NOT enough. - The dynamic between frontline and headquarter employees is terrible: with no time allowed to be spent in the field or business partners, it feeds into this “us vs them” nonsense that’s currently happening. - All of IT is migrating to AWS, and almost no one is a subject matter expert in it so the learning curve is really sweet. - Unless your manager makes a point to take you under their wing, they won’t really know you. So all of your feedback you get from them - good and bad is 100 percent from their chosen “go to” people and not from anything they actually know or have observed for themselves. (Yes, that includes your performance reviews).
+
+
+	Summary: 
+		Just Another Corporation in America
+
+
+Review 12:
+	Job Title: Flight Attendant
+	Location: Phoenix, AZ
+	Review Date: 2024-04-16T15:37:45.763
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Schedule is flexible
+		401k match
+		Profit sharing
+
+
+	Cons: 
+		Reserve 
+		Senority based
+		Long hours
+		Away from home on overnights
+
+
+	Summary: 
+		Flight attendant
+
+
+Review 13:
+	Job Title: CS Support
+	Location: None
+	Review Date: 2023-12-10T14:59:57.713
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		You’re scheduled to work FT/PT whichever you’re hired as but can work as many or the least amount of hours you would like to work.
+		Free flight benefits for parents, children ages 17 or younger or if older they must still be enrolled in school and quarterly Buddy passes.
+
+
+	Cons: 
+		Pay rate and how often raises are given sucks!
+		Rules in regards to sick pay and the many, many software issues make the Job less than desirable.
+		I’ve only been with the company going on a year and there was so much hype about how much the leaders care about the employees which I find to be a bunch of BS. We have team leaders that don’t really care to help us succeed.
+		It’s very easy to get what is called a IOA or a ding and become what they like to call a customer instead of an employee.
+		It’s almost like walking on egg shells if you do something that’s not by the book simply by just not knowing or even in doing our best.
+
+
+	Summary: 
+		Not what I thought
+
+
+Review 14:
+	Job Title: Flight Attendant
+	Location: None
+	Review Date: 2024-02-25T17:04:07.487
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		-401K matching of 9.3%
+		-Flexibility once you have some seniority 
+		-Frontline employees are truly the best in the industry and what keep me at this company
+
+
+	Cons: 
+		-Put profits over people 
+		-No longer have a sense of family or culture…just a number
+		-Insurance was great but has started to get worse and worse
+		-Profit sharing is a joke at this point
+		-Very low pay and outdated contract
+		-Company dragging out negotiations 
+		-Way too top heavy
+		-Dirty planes because they just care that they are tidied through out the day and not truly cleaned
+		-Technology is so behind. Say they are investing in it but we have yet to really see that
+		-Only good reviews are those working in headquarters. Truly out of touch with rest of company.
+
+
+	Summary: 
+		Not What It Used To Be
+
+
+Review 15:
+	Job Title: Agent
+	Location: Charlotte, NC
+	Review Date: 2024-04-17T06:27:17.807
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		great place to work, not good benefits
+
+
+	Cons: 
+		the flying benefits is not good
+
+
+	Summary: 
+		n/a
+
+
+Review 16:
+	Job Title: Ramp Agent/Baggage Handler
+	Location: San Jose, CA
+	Review Date: 2024-04-08T17:00:32.707
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Flight benefits, 401k, medical, and flexible hours and time off
+
+
+	Cons: 
+		Job doesn’t have a super high pay cap which is a struggle for the area of living.
+
+
+	Summary: 
+		Cool Job
+
+
+Review 17:
+	Job Title: Global Account Manager
+	Location: Greensboro, NC
+	Review Date: 2024-04-15T09:12:27.247
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great culture, great co-workers, great leadership
+
+
+	Cons: 
+		Really not applicable at this time.
+
+
+	Summary: 
+		Global Account Manager
+
+
+Review 18:
+	Job Title: Ramp Agent
+	Location: Phoenix, AZ
+	Review Date: 2024-04-09T11:00:29.823
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		A genuine concern and love for the customers! It’s exciting working in Phoenix because it’s one of Southwest Airline's hubs.
+
+
+	Cons: 
+		Southwest Airlines is a tremendous career to have!
+
+
+	Summary: 
+		Great atmosphere!
+
+
+Review 19:
+	Job Title: Business Consultant
+	Location: Dallas, TX
+	Review Date: 2024-04-07T11:37:45.500
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Company culture, 401k match, health and travel benefits
+
+
+	Cons: 
+		Too comfortable, not willing to take risks, not as open to new ideas and stuck in the “old Southwest” mentality in many ways
+
+
+	Summary: 
+		Most comfortable airline to work at
+
+
+Review 20:
+	Job Title: Associate Software Engineer
+	Location: None
+	Review Date: 2023-10-24T23:11:55.300
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		- Great benefits (medical, vision, dental, 100% 401k match up to near 10% salary) - Fantastic WLB, never once been pressured to work past standard operating hours or over weekends - Coworkers are very friendly - Work is interesting enough without being overbearing - Able to work fully remote bar ~quarterly onsite visits which are only a week
+
+
+	Cons: 
+		- Slightly below average salary (no RSUs/signing bonus) - Little/slow vertical growth. If you're relatively new to the industry and are trying to put in 150% effort and try and get promoted - simply don't bother. Promotions are HEAVILY (read: exclusively) dependent on which department/team you end up on and your manager. You can get exceptional on every category on your quarterly performance review and still be passed up on promotion whether it be due to your manager not submitting you or "budget reasons". At the same time you're being denied despite consistent exceptional performance, you'll see other people from your team and department in more senior positions continue to be promoted without delay. All of this on top of the fact that promotions are strictly quarterly, so if you are passed up you are waiting at minimum 3 months just to be denied again for the same BS. Not to mention at the same time you might even be receiving numerous accolades from coworkers telling you how great your work has been, but this will not realize itself in title/compensation. If you're already a senior/staff SE/SLA I'm sure this won't be an issue.
+
+
+	Summary: 
+		Fantastic WLB, benefits, and coworkers; little room for career growth
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

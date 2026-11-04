@@ -1,0 +1,637 @@
+
+Archer Daniels Midland is a Food Production company based in 60601 Chicago, Illinois. 
+The company has 41,181 employees and has a revenue of $101,556 according to Fortune 500.
+The company is valued at $43,530 and has a profit of $4,340. The CEO of the company is Juan R. Luciano.
+
+The Company has the following ratings: 
+Average ratings for Archer Daniels Midland:
+Business Outlook: 0.67
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 231 
+	2: 300 
+	3: 520 
+	4: 570 
+	5: 515 
+
+CEO: 0.8
+
+Compensation and Benefits: 3.7
+Distribution: 
+	1: 111 
+	2: 212 
+	3: 575 
+	4: 691 
+	5: 538 
+
+Culture and Values: 3.6
+Distribution: 
+	1: 228 
+	2: 204 
+	3: 405 
+	4: 554 
+	5: 685 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 75 
+	2: 77 
+	3: 165 
+	4: 217 
+	5: 431 
+
+Overall: 3.9
+Distribution: 
+	1: 160 
+	2: 242 
+	3: 499 
+	4: 805 
+	5: 779 
+
+Senior Management: 3.4
+Distribution: 
+	1: 264 
+	2: 240 
+	3: 385 
+	4: 399 
+	5: 345 
+
+Work Life Balance: 3.4
+Distribution: 
+	1: 235 
+	2: 302 
+	3: 497 
+	4: 555 
+	5: 534 
+
+Review Count: 2494
+
+Recommend to Friend: 
+	RECOMMEND: 1534
+	WONT RECOMMEND: 451
+
+
+
+
+The company has 2839 reviews on Glassdoor. The last review was posted on 2024-04-17T05:59:29.283. 
+There are 20 Reviews for Archer Daniels Midland:
+
+Review 1:
+	Job Title: Trade Manager
+	Location: Quincy, IL
+	Review Date: 2024-04-07T22:14:27.843
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Always provide opportunity for growth. ADM wants employees to continue to get to the next level and have their rewards to also grow. As I go through the channels, I see myself continue to get better jobs with better rewards and bigger responsibilities.
+
+
+	Cons: 
+		No pension for new hires.
+
+
+	Summary: 
+		Great Company
+
+
+Review 2:
+	Job Title: Data Analyst
+	Location: Decatur, IL
+	Review Date: 2024-04-17T05:59:29.283
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good place to work, nice folks and growth depends on your manager
+
+
+	Cons: 
+		Growth Depends on your team and Manager
+
+
+	Summary: 
+		none
+
+
+Review 3:
+	Job Title: Electrical Engineer
+	Location: Clinton, IA
+	Review Date: 2024-03-25T06:09:59.667
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Safety culture is pushed from top-down at a corporate level (site level is questionable depending on site)
+		Corporate goal to improve sustainability
+		Yearly cost of living adjustment given to hourly and salary
+		High performers can participate in profit sharing yearly bonus
+
+
+	Cons: 
+		Company's prioritization of work-life balance is constantly shifting year-to-year
+		Leadership is constantly changing corporate and site wide
+		Housekeeping only truly matters during customer audits
+		'do more with less' methodology is being pushed from top-down
+
+
+	Summary: 
+		Priorities Change By the Year
+
+
+Review 4:
+	Job Title: Global Director, Digital Marketing
+	Location: Chicago, IL
+	Review Date: 2024-03-30T07:21:54.010
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		The base salary and the bonus, and equity plan are excellent
+
+
+	Cons: 
+		The marketing team is easily ten to fifteen years behind the times. Most are glorified project managers managing an agency or two. You'll work with many younger boomers who have zero understanding of digital marketing. Also, $90B company that won't pay $2000 for a local B2B conference ...they don't invest in their people.
+
+
+	Summary: 
+		Meh...
+
+
+Review 5:
+	Job Title: Production Operator
+	Location: None
+	Review Date: 2024-04-08T09:48:07.613
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great company to work for, great benefits, good pay
+
+
+	Cons: 
+		They hold you back when you express an interest to learn and do more.
+
+
+	Summary: 
+		Limiting
+
+
+Review 6:
+	Job Title: Production Operator
+	Location: Erlanger, KY
+	Review Date: 2024-04-12T10:27:11.443
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Job stability, plenty of OT
+
+
+	Cons: 
+		Lots of mandatory Over time
+
+
+	Summary: 
+		Production operator
+
+
+Review 7:
+	Job Title: Human Resources Generalist
+	Location: Chicago, IL
+	Review Date: 2024-03-27T16:08:48.527
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Goal and succession planning is top notch.
+
+
+	Cons: 
+		Some people seem to fight change (new tech, best practices) and be stuck in "how we've always done things".
+
+
+	Summary: 
+		Big plans for the future
+
+
+Review 8:
+	Job Title: Commodity Trading Intern
+	Location: Decatur, IL
+	Review Date: 2024-03-31T09:44:28.653
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		everyone is encouraging and wants you to do your best
+
+
+	Cons: 
+		I don’t like decatur but it’s a wonderful company that makes it worth it
+
+
+	Summary: 
+		…
+
+
+Review 9:
+	Job Title: Accountant
+	Location: Chicago, IL
+	Review Date: 2024-04-04T05:43:37.657
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Corporate experience
+		Breakfast in the morning
+
+
+	Cons: 
+		Corporate boredom
+		No life 
+		Cubicles
+
+
+	Summary: 
+		Accountant 
+
+
+Review 10:
+	Job Title: Plant Utility
+	Location: Marshall, MN
+	Review Date: 2024-03-19T03:47:04.503
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Time flexibility, ability to learn
+
+
+	Cons: 
+		Operators that gossip behind your back, OITs that harass you and falsify documentation with little to no action from the company, operators wont teach you anything and will get upset if you ask them to many questions .
+
+
+	Summary: 
+		Unprofessional Workplace
+
+
+Review 11:
+	Job Title: Scientist 3
+	Location: Decatur, IL
+	Review Date: 2024-02-15T13:00:13.090
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		slow-paced work environment. If you like to slack and just underperform this is the place for you
+
+
+	Cons: 
+		Decision making is very slow and has to always come from the top.
+		very few opportunities for advancement.
+		They are very stuck on their old ways
+
+
+	Summary: 
+		To much bureaucracy and stuck on their old ways
+
+
+Review 12:
+	Job Title: Data Engineer
+	Location: Erlanger, KY
+	Review Date: 2024-03-24T10:59:55.427
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Work-life balance
+		No hierarchy level treatment 
+		401k
+		Tuition assistance
+
+
+	Cons: 
+		Less pay comparatively
+		Work from office
+
+
+	Summary: 
+		Benefits with ADM
+
+
+Review 13:
+	Job Title: Elevator Operator
+	Location: Mendota, IL
+	Review Date: 2024-03-20T10:50:08.537
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Father friendly, lots of money
+
+
+	Cons: 
+		Get called in at random times sometimes, but it’s still worth it
+
+
+	Summary: 
+		ADM
+
+
+Review 14:
+	Job Title: Process Engineer
+	Location: None
+	Review Date: 2024-03-18T09:52:18.980
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		good health care and retirement
+
+
+	Cons: 
+		low pay and frequently eliminate roles expecting existing employees to pick up slack
+
+
+	Summary: 
+		pay is ok raises are terrible
+
+
+Review 15:
+	Job Title: Senior Scientist
+	Location: Decatur, IL
+	Review Date: 2024-03-20T07:24:39.430
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Good salary, envrionment, culture, retire plan, 401 K
+
+
+	Cons: 
+		Some employee has race concern
+
+
+	Summary: 
+		Great
+
+
+Review 16:
+	Job Title: None
+	Location: Columbus, NE
+	Review Date: 2023-12-06T15:55:37.517
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		ADM did not can me during the first or second year, Had the company done so I would have owed the full $100k as the relocation agreement does not prorate whatever they decide to say it cost to move you.
+
+
+	Cons: 
+		I did not get treated fairly due to my age and gender. I had my best performance year ever in 20 years and I was given no individual bonus for 2022, nor would anyone tell me why. Sergant Bill was hired and began treating everyone terribly and knew he could get away with murder. He was a major bully to the whole crew. He hates engineers and especially women engineers. Be careful if you choose to work at ADM and you are over 22 - 24 yrs old because they have a model employee in mind and you may not fit the image. Don't plan on getting sick either as you may get fired unless you can give a 48 hr notice.
+
+
+	Summary: 
+		First claimed it cost $100k for a $10k move, then threw me out
+
+
+Review 17:
+	Job Title: None
+	Location: Decatur, IL
+	Review Date: 2024-02-04T12:44:03.410
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		People are nice, benefits good
+
+
+	Cons: 
+		slow to change; HR policies and function are less than impressive. Not a strategic group at all. Time for the CHRO to either make rapid changes or move on.
+
+
+	Summary: 
+		Behind the times
+
+
+Review 18:
+	Job Title: Supply Chain Manager
+	Location: Decatur, IL
+	Review Date: 2024-03-11T08:47:26.433
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Stable company and Industry to work for
+
+
+	Cons: 
+		Data Maturity is low in the company
+
+
+	Summary: 
+		Good Company to work for
+
+
+Review 19:
+	Job Title: Engineer
+	Location: Decatur, IL
+	Review Date: 2024-02-24T02:22:28.913
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Popcorn is free and so is coffee
+
+
+	Cons: 
+		The company offers zero incentive. The big sale to employees is, 'if you make us 10B in revenue, we will pay you $1000'. It's par for the course so no one does their job. The state of the facilities are atrocious. Unfortunately people lose their life working for this company.
+
+
+	Summary: 
+		Waste of time
+
+
+Review 20:
+	Job Title: Blender Operator
+	Location: Erlanger, KY
+	Review Date: 2024-03-13T13:04:32.793
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Rotation days. Weekly pay check
+
+
+	Cons: 
+		Favoritism caused high turnover. Pay
+
+
+	Summary: 
+		Meh
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,637 @@
+
+Occidental Petroleum is a Mining, Crude-Oil Production company based in 77046 Houston, Texas. 
+The company has 11,973 employees and has a revenue of $37,095 according to Fortune 500.
+The company is valued at $56,069 and has a profit of $13,304. The CEO of the company is Vicki Hollub.
+
+The Company has the following ratings: 
+Average ratings for Occidental Petroleum:
+Business Outlook: 0.79
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 97 
+	2: 115 
+	3: 200 
+	4: 203 
+	5: 161 
+
+CEO: 0.85
+
+Compensation and Benefits: 4.1
+Distribution: 
+	1: 37 
+	2: 51 
+	3: 171 
+	4: 257 
+	5: 263 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 108 
+	2: 87 
+	3: 148 
+	4: 177 
+	5: 214 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 35 
+	2: 28 
+	3: 67 
+	4: 71 
+	5: 127 
+
+Overall: 4
+Distribution: 
+	1: 86 
+	2: 91 
+	3: 189 
+	4: 286 
+	5: 269 
+
+Senior Management: 3.5
+Distribution: 
+	1: 144 
+	2: 122 
+	3: 167 
+	4: 188 
+	5: 146 
+
+Work Life Balance: 4
+Distribution: 
+	1: 70 
+	2: 72 
+	3: 183 
+	4: 227 
+	5: 225 
+
+Review Count: 922
+
+Recommend to Friend: 
+	RECOMMEND: 465
+	WONT RECOMMEND: 224
+
+
+
+
+The company has 1096 reviews on Glassdoor. The last review was posted on 2024-04-09T21:24:36.480. 
+There are 20 Reviews for Occidental Petroleum:
+
+Review 1:
+	Job Title: Cyber Security Engineer
+	Location: Houston, TX
+	Review Date: 2024-02-11T10:28:43.977
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Good people goof work life balance
+
+
+	Cons: 
+		Less professional than some places. Silos
+
+
+	Summary: 
+		Good people
+
+
+Review 2:
+	Job Title: IT End User Analyst
+	Location: None
+	Review Date: 2024-03-05T20:22:48.330
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Excellent work/life  balance
+		Competitive salary*
+		Decent bonuses*
+		Great work schedule options
+		Stresses safety first
+		Petroleum better than Chemical overall
+
+
+	Cons: 
+		Some divisions keep things entirely too “close to the chest” when sharing of info would be more valuable. 
+		Some old school leaders lie when they find it convenient. 
+		*Salaries - in particular for engineers - are much higher than others. They truly favor salaried exempt (which is good) - but at the cost of some good employees who are salaried non-exempt or hourly. 
+		*Bonuses are much, MUCH better if you’re non-exempt. They’re decent for others, but the disparity is too much. Some who do very little still get overly compensated for little to no individual contributions. Their yearly review may be less than adequate, but they’ll still get their bonuses!
+		Some sub-companies are treated like red headed step children. 
+		Each site can operate in a silo, which can be challenging. 
+		There can be a level of entitlement in the chemical division. It’s unnecessary and not often seen at the petroleum division.
+
+
+	Summary: 
+		Solid Company
+
+
+Review 3:
+	Job Title: Reservoir Engineer
+	Location: Houston, TX
+	Review Date: 2024-04-09T21:24:36.480
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 1
+
+	Pros: 
+		Excellent benefits and pay incentives
+
+
+	Cons: 
+		Work-life balance pretty much non-existent
+
+
+	Summary: 
+		Pay is decent
+
+
+Review 4:
+	Job Title: Process Engineer
+	Location: None
+	Review Date: 2024-04-02T11:23:59.990
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great leadership, safety culture, people and pay
+
+
+	Cons: 
+		role opportunities can be limited If not willing to relocate to different states
+
+
+	Summary: 
+		Great company
+
+
+Review 5:
+	Job Title: Petroleum Engineer
+	Location: Houston, TX
+	Review Date: 2024-04-02T21:07:47.413
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		The check is usually reasonable.
+
+
+	Cons: 
+		Terrible culture. Not a place for anyone that is not a drone or a yes man. Upper management is morally bankrupt.
+
+
+	Summary: 
+		Militant Culture, Mindless Robots
+
+
+Review 6:
+	Job Title: Senior Geologist
+	Location: Houston, TX
+	Review Date: 2023-10-11T17:58:47.233
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		CEO has good vision for the future. Majority of individual contributors are good to work with. Not as quick to lay people off as other oil and gas companies.
+
+
+	Cons: 
+		Geoscience and engineering staffing is too lean in most assets, and upper management doesn’t understand how stressed out we are due to workload. HR always seems to be fully staffed though :/ There’s a huge disconnect between how HR says performance evaluations, raises, and promotions work and how those things actually work. I can’t tell if they’re truly that disconnected from reality, or just pretending to be oblivious. Raises are harder to come by since the Anadarko acquisition. Promotions happen faster for those who are buddies with the right managers. It seems like every time an individual contributor gets promoted to being a people manager, the hiring decision makers completely disregard whether that person has any people skills. Sometimes it feels like they deliberately choose the candidate who is most likely to be a poor manager. The total compensation package is below average for the industry, but Oxy isn’t as quick to lay people off every time oil prices dip, so at least there’s that.
+
+
+	Summary: 
+		Overall good company, but managers need training
+
+
+Review 7:
+	Job Title: Staff Accountant
+	Location: Dallas, TX
+	Review Date: 2024-02-29T10:47:11.937
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		- Inclusive Culture
+		- Multiple schedules
+		- Good Benefits
+
+
+	Cons: 
+		- Work on the weekend at year end
+		- Can be boring sometimes
+
+
+	Summary: 
+		Lots of opportunities
+
+
+Review 8:
+	Job Title: Accounts Payable
+	Location: Midland, TX
+	Review Date: 2024-02-27T08:16:19.963
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Family oriented and flexible. Benefits are great as well.
+
+
+	Cons: 
+		Pay is not great... all movement and growth is in Houston.
+
+
+	Summary: 
+		Great Company
+
+
+Review 9:
+	Job Title: IT Support
+	Location: Houston, TX
+	Review Date: 2024-01-29T19:56:59.490
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Good benefits, flexible schedule, 9/80s, runs lean but it makes the day go by.
+
+
+	Cons: 
+		Limited promotability in some departments/fields. For engineers they have their favorites to promote.
+
+
+	Summary: 
+		Good Benefits but lacking promotion abilities
+
+
+Review 10:
+	Job Title: Senior Attorney
+	Location: Houston, TX
+	Review Date: 2024-01-31T14:07:24.417
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Great camaraderie and opportunities for global experience
+
+
+	Cons: 
+		Management in constant upheaval leads to poor morale and constant employee turnover.
+
+
+	Summary: 
+		What to expect as an Oxy Employee
+
+
+Review 11:
+	Job Title: EHS Professional
+	Location: Denver, CO
+	Review Date: 2024-02-19T14:58:23.060
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great pay, pto and benefits
+
+
+	Cons: 
+		Very disorganized at confused at times
+
+
+	Summary: 
+		Oxy
+
+
+Review 12:
+	Job Title: Production Manager
+	Location: Houston, TX
+	Review Date: 2024-02-09T08:45:00.977
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great company, high integrity, really cares for their people. No layoffs during covid.
+
+
+	Cons: 
+		lots of external pressure from the public on the sector
+
+
+	Summary: 
+		Great place to work
+
+
+Review 13:
+	Job Title: Senior Manager
+	Location: Houston, TX
+	Review Date: 2023-12-03T01:36:55.047
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Vision for becoming mist technologically advanced energy company is great.
+
+
+	Cons: 
+		Oxy will not pay to keep the people who have the skill set to accomplish this goal nor will Oxy pay enough to attract the skill set needed to get to this position.
+		Legacy Anadarko managers where put in senior management positions in the new ORCM reorganization.
+
+
+	Summary: 
+		Needs to pay to retain talent
+
+
+Review 14:
+	Job Title: Chemical Operator
+	Location: Wichita, KS
+	Review Date: 2024-02-14T16:26:19.720
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay, good benefits, overtime
+
+
+	Cons: 
+		Rotating shift work, long hours
+
+
+	Summary: 
+		Alright job
+
+
+Review 15:
+	Job Title: Chemical Operator
+	Location: Deer Park, TX
+	Review Date: 2023-08-02T13:41:44.450
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Great Benefits, Pay is average compared to other facilities.
+
+
+	Cons: 
+		Everyday I had to be on high alert walking a unit. To the company, as long as the unit is running and making money thats the #1 priority, safety is non-existent. Instead of finding a solution and repairing leaking equipment, they would rather put "band-aides" aka duct tape/ tarp to cover leaking pipes in order to keep unit running. Make sure to bring 2 to 3 pairs of clothes everyday, because you will get product on you with the amount of product getting out of the pipe, just walking in the unit is a constant hazard. You feel very unsafe and overworked. With 20+ permits given and open during the day while running the unit/taking samples/ Locking/Tagging out everything. For 1 person it can be a stressful day especially in the enviroment your in. Nothing will change with this place until they sell the plant or get rid of it. Hopefully this helps someone choose somewhere that is better than this facility.
+
+
+	Summary: 
+		Unsafe Work Environment
+
+
+Review 16:
+	Job Title: Senior Analyst
+	Location: Houston, TX
+	Review Date: 2024-01-27T14:58:16.153
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Good benefit, office location and flexible working schedules
+
+
+	Cons: 
+		It lacks of working process and procedures and operates lean.
+
+
+	Summary: 
+		A nice company to work at
+
+
+Review 17:
+	Job Title: Automation Specialist
+	Location: Sundown, TX
+	Review Date: 2024-02-06T06:26:21.917
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good pay and benefits from the company
+
+
+	Cons: 
+		There is no obtainable career ladder
+
+
+	Summary: 
+		Great Company
+
+
+Review 18:
+	Job Title: Vice President
+	Location: Houston, TX
+	Review Date: 2024-02-02T13:18:04.733
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great benefits / 401k match / competitive pay
+
+
+	Cons: 
+		Many were lifers / group think / team friction
+
+
+	Summary: 
+		Solid Firm
+
+
+Review 19:
+	Job Title: Accounting Supervisor
+	Location: Dallas, TX
+	Review Date: 2024-01-12T06:09:14.830
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Many people retire from this company which is rare. They have excellent benefits.
+
+
+	Cons: 
+		Lean organization. Long hours and not just during close. Need more bodies for the amount of work involved
+
+
+	Summary: 
+		Good company to work for
+
+
+Review 20:
+	Job Title: Land Negotiator
+	Location: None
+	Review Date: 2024-01-22T21:35:38.140
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Benefits are truly great (insurance, 401k, PTO)
+
+
+	Cons: 
+		Should adopt remote work, pay could be more competitive
+
+
+	Summary: 
+		Decent Company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

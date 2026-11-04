@@ -1,0 +1,632 @@
+
+SpartanNash is a Wholesalers: Food and Grocery company based in 49315 Byron Center, Michigan. 
+The company has 14,000 employees and has a revenue of $9,643 according to Fortune 500.
+The company is valued at $870 and has a profit of $35. The CEO of the company is Tony Sarsam.
+
+The Company has the following ratings: 
+Average ratings for SpartanNash:
+Business Outlook: 0.66
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 149 
+	2: 152 
+	3: 225 
+	4: 225 
+	5: 325 
+
+CEO: 0.82
+
+Compensation and Benefits: 3.7
+Distribution: 
+	1: 122 
+	2: 164 
+	3: 263 
+	4: 270 
+	5: 255 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 164 
+	2: 102 
+	3: 207 
+	4: 216 
+	5: 371 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 59 
+	2: 44 
+	3: 127 
+	4: 163 
+	5: 325 
+
+Overall: 3.8
+Distribution: 
+	1: 132 
+	2: 146 
+	3: 257 
+	4: 352 
+	5: 368 
+
+Senior Management: 3.7
+Distribution: 
+	1: 227 
+	2: 115 
+	3: 185 
+	4: 241 
+	5: 294 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 170 
+	2: 102 
+	3: 219 
+	4: 269 
+	5: 312 
+
+Review Count: 1255
+
+Recommend to Friend: 
+	RECOMMEND: 678
+	WONT RECOMMEND: 345
+
+
+
+
+The company has 1322 reviews on Glassdoor. The last review was posted on 2024-04-16T04:57:46.997. 
+There are 20 Reviews for SpartanNash:
+
+Review 1:
+	Job Title: Director
+	Location: Grand Rapids, MI
+	Review Date: 2024-02-01T06:17:14.150
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Incredibly smooth onboarding experience, with very clear goals and expectations from senior leadership.
+
+
+	Cons: 
+		Opportunities to continue investing in technology and automation.
+
+
+	Summary: 
+		A Thriving Culture That Truly Puts People First!
+
+
+Review 2:
+	Job Title: Talent Acquisition Partner
+	Location: None
+	Review Date: 2024-02-28T13:17:54.703
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Growth and development
+		Great work-life balance
+		Family first employer
+		Passionate HR department
+		Hourly roles provide high starting pay in most markets
+
+
+	Cons: 
+		Corporate roles have lower pay compared to market
+		Benefits for some locations (non-union) could be better
+
+
+	Summary: 
+		The employer for inclusion and opportunity
+
+
+Review 3:
+	Job Title: Replaceable Grunt
+	Location: Grand Rapids, MI
+	Review Date: 2024-04-16T04:57:46.997
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		It’s a job. I think there are better…Honestly
+
+
+	Cons: 
+		spartan is a reactive company that can’t get out of its own way. The stock price reflects this (52 week low). management is horrible, never have any solutions and waste so much. good luck with finding a problem solving company to work for. It won’t be Spartan
+
+
+	Summary: 
+		Company is an awful place to be employed.
+
+
+Review 4:
+	Job Title: Regional Asset Protection Investigator
+	Location: Byron Center, MI
+	Review Date: 2024-03-01T15:58:18.837
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Solid work life balance and ability to flex schedule.
+
+
+	Cons: 
+		I made less money 11 years in the Department as an Investigator than a new Investigator from outside company. My position was eliminated along with 7 others in the department. I was 2 months shy of 30 yrs with the company. I took the maximum 12 weeks of severance offered to me as opposed to going back to retail. Little to no empathy was shown from manager, director or any upper level executives. Severance was not paid on date we were told it would be.
+
+
+	Summary: 
+		Position eliminated 
+
+
+Review 5:
+	Job Title: Sr. Facilities Specialist
+	Location: Byron Center, MI
+	Review Date: 2024-04-05T16:47:47.690
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Pay is competitive and education or experience are compensated appropriately.
+
+
+	Cons: 
+		90% of your time is in meetings and the other 10%, you feverishly scramble to assemble the info for the next meeting. It’s all discussion, never any completion or results.
+
+
+	Summary: 
+		Misappropriation of resources
+
+
+Review 6:
+	Job Title: Class A Truck Driver
+	Location: Midland, GA
+	Review Date: 2024-01-23T19:40:56.033
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		There is not many positive points to this job.. its an abusive workplace. They hire the most lying unstable inhumane bipolar individuals to  constantly micro manage drivers. They undermine your professionalism and safety consciousness. They tell you do things you should not do. If you object they threaten to fire you over something  .. if you are silly enough to run crazy like they are encouraging you to do ..well they are recording you and will show you how unprofessional you choose drive and repremand you.. if you want an aneurysm please work here..
+		They cut the drivers down to meet their bottom line. They cook their books and You will make a certain amount of money no matter what you do. The union does nothing for drivers.. the company does what they want to you whenever they want, it's like a scary movie here .
+
+
+	Cons: 
+		The union is a sham.. The equipment sucks.. you will need to be like MacGyver to run legally here becauseThe equipment breaks down often and you're often .stranded..It's all on you. No good maintenance program. You are underpaid.
+
+
+	Summary: 
+		Don't come to spartan nash midland ga
+
+
+Review 7:
+	Job Title: E-Commerce Manager
+	Location: Wyoming, MI
+	Review Date: 2024-03-11T14:03:31.330
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great leadership - especially the ELT. Flat organization with good visibility for junior employees. Good work-life balance and hybrid flexibility. Fun HQ perks and energy from leadership. Overall, highly recommend this company if wanting to stay in the food industry.
+
+
+	Cons: 
+		Lack of clarity for promotion and career road maps. Lower pay compared to other industries. Some departments more progressive than others.
+
+
+	Summary: 
+		Great Culture
+
+
+Review 8:
+	Job Title: Material Handler/Forklift Operator
+	Location: None
+	Review Date: 2024-04-02T14:12:06.623
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Long hours great money and environment
+
+
+	Cons: 
+		Long hours late nights that freezer is the truth
+
+
+	Summary: 
+		Great work place long hours 
+
+
+Review 9:
+	Job Title: Project Manager
+	Location: Grand Rapids, MI
+	Review Date: 2024-04-01T08:04:09.167
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Nice people to work with and a good corporate culture.
+
+
+	Cons: 
+		Pay and benefits could use improvement.
+
+
+	Summary: 
+		Good Place to Work
+
+
+Review 10:
+	Job Title: Warehouse Associate
+	Location: Midland, GA
+	Review Date: 2024-04-02T21:48:39.080
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 1
+
+	Pros: 
+		Great work environment, great team.
+
+
+	Cons: 
+		Long hours, it’s freezing cold.
+
+
+	Summary: 
+		Terrible hours
+
+
+Review 11:
+	Job Title: Supervisor
+	Location: None
+	Review Date: 2024-02-24T14:34:21.963
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Pays management a decent salary.
+
+
+	Cons: 
+		Creates corporate jobs and gives them the people with no practical warehouse experience.
+
+
+	Summary: 
+		Poor execution
+
+
+Review 12:
+	Job Title: Merchandise Accounting Analyst
+	Location: None
+	Review Date: 2024-02-01T06:22:33.893
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		The people I work with are amazing.
+
+
+	Cons: 
+		Changes are coming to fast. Need to make sure all basis are covered before roll out of any area of the business. Sometimes I feel the left hand does not know what the right is doing. Associates are more concerned on where they are as a person then with spartannash as a whole. Diversity is overboard to much its not valued.
+
+
+	Summary: 
+		Love my job but need more associates in my area to cover the load.
+
+
+Review 13:
+	Job Title: Accountant
+	Location: Minneapolis, MN
+	Review Date: 2024-03-17T17:47:08.043
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		People were good to work with
+
+
+	Cons: 
+		Management could be out of touch with employees
+
+
+	Summary: 
+		Decent Place to Work
+
+
+Review 14:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-16T00:44:06.113
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Decent wage
+		Ok health benefits
+		Store discount
+
+
+	Cons: 
+		High turn over
+		Under staffed
+
+
+	Summary: 
+		over all a decent place to work
+
+
+Review 15:
+	Job Title: None
+	Location: None
+	Review Date: 2023-12-27T16:53:59.053
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Benefits are pretty decent I guess
+
+
+	Cons: 
+		Worse company than most at exploiting their workers. Asks for ADA accomodations letter in order to be allowed to wear PPE. Doesn't repair anything or replace broken equipment. Cuts payroll every month while demanding higher sales and creating more tasks. I've worked in several different retail stores in my life and this corp is BY FAR the worst to work for. And I've worked for KMart/Sears. There are literally OSHA violations EVERYWHERE and when the employees and store level management asks for repairs, etc to deal with them, they are denied because they're "too expensive." Stores are crumbling around the employees and upper management is still pushing higher and higher sales and cutting payroll, all the while "forgetting" to fix any of the problems. They take no responsibility, have no integrity, and they pass the buck down and down and down and don't even provide free pizza.
+
+
+	Summary: 
+		Terrible company
+
+
+Review 16:
+	Job Title: Manager
+	Location: South Bend, IN
+	Review Date: 2024-02-07T07:19:30.653
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		*The amount of Online Training that is available is great
+		*Other team members are great people
+
+
+	Cons: 
+		*For all of SpartanNash's talk about People First, the 1% annual raises are a huge slap in the face...
+
+
+	Summary: 
+		It's a job
+
+
+Review 17:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-02T04:58:37.063
+	Business Outlook: NEGATIVE
+	Career Opportunities: 0
+	CEO: DISAPPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		An annual review exists for employees
+
+
+	Cons: 
+		The CEO believes in a performance bellcurve so on a small team- at least one person will get a very poor raise or a PIP.
+
+
+	Summary: 
+		Evaluation/Review Process
+
+
+Review 18:
+	Job Title: Load Planner
+	Location: Indianapolis, IN
+	Review Date: 2024-01-17T04:05:10.213
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Plenty of time to take care of your own personal needs on the side. and good about getting time off when needed. Some of the people are great to work with.
+
+
+	Cons: 
+		No reguard for employees at all. Once you are in the door they do not care about you and they will not keep the promises they made to you.
+
+
+	Summary: 
+		Oz is not the same behind the curtain
+
+
+Review 19:
+	Job Title: Cashier
+	Location: Chippewa Falls, WI
+	Review Date: 2024-02-27T17:12:21.553
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		asking off can be done within a week advance, payed weekly
+
+
+	Cons: 
+		Pays a lot less than other cashiering jobs
+
+
+	Summary: 
+		Decent job
+
+
+Review 20:
+	Job Title: None
+	Location: Norfolk, VA
+	Review Date: 2024-01-13T04:32:58.650
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Remote opportunity but now hybrid, community engagement, management flexibility, employee gatherings.
+
+
+	Cons: 
+		stuck on old ways, constant monitoring taking screenshots of screen remotely every hour, they laid off some employees abruptly without warning and didn't really care. Favoritism rules here and expect to work on the weekends.
+
+
+	Summary: 
+		Okay Company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

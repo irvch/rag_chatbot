@@ -1,0 +1,688 @@
+
+Sherwin-Williams is a Chemicals company based in 44115 Cleveland, Ohio. 
+The company has 64,366 employees and has a revenue of $22,149 according to Fortune 500.
+The company is valued at $58,090 and has a profit of $2,020. The CEO of the company is None.
+
+The Company has the following ratings: 
+Average ratings for Sherwin-Williams:
+Business Outlook: 0.63
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 470 
+	2: 738 
+	3: 1637 
+	4: 2088 
+	5: 2151 
+
+CEO: 0.69
+
+Compensation and Benefits: 3.7
+Distribution: 
+	1: 331 
+	2: 595 
+	3: 1846 
+	4: 2414 
+	5: 1855 
+
+Culture and Values: 3.6
+Distribution: 
+	1: 717 
+	2: 758 
+	3: 1550 
+	4: 1795 
+	5: 1853 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 251 
+	2: 287 
+	3: 625 
+	4: 897 
+	5: 1270 
+
+Overall: 3.8
+Distribution: 
+	1: 482 
+	2: 758 
+	3: 2052 
+	4: 2935 
+	5: 2248 
+
+Senior Management: 3.4
+Distribution: 
+	1: 1003 
+	2: 1043 
+	3: 1700 
+	4: 1714 
+	5: 1406 
+
+Work Life Balance: 3.3
+Distribution: 
+	1: 1032 
+	2: 1092 
+	3: 1832 
+	4: 1707 
+	5: 1376 
+
+Review Count: 8491
+
+Recommend to Friend: 
+	RECOMMEND: 4278
+	WONT RECOMMEND: 1793
+
+
+
+
+The company has 9232 reviews on Glassdoor. The last review was posted on 2024-04-18T00:46:12.207. 
+There are 20 Reviews for Sherwin-Williams:
+
+Review 1:
+	Job Title: Sales Account Manager
+	Location: Pittsburgh, PA
+	Review Date: 2024-04-16T19:31:58.777
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		They respect their employees and treat you well
+
+
+	Cons: 
+		Average benefits. I think they have made efforts to improve them for new hires
+
+
+	Summary: 
+		Loved it here!
+
+
+Review 2:
+	Job Title: Sales Associate/Key Holder
+	Location: Philadelphia, PA
+	Review Date: 2024-03-18T22:38:30.117
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		- Customers are generally more on the nicer side but YMMV.
+		- Most of the coworkers I worked with are pretty nice. A little gossipy though.
+		- The store can get pretty quiet for long periods of time, allowing you to relax or do some chores.
+
+
+	Cons: 
+		- Managers/supervisors change constantly due to frequent job changes/moves/promotions (literally went through 3 different managers in one store over about 2 years and a neighboring store went through 2).
+		- Upper management can be really slow to hire replacements (a store I knew has been going without a store manager for more than a year and recently lost their assistant manager so they basically have no one assigned to manage the store).
+		- There are many times where you are working alone at the store particularly on weekends.
+		- You will need to do some heavy lifting for some products with little assistance.
+		- A decent amount of my full-time coworkers had to work a hefty amount of overtime to ensure that the store is staffed, and upper management complains. Even though there is literally no other option due to most of the stores being understaffed.
+		- Pretty mediocre pay for work that extends beyond a simple part-time retail job, but I was eligible to receive other benefits such as health insurance and a 401k with matching even as a part-timer.
+
+
+	Summary: 
+		Okay workload, but YMMV
+
+
+Review 3:
+	Job Title: Delivery Driver
+	Location: York, PA
+	Review Date: 2024-03-16T19:40:00.093
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Most of the employees and managers at all the locations are all very friendly and helpful, which made it feel like one big family. There were also friendly sales reps who visited the stores frequently. They had different events throughout the year for associates to gather and socialize. They do also have a program to help with mental health, and lots of opportunity for discounts at various different places.
+
+
+	Cons: 
+		Understaffing was an issue. Gossiping I feel was also an issue. I feel I was set up for failure by a story I was told about another associate in the same position as myself at a different location in turn causing me to lose my job. There are also I believe some little cliques among some associates where others are not included.
+
+
+	Summary: 
+		Like a big family
+
+
+Review 4:
+	Job Title: Store Manager
+	Location: Springfield, MO
+	Review Date: 2024-02-25T07:32:00.967
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good pay ish. Works great if you have a great team and asst manager.
+
+
+	Cons: 
+		Upper management picks favorites and rewards/raises/promotes whimsically. Worthless meetings are forced down your throat along with constant “We are family” cult rhetoric. While they work you way over hours but only pay you for 40 in some gray area of exempt employee status while you undergo the brunt of the labor which will be back-breaking. Terrible waste disposal management. Huge umbrella corporation with terrible internal communication. “Too many captain, not enough sailors” Nothing can get done efficiently. Impossible sales budgets that change mid to late year. “Moving the goal post”. Handled Covid poorly, took away 401k match during Covid while also forcing to work while not having any employees and maintaining 80 hour work weeks. Almost no compensation or raise while they boast consistent year over year record profits. Outrageously raise material costs pushed onto the store which competes against inhouse distributor which competes against inhouse plant. Contractors/business’s are catered to the point they constantly threaten to take business elsewhere unless they purchase your product for 1990’s value, thus killing your margins and operating profit(bonus) because the “sales reps” change their prices without recourse. Forced to move district to district for advancement to be forgotten about. People that had been working for 15 years were making less than people coming in. Truly a company that favors turn and burn.
+
+
+	Summary: 
+		Little bit more pay for terrible work life balance
+
+
+Review 5:
+	Job Title: Pro Sales Representative
+	Location: Bakersfield, CA
+	Review Date: 2024-04-09T12:10:52.583
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		1) Excellent benefits package
+		2) Salary is commensurate with type of work expected of you
+		3) Autonomy in the day-to-day job
+
+
+	Cons: 
+		1) Unsustainably high sales-call expectations
+		2) SHW share price and quarterly reports heavily impacts work-load required of sales reps
+		3) Though you don't work in an office, the culture there is very gossip-oriented as if you were in an office.
+
+
+	Summary: 
+		Excellent company with platinum-tier benefits package
+
+
+Review 6:
+	Job Title: Assistant Manager
+	Location: None
+	Review Date: 2024-04-16T23:33:51.090
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Decent pay and benefits.
+		
+		Opportunity for advancement due to high turnover.
+
+
+	Cons: 
+		Staffing issues. The company saves on overhead by understaffing local stores.
+		
+		Store location can make or break you. 
+		
+		High staff turnover. You are expendable.
+		
+		“Sales model,” inconsistent pricing, and account managing discrepancies plague every part of the business and up the management latter.
+
+
+	Summary: 
+		It all depends on store location.
+
+
+Review 7:
+	Job Title: Sales Associate
+	Location: Ruston, LA
+	Review Date: 2024-04-15T15:10:59.280
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		They care about you and the things you have going on outwside of work my bosses even gave me a birthday present
+
+
+	Cons: 
+		It is fast paced and if that’s a con for you then its not for you but other than that I have no negative feedback
+
+
+	Summary: 
+		Great Company 
+
+
+Review 8:
+	Job Title: Sales Representative
+	Location: Dallas, TX
+	Review Date: 2024-04-10T21:06:32.653
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Feel connected with everyone, they hire great people.
+
+
+	Cons: 
+		Pay mostly. Advancement can demand moving out of state for a promotion. Tough on families with kids.
+
+
+	Summary: 
+		Great Company/Below Average Pay
+
+
+Review 9:
+	Job Title: Store Manager
+	Location: Baytown, TX
+	Review Date: 2024-04-12T19:24:13.917
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good benefits, and opportunity for advancement given the willingness to relocate
+
+
+	Cons: 
+		They want you to relocate to move high up. 48 hours weekly minimum even though the job is “salary”
+
+
+	Summary: 
+		Solid
+
+
+Review 10:
+	Job Title: Sales Associate
+	Location: Orlando, FL
+	Review Date: 2024-04-15T13:56:00.623
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		They are really flexible with you and your schedule.Good benefits and opportunities for growth.
+
+
+	Cons: 
+		Depending on the day there can be a lot of heavy lifting.
+
+
+	Summary: 
+		Good experience 
+
+
+Review 11:
+	Job Title: Sales Associate
+	Location: None
+	Review Date: 2024-04-16T12:26:14.080
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Constant learning and fast paced workplace. Also, getting to personally know and form a relationship with your customers
+
+
+	Cons: 
+		Outdated software and physically demanding
+
+
+	Summary: 
+		great company!
+
+
+Review 12:
+	Job Title: Part Time Sales Associate
+	Location: Keller, TX
+	Review Date: 2024-02-29T22:49:25.190
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Closes at 6
+		Pay is ok
+		The people
+
+
+	Cons: 
+		No Flexibility 
+		No Bilingual Pay
+
+
+	Summary: 
+		My experience
+
+
+Review 13:
+	Job Title: Cashier
+	Location: San Diego, CA
+	Review Date: 2024-03-25T11:32:58.270
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Working as a cashier at Sherwin-Williams can offer several advantages:
+		
+		1. **Industry Experience**: You'll gain valuable experience in the retail industry, particularly in the paint and coatings sector, which could be beneficial if you're considering a career in this field or related industries.
+		
+		2. **Product Knowledge**: Interacting with customers and handling transactions will deepen your understanding of Sherwin-Williams' products, their applications, and their benefits, which can be useful professionally and personally.
+		
+		3. **Customer Interaction Skills**: Working as a cashier provides ample opportunities to develop strong customer service skills, including communication, problem-solving, and conflict resolution, which are valuable in any career path.
+		
+		4. **Teamwork**: You'll likely work alongside a team of colleagues, fostering collaboration and teamwork skills that are essential in almost any work environment.
+		
+		5. **Flexible Hours**: Retail positions often offer flexible scheduling options, allowing you to balance work with other commitments such as education or family responsibilities.
+		
+		6. **Employee Discounts**: Many retail positions, including Sherwin-Williams, offer employee discounts on products, which can save you money on items you may need for personal projects or home improvement.
+		
+		7. **Career Development Opportunities**: Sherwin-Williams is a large company with opportunities for advancement. Starting as a cashier could lead to roles in management, sales, or other areas within the company if you demonstrate dedication and skills.
+		
+		8. **Stable Employment**: Sherwin-Williams is a well-established company with a strong presence in the paint and coatings industry, offering stable employment and potential job security.
+		
+		9. **Skill Enhancement**: Handling transactions, managing inventory, and using point-of-sale systems will enhance your numerical and organizational skills, which are valuable in various professions.
+		
+		10. **Networking**: Working at Sherwin-Williams provides opportunities to network with professionals in the industry, potentially opening doors to future career opportunities or collaborations.
+		
+		Overall, working as a cashier at Sherwin-Williams can provide a platform for personal and professional growth, offering valuable skills and experiences that can benefit you in various aspects of your life and career.
+
+
+	Cons: 
+		Working as a cashier at Sherwin-Williams, like any job, has its downsides. Here are some potential cons:
+		
+		1. Repetitive Tasks: Cashiering can involve performing the same tasks repeatedly, which may lead to boredom or monotony over time.
+		
+		2. Customer Service Challenges: Dealing with a variety of customers, including those who may be impatient, unhappy, or difficult to please, can be stressful and emotionally taxing.
+		
+		3. Handling Cash: Managing cash transactions carries a risk of errors, discrepancies, and potential security concerns, which can be demanding and require careful attention to detail.
+		
+		4. Physical Demands: Cashiers may need to stand for long periods, which can lead to fatigue and discomfort, particularly during busy hours.
+		
+		5. Limited Career Advancement: Cashier positions may have limited opportunities for career growth within the company, making it challenging to advance professionally.
+		
+		6. Work Schedule: Depending on the store's operating hours, cashier shifts may include evenings, weekends, and holidays, which can disrupt work-life balance and personal commitments.
+		
+		7. Fast-Paced Environment: Sherwin-Williams stores can get busy, especially during peak times or when there are promotions or sales events, leading to high-pressure situations and a fast-paced work environment.
+		
+		8. Training Requirements: Cashiers may need to undergo extensive training to learn about Sherwin-Williams products, policies, and procedures, which can be time-consuming and overwhelming for some individuals.
+		
+		9. Limited Benefits: Depending on the specific employment arrangement, cashier positions at Sherwin-Williams may offer limited benefits such as healthcare coverage, retirement plans, or paid time off compared to other roles within the company.
+		
+		10. Exposure to Chemicals: In some cases, cashiers may be exposed to paint fumes or other chemicals used in Sherwin-Williams products, which could pose health risks or discomfort for those with sensitivities.
+
+
+	Summary: 
+		My thoughts
+
+
+Review 14:
+	Job Title: Customer Service Specialist
+	Location: Muskego, WI
+	Review Date: 2024-04-10T10:58:13.140
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		health insurance and benefits are quite good. there are a lot of options for the uniforms. starting pay is pretty good.
+
+
+	Cons: 
+		it's rough to be a woman in this industry. corporate doesn't actually take action to back up their claims as being queer/women's allies.
+
+
+	Summary: 
+		she's dece
+
+
+Review 15:
+	Job Title: Ui\Ux Designer
+	Location: None
+	Review Date: 2024-04-17T06:27:58.050
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Consistent, stable, reliable, ordinary, fulfilling
+
+
+	Cons: 
+		Not eco friendly, not cutting edge, not thrilling
+
+
+	Summary: 
+		Ok
+
+
+Review 16:
+	Job Title: Assistant Manager
+	Location: Sidney, OH
+	Review Date: 2024-04-15T03:09:02.567
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Development, training and the clientele you build friendships with.
+
+
+	Cons: 
+		Upper management is disconnected, unrealistic metrics.
+
+
+	Summary: 
+		Well worth the effort. Development opportunities are abundant. 
+
+
+Review 17:
+	Job Title: Color Consultant
+	Location: None
+	Review Date: 2024-04-03T17:02:57.470
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Getting to meet new people. You get reimbursed for gas mileage. Simple job just assisting people choose paint colors, other times you are in the paint store with customers telling them about the service available.
+
+
+	Cons: 
+		You have to use your own car and there's a lot of driving, Many times you're in a stranger's home for 1.5 hours.
+
+
+	Summary: 
+		Nice
+
+
+Review 18:
+	Job Title: Group Leader
+	Location: Minneapolis, MN
+	Review Date: 2024-04-14T06:17:11.843
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		job stability
+		work and life balance
+
+
+	Cons: 
+		lack of diversity
+		unclear promotion expectations
+
+
+	Summary: 
+		Good company overall but can reflect more on diversity in career dev
+
+
+Review 19:
+	Job Title: Assistant Manager
+	Location: Chesapeake, VA
+	Review Date: 2024-04-15T08:15:54.693
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Better understanding on how to sale
+
+
+	Cons: 
+		The leadership could be a little better
+
+
+	Summary: 
+		It was ok
+
+
+Review 20:
+	Job Title: Sales Associate
+	Location: Lawrenceville, GA
+	Review Date: 2024-04-15T13:22:27.017
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		it has comfortable work culture
+
+
+	Cons: 
+		it had an unfair workload
+
+
+	Summary: 
+		Uncomfortable
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

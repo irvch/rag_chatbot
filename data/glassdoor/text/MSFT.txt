@@ -1,0 +1,650 @@
+
+Microsoft is a Computer Software company based in 98052 Redmond, Washington. 
+The company has 221,000 employees and has a revenue of $198,270 according to Fortune 500.
+The company is valued at $2,146,049 and has a profit of $72,738. The CEO of the company is Satya Nadella.
+
+The Company has the following ratings: 
+Average ratings for Microsoft:
+Business Outlook: 0.82
+
+Career Opportunities: 4
+Distribution: 
+	1: 474 
+	2: 626 
+	3: 2080 
+	4: 3887 
+	5: 6149 
+
+CEO: 0.92
+
+Compensation and Benefits: 4.1
+Distribution: 
+	1: 312 
+	2: 621 
+	3: 2204 
+	4: 4299 
+	5: 5629 
+
+Culture and Values: 4.2
+Distribution: 
+	1: 457 
+	2: 519 
+	3: 1340 
+	4: 3111 
+	5: 7554 
+
+Diversity and Inclusion: 4.3
+Distribution: 
+	1: 412 
+	2: 404 
+	3: 1207 
+	4: 2989 
+	5: 7894 
+
+Overall: 4.3
+Distribution: 
+	1: 417 
+	2: 520 
+	3: 2008 
+	4: 5786 
+	5: 10129 
+
+Senior Management: 3.8
+Distribution: 
+	1: 777 
+	2: 879 
+	3: 2157 
+	4: 3784 
+	5: 5284 
+
+Work Life Balance: 4.1
+Distribution: 
+	1: 578 
+	2: 720 
+	3: 2004 
+	4: 3303 
+	5: 6316 
+
+Review Count: 45249
+
+Recommend to Friend: 
+	RECOMMEND: 10151
+	WONT RECOMMEND: 1345
+
+
+
+
+The company has 54742 reviews on Glassdoor. The last review was posted on 2024-04-18T02:06:02.203. 
+There are 20 Reviews for Microsoft:
+
+Review 1:
+	Job Title: Software Engineer
+	Location: Mountain View, CA
+	Review Date: 2024-04-17T16:29:10.003
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Typical big tech.
+		Lots of opportunities, but boring work most of the time
+
+
+	Cons: 
+		Hard to transfer internally, basically same loop as external hires
+
+
+	Summary: 
+		Typical big tech
+
+
+Review 2:
+	Job Title: None
+	Location: Redmond, WA
+	Review Date: 2013-01-28T18:20:34.257
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 4
+
+	Pros: 
+		1.  If you love tech, this is a great place.  No doubt you'll talk tech (mostly the MSFT stack) from enterprise to consumer - from PCs to phones to Xboxes - from datacenter to desktop.
+		
+		2.  What were GREAT benefits are now VERY GOOD (took a small step down) but still probably better than you'll find at 99% of large corporations.  If you've got family - the value of the benefits is even higher.  401k match is nice.
+		
+		3.  Even with it's struggles MSFT is still a cash printing machine.  This means if you can keep your nose clean and do reasonable work, you can have a stable job, pay your bills, feed your family, and not worry (too much) about layoffs.  The stock you own likely won't tank, but probably won't go up much either.  You'll get a bonus each year and some stock.  It's a decent life if you aren't looking to light the world on fire.
+
+
+	Cons: 
+		Brand on Your Resume:  After many years of losing market share and struggling to be at the front end of innovation and the fact that there's 90,000 employees, don't think MSFT is necessarily going to be attractive on your resume to more agile and smaller companies.
+		
+		Managing Your Career:  Make you say this out loud so it registers - 90,000 employees work there.  Double that for vendors.  It is VERY hard to "stand out" and move up in the company.  Don't expect your manager to be much of an advocate or enabler to help you meet your career goals - they are basically trying to survive the stack rank every year too.  Not familiar with the stack rank?  Check out the 2012 Vanity Fair article called "Microsoft's Lost Decade".
+
+
+	Summary: 
+		Thoughts after 10 years....
+
+
+Review 3:
+	Job Title: Research Scientist
+	Location: Redmond, WA
+	Review Date: 2024-03-12T08:30:59.203
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Work-to-life balance; still a friendly culture; good engineering.
+
+
+	Cons: 
+		Lower compensation than peers; lack of career-path transparency; not innovative.
+
+
+	Summary: 
+		Still a better culture, despite slow but steady decline
+
+
+Review 4:
+	Job Title: Senior Incident Response Lead
+	Location: Redmond, WA
+	Review Date: 2024-04-08T14:34:11.367
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Medical, Dental, Vision free
+		Military Benefits (if your supervisor will support you)
+		Interesting and challenging work
+		Remote work in some cases.
+
+
+	Cons: 
+		Horrible work life balance
+		If you don't get along with your immediate supervisor it will be rough
+		Some people allowed to contribute very little or strait up refuse work. This means those that do work hard are stuck compensating for those who dont.
+		Not highest salary, but lots of bonus and stock *Potential*
+		Having a good relationship with immediate supervisor is critical to your rating, growth opportunities, bonuses, military support etc.
+
+
+	Summary: 
+		Great benefits, Rought work-life balance,
+
+
+Review 5:
+	Job Title: Senior Software Engineer
+	Location: Mountain View, CA
+	Review Date: 2024-04-10T06:27:09.363
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		stock award, free food, free LinkedIn shuttle to the Sunnyvale campus
+
+
+	Cons: 
+		insular team, every new idea has to be in the "Microsoft way", tools are ancient (my team did not use git) and frustrating. having to work on Windows tools, too many onerous processes and procedures (you spend very little time coding). They don't understand industry terms and lingo. I was mocked for saying I am taking PTO instead of using OOF (out of office) to describe my time off. People who grow within the organization are preferred to people who are hired from outside when assigning new tasks
+
+
+	Summary: 
+		Difficult and insular
+
+
+Review 6:
+	Job Title: Executive Assistant
+	Location: Redmond, WA
+	Review Date: 2024-04-16T09:57:46.717
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Microsoft is leading the way with our AI initiatives, instead of playing catch-up. This is evident in the rising stock price, the innovative AI integration into all of our products, and the recent, key executive hires.
+
+
+	Cons: 
+		Working for someone external brought in to lead an org is a risk - usually between 18-24 months to determine if they are a culture fit. They could be gone and you're left scrambling to find a role.
+
+
+	Summary: 
+		Excellent Opportunities
+
+
+Review 7:
+	Job Title: Sales Executive
+	Location: Dallas, TX
+	Review Date: 2024-02-18T18:39:20.670
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great people, great benefits, good healthcare, Nice CEO, at least in public.
+
+
+	Cons: 
+		Toxic environment, Come out fast as the experienced or less capable will throw you under the bus. I lasted for 5 years and was told to move around every two years, but with all the diversity hires no room for advancement. New positions were focused on diversity hires and MBAs were overlooked. Look at how many U of Phoenix grads as people came to the realization that they pay across the board regardless of role as long as you have the advance degrees and MS would pay for them. They own all my kids hardware now, as I logged in on their PCs during COVID.
+
+
+	Summary: 
+		Not what I expected.
+
+
+Review 8:
+	Job Title: Senior Cloud Solution Architect
+	Location: Reston, VA
+	Review Date: 2024-03-27T05:56:59.167
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Job was great in the PFE/CE days, extremely rewarding, good compensation, great org.
+
+
+	Cons: 
+		Once the tech role (PFE/CE) was combined with the sales role (CSA) it ruined the tech role. As much lip service as is paid to doing what is right for the customer, at the end of the day it all comes down to sales at all costs. I had a hard time reconciling the ethics of a customer paying to have me on site to provide support, but I am actually rated on how much more I can get them to buy. I doubt customers would be happy to know that is how their paid support is rated.
+
+
+	Summary: 
+		A dream job gone bad
+
+
+Review 9:
+	Job Title: Product Marketing Manager
+	Location: Seattle, WA
+	Review Date: 2024-04-15T11:08:50.013
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good pay, even if it averages less than other tech firms. Good benefits. Day to day is highly dependent upon your team/manager.
+
+
+	Cons: 
+		Clunky corporate structure, hard (not impossible) for a single individual to make any kind of discernible impact. Essentially the same cons as any other large tech firm, no matter what they may say. MSFT, Amazon, Google, Meta: pick your poison
+
+
+	Summary: 
+		Good company. Not perfect, but what is?
+
+
+Review 10:
+	Job Title: Business Applications Specialist
+	Location: Dallas, TX
+	Review Date: 2024-04-12T10:44:02.077
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Company as a whole is wonderful: Investment in AI across the entire Microsoft stack, leader in multiple Gartner reports, easy foot in the door when selling, attainable targets, and lots of resources.
+
+
+	Cons: 
+		Some management came from outside and doesn't display Microsoft's culture and makes it difficult for IC's to focus on the positives. Lots of churn in the Business Applications space (people moving to other roles within Microsoft or leaving the company).
+
+
+	Summary: 
+		Best company I have ever worked for
+
+
+Review 11:
+	Job Title: Business Applications Specialist
+	Location: Dallas, TX
+	Review Date: 2024-04-12T10:44:02.077
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Company as a whole is wonderful: Investment in AI across the entire Microsoft stack, leader in multiple Gartner reports, easy foot in the door when selling, attainable targets, and lots of resources.
+
+
+	Cons: 
+		Some management came from outside and doesn't display Microsoft's culture and makes it difficult for IC's to focus on the positives. Lots of churn in the Business Applications space (people moving to other roles within Microsoft or leaving the company).
+
+
+	Summary: 
+		Best company I have ever worked for
+
+
+Review 12:
+	Job Title: Territory Sales Excellence Manager
+	Location: Mountain View, CA
+	Review Date: 2024-03-28T09:06:12.553
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Microsoft has amazing benefits, most people you work with are absolutely outstanding, the customers are great to work with. While I was there, I had a very understanding manager who provided me flexibility in where I worked, going into the office wasn't a requirement, but I made it down maybe once or twice a month.
+
+
+	Cons: 
+		My least favorite part of working at Microsoft was there were those occasional people who were rewarded even after showcasing poor work ethic. But those experiences were few and far between and did not affect my daily working life.
+
+
+	Summary: 
+		Former Retail Microsoft Employee
+
+
+Review 13:
+	Job Title: Product Marketing Manager
+	Location: Seattle, WA
+	Review Date: 2024-04-12T15:37:31.060
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good work life balance
+		Provide lots of responsibility and experience for early in career
+		As of recently, company is leading in AI and it finally feels like we are a leader in tech.
+
+
+	Cons: 
+		College hires come in at a really low level and it's difficult to level up quickly enough to justify the work
+		Constant re-orgs, ie. getting placed in roles that you did not choose
+		Not a very social community
+
+
+	Summary: 
+		Great place to work
+
+
+Review 14:
+	Job Title: Account Technology Strategist (ATS)
+	Location: None
+	Review Date: 2024-04-16T09:48:30.557
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Bottom line...you can make pretty good money working for Microsoft and the benefits are pretty competitive.
+
+
+	Cons: 
+		The bureaucracy is world class...very difficult to get anything done. Internal advancement opportunities are all but non-existent...middle management controls your fate. If they don't want to replace you they'll make sure you don't get the job...pretty dirty.
+
+
+	Summary: 
+		Good and Bad
+
+
+Review 15:
+	Job Title: Global Process Owner
+	Location: Redmond, WA
+	Review Date: 2024-04-17T11:59:32.953
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 1
+
+	Pros: 
+		Good pay, nice benefits, reputation
+
+
+	Cons: 
+		The team you are on means everything
+
+
+	Summary: 
+		Good Company all depends on the Team
+
+
+Review 16:
+	Job Title: Senior Software Engineer
+	Location: Redmond, WA
+	Review Date: 2024-02-10T12:18:53.113
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		* Ability to switch jobs internally within Microsoft to work on all different kinds of projects in all areas of software. Different teams have different cultures and practices, so look for a team that's a good match for you.
+		* In general, the culture is improving on customer focus and growth mindset. Although management can be political and chaotic, the folks at the ground level generally are supportive of each other and stiving to make the best, most positive products that they can.
+		* Lots of resources to do things on a large scale and have a big impact.
+		* Microsoft takes ethics seriously and has a real commitment to doing the right thing.
+
+
+	Cons: 
+		* Difficult environment for innovation. Microsoft tends to be better at improving existing products than creating new ones. Microsoft puts a lot of effort into innovating, but it often reorganizes, changes directions, or cancels projects before things can pan out.
+		* Lots of meetings and process that comes with being a large company that has to coordinate between teams.
+		* Although this isn't generally the case, some "old Microsoft" teams can be very stressful and power struggles between teams and leaders are common.
+
+
+	Summary: 
+		Can be a great place to work if you find a good team
+
+
+Review 17:
+	Job Title: Enterprise Digital Specialist
+	Location: Houston, TX
+	Review Date: 2024-03-13T15:10:41.323
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The culture and people at the company are amazing. Incredible leadership, starting with our CEO, Satya Nadella, along with our C-Suite. Microsoft is a very progressive, innovative, forward thinking company. The company's ERGs like Blacks at Microsoft are phenomenal.
+
+
+	Cons: 
+		Ever so often I hear that some people newer to Microsoft feel that they have to politic in order to move up the way they want to in the company. Personally, I look at the same thing or situation but have a different view. I look it as you needing to be strategic and intentional as far as it relates to your career trajectory and upward mobility within the company.
+
+
+	Summary: 
+		Best Company in the World
+
+
+Review 18:
+	Job Title: Senior Product Manager
+	Location: None
+	Review Date: 2024-01-07T07:05:59.733
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		As far as big corporations go, Microsoft is one of the best ones to work. The company culture is overall great. They emphasize a growth mindset and try to care about people. They have strong emphasis on diversity and inclusion which helps everyone think about how to create a more welcoming and inclusive environment. The pay and benefits are competitive. Because of all the products they work on, you can work on different products and move teams without leaving the company. They’re also making a lot of great strategic decisions which gives me faith in the leadership and direction they’re headed.
+
+
+	Cons: 
+		While the company culture overall is good and they try to emphasize good values, it’s a huge company so you can have a vast difference in experience depending on where you work. If you’re interviewing, make sure you meet with your hiring manager, evaluate them and ask questions about the culture of the team. 
+		A lot of work is still Seattle centric which makes it difficult to be visible if you’re new and remote, impacting promotions, influence, etc.
+		If you’re getting hired for a PM position, make sure you understand what is expected from the role. It looks vastly different depending on the product and its needs. I would recommend staying away from products that aren’t growing, especially as a PM.
+
+
+	Summary: 
+		Good company to work for
+
+
+Review 19:
+	Job Title: Principal Software Engineering Manager
+	Location: None
+	Review Date: 2024-04-15T13:44:40.710
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Working with very smart people
+		Large scale impact and value for the work done
+		Positive and inclusive culture
+		Large variety of positions and experiences to have
+
+
+	Cons: 
+		Groups are highly independent and experience in a group can be highly localized 
+
+
+	Summary: 
+		Great company overall though experience can be highly localized per team
+
+
+Review 20:
+	Job Title: Software Engineer
+	Location: Redmond, WA
+	Review Date: 2024-04-13T21:21:28.847
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Good buildings and soccer fields.
+
+
+	Cons: 
+		Outdated tech stack, shixxx codes everywhere, management chaos and unclear goals for teams but only care about AI. Company becomes better and better per the stock while low pay and no merit increase. Talents are leaving, everyone in my team prepares to leave too.
+
+
+	Summary: 
+		Company is getting better, while treating employees worse
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

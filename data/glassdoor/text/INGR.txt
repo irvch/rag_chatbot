@@ -1,0 +1,623 @@
+
+Ingredion is a Food Production company based in 60154 Westchester, Illinois. 
+The company has 11,700 employees and has a revenue of $7,946 according to Fortune 500.
+The company is valued at $6,711 and has a profit of $492. The CEO of the company is James (Jim) Zallie.
+
+The Company has the following ratings: 
+Average ratings for Ingredion:
+Business Outlook: 0.73
+
+Career Opportunities: 3.5
+Distribution: 
+	1: 99 
+	2: 119 
+	3: 187 
+	4: 177 
+	5: 136 
+
+CEO: 0.8
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 31 
+	2: 69 
+	3: 174 
+	4: 265 
+	5: 177 
+
+Culture and Values: 4
+Distribution: 
+	1: 97 
+	2: 81 
+	3: 127 
+	4: 161 
+	5: 244 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 32 
+	2: 33 
+	3: 71 
+	4: 102 
+	5: 174 
+
+Overall: 4
+Distribution: 
+	1: 71 
+	2: 91 
+	3: 152 
+	4: 246 
+	5: 258 
+
+Senior Management: 3.5
+Distribution: 
+	1: 136 
+	2: 78 
+	3: 139 
+	4: 159 
+	5: 120 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 109 
+	2: 93 
+	3: 141 
+	4: 192 
+	5: 178 
+
+Review Count: 822
+
+Recommend to Friend: 
+	RECOMMEND: 455
+	WONT RECOMMEND: 195
+
+
+
+
+The company has 997 reviews on Glassdoor. The last review was posted on 2024-04-17T17:00:29.843. 
+There are 20 Reviews for Ingredion:
+
+Review 1:
+	Job Title: Operations
+	Location: Bedford Park, IL
+	Review Date: 2024-04-17T17:00:29.843
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Good workplace for a stepping stone
+
+
+	Cons: 
+		Too many work hours in a work week.
+
+
+	Summary: 
+		Operations 
+
+
+Review 2:
+	Job Title: None
+	Location: Indianapolis, IN
+	Review Date: 2024-03-14T08:39:04.220
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		They pay well and have good benefits. There are some good people who work here, but you can find that anywhere.
+
+
+	Cons: 
+		Where do I even start? Old buildings, disgusting work environment, constant turnover of employees and management, unorganized at every level of the organization, your day will be constantly putting out fires without any time to do any meaningful work. Incompetent senior leadership, toxic work culture, outdated systems, everything takes so long to get anything accomplished because of the multiple layers of management causing gridlock. Absolutely horrible work/life balance. Poor communication between corporate and the plant. I have never worked in a more chaotic, toxic, and frustrating environment. HR doesn't care about employee morale and turns a blind eye to issues rather than dealing with them.
+
+
+	Summary: 
+		This Place is Awful. No, seriously.
+
+
+Review 3:
+	Job Title: Marketing
+	Location: None
+	Review Date: 2024-04-08T04:05:06.563
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Plenty of opportunities to learn, be involved. Everyone I’ve worked with seems willing to help me be successful.
+
+
+	Cons: 
+		Seems like it’s impossible to get rid of some underperformers.
+
+
+	Summary: 
+		Great people, plenty of opportunities
+
+
+Review 4:
+	Job Title: Operator
+	Location: Bedford Park, IL
+	Review Date: 2024-04-10T15:10:34.090
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Co workers/ immediate management are good hard working people
+
+
+	Cons: 
+		Company only cares about share price. Plant literally falling apart. No home/work balance.
+
+
+	Summary: 
+		Going downhill fast
+
+
+Review 5:
+	Job Title: Business Analyst
+	Location: Chicago, IL
+	Review Date: 2024-03-04T09:30:23.923
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Decent pay, and nice workplace.
+
+
+	Cons: 
+		Very siloed, and very tactical. Spent $2million integrating a software only to say immediately after they were going to the next gen syste,
+		Neither the prior or current software were being used to anywhere near their capabilities, and the converted software sat in its own instance, effectively creating another silo
+
+
+	Summary: 
+		Average Management more tactical than strategic
+
+
+Review 6:
+	Job Title: Team Lead
+	Location: Baltimore, MD
+	Review Date: 2024-03-26T06:41:28.307
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		They are great with giving work life balance.
+
+
+	Cons: 
+		There still feels like there are silos.
+
+
+	Summary: 
+		Great Environment
+
+
+Review 7:
+	Job Title: Business Development Manager
+	Location: Bridgewater, NJ
+	Review Date: 2023-10-01T05:04:56.867
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Benefits. Ingredion will give you opportunities to move departments if you network well enough and are proactive about it. They give opportunities to younger people to manage. Ingredion is a great technically driven company with a good reputation for its technical people. A great place to start your career at and then leave after 4 years for better opportunities.
+
+
+	Cons: 
+		They don’t train their managers. Young middle managers stifle progress, training and career of employees. I felt insignificant, undervalued and underpaid. They promote technical people to move to sales without giving them the right training and mentoring to succeed. They care more about company policies than actual employees well-being. Huge HR turnover.
+
+
+	Summary: 
+		Poor training, sets you up for failure
+
+
+Review 8:
+	Job Title: Production Operator
+	Location: Mapleton, IL
+	Review Date: 2024-03-14T10:55:16.887
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Great pay good benefits great people
+
+
+	Cons: 
+		work schedule rotating shift weekends
+
+
+	Summary: 
+		Good Place to work
+
+
+Review 9:
+	Job Title: Human Resources Generalist
+	Location: Bridgewater, NJ
+	Review Date: 2024-03-10T11:47:02.977
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: NO_OPINION
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		People are great, good culture
+
+
+	Cons: 
+		Benefits are just ok, lots of change
+
+
+	Summary: 
+		Good job
+
+
+Review 10:
+	Job Title: Lab Technician
+	Location: White Marsh, MD
+	Review Date: 2024-02-14T15:35:26.177
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Most of the scientists work well together on site, and communicate well.
+
+
+	Cons: 
+		The upper management needs work on conflict resolution. The few Scientists that don't work well with others don't get the communication needed to prevent or redirect conflicts that happen.
+
+
+	Summary: 
+		Good community
+
+
+Review 11:
+	Job Title: Financial Analyst
+	Location: Tulsa, OK
+	Review Date: 2024-03-13T20:15:29.373
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Hybrid schedule was great at the time
+
+
+	Cons: 
+		A lot of negatives especially the Tulsa office
+
+
+	Summary: 
+		Salary
+
+
+Review 12:
+	Job Title: Business Development Manager
+	Location: Chicago, IL
+	Review Date: 2023-07-28T08:17:52.237
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		People, big emphasis on diversity and inclusion
+
+
+	Cons: 
+		No new senior leadership from outside for new ideas ("we have always done it this way" attitude) same people in leadership positions for the last 20 years. Highly engaged, motivated employees quickly become disengaged as "innovation" is a very common word but is just that, corporate lingo with no meaning. Thinking outside the box and presenting new ideas and solutions only leads to "we've never done it that way," "it is too hard to change," "that's not so-and-so's idea so it will never happen." This breeds a culture where any new mid &amp; lower level employees become disengaged. Asking for help from management gets swept under the rug. Leadership may listen but they don't hear you when needs are articulated and solutions are presented. If you has for help with other solutions there is no advice or other ideas. Overall lack of action by senior leadership. Promotions are not based on work and delivered results - it based on age, how long you have been in a role, and number of years in career. Great company if you want to collect a pay check and maintain status quo. If you are motivated to do big things, work hard and take ownership, maybe reconsider.
+
+
+	Summary: 
+		Old way of thinking
+
+
+Review 13:
+	Job Title: Principal Technologist
+	Location: Bridgewater, NJ
+	Review Date: 2024-02-13T19:32:33.527
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		People and culture are great
+
+
+	Cons: 
+		Salary is very low comparing to CPG
+
+
+	Summary: 
+		Sade work environment
+
+
+Review 14:
+	Job Title: Process Operator
+	Location: Plover, WI
+	Review Date: 2024-02-13T05:12:52.657
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		They do pay very well
+
+
+	Cons: 
+		The management is not very good.
+
+
+	Summary: 
+		Pay
+
+
+Review 15:
+	Job Title: None
+	Location: None
+	Review Date: 2024-02-01T12:13:10.390
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		good work life balance, hybrid work,
+
+
+	Cons: 
+		very siloed, too many politics to navigate to make any actual change
+
+
+	Summary: 
+		Stable Company but silos
+
+
+Review 16:
+	Job Title: None
+	Location: None
+	Review Date: 2024-01-09T06:51:30.683
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Reasonable salary and decent benefits
+
+
+	Cons: 
+		A lack of upward mobility
+
+
+	Summary: 
+		Fair work
+
+
+Review 17:
+	Job Title: Process Operator
+	Location: Indianapolis, IN
+	Review Date: 2024-01-08T01:02:40.310
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Write your own check, decent insurance
+
+
+	Cons: 
+		Management problems, putting their work on employees and work life balance
+
+
+	Summary: 
+		Horrible management
+
+
+Review 18:
+	Job Title: Senior Manager, Procurement
+	Location: Westchester, IL
+	Review Date: 2023-11-28T09:16:23.180
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Ingredion is a very safety minded culture who puts their people first in a Care First culture.
+
+
+	Cons: 
+		Bow down to a DEI culture that tends to have a divisive vibe vs bringing people together.
+
+
+	Summary: 
+		Great company to work for!
+
+
+Review 19:
+	Job Title: Technologist
+	Location: Bridgewater, NJ
+	Review Date: 2023-12-14T19:25:00.617
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good work culture that cares about its employees
+
+
+	Cons: 
+		. . . . .
+
+
+	Summary: 
+		Good Culture
+
+
+Review 20:
+	Job Title: None
+	Location: North Kansas City, MO
+	Review Date: 2023-11-15T03:47:21.030
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Competitive pay and good benefits such as charitable match, pet insurance, parental leave, etc
+
+
+	Cons: 
+		Inconsistent and unclear procedures that change regularly
+
+
+	Summary: 
+		Decent Pay and Benefits
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

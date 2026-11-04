@@ -1,0 +1,632 @@
+
+Norfolk Southern is a Railroads company based in 30308 Atlanta, Georgia. 
+The company has 19,300 employees and has a revenue of $12,745 according to Fortune 500.
+The company is valued at $48,257 and has a profit of $3,270. The CEO of the company is Alan H. Shaw.
+
+The Company has the following ratings: 
+Average ratings for Norfolk Southern:
+Business Outlook: 0.29
+
+Career Opportunities: 2.7
+Distribution: 
+	1: 392 
+	2: 249 
+	3: 339 
+	4: 251 
+	5: 205 
+
+CEO: 0.48
+
+Compensation and Benefits: 3.2
+Distribution: 
+	1: 106 
+	2: 143 
+	3: 353 
+	4: 468 
+	5: 367 
+
+Culture and Values: 2.2
+Distribution: 
+	1: 614 
+	2: 257 
+	3: 211 
+	4: 155 
+	5: 137 
+
+Diversity and Inclusion: 2.9
+Distribution: 
+	1: 203 
+	2: 85 
+	3: 148 
+	4: 102 
+	5: 102 
+
+Overall: 2.7
+Distribution: 
+	1: 471 
+	2: 309 
+	3: 423 
+	4: 303 
+	5: 190 
+
+Senior Management: 2.2
+Distribution: 
+	1: 663 
+	2: 245 
+	3: 228 
+	4: 173 
+	5: 109 
+
+Work Life Balance: 2.1
+Distribution: 
+	1: 776 
+	2: 243 
+	3: 187 
+	4: 124 
+	5: 101 
+
+Review Count: 1702
+
+Recommend to Friend: 
+	RECOMMEND: 453
+	WONT RECOMMEND: 831
+
+
+
+
+The company has 1922 reviews on Glassdoor. The last review was posted on 2024-04-17T23:29:12.190. 
+There are 20 Reviews for Norfolk Southern:
+
+Review 1:
+	Job Title: Business Analyst
+	Location: Atlanta, GA
+	Review Date: 2024-04-11T13:34:06.517
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great new campus in downtown Atlanta with many amenities. Good culture and involvement opportunities for younger people.
+
+
+	Cons: 
+		A lot if the technologies we use are older and come with some challenges.
+
+
+	Summary: 
+		NS Review
+
+
+Review 2:
+	Job Title: None
+	Location: Atlanta, GA
+	Review Date: 2024-02-27T05:35:34.103
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The retirement package is debatably a good deal, mostly because they still offer a pension. There is also a lot of upward mobility into middle-management positions because there are way too many of them. They really promote diversity and inclusion, and I truly believe they are meaningful in this regard.
+
+
+	Cons: 
+		Lower pay compared to similar jobs in other industries. There is no work-life balance, and the improvements that were achieved over the past 6 years were pulled away in a blink of an eye. They talk a lot about safety, but do not do a lot to actually improve safe working environments or behaviors. The Atlanta Headquarters is pristine, but most other offices (yard office) are beyond falling apart, at least for the labor staff facilities. There is extreme inequity between upper management and middle management, then again between middle management and average employee, then again between average employee and the general labor force. And finally, a lack of leadership on most levels. The CEO just differed annual merit increases in an attempt to save his own job afront a corporate takeover.
+
+
+	Summary: 
+		A "Once Was" Company
+
+
+Review 3:
+	Job Title: Train Dispatcher
+	Location: None
+	Review Date: 2024-03-27T15:01:32.287
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		This is a job for boomers. The hours on the extra board are outrageous. You do not have a set schedule, it changes every single week and you can find yourself working hours when most people are asleep. During training, your pay is about half of the starting salary but you still work the same hours. 
+		
+		Here’s the part that the boomers love. Railroad tax! You get taxed twice, for tier 1 and tier 2. This comes out more than federal income tax because it’s a retirement tax for you and a spouse. 
+		
+		But don’t worry, you get it all when you turn 60 with 30 years of service. But if you’re single and don’t see yourself at a job for the next 30 years, GTFO
+
+
+	Cons: 
+		If you want to work for the railroad for 30 years. You will retire with a pension and you can get overtime pay without putting in more than 40 hours.
+
+
+	Summary: 
+		Poor Quality of life
+
+
+Review 4:
+	Job Title: Operations Supervisor
+	Location: Atlanta, GA
+	Review Date: 2024-04-17T23:29:12.190
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Pay, benefits, corporate building is nice
+
+
+	Cons: 
+		No work life balance. 60 hr weeks
+
+
+	Summary: 
+		No worklife balance
+
+
+Review 5:
+	Job Title: Electrician
+	Location: Bellevue, OH
+	Review Date: 2024-03-28T14:52:46.830
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		the people are nice, work doesnt follow you home, supervisors are chill, ppe and transparency are nice. work is easy and not being rushed so far.
+
+
+	Cons: 
+		no overtime as of now and fear of layoffs. on 40 hour work weeks you wont go home with much. 3 shifts thatll have you working nightshift with tuesday Wedsenday off. no time differential from those shifts. might work 15-30 years on second with no more pay.
+
+
+	Summary: 
+		Work
+
+
+Review 6:
+	Job Title: Purchasing Supervisor
+	Location: Atlanta, GA
+	Review Date: 2024-04-12T17:52:18.390
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Excellent experience, learn tons that can be taken anywhere
+
+
+	Cons: 
+		Upward mobility can be limited, office politics are high, and pay stalls
+
+
+	Summary: 
+		Good Place to work
+
+
+Review 7:
+	Job Title: GIS Analyst
+	Location: Atlanta, GA
+	Review Date: 2024-04-13T15:06:19.453
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Managers are nice, work life balance ok
+
+
+	Cons: 
+		didn't see much hope of promotion
+
+
+	Summary: 
+		Not bad
+
+
+Review 8:
+	Job Title: Driver
+	Location: Houston, TX
+	Review Date: 2024-04-12T10:40:18.727
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Just another job for what it is
+
+
+	Cons: 
+		Benefits are ok for what ut is
+
+
+	Summary: 
+		Okay
+
+
+Review 9:
+	Job Title: Labor Relations Coordinator
+	Location: None
+	Review Date: 2024-04-10T15:23:49.043
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good culture and thoughtful, professional coworkers
+
+
+	Cons: 
+		Not many cons - mostly good
+
+
+	Summary: 
+		Great place to work
+
+
+Review 10:
+	Job Title: Railroad Conductor
+	Location: Roanoke, VA
+	Review Date: 2024-03-18T08:34:51.917
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		The people in the job place are phenomenal and willing to help each other as a whole work proficiently and safely.
+
+
+	Cons: 
+		Training needs improvement overall. The employees help each other overcome this though by providing their expertise whenever possible. It's a high stress level job.
+
+
+	Summary: 
+		Best Place to work in the industry
+
+
+Review 11:
+	Job Title: Sr. Financial Analyst
+	Location: Atlanta, GA
+	Review Date: 2024-04-12T08:24:00.800
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Money is good great facility
+
+
+	Cons: 
+		bad work life balance you are expected to work anytime on the weekend
+
+
+	Summary: 
+		Not great
+
+
+Review 12:
+	Job Title: Capital Analyst
+	Location: Atlanta, GA
+	Review Date: 2024-04-03T16:50:22.833
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good people to work with
+
+
+	Cons: 
+		Long history that may cause present issues
+
+
+	Summary: 
+		Great
+
+
+Review 13:
+	Job Title: Machinist
+	Location: Pittsburgh, PA
+	Review Date: 2024-04-04T06:13:33.733
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Lots of money for little work
+
+
+	Cons: 
+		Threat of furlough at all times
+
+
+	Summary: 
+		Ok
+
+
+Review 14:
+	Job Title: Software Engineer
+	Location: Atlanta, GA
+	Review Date: 2024-01-09T22:45:34.910
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Positive Work Environment: The company fosters a supportive and inclusive work culture, promotes work-life balance, and provides a healthy and safe workplace.
+		Career Development Opportunities: Employees have access to professional growth opportunities such as training programs, mentorship, promotions, and the chance to work on diverse projects.
+		Competitive Compensation and Benefits: The company offers competitive salaries, comprehensive benefits, including health insurance and retirement plans, and other perks like flexible work hours or remote work options.
+
+
+	Cons: 
+		Limited Career Growth: There may be limited opportunities for advancement, lack of professional development programs, or a tendency to hire externally for higher positions.
+		Poor Management Practices: Issues with management, such as lack of clear communication, ineffective leadership, or favoritism, can negatively impact employee morale and productivity.
+		Workload and Work-Life Balance: Employees might experience high levels of stress due to excessive workloads, long working hours, or unrealistic expectations, leading to poor work-life balance.
+
+
+	Summary: 
+		Great place to settle down
+
+
+Review 15:
+	Job Title: Rail Traffic Controller (Train Dispatcher)
+	Location: Atlanta, GA
+	Review Date: 2024-01-31T02:41:13.063
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		The retirement package is awesome, and the facilities are state of the art. There are some REALLY great people who work at Norfolk Southern.
+
+
+	Cons: 
+		Due to it's unionized nature, you are stuck on the "Extra-Board" (on-call) for years. There is an extremely high level of stress that comes along with the job. Having a family is almost detrimental to your career with Norfolk, unless you are on the corporate side of thing. The schedule is chaotic, with no sense of structure.
+
+
+	Summary: 
+		The pay does not meet the demand.
+
+
+Review 16:
+	Job Title: Locomotive Engineer
+	Location: Chicago, IL
+	Review Date: 2024-04-03T12:19:25.397
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		None nothing is good about Norfolk Southern
+
+
+	Cons: 
+		Everything is a con about working here
+
+
+	Summary: 
+		Horrible management
+
+
+Review 17:
+	Job Title: FP&A Analyst
+	Location: Atlanta, GA
+	Review Date: 2024-03-19T16:05:34.180
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Pay, work life balance, great co workers
+
+
+	Cons: 
+		Very demanding. Never a second of rest
+
+
+	Summary: 
+		Fp&amp;a
+
+
+Review 18:
+	Job Title: None
+	Location: None
+	Review Date: 2024-04-02T06:30:46.023
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good union coworkers that lookout for you.
+
+
+	Cons: 
+		Poor leadership, poor management, toxic work/life balance.
+
+
+	Summary: 
+		Meh
+
+
+Review 19:
+	Job Title: Railroad Conductor
+	Location: Savannah, GA
+	Review Date: 2024-03-16T16:02:48.207
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		trainee money is 2000 every two weeks
+
+
+	Cons: 
+		work life balance worsens with each job
+
+
+	Summary: 
+		Watch out
+
+
+Review 20:
+	Job Title: Technology Engineer
+	Location: Atlanta, GA
+	Review Date: 2024-01-28T13:19:55.560
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Working at Norfolk Southern has been a positive experience marked by several notable pros. One of the standout aspects is the commendable work/life balance the company promotes. This balance allows employees to excel in their professional roles while still enjoying personal time, fostering a healthy and sustainable work environment. The corporate office is equipped with excellent amenities, enhancing the overall workplace experience. From well-maintained facilities to thoughtful employee spaces, Norfolk Southern invests in creating a comfortable and enjoyable workspace for its staff.
+
+
+	Cons: 
+		In recent times, the balance between pros and cons at Norfolk Southern has tilted, with the disadvantages starting to outweigh the positives. The existing issues with upper management's disconnection from day-to-day operations and a less competitive compensation structure have become more pronounced, impacting the overall work experience. The limited growth opportunities at certain career levels and the challenges in navigating internal mobility have contributed to a sense of stagnation for employees. As a result, the current state of affairs at Norfolk Southern suggests a need for strategic improvements to address these concerns and ensure a more balanced and fulfilling work environment for its workforce. 
+		
+		Furthermore, an additional concern that has become increasingly apparent is the management's tendency to retain employees who contribute very little to the overall productivity of the team. It appears that some managers are reluctant to address or let go of underperforming staff, creating a dynamic where unproductive employees continue to linger within the organization. This situation has become demoralizing for those of us who consistently contribute to the company's success, as it fosters an atmosphere of inequity and frustration. Addressing this issue and fostering a more performance-driven culture would significantly contribute to improving the overall morale and effectiveness of the workforce at Norfolk Southern.
+
+
+	Summary: 
+		Long-Time Employee Hoping for Future Growth, Yet Fading Confidence in Opportunities at NS.
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

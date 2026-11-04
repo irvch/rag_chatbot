@@ -1,0 +1,644 @@
+
+Cleveland-Cliffs is a Metals company based in 44114 Cleveland, Ohio. 
+The company has 27,000 employees and has a revenue of $22,989 according to Fortune 500.
+The company is valued at $9,436 and has a profit of $1,335. The CEO of the company is Lourenco Goncalves.
+
+The Company has the following ratings: 
+Average ratings for Cleveland-Cliffs:
+Business Outlook: 0.64
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 47 
+	2: 47 
+	3: 101 
+	4: 109 
+	5: 90 
+
+CEO: 0.86
+
+Compensation and Benefits: 4.2
+Distribution: 
+	1: 14 
+	2: 17 
+	3: 60 
+	4: 150 
+	5: 155 
+
+Culture and Values: 3.1
+Distribution: 
+	1: 74 
+	2: 43 
+	3: 105 
+	4: 101 
+	5: 68 
+
+Diversity and Inclusion: 3.4
+Distribution: 
+	1: 43 
+	2: 42 
+	3: 65 
+	4: 93 
+	5: 69 
+
+Overall: 3.8
+Distribution: 
+	1: 31 
+	2: 52 
+	3: 123 
+	4: 153 
+	5: 132 
+
+Senior Management: 3
+Distribution: 
+	1: 85 
+	2: 63 
+	3: 102 
+	4: 87 
+	5: 57 
+
+Work Life Balance: 3
+Distribution: 
+	1: 82 
+	2: 62 
+	3: 103 
+	4: 85 
+	5: 65 
+
+Review Count: 494
+
+Recommend to Friend: 
+	RECOMMEND: 238
+	WONT RECOMMEND: 113
+
+
+
+
+The company has 537 reviews on Glassdoor. The last review was posted on 2024-04-17T17:05:32.170. 
+There are 20 Reviews for Cleveland-Cliffs:
+
+Review 1:
+	Job Title: Electrical and Controls Engineer
+	Location: None
+	Review Date: 2024-04-07T05:15:51.173
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The people are incredibly kind and helpful. The interview experience was seamless and HR was transparent the entire time. The tour of the plant was amazing and it was clear the crew is knowledgeable in their respective career fields. My immediate supervisor has been kind and respectful the entire time I've been here and has never once denied time off. All policies are appropriately documented and easy to find. If HR or other administrative individuals don't have information you ask for they are very quick to find it for you and if they can't they always direct you towards someone who can.
+
+
+	Cons: 
+		For salaried individuals working EXTENDED overtime for shutdown month, the first TEN hours of overtime are unpaid.
+
+
+	Summary: 
+		Wonderful
+
+
+Review 2:
+	Job Title: Steel Worker
+	Location: Burns Harbor, IN
+	Review Date: 2024-04-13T17:57:09.330
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		•Great pay especially if you are willing to work OT. 
+		•Healthcare with low out of pocket maximums and $0 premiums. 
+		•Pension and zero fee 401k option.
+		•Good base pay + incentive pay
+		•Ability to transfer to other departments when spots open up based on seniority
+
+
+	Cons: 
+		•Hard schedule depending on department
+		•Job openings are based on seniority not a merit based system 
+		•New hires are often legacy hires which is mandatory per the labor agreement, so lots of young entitled employees.
+
+
+	Summary: 
+		Great benefits and pay, difficult schedule
+
+
+Review 3:
+	Job Title: Crane Operator
+	Location: Dearborn, MI
+	Review Date: 2024-04-17T17:05:32.170
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		-Good insurance
+		-above average pay
+		-profit sharing
+		-incentive pay
+
+
+	Cons: 
+		-poor management
+		-lack of communication from upper management
+
+
+	Summary: 
+		Pros and cons
+
+
+Review 4:
+	Job Title: Staff Accountant
+	Location: Cleveland, OH
+	Review Date: 2024-04-16T07:31:10.077
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Coworkers, responsibility, pay, benefits, location
+
+
+	Cons: 
+		Culture, C Suite, and low investment
+
+
+	Summary: 
+		All in all good if you are fine with the industry
+
+
+Review 5:
+	Job Title: Industrial Electrician
+	Location: Weirton, WV
+	Review Date: 2024-04-11T02:00:31.767
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Great Pay, people, work, hours worked
+
+
+	Cons: 
+		Disorganized, management lacks knowledge, favoritism
+
+
+	Summary: 
+		Great work and people, management not so great
+
+
+Review 6:
+	Job Title: Industrial Electricain
+	Location: Dearborn, MI
+	Review Date: 2024-03-27T09:20:11.233
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		The ability to make a great living, make friends and have fun. Great schedules and this place should at least be on everyone’s radar. At the very least try out. Many will be suprised.
+
+
+	Cons: 
+		Good work gets more work. Bad work gets less work.
+
+
+	Summary: 
+		Skilled trades
+
+
+Review 7:
+	Job Title: General Laborer
+	Location: Forbes, MN
+	Review Date: 2024-04-03T20:37:06.703
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Pay, benefits, time off, lots of overtime opportunities.
+
+
+	Cons: 
+		Dirty, hot, cold, long hours,
+
+
+	Summary: 
+		Good Job with Great Pay and Benefits
+
+
+Review 8:
+	Job Title: Process Engineer
+	Location: Butler, PA
+	Review Date: 2024-04-03T17:39:30.353
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great pay and good work environment
+
+
+	Cons: 
+		Long hours depending on manufacturing environment
+
+
+	Summary: 
+		Great company
+
+
+Review 9:
+	Job Title: Laborer
+	Location: Cleveland, OH
+	Review Date: 2024-02-29T14:43:54.157
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Excellent pay and excellent benefits
+
+
+	Cons: 
+		Swing shift, forced overtime, working all holidays, you basically live there with no shot of seeing your kids or spouse. Plan on only watching your kids games from FaceTime.
+
+
+	Summary: 
+		1 step up from prison.
+
+
+Review 10:
+	Job Title: Planner
+	Location: Burns Harbor, IN
+	Review Date: 2024-03-26T12:10:36.890
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Benefits and work life balance.
+
+
+	Cons: 
+		Trying to Supervise a union workforce.
+
+
+	Summary: 
+		Good place to work.
+
+
+Review 11:
+	Job Title: Utility Technician
+	Location: Middletown, OH
+	Review Date: 2023-12-05T09:48:08.420
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		The pay is great, the work life balance is great if you work 7 on 7 off.
+
+
+	Cons: 
+		The hours are long and the swing shift schedule is not for families. It might be great pay but they force you to do toolbox meetings every morning and expect you to stay over an hour each month for a safety brief to justify not having to pay for you to recieve adequate cerifications and licenses throught the state and keep you stagnant working for them making it hard to find employment elsewhere. You will work 7 straight on thirds and have one day off, then 7 days straight on afternoons for 2 days off, then 7 days straight for 3 days off.
+		
+		Management takes advantage of the good workers with false promises and unreasonable expectations for you to do other people's job while giving no discipline to those that refuse to do theirs. Questionable job advancement opportunities: they will give someone a position if they like them and only "prefer" someone with a relative education background. If you're unmotivated and cunning enough to fit in with the "good ol' boys," this is the job for you.
+
+
+	Summary: 
+		Great job, pay and benefits
+
+
+Review 12:
+	Job Title: Planning Engineer
+	Location: Dearborn, MI
+	Review Date: 2024-03-31T21:43:37.423
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		The starting pay range is good.
+
+
+	Cons: 
+		Vacation time given is decent,
+
+
+	Summary: 
+		Good pay
+
+
+Review 13:
+	Job Title: Warehouse Manager
+	Location: Sauk Village, IL
+	Review Date: 2024-04-01T08:14:43.917
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great owners that appreciate all workers
+
+
+	Cons: 
+		Not much room for growth
+
+
+	Summary: 
+		Great Owners
+
+
+Review 14:
+	Job Title: Mechanic
+	Location: East Chicago, IN
+	Review Date: 2024-03-31T11:39:50.850
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		ok wages for unskilled labor
+
+
+	Cons: 
+		racist undertones, poor management, dope heads and their affiliates
+
+
+	Summary: 
+		BS 
+
+
+Review 15:
+	Job Title: Steel Worker
+	Location: None
+	Review Date: 2024-03-22T06:42:01.327
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 1
+
+	Pros: 
+		Wages
+		Union Employees
+		Benefits
+		Bonuses
+		Provide uniforms
+		Provide boots
+		Provide PPE
+
+
+	Cons: 
+		Company care
+		Company neglect
+		Company management
+		Knowledge of departments
+		Knowledge or actual work to be done
+
+
+	Summary: 
+		New Management
+
+
+Review 16:
+	Job Title: Steel Worker
+	Location: Portage, IN
+	Review Date: 2024-03-27T23:45:14.077
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Benefits, Pay, incentive pay, union job
+
+
+	Cons: 
+		alrrwensring schedule, long hours, weather work conditions
+
+
+	Summary: 
+		Comp
+
+
+Review 17:
+	Job Title: Senior Buyer
+	Location: East Chicago, IN
+	Review Date: 2024-03-22T12:08:58.120
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Cliffs is more stable than the former owners.
+
+
+	Cons: 
+		More about who you know than how hard you work.
+
+
+	Summary: 
+		New Company Same Old Management
+
+
+Review 18:
+	Job Title: Engineer Mechanical
+	Location: Dearborn, MI
+	Review Date: 2024-03-22T10:51:09.660
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Relax, benefits, PTO, bonus, and industry experience
+
+
+	Cons: 
+		Equipment maintenance hours, no OT, some management issue, no consistent interesting work
+
+
+	Summary: 
+		Benefits, PTO
+
+
+Review 19:
+	Job Title: Operating Technician
+	Location: Coshocton, OH
+	Review Date: 2024-02-29T15:43:11.057
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 5
+	Work Life Balance: 2
+
+	Pros: 
+		Great health care, good 401k.
+
+
+	Cons: 
+		Lower level management is a joke. If you want to be a number. This is the place to work. Upper management seems better but are blind and don’t come around.
+
+
+	Summary: 
+		Drama
+
+
+Review 20:
+	Job Title: Engineer
+	Location: Middletown, OH
+	Review Date: 2024-03-14T12:15:43.807
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good work culture, great people
+
+
+	Cons: 
+		Not much to say as cons
+
+
+	Summary: 
+		Good company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

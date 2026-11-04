@@ -1,0 +1,625 @@
+
+Olin is a Chemicals company based in 63105 Clayton, Montana. 
+The company has 7,780 employees and has a revenue of $9,376 according to Fortune 500.
+The company is valued at $7,263 and has a profit of $1,327. The CEO of the company is Scott M. Sutton.
+
+The Company has the following ratings: 
+Average ratings for Olin:
+Business Outlook: 0.41
+
+Career Opportunities: 3.1
+Distribution: 
+	1: 39 
+	2: 35 
+	3: 52 
+	4: 44 
+	5: 35 
+
+CEO: 0.43
+
+Compensation and Benefits: 3.4
+Distribution: 
+	1: 13 
+	2: 15 
+	3: 55 
+	4: 70 
+	5: 53 
+
+Culture and Values: 2.9
+Distribution: 
+	1: 52 
+	2: 23 
+	3: 52 
+	4: 36 
+	5: 41 
+
+Diversity and Inclusion: 3.4
+Distribution: 
+	1: 21 
+	2: 11 
+	3: 29 
+	4: 18 
+	5: 33 
+
+Overall: 3.1
+Distribution: 
+	1: 40 
+	2: 39 
+	3: 69 
+	4: 66 
+	5: 43 
+
+Senior Management: 2.6
+Distribution: 
+	1: 66 
+	2: 33 
+	3: 37 
+	4: 42 
+	5: 26 
+
+Work Life Balance: 2.9
+Distribution: 
+	1: 56 
+	2: 31 
+	3: 55 
+	4: 34 
+	5: 30 
+
+Review Count: 258
+
+Recommend to Friend: 
+	RECOMMEND: 99
+	WONT RECOMMEND: 82
+
+
+
+
+The company has 291 reviews on Glassdoor. The last review was posted on 2024-04-12T09:37:28.687. 
+There are 20 Reviews for Olin:
+
+Review 1:
+	Job Title: Laboratory Technician
+	Location: Saint Gabriel, LA
+	Review Date: 2023-12-12T13:25:11.723
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		I enjoyed the people, environment, and collaboration.
+
+
+	Cons: 
+		I did not enjoy the turnaround shifts.
+
+
+	Summary: 
+		Great Company
+
+
+Review 2:
+	Job Title: Maintenance Engineer
+	Location: Freeport, TX
+	Review Date: 2024-04-12T09:37:28.687
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		there is a good work life balance when the plant running per the plan.
+		there is a good potential with the new CEO.
+
+
+	Cons: 
+		Not all employee follow the work process.
+		Need to know the work process prior to accept the project/task
+
+
+	Summary: 
+		Olin's Freeport Review 
+
+
+Review 3:
+	Job Title: Operator
+	Location: Freeport, TX
+	Review Date: 2024-03-09T08:27:01.583
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Its easy to tell they are lying to you.
+
+
+	Cons: 
+		Lies, poor pay, zero respect for the people doing the job. Good people are hidden. Company is more worried about image and profit then safe equipment and happy employees. Turnover is extreme. HR is like the hit squad looking for any way to punish. Benefits cost increase faster than the pay. So you bring home less and less per hour every year
+
+
+	Summary: 
+		If it can be done wrong they will ahow you
+
+
+Review 4:
+	Job Title: Maintenance Engineer
+	Location: Freeport, TX
+	Review Date: 2024-03-21T12:54:16.170
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Not a bad culture, Moved away from DOW like 10 years ago but is still trying to figure everything out. Stepping stone job.
+
+
+	Cons: 
+		Pay is not great, Understaffed. Do not promote accordingly.
+
+
+	Summary: 
+		Has a lot to figure out
+
+
+Review 5:
+	Job Title: Manager
+	Location: Houston, TX
+	Review Date: 2024-03-10T18:22:53.403
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		It wasn’t bad a few years ago but became toxic and intolerable.
+
+
+	Cons: 
+		Leadership supports and encourages negative, chauvinistic, unethical behavior. HR department is aware and allows it to continue.
+
+
+	Summary: 
+		Toxic Environment 
+
+
+Review 6:
+	Job Title: Paint Machine Operator
+	Location: None
+	Review Date: 2024-02-02T23:33:06.640
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Not sure yet olin Winchester just bought the company in Oct 2023
+
+
+	Cons: 
+		Under staffed. Need to hire and train several employees. 
+
+
+	Summary: 
+		Newly bought
+
+
+Review 7:
+	Job Title: Technical Advisor
+	Location: Freeport, TX
+	Review Date: 2024-01-29T08:23:59.463
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Job security and benefits are above average for the area
+
+
+	Cons: 
+		A lot of turn over
+		Chemicals company being run by HR
+
+
+	Summary: 
+		Pretty good company
+
+
+Review 8:
+	Job Title: Operator
+	Location: Freeport, TX
+	Review Date: 2024-01-15T16:56:40.473
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		more vacation given than other companies
+
+
+	Cons: 
+		can make more money at other companies
+
+
+	Summary: 
+		decent workplace
+
+
+Review 9:
+	Job Title: Marketing Manager
+	Location: Clayton, MO
+	Review Date: 2024-01-17T12:01:00.477
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great benefits and retirement contribution
+
+
+	Cons: 
+		Not a great overall culture
+
+
+	Summary: 
+		Traditional company
+
+
+Review 10:
+	Job Title: Manager
+	Location: McIntosh, AL
+	Review Date: 2024-01-12T12:25:27.023
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Fair pay and Good retirement.
+
+
+	Cons: 
+		Expect you to work on weekends and holidays as management.
+
+
+	Summary: 
+		Olin Review
+
+
+Review 11:
+	Job Title: Maintenance Engineer
+	Location: Freeport, TX
+	Review Date: 2023-11-21T10:54:05.657
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Company was great when I started, did a whole turn with new CEO and VP, good to work for just need to get over bad moment.
+
+
+	Cons: 
+		Pay could be better, Company was great when I started, did a whole turn with new CEO and VP, good to work for just need to get over bad moment.
+
+
+	Summary: 
+		Good but going through trouble right now
+
+
+Review 12:
+	Job Title: Packer
+	Location: Independence, MO
+	Review Date: 2023-12-20T13:30:57.570
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Easy work, decent pay, a lot of room to move up
+
+
+	Cons: 
+		Forced OT, strict attendance policy, security gates
+
+
+	Summary: 
+		Good pay for what's required of you
+
+
+Review 13:
+	Job Title: Chemical Operator
+	Location: Niagara Falls, NY
+	Review Date: 2023-07-26T07:14:33.753
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Schedule. 12 hr shifts are nice for time off, if you have a lot of seniority. Hourly employees work together well.
+
+
+	Cons: 
+		Management struggles to keep a consistent working environment. It is time for a revamp. Working remotely several days a week has disconnected them from the day to day process of the plant. The production process is in complete disarray and cannot function properly. This has left operations in a dangerous position numerous times. Decisions that must be made in a moments notice are scrutinized over the following weeks by a team of management whom ultimately will place blame on operations. This kind of lack of accountability on management's part has fractured relations with the workforce. A change in management is desperately needed here. Without intervention, this plant is doomed to fail. Compensation has fallen behind inflation at leaps and bounds.
+
+
+	Summary: 
+		Times are changing, this site needs a change.
+
+
+Review 14:
+	Job Title: None
+	Location: None
+	Review Date: 2023-12-23T06:10:07.630
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Company is growing and expanding.
+
+
+	Cons: 
+		Plant locations are in chemical industrial areas.
+
+
+	Summary: 
+		Growth opportunities 
+
+
+Review 15:
+	Job Title: Production Engineer
+	Location: McIntosh, AL
+	Review Date: 2023-12-10T13:14:06.290
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Co-workers, both salary and hourly are great to work with
+
+
+	Cons: 
+		It very hard to move jobs inside the company
+
+
+	Summary: 
+		Very poor sire management 
+
+
+Review 16:
+	Job Title: Software Development Engineer In Test (SDET)
+	Location: Phoenix, AZ
+	Review Date: 2023-12-10T09:50:59.723
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Culture foster growth and innovation.
+
+
+	Cons: 
+		Difficult to understand product and services.
+
+
+	Summary: 
+		Company
+
+
+Review 17:
+	Job Title: Environmental Specialist
+	Location: None
+	Review Date: 2023-03-17T01:36:53.457
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		People were mostly pleasant. Admin office is very modern. Benefits were okay.
+
+
+	Cons: 
+		Pay is low for the area. I’ve had a similar job for $30k more. Only took it because I was laid off. Company does not support WFH unless you have an extraordinary case that justifies it. Management is not transparent. HR is just not your friend (not surprising). Bureaucracy galore. Red tape everywhere especially for EHS. Submitting a report feels like having to pass a partisan bill through the senate. Overly political for no real reason.
+
+
+	Summary: 
+		I’ve turned away people from here
+
+
+Review 18:
+	Job Title: Production Operator
+	Location: Plaquemine, LA
+	Review Date: 2023-10-09T05:14:42.760
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Easy going company people are easy to get along with.
+
+
+	Cons: 
+		Smaller plant not as many benefits as some of there bigger competitors.
+
+
+	Summary: 
+		My stay at Olin
+
+
+Review 19:
+	Job Title: Chemical Engineering Intern
+	Location: None
+	Review Date: 2023-09-19T08:26:58.647
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Learned a lot during my experience
+
+
+	Cons: 
+		Job site was too far from my home, nothing truly bad to say
+
+
+	Summary: 
+		Great experience
+
+
+Review 20:
+	Job Title: Technician
+	Location: Independence, MO
+	Review Date: 2023-09-20T12:42:45.147
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 1
+
+	Pros: 
+		Decent pay, work, and people
+
+
+	Cons: 
+		Not much PTO Too much Overtime
+
+
+	Summary: 
+		Decent place
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

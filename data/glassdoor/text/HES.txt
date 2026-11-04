@@ -1,0 +1,633 @@
+
+Hess is a Mining, Crude-Oil Production company based in 10036 New York, New York. 
+The company has 1,623 employees and has a revenue of $11,570 according to Fortune 500.
+The company is valued at $40,520 and has a profit of $2,096. The CEO of the company is John B. Hess.
+
+The Company has the following ratings: 
+Average ratings for Hess:
+Business Outlook: 0.57
+
+Career Opportunities: 3.5
+Distribution: 
+	1: 51 
+	2: 60 
+	3: 132 
+	4: 105 
+	5: 84 
+
+CEO: 0.94
+
+Compensation and Benefits: 4.1
+Distribution: 
+	1: 22 
+	2: 25 
+	3: 74 
+	4: 162 
+	5: 154 
+
+Culture and Values: 4.1
+Distribution: 
+	1: 41 
+	2: 34 
+	3: 59 
+	4: 116 
+	5: 139 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 10 
+	2: 3 
+	3: 20 
+	4: 36 
+	5: 55 
+
+Overall: 4
+Distribution: 
+	1: 31 
+	2: 42 
+	3: 104 
+	4: 178 
+	5: 146 
+
+Senior Management: 3.7
+Distribution: 
+	1: 72 
+	2: 51 
+	3: 96 
+	4: 118 
+	5: 97 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 39 
+	2: 56 
+	3: 89 
+	4: 130 
+	5: 122 
+
+Review Count: 503
+
+Recommend to Friend: 
+	RECOMMEND: 277
+	WONT RECOMMEND: 109
+
+
+
+
+The company has 596 reviews on Glassdoor. The last review was posted on 2024-04-14T06:11:13.197. 
+There are 20 Reviews for Hess:
+
+Review 1:
+	Job Title: Sr. Manager, Operations
+	Location: Houston, TX
+	Review Date: 2023-10-27T11:37:32.153
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The people and culture are fantastic.
+
+
+	Cons: 
+		We just got sold to Chevron
+
+
+	Summary: 
+		Great Place to work
+
+
+Review 2:
+	Job Title: Specialist
+	Location: Houston, TX
+	Review Date: 2024-04-14T06:11:13.197
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great salary and bonus opportunity, nice coworkers and managers,
+		less office drama and politics than other places
+
+
+	Cons: 
+		Awaiting acquisition so everything will change in the near future
+
+
+	Summary: 
+		Good Company
+
+
+Review 3:
+	Job Title: Advisor
+	Location: None
+	Review Date: 2024-04-09T04:14:46.233
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Tried to embrace lean
+		Some food leaders left
+
+
+	Cons: 
+		Non listening bosses
+		Leadership focused on their money
+		Nobody looking out for company
+
+
+	Summary: 
+		From great to bad - leadership change
+
+
+Review 4:
+	Job Title: Janitor/Cleaner
+	Location: Pittsburgh, PA
+	Review Date: 2024-04-05T18:35:29.010
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Plenty of reasons to work there
+
+
+	Cons: 
+		There aren’t really any for me
+
+
+	Summary: 
+		Great Company 
+
+
+Review 5:
+	Job Title: IT Senior Manager
+	Location: Houston, TX
+	Review Date: 2024-03-04T14:11:39.673
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		- Nice onsite cafeteria
+		- Convenient parking downtown
+
+
+	Cons: 
+		- With downtown parking, company adopted holidays only based on not being able to get to and from parking garage on parade days
+		- IT leaders would not be successful in a another oil and gas company
+		- People in roles with no IT knowledge
+		- Limited skills of the entire IT organization
+		- Low trust organization
+		- Teams are not use to working
+		- The upcoming change will be very interesting to see how they perform against Chervon employees
+
+
+	Summary: 
+		Odd IT Leadership
+
+
+Review 6:
+	Job Title: HSHK Technician
+	Location: Seneca, SC
+	Review Date: 2024-02-28T07:02:56.757
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good place to work with decent pay
+
+
+	Cons: 
+		Tired of working here got boring
+
+
+	Summary: 
+		Great
+
+
+Review 7:
+	Job Title: Tax Accountant
+	Location: Houston, TX
+	Review Date: 2024-02-26T09:56:03.867
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		On site Dining facilities 9/80 plan
+
+
+	Cons: 
+		Not Stable - missed direction
+
+
+	Summary: 
+		Good enough company to work for 
+
+
+Review 8:
+	Job Title: Network Engineer
+	Location: Minot, ND
+	Review Date: 2024-02-13T08:55:43.197
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Great work and life balance
+
+
+	Cons: 
+		No room for development or growth
+
+
+	Summary: 
+		Great Place
+
+
+Review 9:
+	Job Title: Engineer
+	Location: None
+	Review Date: 2024-01-21T09:00:28.617
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Growth opportunities, great benefits package and total comp
+
+
+	Cons: 
+		Opportunities continued to become more limited as the asset base shrunk
+
+
+	Summary: 
+		Great company
+
+
+Review 10:
+	Job Title: Anonymous
+	Location: Houston, TX
+	Review Date: 2024-01-04T20:16:50.313
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Excellent pay and benefits. People and culture are the best in the industry.
+
+
+	Cons: 
+		We got bought out. Work life balance can be tough.
+
+
+	Summary: 
+		Excellent workplace
+
+
+Review 11:
+	Job Title: Risk Management
+	Location: Woodbridge, NJ
+	Review Date: 2023-11-18T21:56:05.873
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The management team truly cares about employees and treats us with kindness and respect. The pay is fair for the work required, and the flexible scheduling accommodates personal needs. Overall, it's a supportive work environment with opportunities for growth.
+
+
+	Cons: 
+		None. nothing can think of
+
+
+	Summary: 
+		Fair pay
+
+
+Review 12:
+	Job Title: Advisor
+	Location: Houston, TX
+	Review Date: 2023-11-30T19:45:35.530
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great people and culture. Everyone is helpful and nice.
+
+
+	Cons: 
+		No that I can think of.
+
+
+	Summary: 
+		Great company and great people
+
+
+Review 13:
+	Job Title: Senior Accounting Specialist
+	Location: Houston, TX
+	Review Date: 2023-11-02T06:05:19.517
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great Compensation, Good Overall Benefits, Work-Life Balance, Many Perks Including Discounted Lunch, Coffee, etc
+
+
+	Cons: 
+		Recent Development of Chevron buying Hess is the obvious con, so this review is based on last several years
+
+
+	Summary: 
+		Good Company
+
+
+Review 14:
+	Job Title: Senior Geologist
+	Location: Houston, TX
+	Review Date: 2023-11-23T06:38:40.247
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Excellent benefits, good pay, loyal employees
+
+
+	Cons: 
+		Limited portfolio and project variety
+
+
+	Summary: 
+		Great company
+
+
+Review 15:
+	Job Title: Gas Station Attendant
+	Location: Waterford, CT
+	Review Date: 2023-11-16T02:28:48.303
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Best Boss to work for
+
+
+	Cons: 
+		This was a great place to work.
+
+
+	Summary: 
+		Best service station to work in
+
+
+Review 16:
+	Job Title: Sr. Specialist
+	Location: Minot, ND
+	Review Date: 2023-11-02T16:08:32.123
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		great company to work for
+
+
+	Cons: 
+		It is cold in north dakota. - great benefits
+
+
+	Summary: 
+		great company to work for
+
+
+Review 17:
+	Job Title: Cashier
+	Location: Rochester, NY
+	Review Date: 2023-10-31T00:39:31.060
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Lots of shift options to choose from at different stores
+
+
+	Cons: 
+		Customers aren't the greatest to deal with
+
+
+	Summary: 
+		Good stuff
+
+
+Review 18:
+	Job Title: Engineer
+	Location: Houston, TX
+	Review Date: 2023-10-23T23:36:47.213
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Big enough for opportunity, small enough to be seen and heard.
+
+
+	Cons: 
+		They just got bought out and won’t tell us anything.
+
+
+	Summary: 
+		Absolutely wonderful company
+
+
+Review 19:
+	Job Title: Reservoir Engineer
+	Location: Houston, TX
+	Review Date: 2023-10-23T05:54:03.543
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The people make it an incredible place to work
+
+
+	Cons: 
+		Decisions are sometimes not adequately explained by senior management
+
+
+	Summary: 
+		Great place to work
+
+
+Review 20:
+	Job Title: Sr. Manager, Operations
+	Location: Houston, TX
+	Review Date: 2023-10-27T11:37:32.153
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The people and culture are fantastic.
+
+
+	Cons: 
+		We just got sold to Chevron
+
+
+	Summary: 
+		Great Place to work
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

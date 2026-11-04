@@ -1,0 +1,651 @@
+
+Expedia Group is a Internet Services and Retailing company based in 98119 Seattle, Washington. 
+The company has 16,500 employees and has a revenue of $11,667 according to Fortune 500.
+The company is valued at $14,879 and has a profit of $352. The CEO of the company is Peter M. Kern.
+
+The Company has the following ratings: 
+Average ratings for Expedia Group:
+Business Outlook: 0.6
+
+Career Opportunities: 3.4
+Distribution: 
+	1: 593 
+	2: 711 
+	3: 1399 
+	4: 1737 
+	5: 1377 
+
+CEO: 0.77
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 198 
+	2: 431 
+	3: 1289 
+	4: 2036 
+	5: 1868 
+
+Culture and Values: 4
+Distribution: 
+	1: 382 
+	2: 403 
+	3: 725 
+	4: 1448 
+	5: 2482 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 132 
+	2: 92 
+	3: 261 
+	4: 662 
+	5: 1468 
+
+Overall: 3.9
+Distribution: 
+	1: 387 
+	2: 463 
+	3: 1169 
+	4: 2288 
+	5: 2401 
+
+Senior Management: 3.2
+Distribution: 
+	1: 861 
+	2: 690 
+	3: 1312 
+	4: 1586 
+	5: 1313 
+
+Work Life Balance: 4
+Distribution: 
+	1: 321 
+	2: 346 
+	3: 881 
+	4: 1597 
+	5: 2671 
+
+Review Count: 6725
+
+Recommend to Friend: 
+	RECOMMEND: 4115
+	WONT RECOMMEND: 1173
+
+
+
+
+The company has 7400 reviews on Glassdoor. The last review was posted on 2024-04-17T21:39:55.830. 
+There are 20 Reviews for Expedia Group:
+
+Review 1:
+	Job Title: Software Development Engineering Manager
+	Location: None
+	Review Date: 2024-03-12T15:47:38.920
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Team culture is great
+		Work life balance
+		Pay is not to bad
+		Good benefits
+
+
+	Cons: 
+		Always lay offs
+		Leadership is not sure what to do
+
+
+	Summary: 
+		Good place to work
+
+
+Review 2:
+	Job Title: Product Manager 1
+	Location: Austin, TX
+	Review Date: 2024-04-10T20:32:18.547
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		* Getting payed over six figures was nice as a starting PM role.
+		* Expedia is a very big company, but has a very laid back vibe in most teams. Though there's been some leadership changes wanting this to change for tech teams - become more like Google lol. 
+		* Great Benefits!
+		* People hired are often (at least superficially) kind. 
+		* Most prod/tech teams go to the office 2-3 days a week.
+		*The Austin office was very big with nice amenities - there's free snacks and refreshments. A gym. Lots of places to work. There's a food service that brings in food and a wholefoods next door.
+		* Travel and wellness bonus is 1200 or so.
+
+
+	Cons: 
+		* Product at Expedia can be a hit or miss depending on your team. There's opportunities to do impactful work and feel great with your own team- but the folks in your team need to be up for that too. * Product management at Expedia requires stepping on a lot of toes and self-initiative to create great products, there's so many people working at different paces and across different time zones. There's always insecure product/engineering peers that may try to hinder you - but that comes with lots of product jobs - you need to consider optics, promotion, snaky peers, toxic managers, etc. 
+		It's quite an impersonal culture -nice but impersonal. My first team required lots of self-initiative even though I required much more direct instruction since it was my first corporate job (ever). My second team there was more visible to leadership and had clearer deadlines and a more fun relatable team atmosphere.
+
+
+	Summary: 
+		Entry Level PM in both Data (internal) &amp; Traveler facing Product teams
+
+
+Review 3:
+	Job Title: Sr Director Product Management
+	Location: Seattle, WA
+	Review Date: 2024-04-15T06:29:14.713
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Excellent company, Great vision by leadership.
+
+
+	Cons: 
+		Too much chaos and politics. 
+		Too many changes at leadership level 
+		Unrealistics goals at middle management
+
+
+	Summary: 
+		Excellent company, work culture can improve 
+
+
+Review 4:
+	Job Title: ML Scientist
+	Location: Seattle Heights, WA
+	Review Date: 2024-04-04T14:45:15.600
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		they appended the % bonus into salary which is good for base salary. tons of exploratory options as an ML Scientist. Did not do as much engineering work, strictly modelling, data analysis, product-oriented skills.
+
+
+	Cons: 
+		The room for growth is limiting. NOt sure if therell always be a chance to rise up. Typical duration in a entry level is 2-3 years.
+
+
+	Summary: 
+		Work life balance beautiful, but comp could improve
+
+
+Review 5:
+	Job Title: Software Developer
+	Location: Chicago, IL
+	Review Date: 2024-04-17T21:39:55.830
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good working environment
+		Good Benefits
+
+
+	Cons: 
+		N/A N/A N/A N/A N/A
+
+
+	Summary: 
+		Expedia Review
+
+
+Review 6:
+	Job Title: Customer Service Representative
+	Location: Springfield, MO
+	Review Date: 2024-04-15T11:25:50.597
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Decent pay for the area 
+		Insurance is good and affordable
+
+
+	Cons: 
+		Call centers can be stressful
+
+
+	Summary: 
+		Good pay and insurance
+
+
+Review 7:
+	Job Title: Risk & Compliance Manager
+	Location: Austin, TX
+	Review Date: 2024-04-12T18:53:47.963
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Very people driven
+		Leadership is always making sure everyone is doing OK with their workload
+
+
+	Cons: 
+		No cash bonus
+		Very small merit increase
+
+
+	Summary: 
+		Great work culture
+
+
+Review 8:
+	Job Title: Software Developer Engineer III
+	Location: Seattle, WA
+	Review Date: 2024-03-25T10:40:35.563
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Decent work life balance
+		Decent insurance benefits
+		Nice facilities
+
+
+	Cons: 
+		Very stagnant stock
+		Sudden layoffs
+		Tons of politics and personality play even in engineering
+
+
+	Summary: 
+		Good but heading south
+
+
+Review 9:
+	Job Title: Senior Program Manager
+	Location: Seattle, WA
+	Review Date: 2024-04-11T16:43:34.167
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good Work/Life balance. People are nice and friendly.
+
+
+	Cons: 
+		No notion of urgency in the teams
+
+
+	Summary: 
+		Program Management at Expedia
+
+
+Review 10:
+	Job Title: Fraud Investigator
+	Location: Springfield, MO
+	Review Date: 2024-03-12T07:40:37.137
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		The benifits are excellent. People are nice, but often a bit 
+		"odd". Pay is decent. I enjoyed it when I was left alone to work.
+
+
+	Cons: 
+		The work culture is odd, there is some pressure to be involved in "social issues" and stuff that is not work related. I don't want a "work family" I just wanted to do my job and go home. I did not like the political correctness ether.
+
+
+	Summary: 
+		Very odd company
+
+
+Review 11:
+	Job Title: Software Development Engineer
+	Location: Seattle, WA
+	Review Date: 2024-04-09T22:09:04.873
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		- Really good people
+		- Work pressure is decent
+		- Good work-life balance
+
+
+	Cons: 
+		- need more innovative projects
+
+
+	Summary: 
+		Good place to work, nice people
+
+
+Review 12:
+	Job Title: Tier III
+	Location: Springfield, MO
+	Review Date: 2024-04-09T16:44:36.717
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Great Benefits, Great Pay, Fun Environment
+
+
+	Cons: 
+		lack of communication, long work days with few breaks
+
+
+	Summary: 
+		Love them
+
+
+Review 13:
+	Job Title: Software Trainer
+	Location: Austin, TX
+	Review Date: 2024-04-08T12:50:02.897
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good benefits, nice staff, nice offices around the world.
+
+
+	Cons: 
+		Huge corporation with now growth in the small business that I was in.
+
+
+	Summary: 
+		Software Trainer
+
+
+Review 14:
+	Job Title: None
+	Location: Seattle, WA
+	Review Date: 2024-02-26T07:59:27.033
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Salary and benefits are great
+
+
+	Cons: 
+		While working under Geneva McMahon's supervision, I encountered challenges that I believe are worth addressing. There seems to be a misalignment of values, with concerns about the well-being of employees and the satisfaction of internal and external customers. It appears that there may be a need for a more inclusive and collaborative leadership approach.
+		
+		There have been instances where employees felt undervalued, and it is my observation that a more supportive and nurturing environment could enhance overall team morale. It is essential for leadership to foster a positive workplace culture and prioritize the growth and development of team members.
+
+
+	Summary: 
+		Trust and Safety Department 
+
+
+Review 15:
+	Job Title: Software Engineer
+	Location: Seattle, WA
+	Review Date: 2024-04-10T01:52:16.563
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		good work life balance, average pay
+
+
+	Cons: 
+		too much layoff, leadership always change ideas
+
+
+	Summary: 
+		Layoff
+
+
+Review 16:
+	Job Title: Senior Travel Consultant
+	Location: None
+	Review Date: 2024-02-26T00:09:30.630
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		They promoted people to people management positions who value and know the value of people. They gave honest feedback that was helpful and spoke to me and asked where I would like to be in 2, 5 and 10 years in my first quarterly review and then yearly after that, and made me aware of what they offer in my interest.
+
+
+	Cons: 
+		My office closed and moved overseas. It was not at the same level of assistance in the last year or so when we knew we were closing, They offered information on other offices that we could apply to.
+
+
+	Summary: 
+		Good employer
+
+
+Review 17:
+	Job Title: Senior Accountant
+	Location: Seattle, WA
+	Review Date: 2024-04-08T15:33:09.707
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good company, good perks and culture
+
+
+	Cons: 
+		lots of management changes and company restructure
+
+
+	Summary: 
+		Senior Accountant
+
+
+Review 18:
+	Job Title: Software Engineer
+	Location: Austin, TX
+	Review Date: 2024-03-25T20:38:44.073
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Hybrid work style; Good and nice people work here. Friendly work env. Free drinks and snacks. Game room, events and parties happen quite a lot.
+
+
+	Cons: 
+		Lower pay than other big tech companies. Frequent layoffs, re-orgs are big waste of money and resources.
+
+
+	Summary: 
+		Overall good experiences
+
+
+Review 19:
+	Job Title: None
+	Location: None
+	Review Date: 2023-10-31T12:52:20.290
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		2 years ago or so, this was a great place to work. As it is now, the best I can say is there are some good people left and compensation and benefits are good. Depending on your team, work/life balance is reasonable.
+
+
+	Cons: 
+		The company seems to have lost its direction. There are constant reorgs, new priorities and initiatives, and continuous asks to keep cutting costs. ALL promotions and headcount increases have been denied for over a year citing budget constraints. All year there have been silent layoffs with no announcement which has created a very high level of anxiety among remaining employees. Requirement to be back in the office at least 50% of the time and one designated week per quarter despite overwhelming employee feedback. It's a mess and I don't see the company fixing itself any time soon.
+
+
+	Summary: 
+		Floundering company
+
+
+Review 20:
+	Job Title: Senior Manager
+	Location: None
+	Review Date: 2024-04-02T19:35:22.490
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		- good company
+		- okay benefits
+
+
+	Cons: 
+		- execs are very lack lustered
+		- too much politics
+		- zero growth
+
+
+	Summary: 
+		Good Company Zero Innovation
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

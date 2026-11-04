@@ -1,0 +1,696 @@
+
+Meta Platforms is a Internet Services and Retailing company based in 94025 Menlo Park, California. 
+The company has 86,482 employees and has a revenue of $116,609 according to Fortune 500.
+The company is valued at $549,484 and has a profit of $23,200. The CEO of the company is Mark Zuckerberg.
+
+The Company has the following ratings: 
+Average ratings for Meta Platforms:
+Business Outlook: 0.56
+
+Career Opportunities: 3.9
+Distribution: 
+	1: 353 
+	2: 445 
+	3: 1151 
+	4: 1854 
+	5: 3117 
+
+CEO: 0.62
+
+Compensation and Benefits: 4.6
+Distribution: 
+	1: 118 
+	2: 106 
+	3: 438 
+	4: 1441 
+	5: 4776 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 494 
+	2: 524 
+	3: 1158 
+	4: 1777 
+	5: 2902 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 323 
+	2: 335 
+	3: 893 
+	4: 1673 
+	5: 3400 
+
+Overall: 3.9
+Distribution: 
+	1: 473 
+	2: 512 
+	3: 1506 
+	4: 3048 
+	5: 4421 
+
+Senior Management: 3.2
+Distribution: 
+	1: 826 
+	2: 752 
+	3: 1445 
+	4: 1756 
+	5: 2020 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 643 
+	2: 705 
+	3: 1478 
+	4: 1646 
+	5: 2367 
+
+Review Count: 13677
+
+Recommend to Friend: 
+	RECOMMEND: 4768
+	WONT RECOMMEND: 1307
+
+
+
+
+The company has 18043 reviews on Glassdoor. The last review was posted on 2024-04-17T18:23:08.030. 
+There are 20 Reviews for Meta Platforms:
+
+Review 1:
+	Job Title: Senior Data Engineering Manager
+	Location: Sunnyvale, CA
+	Review Date: 2024-03-16T23:53:47.070
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Autonomous bottoms-up culture, focus on growth and impact
+
+
+	Cons: 
+		Nothing comes to mind right now.
+
+
+	Summary: 
+		Great Experience
+
+
+Review 2:
+	Job Title: Software Development Engineer
+	Location: Seattle, WA
+	Review Date: 2014-03-17T21:26:11.827
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		It might be easy to roll your eyes when people from Facebook say how open their culture is, but it's true; it's more open than any other place I've worked at. At a company wide-level, secret projects, public incidents, important non-public business metrics and the like are all openly discussed. You can ask questions about them directly to Zuckerburg at the weekly Q&A. I think the idea is that if everyone is on the same page or at least, differing views are heard, the company will be stronger, and solutions may be offered from a place you didn't expect. This is much different from previous companies I worked at, where discussions on internal email lists would be shut down by some lawyer saying that there's certain things that can't be discussed, and important data is divided up to groups and individuals on a "need to know" basis, etc. 
+		
+		This culture applies at a lower level too. You feel comfortable giving feedback to each other about each other, about product decisions, about management, etc. The flipside of this openness is that you of course, have to be willing to receive the feedback, you have to recognize that while openness and feedback is highly encouraged, decisions have to get made, and actions and data are more valuable than words. At the higher level, since the company trusts employees with access to so much information, keeping such info confidential from the outside world is taken seriously.
+		
+		It's a great place to work as an engineer. You're given a lot of freedom, but it's also a responsibility to make sure you're doing things that are valuable. You don't get much credit for working hard or being smart if you don't produce valuable output.
+		
+		One cool thing about Facebook, in contrast to other comparable companies (Google, Amazon, and Microsoft, though in truth, FB is much smaller), is how they have a pretty singular focus. Even with the differing areas (including advertising and such), they do a good job of keeping their eye on their mission of connecting as many people as possible. I also think they are way more empathetic to their users than most people give them credit for. It seems like popular opinion has it that FB is arrogant and only cares about its users insomuch as they represent $-signs. From within the company, it didn't feel this way at all. I saw a lot of empathy towards users, and a lot effort spent to improve or things or fix broken things with no direct financial benefit. The strategy is not complex. The thinking is that if they can make FB easier and more fun to use, then more people will use it for more time each day (which will also have a network effect of attracting even more people to use it), then the advertising dollars will follow. Of course, it is true that FB wants to make the audience more accessible to advertisers as well, but there are a lot of people at FB who care about privacy and security.
+		
+		They have really good infrastructure and really great ways to share the infrastructure and code. They have a lot of cool internal tools, and what they've built is really impressive, and more importantly, it helps your team build products faster without having to solve problems that someone else already solved. Every software company tries to do this, but FB seems to have been more successful with it. Perhaps it's because they're still relatively small, but if anything, I can at least say it is very cool while it lasts.
+		
+		The perks and work environment are great, unless you're one of those types that can't stand open office spaces. I've worked in both a private office and open offices in multiple companies. While I do think a private office has some benefits, I mostly think it's a personal luxury for the employee and a huge waste of money for the company. I'd much rather have the money go into other areas like salary, benefits, and other workplace improvements rather than the added real estate necessary to have offices.
+		
+		Of course, you've heard about the food and snacks. They have an amazing selection of great stuff, and what I like about it is that it sort of goes above and beyond expectations. Sure, some days, lunch is better than others, but I really can't complain, and the selection of drinks and snacks is amazing. It's not like you should work at FB just because of that, but it demonstrates FB's desire to make work as fun and convenient as possible.
+		
+		You'll be surrounded by people who like being there. I can't think of a better environment to work in. If you have a giant ego, you may not like it as much. Respect is definitely given to those that have deep experience in the industry, and they are expected to lead others and mentor more junior employees. However, if for whatever reason, you can't perform at the level expected, no one is going to care if you did this and that at Google or shipped ten things at MS, etc.
+		
+		FB also has a lot of fun events, and I made a lot of friends working there, so going to the events was fun. Also, if you're older and worried that FB is just a bunch of 22-year-olds, and that you won't fit in, I wouldn't worry about that. FB does have a lot of young employees (who are really smart btw), and it does hire a lot of people straight out of college, but it also attracts a lot of experienced engineers from other top companies like Google, MS, Amazon, etc.
+		
+		Work-life-balance seemed totally normal to me. It may be different depending on your team, but I felt you could do 40-50 hours of work a week for the most part and you would be totally fine. It's about what you produce, not how hard you're working. Other team members who had children would work normal hours and go home at normal times. I didn't see any of these folks have a problem when they left early to take care of their child or things like that. Of course, there could be times that people are expected to work extra if something critical happens, but for the most part everyone wants to avoid this and this happens sparingly, from what I observed. Now, there were many times where I chose to work late myself, but I never felt any pressure to do so. The caveat is that there are on-call rotations, and in addition, even if you are not on-call, you are expected to be reasonably available if the on-call person needs your help. However, again, no one wants this, and your team will work on ways to avoid these situations.
+		
+		The best thing I can say is that working at FB is about productivity. I didn't experience and political bs and it was a pleasure working with a group of people who were all concerned with producing a good product and making the best of the time spent while doing it.
+
+
+	Cons: 
+		FB expects a lot out of engineers, and you can't slack off. Of course, you shouldn't slack off at any job, but since FB is pretty fast-paced, there is a risk that you'll have trouble adjusting at first.
+		
+		FB has a lot of custom infrastructure and tools, and prehaps more impressively, it works great. It makes doing your job really great, but on the other hand, you'll end up learning a lot of stuff that won't be applicable elsewhere.
+		
+		FB's code-base is very good in some ways, but in other ways, it's not as great as some of the existing engineers think it is. I don't think this is that big of a deal, but the important part is that as an engineer, you need to quickly learn FB's values and practices and "get with the program" so to speak. If you don't like some things, then you just have to deal with it, as it's not likely you're going to change people's minds at this point. The nice thing is that things are at least very consistent.
+
+
+	Summary: 
+		Open, fast, no bs
+
+
+Review 3:
+	Job Title: None
+	Location: Menlo Park, CA
+	Review Date: 2017-02-16T19:37:03.677
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		- Incredible benefits 
+		- Excellent compensation that rewards strong performance 
+		- Lots of autonomy 
+		- Tons of room for growth
+		- Very transparent from the top down
+		- Strong leadership
+		- Intelligent and caring colleagues
+		- The most fair and well thought out review process you will find everywhere 
+		- Exciting work
+
+
+	Cons: 
+		- If you don't learn to make the work life balance work for you, it can be exhausting. But you'll also be given lots of support with this if you ask for it. 
+		- It doesn't matter how good you are at your job, chances are you're going to be surrounded by a ton of other people who are just as good if not better. Imposter syndrome is real, but if you got an offer, you probably belong here too.
+
+
+	Summary: 
+		Fast paced company with high expectations, but incredibly fair. You won't a place that cares more about it's people.
+
+
+Review 4:
+	Job Title: Site Selection Program Manager
+	Location: Menlo Park, CA
+	Review Date: 2016-02-16T17:17:42.013
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		I'm a 55 year old working in a company where the average age is 28, and I've never been happier. I have always wanted to work in a company where I wasn't the proverbial square peg, and after nearly 30 years in the work force, I believe that I have found the company that complements my ideology for how a company should operate. Here are the "Pros" as I see them...
+		
+		- Leadership:  Mark Zuckerberg, Sheryl Sandberg, Chris Cox and the rest of the leadership team. Inspiring, smart and totally real.
+		- The Culture:  The openness is a real thing, we're trusted to do the right thing, mistakes are expected, being yourself is important and encouraged, humility is encouraged and expected, building trust is paramount, the mission of making the world a more open and connected place isn't just a cool phrase because it guides everything. It's not about us, it's about everyone else.
+		- The People:  Smart and nice is what I find. The diversity is better than any other company I've worked at and it's getting better. Those that are figuring out how to make what we do better for everyone are really good at implementing their ideas. Two years ago I didn't know what this company really was or if it had a secure future. I can clearly see now that they have what it takes to last, and it's sincere.
+		- Management:  Managers are hired because they're good managers and not because they're good at something else. The management track is different than the contributor track and they're equal in importance.
+		- Benefits:  Working in the Valley it's hard to differentiate all the benefits employees receive and Facebook is at least equal to all the major tech companies, but coming from Seattle the benefits are nothing short of incredible.
+		
+		Granted, I haven't been with the company for very long and I'm still in the honeymoon period, but I can tell what's real and what's not; this place is for real.
+
+
+	Cons: 
+		Like any tech company, the work is big and complicated so work/life balance can suffer from time to time. The difference is that it's the passion within the individuals that drives them to work long hours and forego time off. Of course there can be times when schedule demands force the imbalance, but it's not such that 10-12 hours days become commonplace and expected regardless. We do what we do to get the job done; no one is killing themselves because there's an order to do so.
+		
+		Being able to eat to your hearts/stomachs content can be dangerous to the waistline, but that's a self-control thing and not the company's issue.
+
+
+	Summary: 
+		Pleasantly Surprised
+
+
+Review 5:
+	Job Title: Engineering Manager
+	Location: San Francisco, CA
+	Review Date: 2020-05-24T18:46:13.737
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Facebook deeply cares about its employees and has built a compelling culture around support and growth. Career growth opportunities are plentiful. If you don't like the team you're on or don't get the support you want from your manger, Facebook empowers you to find new teams or projects. Facebook wants its employees to be invested in their work and to feel connected to its larger mission. If large scale opportunities and growth are important to you, Facebook is a fantastic place to work.
+
+
+	Cons: 
+		Facebook's culture is demanding and fast paced. The greatest aspect of working at Facebook is that everyone is very motivated and very smart. The problem with this is that they all expect the very same of you. Holding a very high bar for excellence can certainly be demanding so it's important to make sure you're always carefully paying attention to your own personal work/life balance.
+
+
+	Summary: 
+		People Focused
+
+
+Review 6:
+	Job Title: Senior Product Designer
+	Location: Menlo Park, CA
+	Review Date: 2024-01-20T21:40:40
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		• Extremely good pay and perks, both for FTE and contingent workers
+		• Encouragement of work-life balance, flexible working hours, emphasis on self-care and improvement, team leads trust their reports, no micro-managing
+		• There is actual sense of community and camaraderie amongst teams. Some of them will be your friends and mentors even after you've left the company.
+		• Work is challenging but not overwhelming, and will absolutely teach you how to excel at any Big Tech or similarly mature company
+		• There is a proliferation of knowledge resources, workshops, and other (actually fun) social activities
+
+
+	Cons: 
+		• Similar to every huge company, it's very easy to do duplicative projects, spend months on incremental changes to a single feature or project, or find that progress on your work is heavily dependent on other teams' work
+		• What seems to be a simple change or improvement almost always snowballs into months of tweaks and approvals; you need an preternatural sense of organization to work here sometimes
+		• It's very hard to work on anything truly innovative or net-new unless you're prepared to go director-level with a rock-solid case
+		• Constant re-orgs and changing goals over the past year have made it difficult to successfully ship features and do focused work.
+
+
+	Summary: 
+		Despite the company rep, it's truly one of the best tech places to work
+
+
+Review 7:
+	Job Title: Software Developer
+	Location: Midtown New York
+	Review Date: 2024-03-09T07:39:34.943
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Recognition of Skill: The headline acknowledges the developer's expertise, indicating that they possess a high level of skill in their craft. This recognition can be encouraging and motivating for the developer.
+		
+		Emphasis on Craftsmanship: By highlighting "code craftsmanship," the headline suggests that the developer not only produces functional code but also focuses on quality, readability, and maintainability. This emphasis on craftsmanship reflects positively on the developer's commitment to producing high-quality work.
+
+
+	Cons: 
+		Subjectivity: The term "masterful" is subjective and open to interpretation. What one person considers masterful, another might not. This subjectivity could lead to skepticism or doubt about the validity of the review.
+		
+		Pressure to Maintain Standards: Such high praise may create pressure on the developer to consistently deliver exceptional work. This pressure could potentially lead to stress or burnout if not managed effectively.
+
+
+	Summary: 
+		Masterful Developer: Expertise in Code Craftsmanship Shines Through!
+
+
+Review 8:
+	Job Title: Senior Product Manager
+	Location: Seattle, WA
+	Review Date: 2024-04-08T15:08:44.127
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		The People are fantastic. The culture has historically been one of the best things about the company, Its very collaborative, the company does move fast and everyone is aligned around delivering impact.
+
+
+	Cons: 
+		The company didn't understand the impact of geographic disparities for management and product. The result was the company thought it was being more efficient by combining similar teams, but we all paid a tax in expediency and work/life balance dealing with time zones.
+		
+		Impact is still seen in 6mos increments, so long term projects can suffer since that may or may not factor into performance reviews.
+
+
+	Summary: 
+		Facebook was great, Meta suffered from too much  "efficiency"
+
+
+Review 9:
+	Job Title: Network Engineer
+	Location: New Albany, OH
+	Review Date: 2024-04-16T03:24:56.307
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Great compensation and many opportunities for swag.
+
+
+	Cons: 
+		Too much money and time spent on swag and not to develop the careers of employees. Very little if any work/life balance, and you are punished for taking mental health breaks.
+
+
+	Summary: 
+		Grass is always Greener…
+
+
+Review 10:
+	Job Title: Human Resources Business Partner
+	Location: New York, NY
+	Review Date: 2024-03-22T09:10:27.723
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Great pay and benefits. Things like mental health and taking leaves when needed are welcomed and encouraged and truly supported by the company. A lot of great smart people to work and collaborate with. Travel is expected and will be held against you come performance review time if you opted not to travel or could not for whatever reason. Diversity and Inclusion is really important and that is felt throughout the company culture.
+
+
+	Cons: 
+		Never had a manager in place longer than a few months so did not feel supported or like anyone really took the time to get to know me or my skill sets. The culture changed significantly while I was there and the process to execute layoffs did not feel like a fair one. Internal career opportunities felt limited.
+
+
+	Summary: 
+		Great pay, great benefits, culture went downhill
+
+
+Review 11:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-27T14:35:27.277
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		- Super smart and supportive colleagues
+		- Some interesting projects / business goals around AI + social media
+		- Great benefits and healthcare
+
+
+	Cons: 
+		- Worrying trend where policies and employee monitoring are enacted based on leaders assumptions about efficiency and productivity
+		- Disappointed in the shifting support away from remote/flexible work (would leave if the policy restricted more)
+		- Politics and churn exacerbated by people's fear / lack of trust in employees by leadership
+
+
+	Summary: 
+		Like it, but worried about the walk-back of remote work
+
+
+Review 12:
+	Job Title: Engineering Manager
+	Location: Menlo Park, CA
+	Review Date: 2024-04-15T18:32:46.690
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Free food, nice people but evil when it comes to calibration
+
+
+	Cons: 
+		I left because many grew up the ranks there and were bad leaders.
+		Understand the impact of the company you are working for
+
+
+	Summary: 
+		Good company, people are nice
+
+
+Review 13:
+	Job Title: Recruiting Lead
+	Location: Austin, TX
+	Review Date: 2024-04-17T13:55:17.103
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great pay and you do learn a lot from the great talent hired at Meta
+
+
+	Cons: 
+		Chaotic and unorganized, Unclear business objectives and goals
+
+
+	Summary: 
+		Salary Review
+
+
+Review 14:
+	Job Title: Brand Marketing Lead
+	Location: Los Angeles, CA
+	Review Date: 2024-04-16T16:05:36.207
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Culture is just wonderful. People are wicked smart, helpful and full of empathy.
+
+
+	Cons: 
+		You will work hard here, but the work is rewarding.
+
+
+	Summary: 
+		Probably the best FAANG employer there is.
+
+
+Review 15:
+	Job Title: None
+	Location: None
+	Review Date: 2024-02-08T11:10:52.083
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Innovation and Impact: Discuss Meta's cutting-edge work and emphasis on technologies shaping the future. Highlight the potential to work on projects with broad reach and real-world impact.
+		Strong Compensation and Benefits: Acknowledge Meta's competitive salary packages and perks. Mention their focus on employee wellness and a variety of benefits offered.
+		Talent and Collaboration: Talk about the stimulating environment of working alongside highly skilled and motivated individuals from diverse backgrounds
+		Growth Opportunities: Share examples of professional development resources, internal mobility, or mentorship programs, highlighting potential for career progression.
+		Culture (Team-Dependent): If applicable, describe your team's positive dynamics, emphasis on work-life balance, or a supportive working atmosphere.
+
+
+	Cons: 
+		Fast-Paced and Pressure: Openly discuss the intense workload and the culture of demanding deadlines, where work-life balance can be a challenge for some.
+		Frequent Change: Meta's focus on innovation often requires agility and adapting to restructuring or shifting priorities. This might not suit everyone.
+		Bureaucracy (Potential): Depending on your experience, mention how large company structures could create some roadblocks in terms of slower decision-making.
+		Public Scrutiny: Acknowledge the ethical dilemmas and criticism of Meta's practices that employees need to be mindful of.
+
+
+	Summary: 
+		A Dynamic Workplace with Opportunities and Challenges
+
+
+Review 16:
+	Job Title: Employee Relations Business Partner
+	Location: None
+	Review Date: 2024-04-07T17:50:05.763
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The only pro is if by sheer luck you get the job, they do pay well
+
+
+	Cons: 
+		Leadership posting jobs they recently laid people off from 
+		Leadership/recruiting takes extremely long during the hiring process and sometimes will rescind a job offer
+
+
+	Summary: 
+		Proceed with caution during interview process 
+
+
+Review 17:
+	Job Title: Product Operations Manager
+	Location: New York, NY
+	Review Date: 2024-04-09T14:08:47.590
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good perks
+		Ability to transfer into many different roles
+
+
+	Cons: 
+		not fully respected by cross functional partners 
+		this role often lacks authority and direction, it needs to be built with time and is not always garunteed
+
+
+	Summary: 
+		Good
+
+
+Review 18:
+	Job Title: Senior Manager, Global Sourcing
+	Location: Menlo Park, CA
+	Review Date: 2024-04-17T15:08:40.860
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Promotes mobility and learning &amp; development
+
+
+	Cons: 
+		Organizations became more political as the teams grow.
+
+
+	Summary: 
+		Growth at Meta
+
+
+Review 19:
+	Job Title: Product Marketing Manager (PMM)
+	Location: Menlo Park, CA
+	Review Date: 2024-04-17T18:23:08.030
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Work with some amazing top talent
+
+
+	Cons: 
+		Sometimes the projects and timelines can be stressful
+
+
+	Summary: 
+		Great experience 
+
+
+Review 20:
+	Job Title: Engineering Manager
+	Location: Menlo Park, CA
+	Review Date: 2024-04-11T16:23:43.380
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		- Fast career progression if you're searching for it
+		- World class internal tools
+		- Incredible coworkers to learn from
+
+
+	Cons: 
+		- Need to be on the right team, or things can be tough
+		- Politicking and framing skills are important to doing well
+
+
+	Summary: 
+		Really enjoyed my time at Meta
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

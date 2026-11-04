@@ -1,0 +1,652 @@
+
+Moderna is a Pharmaceuticals company based in 02139 Cambridge, Massachusetts. 
+The company has 3,900 employees and has a revenue of $19,263 according to Fortune 500.
+The company is valued at $59,232 and has a profit of $8,362. The CEO of the company is Stephane Bancel.
+
+The Company has the following ratings: 
+Average ratings for Moderna:
+Business Outlook: 0.5
+
+Career Opportunities: 3.4
+Distribution: 
+	1: 69 
+	2: 30 
+	3: 84 
+	4: 87 
+	5: 132 
+
+CEO: 0.67
+
+Compensation and Benefits: 4.4
+Distribution: 
+	1: 21 
+	2: 13 
+	3: 48 
+	4: 110 
+	5: 211 
+
+Culture and Values: 3.3
+Distribution: 
+	1: 95 
+	2: 37 
+	3: 51 
+	4: 76 
+	5: 140 
+
+Diversity and Inclusion: 3.8
+Distribution: 
+	1: 37 
+	2: 23 
+	3: 44 
+	4: 64 
+	5: 158 
+
+Overall: 3.5
+Distribution: 
+	1: 77 
+	2: 56 
+	3: 74 
+	4: 122 
+	5: 182 
+
+Senior Management: 3
+Distribution: 
+	1: 105 
+	2: 37 
+	3: 65 
+	4: 85 
+	5: 104 
+
+Work Life Balance: 2.8
+Distribution: 
+	1: 125 
+	2: 58 
+	3: 78 
+	4: 74 
+	5: 68 
+
+Review Count: 514
+
+Recommend to Friend: 
+	RECOMMEND: 204
+	WONT RECOMMEND: 148
+
+
+
+
+The company has 692 reviews on Glassdoor. The last review was posted on 2024-04-16T08:48:50.780. 
+There are 20 Reviews for Moderna:
+
+Review 1:
+	Job Title: Associate Director
+	Location: None
+	Review Date: 2023-09-19T15:41:37.600
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Moderna is a company were we feel included. There are several Employee Resource Groups that foster networking through social activities. There is room for growth. We all are encouraged to take advantage of the trainings offered through the Moderna University. These trainings include Management Academy and AI. Our benefits include global recharging days, in addition to 13 holidays. Great rewards programs.
+
+
+	Cons: 
+		Very fast company growth at a global level.
+
+
+	Summary: 
+		A company with an inclusive culture and great rewards
+
+
+Review 2:
+	Job Title: Principal, Data and Analytics Strategist
+	Location: Cambridge, MA
+	Review Date: 2024-04-16T06:40:14.160
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		*Challenging and Diverse Work: Engage in tasks that foster both personal and professional growth. Many opportunities to step out an make a difference in ways beyond a position description.
+		*Top-Notch Mission, Vision and Science: Benefit from visionary leadership and commitment to cutting-edge technology.
+		*Collaborative Environment: Work with highly talented, collaborative, and motivated colleagues.
+		*Growth Opportunities: Particularly for those who are adaptable and proactive.
+		*Premium Benefits: Health, dental, lunch, transit, and many other benefits allow you to focus on being productive.
+
+
+	Cons: 
+		* Reorganizations: Necessary for growth and maturity but can be disruptive. 
+		* Shifting Priorities As We Pivot Fearlessly: Requires continuous adaptability, which might not be suitable for everyone.
+		* High Commitment Demands: The fast-paced environment requires resilience and a high level of commitment.
+
+
+	Summary: 
+		A Thriving Environment for Growth Amidst Evolution: My Moderna Experience
+
+
+Review 3:
+	Job Title: Sr. Specialist
+	Location: Cambridge, MA
+	Review Date: 2024-03-22T10:24:13.213
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Excellent benefits, hybrid work schedule available for most, free lunch (good food!), It’s a team environment with lots of support to get the job done, great exposure to many systems, great learning opportunities available as well, young culture with lots of extremely intelligent people
+
+
+	Cons: 
+		There is a culture of work all the time, the pandemic mentality of all hands on deck has not subsided, if you are looking for a steady schedule this is probably not for you, many meetings leaving you without time to do the work, the norm is to be on multiple monitors doing separate work on each, example set by most of operating off hours, on weekends, holidays etc. workers do not take advantage of the unlimited vacation time, feels like people take less vacation than anywhere else I’ve worked
+
+
+	Summary: 
+		Great Benefits in a High Octane Industry
+
+
+Review 4:
+	Job Title: Co-Op
+	Location: None
+	Review Date: 2024-04-12T21:29:19.810
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Great industry experience, some co- works are really nice and will help you navigate things. Amazing projects and technology
+
+
+	Cons: 
+		While initially facing neglect and criticism from my manager and team, I turned the situation around by seeking collaboration with other teams. This enabled me to grow professionally despite the challenges, ultimately benefiting both myself and the company. I am confident that my manager's review at the conclusion of my co-op did not accurately reflect my contributions and growth. Despite my efforts, it seemed that he had zero investment in my curiosity to learn. His higher position within the company led others to unquestioningly accept his perspective as correct. I had intended to escalate the matter to HR, but a team member advised against it"
+
+
+	Summary: 
+		Good learning experience 
+
+
+Review 5:
+	Job Title: Director
+	Location: None
+	Review Date: 2024-04-06T03:45:26.590
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Benefits
+		Career Resources
+		Experience from the four other jobs you're doing without pay or recognition
+
+
+	Cons: 
+		Management blames someone below them for any mistake, no matter how small, and takes credit for everyone else's ideas.
+		Hires people from unrelated industries and then touts how their ideas are so much better
+		Retaliatory, hostile work environment with inexperienced supervisors
+
+
+	Summary: 
+		Like Trump, senior leadership doesn't take responsibility for anything
+
+
+Review 6:
+	Job Title: Manufacturing Science and Technology Specialist I
+	Location: Norwood, MA
+	Review Date: 2024-04-02T09:57:03.653
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Benefits provided by the company for life outside of the office are very good.
+		Provides an abundance of industry experience
+		Solid technology within the industry to remain competitive
+
+
+	Cons: 
+		Extreme workload in addition to long hours are needed to meet deadlines
+		Upward mobility is rarely seen and often more advanced positions are reserved for external hiring
+		job descriptions do not reflect expectations or responsibilities and people are constantly rotated into roles they were not hired for.
+
+
+	Summary: 
+		Continuously Cycling Experience
+
+
+Review 7:
+	Job Title: Anonymous
+	Location: None
+	Review Date: 2024-04-15T12:27:52.103
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		All companies pay and have benefits. Nothing Moderna provides makes the terrible work environment worth it.
+
+
+	Cons: 
+		- Roles and Responsibilities: job descriptions are completely meaningless word docs generated to post an opening. Within 2 months of being hired, I was asked to do a completely different role outside of my area of experience, a large departure from what I was hired for (and being paid for) and a role that my boss at that time 2 levels above than me had been performing. Major and immediate bait and switch, and it only continued from there. Re-orgs every 4-6 months. The job that I thought I got when I was hired at Moderna was very quickly a distant whisper in the wind. And I’ve seen this happen to many others, repeatedly. Also, the recent and very quiet layoffs across the organization have wreaked complete havoc, there’s no end in site to the responsibilities chaos. 
+		
+		- Values and Ethics: you will be asked to comprise your values, do the opposite of what you know to be right in the world of pharma, and do things that are not in the best interest of patients, constantly. You will do so in the name of an invisible race and fake urgency, with project managers breathing down your throat 24/7. Someone else’s screw up becomes your latest urgent task instead of an extended deadline. I have signed off on work that has been at best sub par and at worst blatantly incorrect or contradictory, and I am ashamed. 
+		
+		- Daily Distress: if you've worked at any a company that uses calendar availability to book meeting…forget about all that here. You’ll regularly be booked for 3 or 4 meetings at the same time, and everyone will expect you to attend theirs. If you decline, the person will double book you again, at another time. If you decline again that person will probably escalate to your boss and say that you’re not being cooperative. If you miss replying to all these double booked meetings and just don’t attend that person may try to dial you into their meeting anyway while you’re on another call. Oops, someone forgot to add you to an invite, so they’ll call you into a meeting 5mins after it’s started and expect you to attend too. I was once booked for 19 meeting in one day (it was a Friday…see below). 
+		Teams statuses matter even less than calendars. Busy, Out of office, Do not disturb…there are no boundaries around your own time that you can set to do actual meaningful work. Incessant pings from people you’ve never met, asking for deliverables you’ve never heard of because someone happened to whisper your name somewhere….are endless. This will be 80% of your working day, and you’ll spend the other 20% wrestling digital systems that never work the way they’re supposed to. You’ll end every day either giving up and accepting failure or working at night until 3am to do all the actual work you had planned for that day. 
+		
+		- Fridays: this is a relaxing day at Moderna like many other companies, where you get a chance to tie up all your loose ends and wind the week down, prepare for the following week….sorry bad joke. Friday is the most awful and hellish day of the week at Moderna. Instead of accepting reality and doing what everyone can to close out their week, most people are frantic and crazed because they didn’t meet some deliverable that was completely unrealistic in the first place and they need 6 different people to move mountains for them so they can check it off their list. And surprise you’re one of the lucky 6! You will likely clock more hours on Friday than any of the week. 
+		
+		- Weekends: I won’t even joke here, your boss will email, or IM, or call. Or all three until they get a hold of you for something “urgent”. 
+		
+		- Leaders: either fall in line to this chaos or get packaged out. 
+		
+		- Moderna Mindsets: the values by which Moderna employees are supposed to work by. Routinely mocked by those who can see them for what they are, and weaponized by those who can’t. “We act with urgency”…if everything is urgent…you know how it goes. “Prioritize the platform”…there’s no platform, only leaders who desperately need there to be one and try to force the science to fit. “We obsess over learning”….you won’t even have enough time to do your actual required trainings much less any other learning. “Digitize wherever possible”….here’s your used laptop that barely works, use it for the next 5 years and don’t complain when it lasts 10 minutes unplugged. 
+		
+		Overall, an awful and bordering inhumane place to work that would love if employees were actually robots or machines…sound familiar?
+
+
+	Summary: 
+		Employees should leave and patients should be concerned
+
+
+Review 8:
+	Job Title: Associate Director
+	Location: Boston, MA
+	Review Date: 2023-04-13T02:51:49.440
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		The people working at Moderna, regardless of department, are hands down the smartest people I've ever met. Seriously, that place is overflowing with brainpower. And it is ALWAYS cool to know that, in some way, you're positively impacting the lives of others. Whether you're in Finance, HR, or IT, in your own way, you're making it possible to provide valuable theraputics to people across the globe.
+
+
+	Cons: 
+		Forget about "work/life balance". It doesn't exist, and it doesn't matter what department you're in. The tricky bit is that everyone in all of these departments is really passionate about the mission, and that's contagious. Before you know it, you're constantly checking your phone for emails at all hours of the day and working on the weekends to keep up with everyone else. If you're naturally inclined to be a workaholic, DO NOT APPLY. The culture is built on workaholics, so there aren't any breaks or mechanisms to help you if you start to spend more time working than you do with your family.
+
+
+	Summary: 
+		It's great! Just know what you're getting into...
+
+
+Review 9:
+	Job Title: Sr. Manager QA
+	Location: Norwood, MA
+	Review Date: 2024-01-11T10:00:49.683
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		They are led by a Great CEO and a few other Senior Leaders who are extraordinary. Great Benefits and pay above average. Days off are as good as any in the industry. They really moved many original employees up through the ranks as they grew quickly and while it is catching up to them it was nice to reward those who helped build the company.
+
+
+	Cons: 
+		We are in the middle of a downtime so they are not handling this re-org as well as they could have and that is my only negative comment as the usual open communication on what is coming has been very under handed and disrespectful but I am understanding as they have known nothing but success and so I do hope they learn going forward to be more forthcoming when times are tough and thus people may be laid off and have to move to other areas because we are in a transition.
+
+
+	Summary: 
+		A Place with a purpose
+
+
+Review 10:
+	Job Title: Associate Director
+	Location: Cambridge, MA
+	Review Date: 2024-04-05T18:50:41.937
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		A small sample size, albeit containing some exceptionally intelligent and industrious colleagues.
+
+
+	Cons: 
+		The senior management exhibits poor leadership, with a hiring and promotion process marred by bias. Diversity in the workplace is lacking, with a majority of white and female employees, many of whom are deemed unqualified. The culture is fear-driven and toxic, rife with daily drama. Talented non-white middle managers who seek positive change are often sidelined or forced out. The toll on mental and physical well-being is immeasurable. Given the chance, I wouldn't choose to be part of this environment again.
+
+
+	Summary: 
+		Toxic culture, biased management, inexperienced HR, Horrible leadership
+
+
+Review 11:
+	Job Title: Principal Software Engineer
+	Location: Norwood, MA
+	Review Date: 2024-04-16T08:48:50.780
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		good work life balance, Good Well being benefits.
+
+
+	Cons: 
+		Tech stack is limited, and things are evolving now and we get to see confusions on Roles and Responsibilities.
+
+
+	Summary: 
+		Great Company to work with
+
+
+Review 12:
+	Job Title: Senior Associate
+	Location: Cambridge, MA
+	Review Date: 2024-02-26T10:26:14.227
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Some team members are nice people.
+
+
+	Cons: 
+		Fear based leadership. CEO runs it like a dictarorship and hires people just like him and they all bow down to him as if he is a king. They track you when you arrive and leave the office. If you aren't chained to your desk 12 hours a day you are slacking. Constant changing of goals so everything goes into chaos mode. Bulllying, belittling, gaslighting, many people who have worked here and work here get physically ill from the mental stress and abuse. HR does not care at all, this is a known fact at Moderna. You are expected to miss major personal events in the name of Moderna. It's dubbed as "The Moderna Way". You think because they made the Covid vaccine they care about humans? Nope, all they care about is how many shots =how many billions they can make. Do not work here.
+
+
+	Summary: 
+		Toxic at its core
+
+
+Review 13:
+	Job Title: Sr Manager, Statistical Programming
+	Location: None
+	Review Date: 2024-04-14T15:43:07.793
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Friendly environment, flexible time off.
+
+
+	Cons: 
+		lack of team building and multi-department collaboration
+
+
+	Summary: 
+		Unlimited time off
+
+
+Review 14:
+	Job Title: None
+	Location: None
+	Review Date: 2024-02-07T06:55:17.557
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Compensation and benefits are top notch, for now
+
+
+	Cons: 
+		There is a total lack of transparency at this company. Senior leadership makes decisions and issues decrees from one week to the next that are all "effective immediately" with no guidance or roadmaps. Stakeholders and steering committees are ignored with decisions made by one or two people at the top....this is one of the most hierarchical companies I've ever worked at.
+		A good chunk of the clinical operations personnel are not even up to date on ICH or other regulatory and industry guidance from 10 years ago. This place is a circus because they keep hiring clowns.
+
+
+	Summary: 
+		No transparency
+
+
+Review 15:
+	Job Title: Clinical Trial Manager
+	Location: Cambridge, MA
+	Review Date: 2024-03-18T07:59:06.720
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Opportunity to think creatively and bring solutions to the table; generally flexible with the right manager; opportunity to learn and be challenged
+
+
+	Cons: 
+		Personalities and willingness to work collaboratively varies by team; company culture in decline; work life balance dependent on team
+
+
+	Summary: 
+		Moderna Personality Fit 
+
+
+Review 16:
+	Job Title: Senior Director
+	Location: Cambridge, MA
+	Review Date: 2024-04-08T09:26:08.213
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Great technology which has revolutionized the vaccine landscape
+
+
+	Cons: 
+		Internally competitive culture between departments was demoralizing.
+
+
+	Summary: 
+		Moderna
+
+
+Review 17:
+	Job Title: Sr. Mgr. Medical Writing
+	Location: None
+	Review Date: 2024-04-13T01:45:34.120
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 0
+
+	Pros: 
+		I credit them for helping to control the CoVid crisis.
+
+
+	Cons: 
+		No management structure. They sent me another on-boarding's laptop and never fixed it.
+
+
+	Summary: 
+		I believe in this company!
+
+
+Review 18:
+	Job Title: None
+	Location: None
+	Review Date: 2024-01-15T11:35:37.227
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		The benefits, parking/transportation and location are great.
+
+
+	Cons: 
+		The structure and management are lacking. People are being moved around to positions they don’t feel qualified for or are not in line with their expertise. Directors are being hired with no responsibilities and others are being promoted to management with zero management skills. Many good people have either left or are leaving due to mismanagement, lack of transparency and agenda’s with ill will.
+
+
+	Summary: 
+		Management can be challenging 
+
+
+Review 19:
+	Job Title: None
+	Location: Cambridge, MA
+	Review Date: 2024-03-13T10:38:51.917
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Has the potential to produce revolutionary, accessible therapeutics as demonstrated during the pandemic.
+
+
+	Cons: 
+		Poorly trained middle managers, out of touch senior leadership, toxic hierarchical environment where unhealthy competition amongst coworkers is encouraged. Not only does this cultivate a lack of collaboration or communication but is creatively isolating to the point where it’s impossible to create workflow at a reasonable speed.
+
+
+	Summary: 
+		Exciting science, poor structure and management
+
+
+Review 20:
+	Job Title: Senior Director
+	Location: Cambridge, MA
+	Review Date: 2024-03-26T10:39:45.340
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good clinical operations. Very well-versed scientist
+
+
+	Cons: 
+		No diversity!!! Look around the company is all white faces with limited diversity in management or Human Resources.
+
+
+	Summary: 
+		NO DIVERSITY
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

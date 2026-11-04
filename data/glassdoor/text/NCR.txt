@@ -1,0 +1,661 @@
+
+NCR is a Computers, Office Equipment company based in 30308 Atlanta, Georgia. 
+The company has 35,000 employees and has a revenue of $7,844 according to Fortune 500.
+The company is valued at $3,304 and has a profit of $60. The CEO of the company is Michael Hayford.
+
+The Company has the following ratings: 
+Average ratings for NCR:
+Business Outlook: 0.52
+
+Career Opportunities: 3.2
+Distribution: 
+	1: 985 
+	2: 1001 
+	3: 1629 
+	4: 1426 
+	5: 971 
+
+CEO: 0.68
+
+Compensation and Benefits: 3.1
+Distribution: 
+	1: 688 
+	2: 1116 
+	3: 1907 
+	4: 1496 
+	5: 788 
+
+Culture and Values: 3.4
+Distribution: 
+	1: 940 
+	2: 806 
+	3: 1213 
+	4: 1395 
+	5: 1401 
+
+Diversity and Inclusion: 3.8
+Distribution: 
+	1: 225 
+	2: 228 
+	3: 586 
+	4: 836 
+	5: 1085 
+
+Overall: 3.5
+Distribution: 
+	1: 798 
+	2: 966 
+	3: 1904 
+	4: 2097 
+	5: 1377 
+
+Senior Management: 3.1
+Distribution: 
+	1: 1417 
+	2: 999 
+	3: 1319 
+	4: 1250 
+	5: 926 
+
+Work Life Balance: 3.4
+Distribution: 
+	1: 1057 
+	2: 833 
+	3: 1290 
+	4: 1444 
+	5: 1354 
+
+Review Count: 7157
+
+Recommend to Friend: 
+	RECOMMEND: 3114
+	WONT RECOMMEND: 2229
+
+
+
+
+The company has 7843 reviews on Glassdoor. The last review was posted on 2024-04-17T07:26:10.960. 
+There are 20 Reviews for NCR:
+
+Review 1:
+	Job Title: Senior Software Engineer
+	Location: Atlanta, GA
+	Review Date: 2024-03-05T19:15:52.653
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		- Work culture is amazing
+		 - Reward for performace
+
+
+	Cons: 
+		Constant change in leadership makes hard to align with annual goals
+
+
+	Summary: 
+		Work culture and career growth
+
+
+Review 2:
+	Job Title: Software Engineer
+	Location: None
+	Review Date: 2024-04-01T06:34:54.100
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Working with newest tech stack
+
+
+	Cons: 
+		Our newest CEO for NCR Voyix said 5 day office work weeks mandatory for Georgia residents will drive up collaboration and innovation. Employees now get to talk to each other about work when running into each other in the hallways, talk about work while waiting for the burrito line at the downstairs cafeteria. So I can't even take a mental break walking into the bathroom or being at lunch without being harass about work? Not to mention most of our colleagues work in California, UK, India, so I'm not sure how much innovation and collaboration can be done even MORE doing slack huddle/teams call with them at the office.
+
+
+	Summary: 
+		Require to come into office 5 days a week, reasons are outdated
+
+
+Review 3:
+	Job Title: Customer Engineer II
+	Location: Pittsville, WI
+	Review Date: 2024-03-16T21:57:16.093
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Essentially unlimited overtime, you can double your salary if you want
+		Direct effect on customers and coworkers, you can really make someone's day better by showing up and solving issues
+		Flexibility, I can start my day late and/or end my day early without many repercussions, if need be.
+
+
+	Cons: 
+		Essentially unlimited overtime, lots of heavily implied mandatory OT, not always when you want to work late.
+		Direct effect on customers and coworkers, lots of internal drama, poor workmanship, lack of integrity, and fireable actions being swept under the rug
+		Flexibility, I'm called out on my days off to fix issues up to 4 hours away, on a semi-regular basis, you can't make plans on AV days, you can only sit around the house, doing chores. I guess, to get some, you gotta give some.
+
+
+	Summary: 
+		When Life Gives You Lemons
+
+
+Review 4:
+	Job Title: Software Engineer III
+	Location: Atlanta, GA
+	Review Date: 2024-04-05T08:15:20.293
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		NCR Voyix is filled with great people and interesting technical challenges to solve. I'm given the freedom to pursue my own solutions to problems and am supported by my teammates.
+
+
+	Cons: 
+		Challenging corporate IT control, acceptable office work conditions at best. Poor choice by executive leadership to go back to 5 days in the office.
+
+
+	Summary: 
+		Great Individuals and Problems to Solve - Disappointing Leadership
+
+
+Review 5:
+	Job Title: Account Support Manager
+	Location: Raleigh, NC
+	Review Date: 2024-02-05T15:03:54.223
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Many great coworkers and friends I’ve made over the years. First line management is also generally pretty good and grounded.
+
+
+	Cons: 
+		This company is run by people who are career salesmen. And sales is all that they care about. This is reflected in almost all levels of the culture. Sales teams are often (and exclusively even) given the best perks and benefits, and are almost always the only ones being recognized by executive leadership on the all-hands calls. 
+		
+		Meanwhile NCR invests laughably little (about 3%) into innovating the vast array of legacy products it constantly misrepresents as being cutting edge, and the actual newer products are also often years ahead of being working and viable solutions, but are sold anyways.
+		
+		Execution and delivering on promises to customers is a distant second priority. That is until this rush to the sale’s finish line mantra complicates another sales opportunity, and leadership will then throw all hands on deck to (temporarily) fix said problem to keep the customer on the sales hook.
+		
+		You will constantly hear executive leadership saying “the customers are first”. It’s all nonsense. What they really mean is “the sales pipeline is first”. And these aren’t just my words, at least three high level customer contacts (c-suite and director) have told me this same thing over the years.
+
+
+	Summary: 
+		Sales-Focused, not Execution Focused
+
+
+Review 6:
+	Job Title: Product Manager
+	Location: Atlanta, GA
+	Review Date: 2024-04-10T02:31:37.433
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Salary can be decent for new hires
+		Autonomy (depending on your manager)
+
+
+	Cons: 
+		Raises and annual increases are nonexistent.
+		Bonus hardly ever paid out (always some excuse)
+		Unclear direction, no alignment
+		Revolving door
+		Everyone jumping ship as company collapses
+		Customers are all running and dislike the company 
+		Lots of pressure on PMs with very little guidance, direction or decent tools to support efforts
+		Culture of all day meetings and no reprieve, sometimes 8am-6pm, over lunch, and could be 10-15 meetings a day. Attitudes of employees are bad as everyone is overworked and taxed and perks are few and far between.
+		Lots of layoffs. Or people quitting left and right.
+
+
+	Summary: 
+		PMs are tortured
+
+
+Review 7:
+	Job Title: SMB Account Manager
+	Location: None
+	Review Date: 2024-02-08T11:58:04.050
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		NCR is a great place to get corporate experience. Working in SMB Hospitality, the teams really cared about restaurants and did their best. Managers were open to feedback and very supportive. Restaurant technology is a fun industry.
+
+
+	Cons: 
+		The biggest challenge for the NCR SMB Hospitality is aging technology. NCR Aloha was the clear market leader a decade ago but the resources were not invested to keep it current. This is resulting in much of the SMB market going to Toast.
+		
+		Also, the support and billing were moved overseas. These people are nice but often aren't properly trained. This leads to very angry customers over long support holds and duplicate billing. They are trying to make NCR Silver (Aloha Cloud) the future but it needs much more investment to catch up with competitors (like Toast &amp; Square).
+		
+		All that being said, I enjoyed my time at NCR because of the people. There is still a place for NCR in larger chains. If you only have restaurant experience and want to get a corporate business job, this is a great place to start.
+
+
+	Summary: 
+		Good teams trying to save aging tech
+
+
+Review 8:
+	Job Title: Customer Service Technician
+	Location: Manchester, NH
+	Review Date: 2024-03-07T15:13:48.930
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Training is pretty decent for entry level. If you have to work here, volunteer for as much training as you can, and then leave. 
+		
+		That's about it.
+
+
+	Cons: 
+		The hours in my area were variable. Sometimes you started at 730am, and this would ruin until 530pm. Yes, the standard day is 10 hours, but you only get paid for 8. First and last 30 minutes of travel are unpaid, and there's a mandatory 1 hour (unpaid) lunch that you have to take. They're obviously hoping you just work through it, which happens to most techs I've met. Pretty scummy behavior, but it gets worse.
+		
+		When I submitted my 2 weeks notice, I asked my boss if NCR paid out unused PTO he said that they did. He said that so I wouldn't ask for some of the time of my 2 weeks notice off, because I'm my state they do NOT do that.
+		
+		On my last day, I submitted my last expense report on my company card. I thought everything was settled. They never contacted me at all after that. They never paid the last set of expenses despite my documentation, and just let my AMEX go to collections. Their turnover is also crazy. My brother had 4 managers in 2.5 years, because again, terrible place.
+
+
+	Summary: 
+		Terrible
+
+
+Review 9:
+	Job Title: Principal Consultant
+	Location: Atlanta, GA
+	Review Date: 2024-04-09T06:31:30.663
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Pay is on par with industry. Good equity/stock benefits. Genuinely good people in most areas of the company.
+
+
+	Cons: 
+		Still looking for its place in the industry. Recent spin burdened company with a lot of debt, creating a lot of cost cutting.
+
+
+	Summary: 
+		Manic, But Enjoyed It
+
+
+Review 10:
+	Job Title: Software Engineer II
+	Location: Atlanta, GA
+	Review Date: 2024-03-31T18:37:40.077
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		The people that work there are the greatest part. There's also free fountain drinks at GHQ which is nice. Sometimes there are Fun Thursday events with free food, alcohol, and sometimes merch.
+		The GHQ building is also nice, if you like going into an office.
+
+
+	Cons: 
+		They don't really care about their employees. It seems like they implement unwanted changes deliberately to get people to leave sometimes... 
+		For example, they are going back to 5 days in the office.
+		 No real sense of onboarding or any training for interviewing new candidates before they just throw you into it.
+		HR help can be very hit or miss.
+
+
+	Summary: 
+		NCR is OK I guess
+
+
+Review 11:
+	Job Title: Product Owner
+	Location: Atlanta, GA
+	Review Date: 2024-04-16T06:58:30.930
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Very nice office space downtown. Had a free parking deck.
+
+
+	Cons: 
+		Management does not have their stuff together. They tried to combine 2 jobs into 1 job for a low salary. Tried heaping additional job duties that were not in the job description or talked about during interviews.
+
+
+	Summary: 
+		Bait and Switch 
+
+
+Review 12:
+	Job Title: Project Manager
+	Location: Atlanta, GA
+	Review Date: 2024-04-04T08:39:43.223
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Worked remote for 3 years however now all employees must return to the office as of May 6 2024. Great people to work with, Everyone is laid back
+
+
+	Cons: 
+		Too many processes are broken and the lower level managers don't have authority to fix it. No feed back from managers about performance. No real growth.
+
+
+	Summary: 
+		Low Wages,  Inefficient Processes
+
+
+Review 13:
+	Job Title: Enterprise Account Executive
+	Location: Atlanta, GA
+	Review Date: 2024-03-25T15:13:10.307
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great benefits and sales team is stacked with extremely knowledgeable professionals that are always willing to help each other.
+
+
+	Cons: 
+		Extremely siloed
+		Billing is a nightmare and sales is repeatedly hit with AR chargebacks due to internal billing errors (backbilling, overshipments, incorrect invoicing, collectors not reaching out to customers, etc.)
+		Consistent changes to quota alignment
+		Sales comp policy has tons of loopholes that don't properly measure performance
+
+
+	Summary: 
+		Anti-Sales Culture
+
+
+Review 14:
+	Job Title: Payment Solutions Specialist
+	Location: Atlanta, GA
+	Review Date: 2024-04-17T07:26:10.960
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: NO_OPINION
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Top-line growth oriented and client centric
+
+
+	Cons: 
+		Additional focus needed on systems stability
+
+
+	Summary: 
+		Growth Focused
+
+
+Review 15:
+	Job Title: Executive Assistant
+	Location: California, MD
+	Review Date: 2024-04-15T11:43:25.863
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		None I can think of
+
+
+	Cons: 
+		New management is awful. They don’t take the time to know who is on their teams.
+
+
+	Summary: 
+		Horrible 
+
+
+Review 16:
+	Job Title: Software Engineer (Swe II)
+	Location: Atlanta, GA
+	Review Date: 2024-04-11T00:26:37.187
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		-Comfortable environment
+		-Management is starting to make changes
+
+
+	Cons: 
+		-Slow to adapt to new tech
+
+
+	Summary: 
+		If it isn't broken, still try to improve it
+
+
+Review 17:
+	Job Title: Staff Accountant
+	Location: Frisco, TX
+	Review Date: 2024-04-10T20:30:22.417
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Flexible work schedule, i love my team
+
+
+	Cons: 
+		Poor training and management. Lack of accountability from upper management
+
+
+	Summary: 
+		Very unprofessional poor training
+
+
+Review 18:
+	Job Title: Product Owner III
+	Location: Omaha, NE
+	Review Date: 2024-01-13T18:23:48.650
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good benefits and good pay if you’re coming from outside the company. They are some truly awesome people in Omaha that you trauma bond with.
+
+
+	Cons: 
+		The leadership within Omaha leaves much to be desired. It’s very top down and many people have left the company because of one leader in particular, yet nothing will change because the leadership group goes way back prior to D3. They have very unrealistic expectations of Product Owners, and don’t clearly communicate those expectations until it’s a problem. I left because the work life balance was not good, the leadership said you should be a full SME within 3-6 months, but would change the span of ownership every over month. It was very hectic and if they felt you weren’t keeping up or asked too many questions, you were labeled as incompetent by one leader and she made sure you were aware of it. 
+		This leader also disregarded any type of Covid restriction the company put in place because she was vocally anti-vax.
+
+
+	Summary: 
+		My advice is to look elsewhere
+
+
+Review 19:
+	Job Title: Software Engineer
+	Location: Atlanta, GA
+	Review Date: 2024-04-12T12:50:57.310
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		good company culture and work
+
+
+	Cons: 
+		going back to fully in person
+
+
+	Summary: 
+		Good
+
+
+Review 20:
+	Job Title: Field Service Technician
+	Location: None
+	Review Date: 2024-03-27T16:11:59.370
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Never the same day twice. If you are a person that enjoys new experiences every day and enjoys working outdoors and sometimes indoors it’s a great job lots of driving.
+
+
+	Cons: 
+		Being stuck on a call for way to long and possibly having to reload software sucks
+
+
+	Summary: 
+		Great stable job
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

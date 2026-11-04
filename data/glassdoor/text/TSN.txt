@@ -1,0 +1,626 @@
+
+Tyson Foods is a Food Production company based in 72762 Springdale, Arkansas. 
+The company has 142,000 employees and has a revenue of $53,282 according to Fortune 500.
+The company is valued at $21,096 and has a profit of $3,238. The CEO of the company is Donnie D. King.
+
+The Company has the following ratings: 
+Average ratings for Tyson Foods:
+Business Outlook: 0.46
+
+Career Opportunities: 3.5
+Distribution: 
+	1: 252 
+	2: 266 
+	3: 542 
+	4: 524 
+	5: 656 
+
+CEO: 0.56
+
+Compensation and Benefits: 3.7
+Distribution: 
+	1: 118 
+	2: 208 
+	3: 528 
+	4: 682 
+	5: 688 
+
+Culture and Values: 3.2
+Distribution: 
+	1: 385 
+	2: 268 
+	3: 474 
+	4: 455 
+	5: 596 
+
+Diversity and Inclusion: 3.5
+Distribution: 
+	1: 142 
+	2: 117 
+	3: 243 
+	4: 268 
+	5: 428 
+
+Overall: 3.5
+Distribution: 
+	1: 279 
+	2: 328 
+	3: 680 
+	4: 737 
+	5: 718 
+
+Senior Management: 2.9
+Distribution: 
+	1: 514 
+	2: 327 
+	3: 477 
+	4: 429 
+	5: 449 
+
+Work Life Balance: 3.1
+Distribution: 
+	1: 428 
+	2: 366 
+	3: 538 
+	4: 427 
+	5: 463 
+
+Review Count: 2746
+
+Recommend to Friend: 
+	RECOMMEND: 1233
+	WONT RECOMMEND: 746
+
+
+
+
+The company has 2950 reviews on Glassdoor. The last review was posted on 2024-04-17T05:42:45.090. 
+There are 20 Reviews for Tyson Foods:
+
+Review 1:
+	Job Title: Trainer
+	Location: Vienna, GA
+	Review Date: 2024-04-14T04:11:15.370
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		You get to meet new people and train them, and you have access to work in different areas.
+
+
+	Cons: 
+		Sometimes it gets too cold in there with your hands freezing.
+
+
+	Summary: 
+		Working as a trainer
+
+
+Review 2:
+	Job Title: Packer
+	Location: Blountsville, AL
+	Review Date: 2024-03-29T19:52:47.513
+	Business Outlook: NEGATIVE
+	Career Opportunities: 0
+	CEO: DISAPPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		If you want lots of overtime you found your place.
+
+
+	Cons: 
+		First off, the pay is horrible for the amount of work you will be doing. They are always incredibly under staffed. They expect one person to work a station meant for four. You will most likely be working seven days a week,most weeks. To say management is incompetent is a complete understatement. I wish I could come up with a stronger word than favoritism. If you want to advance in the company you need to be friends with, or related to upper management. No experience necessary. They will terminate great employees who have worked for the company for years for absolutely no reason. Oh, and if you get injured on the job make sure you leave in an ambulance instead of driving yourself to the er. They will flat out lie and say you weren't that injured when you left for the er. You must have fallen in the hospital parking lot (which they are not responsible for) or something. So that they don't have to pay workers comp. They have absolutely no cares to give for their employees. They are treated horribly.
+
+
+	Summary: 
+		This place is a complete joke
+
+
+Review 3:
+	Job Title: Production Supervisor
+	Location: Amherst, OH
+	Review Date: 2024-04-17T05:42:45.090
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Great people to work with.
+
+
+	Cons: 
+		Upper management only wants to hire their friends from outside rather than promote from inside.
+
+
+	Summary: 
+		Supervisor 
+
+
+Review 4:
+	Job Title: Sr. Supervisor Operations
+	Location: Virginia Beach, VA
+	Review Date: 2024-04-16T16:23:12.390
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Okay pay and some okay management
+
+
+	Cons: 
+		The schedule is all over the place
+
+
+	Summary: 
+		Think about it
+
+
+Review 5:
+	Job Title: Management Support
+	Location: None
+	Review Date: 2024-03-21T13:40:17.627
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		There are some amazing people at the company. Pay was great. Decent (though not wonderful) benefits package.
+
+
+	Cons: 
+		No work life balance. Will reduce staff and put all that work on just a few people, and then will have no qualms letting you go. Not a family as they’d have you believe. Senior leadership not held accountable. Power struggles between groups is allowed. Only option for advancement is by living in Springdale.
+
+
+	Summary: 
+		Some benefits, but wouldn’t do it again 
+
+
+Review 6:
+	Job Title: Brand Manager
+	Location: Springdale, AR
+	Review Date: 2024-04-01T18:29:48.733
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Competitive base pay for the role.
+
+
+	Cons: 
+		Overall, this place is dysfunctional in every way. Leadership is clueless as to how to manage and grow meaningful consumer brands. This is a commodity business at this point with outdated brands. Tyson requires full-time in-office despite having some of the worst working spaces. Your desk will be small, crowded, and extremely noisy. Zero flexibility and work-life balance. Everyone is stressed, and there is zero comradery. Terrible culture. Zero bonus payouts in the last cycle because the company is tanking.
+
+
+	Summary: 
+		Avoid This Place!
+
+
+Review 7:
+	Job Title: Inventory Administrator
+	Location: Fort Worth, TX
+	Review Date: 2024-04-10T11:03:35.620
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		I've enjoyed working at Tyson.
+
+
+	Cons: 
+		Tyson seems to be a "woke" organization
+
+
+	Summary: 
+		Good Culture
+
+
+Review 8:
+	Job Title: None
+	Location: Hot Springs, AR
+	Review Date: 2024-04-11T18:19:00.343
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		very decent and competitive pay
+
+
+	Cons: 
+		very short breaks for amount of hours working on feet
+
+
+	Summary: 
+		Tyson
+
+
+Review 9:
+	Job Title: Commercial Development Trainee
+	Location: Springdale, AR
+	Review Date: 2024-04-09T08:12:21.853
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		great people to work with
+
+
+	Cons: 
+		the benefits could be better
+
+
+	Summary: 
+		Tyson
+
+
+Review 10:
+	Job Title: Executive Chef
+	Location: Springdale, AR
+	Review Date: 2024-04-06T20:10:14.817
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		lots of good networking to advance your career.
+
+
+	Cons: 
+		Slightly toxic culture that max day to day difficult
+
+
+	Summary: 
+		culinary
+
+
+Review 11:
+	Job Title: Machine Operator
+	Location: Enid, OK
+	Review Date: 2024-03-27T14:12:21.150
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		The jobs not going anywhere anytime soon.Good if your are looking for long term employment
+
+
+	Cons: 
+		Management dont take the jobs seriously enough and let things slide.Shift change is usually hectic.Alot of lazy people
+
+
+	Summary: 
+		Good Job
+
+
+Review 12:
+	Job Title: Sanitation Worker
+	Location: Amarillo, TX
+	Review Date: 2024-04-07T18:01:30.723
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Decent pay for the work
+
+
+	Cons: 
+		Hard labor, very physical labor
+
+
+	Summary: 
+		Ok
+
+
+Review 13:
+	Job Title: Production Supervisor
+	Location: None
+	Review Date: 2024-04-04T23:01:59.947
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great Management, easy working conditions
+
+
+	Cons: 
+		there are really not that many cons
+
+
+	Summary: 
+		Great Company
+
+
+Review 14:
+	Job Title: Senior Specialist
+	Location: Springdale, AR
+	Review Date: 2024-03-27T19:20:56.770
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good benefits, even better severance package for when you (inevitably) get laid off
+
+
+	Cons: 
+		Family owned company with overbearing Chairman. No accountability within upper leadership. No flexibility. Good ol boys club.
+
+
+	Summary: 
+		It’s messy right now 
+
+
+Review 15:
+	Job Title: Human Resources
+	Location: Philadelphia, PA
+	Review Date: 2024-02-06T12:25:52.023
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Very close knit environment. For the most part everyone was easy to work and get along with.
+		
+		Company was first Original Philly Cheesesteak and purchased by Tyson Foods in late 2017. It wasn’t always a smooth transition (I left four years later and some areas still weren’t fully integrated) but we had great corporate support for the most part.
+		
+		Supervisors both at plant and corporate level were excellent to work with, among the best co-workers I have ever had at any job.
+
+
+	Cons: 
+		Pay. Really didn’t want to leave, but when you’re told after several years that even though you’ve outperformed your position and salary that you’re pretty much stuck where you are, it’s a little difficult to swallow.
+
+
+	Summary: 
+		Mostly Great Times
+
+
+Review 16:
+	Job Title: Roundsman
+	Location: Storm Lake, IA
+	Review Date: 2024-04-04T12:24:50.820
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		4 on 3 off schedule, mandatory OT
+
+
+	Cons: 
+		Supervisors, favoritism, lack of training, and overnights
+
+
+	Summary: 
+		It was alright
+
+
+Review 17:
+	Job Title: Customer Service Representative
+	Location: Springdale, AR
+	Review Date: 2024-04-05T06:59:22.807
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good company with good benefits
+
+
+	Cons: 
+		Could be affected by layoffs
+
+
+	Summary: 
+		Great company
+
+
+Review 18:
+	Job Title: Sr Specialist
+	Location: Springdale, AR
+	Review Date: 2024-04-04T08:45:57.197
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Money is ok. Thats about it.
+
+
+	Cons: 
+		Leadership, Bonus, lots of changes with no strategy
+
+
+	Summary: 
+		Review
+
+
+Review 19:
+	Job Title: Project Manager
+	Location: Arkansas City, AR
+	Review Date: 2024-03-26T10:21:04.640
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good people, except those who force medical advice, is mandatory vaccinations
+
+
+	Cons: 
+		Was asked in front of whole team if vaccination had been achieved
+
+
+	Summary: 
+		But behind in salary and technology 
+
+
+Review 20:
+	Job Title: Business Analyst
+	Location: Springdale, AR
+	Review Date: 2024-04-01T15:29:45.457
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great people and a fun enviorment
+
+
+	Cons: 
+		start out with only 10 days pto
+
+
+	Summary: 
+		Tyson
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

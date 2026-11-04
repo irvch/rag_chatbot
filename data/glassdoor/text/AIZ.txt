@@ -1,0 +1,640 @@
+
+Assurant is a Insurance: Property and Casualty (Stock) company based in 30339 Atlanta, Georgia. 
+The company has 13,700 employees and has a revenue of $10,193 according to Fortune 500.
+The company is valued at $6,354 and has a profit of $277. The CEO of the company is Keith W. Demmings.
+
+The Company has the following ratings: 
+Average ratings for Assurant:
+Business Outlook: 0.64
+
+Career Opportunities: 3.3
+Distribution: 
+	1: 456 
+	2: 464 
+	3: 594 
+	4: 493 
+	5: 439 
+
+CEO: 0.78
+
+Compensation and Benefits: 3.5
+Distribution: 
+	1: 242 
+	2: 345 
+	3: 673 
+	4: 708 
+	5: 490 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 397 
+	2: 308 
+	3: 436 
+	4: 536 
+	5: 648 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 97 
+	2: 75 
+	3: 149 
+	4: 231 
+	5: 458 
+
+Overall: 3.6
+Distribution: 
+	1: 348 
+	2: 416 
+	3: 721 
+	4: 773 
+	5: 651 
+
+Senior Management: 3.4
+Distribution: 
+	1: 578 
+	2: 397 
+	3: 514 
+	4: 453 
+	5: 447 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 343 
+	2: 305 
+	3: 581 
+	4: 599 
+	5: 621 
+
+Review Count: 2915
+
+Recommend to Friend: 
+	RECOMMEND: 1232
+	WONT RECOMMEND: 922
+
+
+
+
+The company has 3135 reviews on Glassdoor. The last review was posted on 2024-04-16T21:53:23.327. 
+There are 20 Reviews for Assurant:
+
+Review 1:
+	Job Title: Inventory Control Supervisor
+	Location: York, PA
+	Review Date: 2024-03-31T17:14:40.533
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Culture was laid back, upper management was friendly and supportive. Benefits were very good such as generous PTO for new employees, health benefit options were reasonably priced and coverage is above average. Engagement with employees through appreciation snacks/meals and all sorts of creative activities. Compared to many other companies the work is easy and you typically have everything you need to perform the job.
+
+
+	Cons: 
+		Communication at times was lacking, even as a supervisor you were sometimes behind the information curve compared to hourly associates. Other than that it was a really great place to work.
+
+
+	Summary: 
+		Great company, moving away
+
+
+Review 2:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-12T09:21:38.897
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Like all companies, the "non leaders" are what makes this company worthwhile. Very good people to work with and they do work hard!
+
+
+	Cons: 
+		Assurant is a remarkably disorganized operation, which was both surprising and disappointing. It felt as if the leadership team was making decisions by throwing darts in the dark rather than employing a thoughtful, strategic approach. Assurant just "buys" other companies and then tries to fit them into a "culture".
+		
+		Moreover, the company's mindset appeared to be stuck in a bygone era, reminiscent of the 1980s, with old-school thinking dominating its approach to business and customer service. This outdated perspective made it challenging to resolve modern problems efficiently or to engage with them using contemporary solutions. The overall impression is that Assurant has not kept pace with the times, which in today's fast-evolving world, can be a significant drawback.
+		
+		Innovation, agility, and customer-centricity are key to success, Assurant's approach feels out of touch with all three.
+		
+		Also the benefits are sub par. Two weeks of vacation to start off with...some divisions it's a "good ole boys" club.
+
+
+	Summary: 
+		Out of touch...
+
+
+Review 3:
+	Job Title: Regional Account Manager
+	Location: New York, NY
+	Review Date: 2024-03-29T14:29:33.930
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		This company offers an incredible and authentic job opportunity that is family-oriented and culturally rich. It has the potential to be your last job search as it has positively impacted my life and provided me with numerous opportunities. The company understands personal issues and helps employees to deal with them, fostering a successful career.
+
+
+	Cons: 
+		This is the best job I've ever had. If I think about any of the cons, I still come up blank. If there's a position open, you will regret not applying for it.
+		
+		Join the family.
+
+
+	Summary: 
+		This will be the last job you'll ever have.
+
+
+Review 4:
+	Job Title: Flood Insurance Underwriter
+	Location: None
+	Review Date: 2024-04-03T08:57:45.700
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Shift times and benefits. Work remote.
+
+
+	Cons: 
+		Nobody is on the same page, there is mistreatment of fellow employees and customers. Get into trouble for not interacting with co workers who you haven't ever spoken with in 6 years and questioned about why you have more work done than anyone else. Raises are not good medical benefits are expensive. No opportunities to get promoted anymore. People just stopped caring and that includes the supervisors.
+
+
+	Summary: 
+		Gone down hill
+
+
+Review 5:
+	Job Title: Vice President Operations
+	Location: Chicago, IL
+	Review Date: 2024-04-14T16:27:49.167
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great culture if under the right leadership
+
+
+	Cons: 
+		Depending on leader, some are allowed to be extremely biased without reprimand
+
+
+	Summary: 
+		Good company
+
+
+Review 6:
+	Job Title: Customer Service Representative
+	Location: Chicago, IL
+	Review Date: 2024-02-23T08:57:49.350
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The benefits before they got way too expensive
+
+
+	Cons: 
+		No work life balance, they only offer TTFN if you have PTO but if you're someone who's chronically ill you never have PTO but if it's slow and you're willing to leave unpaid wouldn't it make more sense to let them leave? You don't have to pay them!! hello?! Common sense
+		Schedules change all the time and so you cannot have a life, you are literally a corporate slave. Modern day slavery and salary isn't a livable wage glad I left
+
+
+	Summary: 
+		NO WORK LIFE BALANCE
+
+
+Review 7:
+	Job Title: Operations Supervisor
+	Location: La Vergne, TN
+	Review Date: 2024-04-15T17:48:57.033
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		No pros to remember, Close to Murfreesboro City
+
+
+	Cons: 
+		Mismanagement
+		HR is the good example of Favoritism
+		Unethical Roles
+		Every year, they lay off thousands of people
+
+
+	Summary: 
+		Worst place to work 
+
+
+Review 8:
+	Job Title: Instructional Designer
+	Location: Grayson, GA
+	Review Date: 2024-04-11T12:02:13.387
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Culture is very nice within company.
+
+
+	Cons: 
+		Outsourcing has started and is taking US jobs.
+
+
+	Summary: 
+		ID
+
+
+Review 9:
+	Job Title: Technical Support
+	Location: Atlanta, GA
+	Review Date: 2024-04-09T10:47:13.490
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Decent pay for the job, not a lot of experience needed. Remote!
+
+
+	Cons: 
+		No perks or discounts that matter
+
+
+	Summary: 
+		No work life balance
+
+
+Review 10:
+	Job Title: Claims Adjuster
+	Location: Miami, FL
+	Review Date: 2024-04-06T15:12:38.693
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Awesome co-workers, flexible management, overtime availability
+
+
+	Cons: 
+		Extremely high volume, difficult to manage load and keep claims in compliance
+
+
+	Summary: 
+		Very high volume
+
+
+Review 11:
+	Job Title: Customer Care Specialist
+	Location: None
+	Review Date: 2024-03-16T02:38:10.683
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 3
+
+	Pros: 
+		Remote work, nice colleagues, equipment is provided
+
+
+	Cons: 
+		Little / low pay, made to do extra work with no benefit, managers don’t reply to emails or message but stay taking time off, some team leads are rude , never given enough time for changes always told after the fact when they happen, system issues are constant , adherence requirements are ridiculous ,
+
+
+	Summary: 
+		Not worth it
+
+
+Review 12:
+	Job Title: AVP-IT
+	Location: Atlanta, GA
+	Review Date: 2024-03-30T08:28:56.203
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Company has a hard working mentality and a good sense of teamwork.
+
+
+	Cons: 
+		Even though the company is doing well, cost cutting is never ending.
+
+
+	Summary: 
+		Culture
+
+
+Review 13:
+	Job Title: Vice President
+	Location: Dallas, TX
+	Review Date: 2024-03-27T06:27:25.847
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Good pay and excellent benefits.
+
+
+	Cons: 
+		Chances for C-Suite advancement are slim if you are not white.
+
+
+	Summary: 
+		Good pay and benefits. 
+
+
+Review 14:
+	Job Title: Customer Service Representative (CSR)
+	Location: Springfield, OH
+	Review Date: 2024-03-27T07:15:26.647
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Extensive training, clear communication of expectations
+
+
+	Cons: 
+		Hi turnover, expectation to train after just a few months on the job, hi pressure environment
+
+
+	Summary: 
+		High turnover
+
+
+Review 15:
+	Job Title: Claims Manager
+	Location: Miami, FL
+	Review Date: 2024-03-19T18:23:40.633
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Benefits are competitive, nice coworkers.
+
+
+	Cons: 
+		Bad senior leadership. The priior Sr VP really destroyed this place. As a claim rep you’re expected to do 2-3 times what is humanly possible. Customers receive terrible service.
+
+
+	Summary: 
+		Keep looking
+
+
+Review 16:
+	Job Title: Customer Service Representative
+	Location: Atlanta, GA
+	Review Date: 2024-03-22T08:06:14.150
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		A lot of remote opportunities. PTO was bountiful. Supervisor very understanding and helpful. A lot of employee resources.
+
+
+	Cons: 
+		High call volume for frontline workers. Very monotonous work.
+
+
+	Summary: 
+		Great place to work
+
+
+Review 17:
+	Job Title: Senior Processing Specialist
+	Location: Springfield, OH
+	Review Date: 2024-03-17T13:11:47.673
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		- Steady paycheck
+		- Ability to work from home
+
+
+	Cons: 
+		- Constantly lied to by management
+		- Overworked
+		- Undervalued
+		- Underpaid
+
+
+	Summary: 
+		Horrible Company
+
+
+Review 18:
+	Job Title: Claims Adjuster
+	Location: Atlanta, GA
+	Review Date: 2024-03-17T19:02:49.663
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Competitive salaries for most positions
+
+
+	Cons: 
+		The working climate in the claims department plummeted over the years. If you were upper management’s picks, you were safe.
+
+
+	Summary: 
+		From good to bad
+
+
+Review 19:
+	Job Title: Data Analyst Intern
+	Location: Miami, FL
+	Review Date: 2024-01-23T08:31:26.313
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		-&gt;This role provided great exposure to working with real-time, complex data sets, which was a valuable experience for an internship. I was able to get hands-on practice in data management, extraction, and analysis using industry-standard tools and large datasets. This helped build my data analytics skills.
+		
+		-&gt;The company provided interns with lots of nice perks and freebies before the internship began, which made new hires feel welcomed and excited to start.
+
+
+	Cons: 
+		-&gt;Since the intern team consisted fully of other interns, we lacked guidance and mentorship from more experienced data professionals on the team.
+
+
+	Summary: 
+		Summer Internship
+
+
+Review 20:
+	Job Title: Enrollment Specialist
+	Location: Miami, FL
+	Review Date: 2024-03-26T07:06:00.723
+	Business Outlook: NEUTRAL
+	Career Opportunities: 0
+	CEO: NO_OPINION
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Adequate pay, benefits, and security for entry
+
+
+	Cons: 
+		Stagnant environment and minimal room for growth
+
+
+	Summary: 
+		Not all bad
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

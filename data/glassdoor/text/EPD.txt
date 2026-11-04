@@ -1,0 +1,622 @@
+
+Enterprise Products Partners is a Pipelines company based in 77002 Houston, Texas. 
+The company has 7,300 employees and has a revenue of $58,186 according to Fortune 500.
+The company is valued at $56,224 and has a profit of $5,490. The CEO of the company is James Teague.
+
+The Company has the following ratings: 
+Average ratings for Enterprise Products Partners:
+Business Outlook: 0.82
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 54 
+	2: 54 
+	3: 96 
+	4: 92 
+	5: 101 
+
+CEO: 0.78
+
+Compensation and Benefits: 4.1
+Distribution: 
+	1: 17 
+	2: 17 
+	3: 75 
+	4: 143 
+	5: 144 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 70 
+	2: 50 
+	3: 80 
+	4: 80 
+	5: 101 
+
+Diversity and Inclusion: 3.7
+Distribution: 
+	1: 22 
+	2: 20 
+	3: 32 
+	4: 34 
+	5: 58 
+
+Overall: 3.9
+Distribution: 
+	1: 51 
+	2: 49 
+	3: 86 
+	4: 124 
+	5: 149 
+
+Senior Management: 3.6
+Distribution: 
+	1: 79 
+	2: 49 
+	3: 74 
+	4: 95 
+	5: 94 
+
+Work Life Balance: 3.4
+Distribution: 
+	1: 56 
+	2: 54 
+	3: 85 
+	4: 111 
+	5: 87 
+
+Review Count: 459
+
+Recommend to Friend: 
+	RECOMMEND: 241
+	WONT RECOMMEND: 104
+
+
+
+
+The company has 489 reviews on Glassdoor. The last review was posted on 2024-04-17T07:15:53.270. 
+There are 20 Reviews for Enterprise Products Partners:
+
+Review 1:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-21T08:44:32.780
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great place to work, and learn
+
+
+	Cons: 
+		No cons that I know of
+
+
+	Summary: 
+		Great Place to work
+
+
+Review 2:
+	Job Title: Gathering Technician
+	Location: Midland, TX
+	Review Date: 2024-04-17T07:15:53.270
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		They'll give you a paycheck if you work.
+
+
+	Cons: 
+		The upper management does not listen to its experienced people, they are 100% about the numbers for their investors only and I personally have experienced firsthand discrimination and loss of my job due to a supervisor upset and I had more knowledge than he did. All I ever did was try to help him look good and then burned me down for it.
+
+
+	Summary: 
+		Company review
+
+
+Review 3:
+	Job Title: Senior Engineer
+	Location: Houston, TX
+	Review Date: 2024-04-16T21:39:46.930
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		They keep everyone overloaded with work so when times are lean they don't let them go.
+
+
+	Cons: 
+		Work is super stressful. Management is very old school. They play favoritism. They systematically expect employees to work extra hours but do not reflect that in bonuses or any other way.
+
+
+	Summary: 
+		Management is old school, lots of favoritism
+
+
+Review 4:
+	Job Title: I & E Technician
+	Location: Sonora, TX
+	Review Date: 2024-04-14T12:59:42.607
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 1
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good company to work for.
+
+
+	Cons: 
+		Long work weeks and call outs.
+
+
+	Summary: 
+		Good company
+
+
+Review 5:
+	Job Title: Scheduler
+	Location: Houston, TX
+	Review Date: 2024-03-21T08:26:47.390
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Plenty of opportunities to advance career in multiple departments
+
+
+	Cons: 
+		Long hours and not flexible work schedule
+
+
+	Summary: 
+		Great future
+
+
+Review 6:
+	Job Title: Senior Accountant
+	Location: Houston, TX
+	Review Date: 2024-03-27T16:19:15.743
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Stable company and room for growth.
+
+
+	Cons: 
+		Work environment is not the best.
+
+
+	Summary: 
+		Good Company
+
+
+Review 7:
+	Job Title: Communications Technician
+	Location: None
+	Review Date: 2024-03-22T07:10:47.283
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Great pay , great benefits
+
+
+	Cons: 
+		So far no cons, you work alone so you have to be self motivated and resourceful.
+
+
+	Summary: 
+		Great company
+
+
+Review 8:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-22T13:59:06.810
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Flexible, great benefits, great people
+
+
+	Cons: 
+		No remote schedule or hybrid offered
+
+
+	Summary: 
+		Great Company
+
+
+Review 9:
+	Job Title: GIS Analyst
+	Location: Houston, TX
+	Review Date: 2024-03-30T10:46:17.740
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Nice gym access, near the parking.
+
+
+	Cons: 
+		Forcing employees to pay for parking in a parking garage they already own,
+
+
+	Summary: 
+		Bad managment
+
+
+Review 10:
+	Job Title: Engineer
+	Location: Houston, TX
+	Review Date: 2024-03-09T11:02:59.607
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Overall it's a good working environment with great people.
+
+
+	Cons: 
+		We cannot work from home.
+
+
+	Summary: 
+		Enterprise
+
+
+Review 11:
+	Job Title: Staff Accountant
+	Location: Houston, TX
+	Review Date: 2024-03-05T13:28:58.010
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good matching and profit sharing
+
+
+	Cons: 
+		They watch the clock on you
+
+
+	Summary: 
+		Positive for the right person
+
+
+Review 12:
+	Job Title: Operator
+	Location: None
+	Review Date: 2024-02-24T09:09:17.940
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Lots of opportunities to learn and advance
+
+
+	Cons: 
+		Poor management, over staffed, pay
+
+
+	Summary: 
+		Good place to start
+
+
+Review 13:
+	Job Title: Project Controls Specialist
+	Location: Mont Belvieu, TX
+	Review Date: 2024-02-26T11:59:05.150
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good coworker, good schedule. Good oay
+
+
+	Cons: 
+		No growth, micromanaging is high.
+
+
+	Summary: 
+		Project controller
+
+
+Review 14:
+	Job Title: Pipeline Technician
+	Location: Grand Cane, LA
+	Review Date: 2024-02-22T07:54:00.700
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Great pay and benefits. Longevity
+
+
+	Cons: 
+		No yearly bonus at Enterprise.
+
+
+	Summary: 
+		Great company
+
+
+Review 15:
+	Job Title: Mechanical Integrity Manager
+	Location: Houston, TX
+	Review Date: 2024-01-25T11:41:36.210
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 1
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		a good company to work for and there were always new roles opening up which allowed you to move around the company
+
+
+	Cons: 
+		after you reach management level jobs aren't posted people make moves with a "tap on the shoulder"
+
+
+	Summary: 
+		enterprise products corp
+
+
+Review 16:
+	Job Title: Programmer/Analyst
+	Location: None
+	Review Date: 2024-01-03T20:25:32.237
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Good pay and decent benefits
+
+
+	Cons: 
+		Toxic and unprofessional workplace, F and cuss words are spoken out so loudly without care for workplace etiquette, No strong HR, performance is not appreciated. Promotions are given only to "right" skin color and right gender. If you are a non-white woman then forget about any promotion. Performance is measured how many times you get drinks for your boss. Very few women leaders in IT or for that matter in the company, HR executive leader has no say or power in making HR decisions other than sending weekly cheesy fluff emails
+
+
+	Summary: 
+		Not for career advancement
+
+
+Review 17:
+	Job Title: Class A Cdl Truck Driver
+	Location: Sealy, TX
+	Review Date: 2024-02-11T09:06:40.380
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great benefits. Quarterly safety bonus.
+
+
+	Cons: 
+		Pay and promotions could be better
+
+
+	Summary: 
+		Good company. Great benefits.
+
+
+Review 18:
+	Job Title: None
+	Location: Denver, CO
+	Review Date: 2024-01-30T21:50:19.187
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good pay and good people.
+
+
+	Cons: 
+		Benefits are not great. I will have to buy my own workstation for working from home.
+
+
+	Summary: 
+		Strong Company
+
+
+Review 19:
+	Job Title: Pipeline Technician
+	Location: Freeport, TX
+	Review Date: 2024-02-03T17:48:03.303
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: DISAPPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The people you work with
+
+
+	Cons: 
+		Upper management thinks your just a number
+
+
+	Summary: 
+		Pipeline tech
+
+
+Review 20:
+	Job Title: Technician
+	Location: None
+	Review Date: 2024-01-19T19:26:39.600
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good company with room to grow
+
+
+	Cons: 
+		Supervisors need improvement and some more training
+
+
+	Summary: 
+		Great company with good benefits
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,646 @@
+
+Xcel Energy is a Utilities: Gas and Electric company based in 55401 Minneapolis, Minnesota. 
+The company has 11,982 employees and has a revenue of $15,310 according to Fortune 500.
+The company is valued at $37,082 and has a profit of $1,736. The CEO of the company is Bob Frenzel.
+
+The Company has the following ratings: 
+Average ratings for Xcel Energy:
+Business Outlook: 0.41
+
+Career Opportunities: 3.3
+Distribution: 
+	1: 82 
+	2: 120 
+	3: 164 
+	4: 211 
+	5: 134 
+
+CEO: 0.32
+
+Compensation and Benefits: 3.3
+Distribution: 
+	1: 55 
+	2: 76 
+	3: 194 
+	4: 251 
+	5: 135 
+
+Culture and Values: 3
+Distribution: 
+	1: 112 
+	2: 103 
+	3: 149 
+	4: 145 
+	5: 156 
+
+Diversity and Inclusion: 3.3
+Distribution: 
+	1: 29 
+	2: 40 
+	3: 79 
+	4: 78 
+	5: 116 
+
+Overall: 3.3
+Distribution: 
+	1: 79 
+	2: 108 
+	3: 225 
+	4: 264 
+	5: 196 
+
+Senior Management: 2.5
+Distribution: 
+	1: 162 
+	2: 120 
+	3: 183 
+	4: 129 
+	5: 109 
+
+Work Life Balance: 3.3
+Distribution: 
+	1: 94 
+	2: 81 
+	3: 161 
+	4: 194 
+	5: 176 
+
+Review Count: 874
+
+Recommend to Friend: 
+	RECOMMEND: 398
+	WONT RECOMMEND: 231
+
+
+
+
+The company has 1054 reviews on Glassdoor. The last review was posted on 2024-04-17T14:58:10.773. 
+There are 20 Reviews for Xcel Energy:
+
+Review 1:
+	Job Title: Electrical Engineer
+	Location: None
+	Review Date: 2024-02-26T14:34:44.937
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Good place to work at. Interesting work
+
+
+	Cons: 
+		The culture could use some work
+
+
+	Summary: 
+		Xcel
+
+
+Review 2:
+	Job Title: Project Manager
+	Location: Denver, CO
+	Review Date: 2024-03-01T15:11:58.717
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		It is a regulated utility, so profits are guaranteed if they do the right things.
+
+
+	Cons: 
+		Executive leadership lacks integrity and rarely does the right thing. They claim trustworthy is a core value of the company, but nobody in the c-suite is honest. There is nepotism everywhere at Xcel. Board members get their friends and family corporate jobs that they are not qualified for. I was told during an interview that they look for engineers with family connections at Xcel. Job promotions are not based on merit or hard work. Nobody moves across departments at Xcel. Each department is a tribe where tribe members know the best way to advancement is to be a relative or crony of their senior leader. Merit and hard work have nothing to do with how employees are evaluated and promoted. Xcel is the largest organization I have ever worked for, and I have seen far more nepotism than anywhere else. They make a regular practice of retaliating on employees if they make a complaint to their compliance line. The compliance line is there to protect weak leadership from accountability.
+
+
+	Summary: 
+		Nepotism and Cronyism Rule
+
+
+Review 3:
+	Job Title: IT Field Technician III
+	Location: Golden, CO
+	Review Date: 2024-04-16T10:19:28.530
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Free Lunch on my BMO card and Free PTO if you do well taking on-call work.
+
+
+	Cons: 
+		Very Top heaven in upper management. Sr VP, VP, SR Director, Director x 5, SR managers, Manager, Sr Tech, … then micro management is passed up. Awful culture and want to look for a new opportunity. Plus Xcel has a “Run to Fail” maintenance strategy and has me worried about its future.
+
+
+	Summary: 
+		Xcel is not the same anymore
+
+
+Review 4:
+	Job Title: Director
+	Location: Denver, CO
+	Review Date: 2024-04-01T22:05:35.147
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Good employees who work hard and are very knowledgeable.
+
+
+	Cons: 
+		Sr. Leadership feels they can talk to employees in a disrespectful way. This has happened several times to me and that has never happened to me at other companies. Health care is not good, high deductible means you basically pay for everything yourself. Premium is low but you pay the price if you have a medical event or need any type of testing. Overall, it seemed like a good place when I started but now I wouldn't not recommend.
+
+
+	Summary: 
+		Has gone down hill
+
+
+Review 5:
+	Job Title: IT Engineer
+	Location: Minneapolis, MN
+	Review Date: 2024-04-11T12:26:19.327
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Decent benefits. Pretty good PTO, offer 4 weeks paid parental leave.
+
+
+	Cons: 
+		HR strategy. very structured in pay raises and hiring process. Can not receive in place promotions, usually need a spot to be come available on your team or take different job to move up salary grades.
+
+
+	Summary: 
+		Overall good company to work for
+
+
+Review 6:
+	Job Title: Senior Analyst
+	Location: Denver, CO
+	Review Date: 2023-12-31T07:29:45.563
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		- Solid mission focus regarding clean energy transition
+		- Work life balance
+		- Employee Resource Groups
+		- Several leaders working towards improving mentorship, networking, and development opportunities (Book club, executive mentorship program, rotational program for entry level)
+
+
+	Cons: 
+		- Healthcare benefits should be better given size of company
+		- Getting on interesting projects is difficult if you are not an engineer. Good talent is always leaving.
+		- Top performers often underpaid. Negotiate!
+		- While there are some great leaders at Xcel, alignment across senior and executive leadership largely appears to work in silos. This creates information gaps, redundancy, and a general feeling that many leaders are incapable of leading teams in cross organizational collaborative work initiatives.
+		- No training
+		- 401k match is just ok
+		- Minority leadership is minimal
+
+
+	Summary: 
+		Company is doing good work but high performers are leaving for a reason…
+
+
+Review 7:
+	Job Title: Senior Project Manager
+	Location: Denver, CO
+	Review Date: 2024-04-17T14:58:10.773
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great team environment, interesting projects
+
+
+	Cons: 
+		hybrid work started, difficult to commute downtown
+
+
+	Summary: 
+		Good company
+
+
+Review 8:
+	Job Title: Analyst
+	Location: Denver, CO
+	Review Date: 2024-04-08T09:23:56.427
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		They are quite flexible depending on the team.
+		Good work and life balance.
+		Relatively easy to move around the company.
+
+
+	Cons: 
+		Office 3 days a week not much flexibility.
+		Leadership isn't very transparent.
+		The benefits are alright... Not a lot of options for healthcare if that's important to you.
+
+
+	Summary: 
+		Good to start with
+
+
+Review 9:
+	Job Title: Director
+	Location: Minneapolis, MN
+	Review Date: 2024-01-25T19:02:05.660
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Peers are smart but becoming burnt out and depressed.
+
+
+	Cons: 
+		The C-Suite leadership has made this company a place of dread and depression. The have hired an ineffective “lean management” firm which is not practicing lean and has created organizational decay and morale to fall to an all time low - they are toxic, nobody likes them, yet they have license to continue creating problems within the company. The CEO is now referring to shareholders as “our owners” and asking employees to use the same term - this is demeaning and gross. The CEO and his leadership don’t care about employees, or the public we serve, but rather have an obsession to bring “relentless value to our owners”. Think about that every time you pay your high Xcel Energy bill. There is a core of sycophants in the leadership that are afraid to speakup, and rather collect a paycheck, the board of directors also seem aloof to the problems the CEO and the COO have caused in the company.
+
+
+	Summary: 
+		Irresponsible leadership with zero direction
+
+
+Review 10:
+	Job Title: Project Manager
+	Location: Denver, CO
+	Review Date: 2024-04-01T12:27:07.490
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		people. benefits, work satisfaction, flexibility
+
+
+	Cons: 
+		virtual meeting while in office, disconnected and questionable leadership
+
+
+	Summary: 
+		Good overall
+
+
+Review 11:
+	Job Title: Internship
+	Location: None
+	Review Date: 2024-04-02T15:51:12.417
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		I can tell my boss wants me to succeed.
+
+
+	Cons: 
+		No issues in the few months I have worked here.
+
+
+	Summary: 
+		Great
+
+
+Review 12:
+	Job Title: Mechanical Engineer
+	Location: Minneapolis, MN
+	Review Date: 2024-03-25T07:09:39.190
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Working in the energy industry is generally a reliable employment option and Xcel has a long history and likely long future in this sector.
+
+
+	Cons: 
+		Recent reorganization has resulted in layoffs.
+
+
+	Summary: 
+		10 Years of Overall Good Experiences
+
+
+Review 13:
+	Job Title: Quantitative Data Analyst
+	Location: Denver, CO
+	Review Date: 2023-11-26T12:37:03.167
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		When I started during the pandemic, the company was very committed to making everyone feel part of a group. I felt seen and heard by the company. But the benefits are good.
+
+
+	Cons: 
+		But in the past 6 months multiple layoffs including hearing "we aren't concerned about attrition" multiple times by executives means they want to trim as much as possible. So much bloat was put into third party consultants to build large scale projects while neglecting what goes into the employees has left the company with bare bones. Then we were told we had to go back to an office that is now partly empty and leaving groups isolated. There is FAR less diversity at the company as most of the people who were pushed out were not part of the traditional core type of person to work at Xcel. And now I just interact with the same person type just in different departments. Everyone seems to be overworked and now it seems that the contractors are in more pressure to prove that their products are worth it.
+
+
+	Summary: 
+		Used to be good
+
+
+Review 14:
+	Job Title: Credit Representative
+	Location: Amarillo, TX
+	Review Date: 2024-03-28T19:13:32.617
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		They were pretty good with time off
+
+
+	Cons: 
+		They don’t really care about lower level employees
+
+
+	Summary: 
+		Xcel energy
+
+
+Review 15:
+	Job Title: Real Time Analyst
+	Location: None
+	Review Date: 2023-12-20T13:02:39.480
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Direct supervisors were very kind and wanted you to achieve your full potential
+		Diverse Workplace, accepting of those from all walks of life
+		Mix of teamwork and individual responsibilities
+		Solid benefits that keep the employee's future in mind
+		Opportunity for advancement and strong on the job training
+
+
+	Cons: 
+		High Deductible insurance plan means you generally pay more in premiums than the plan covers if you are relatively healthy
+		Very strict expense management in recent months that reduced or completely got rid of benefits such as bonuses 
+		Minimal Staffing for some departments which limits when and how you can use your PTO
+		Can be stressful due to state regulatory requirements
+		Interdepartmental communication issues can lead to roadblocks
+		Outsourcing many in-house departments which can hurt job security
+		Many leadership positions vacated in recent months on top of additional layoffs and outsourcing
+		Company is profit driven but due to state regulations that inhibit increased revenue, this means that the lever of action used to increase profit is almost always cost reduction 
+
+
+	Summary: 
+		Great People but Corporate is Corporate
+
+
+Review 16:
+	Job Title: Project Manager
+	Location: None
+	Review Date: 2023-10-02T15:00:20.093
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		I work with some of the greatest people.
+
+
+	Cons: 
+		Severely cutting expenses with a complete halt on travel, and introducing a "Voluntary Retirement Plan" as a means to reduce staff. The possibility of cutting AIP is looming, and uncertainty prevails. A high-ranking executive in the C-Suite is departing (one of the best IMO), marking the fourth VP or higher to leave this year. Morale has hit rock bottom, and many individuals I interact with are actively exploring other options. It appears the sole focus is on pleasing shareholders, while our stated values of Safe, Connected, Committed, and Trustworthy seem to be mere rhetoric. I find myself questioning whether management genuinely upholds these values or if they are just empty words. Over the past few months, leadership has taken actions that has eroded the trust of employees, and it could potentially take years to rebuild. There was a time when I took pride in declaring that I worked for Xcel. Unfortunately, that sentiment no longer holds true for me.
+
+
+	Summary: 
+		Used to be a great company
+
+
+Review 17:
+	Job Title: None
+	Location: Thornton, CO
+	Review Date: 2023-09-13T17:42:08.027
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Great people. Interesting industry. Many opportunities for growth upwards and laterally if you are a good performer and are intentional about development.
+
+
+	Cons: 
+		The CEO has a big internal PR problem. Employees  have lost trust in his leadership and his integrity.  Fine if you want more in-person collaboration, but didn’t need to go to three set days a week, especially when employees are already stressed due to cost containment efforts. The Hybrid changes were very tone deaf and demonstrated how disconnected executives are from people doing the work. Workloads are high and burnout is rampant. Good people are killings themselves trying to meet expectations and complete piles of work, all while sitting in 6-8 hours of meetings every day and pivoting constantly as priorities change. Operating lean doesn’t just mean cutting back on people; it also means reprioritizing and focusing on core work. Haven’t seemed to figure out how to do that successfully yet. XE1, One XE Way, rally rooms - all of these programs are ineffective and don’t yield meaningful, sustainable results.
+
+
+	Summary: 
+		Xcel Review
+
+
+Review 18:
+	Job Title: Recruiter
+	Location: Denver, CO
+	Review Date: 2024-02-19T09:59:17.753
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The company had a lot of goals on clean energy and to reduce carbon emissions by 80% by 2050.
+
+
+	Cons: 
+		Says its a stable job industry that doesn't have layoffs but I was apart of a mass layoff November 2023. Company not doing well financially.
+
+
+	Summary: 
+		Recruiter
+
+
+Review 19:
+	Job Title: Manager
+	Location: Minneapolis, MN
+	Review Date: 2024-03-13T03:21:09.387
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		They pay is pretty good.
+
+
+	Cons: 
+		No work life balance, lack of transparency, unrealistic work expectations, promote hybrid for the culture but yet you sit on teams all day, toxic leadership.
+
+
+	Summary: 
+		Don’t do it
+
+
+Review 20:
+	Job Title: None
+	Location: Denver, CO
+	Review Date: 2024-02-21T18:18:17.130
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Great company culture, supervisors are competent and treat employees well, collaborative team environment, healthy work-life balance.
+
+
+	Cons: 
+		Change in work from home policy, it would have been nice if executives had decided 1-2 days in office was sufficient permanently, needs better parking options and company should reimburse for parking downtown.
+
+
+	Summary: 
+		A good place to work
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

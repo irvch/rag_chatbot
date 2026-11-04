@@ -1,0 +1,628 @@
+
+Performance Food Group is a Wholesalers: Food and Grocery company based in 23238 Richmond, Virginia. 
+The company has 34,825 employees and has a revenue of $47,194 according to Fortune 500.
+The company is valued at $9,422 and has a profit of $113. The CEO of the company is George L. Holm.
+
+The Company has the following ratings: 
+Average ratings for Performance Food Group:
+Business Outlook: 0.55
+
+Career Opportunities: 3.2
+Distribution: 
+	1: 181 
+	2: 153 
+	3: 217 
+	4: 152 
+	5: 159 
+
+CEO: 0.65
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 86 
+	2: 108 
+	3: 234 
+	4: 235 
+	5: 202 
+
+Culture and Values: 3.1
+Distribution: 
+	1: 224 
+	2: 127 
+	3: 167 
+	4: 159 
+	5: 163 
+
+Diversity and Inclusion: 3.4
+Distribution: 
+	1: 77 
+	2: 57 
+	3: 99 
+	4: 97 
+	5: 140 
+
+Overall: 3.3
+Distribution: 
+	1: 177 
+	2: 167 
+	3: 279 
+	4: 227 
+	5: 207 
+
+Senior Management: 3
+Distribution: 
+	1: 250 
+	2: 150 
+	3: 147 
+	4: 159 
+	5: 148 
+
+Work Life Balance: 2.9
+Distribution: 
+	1: 256 
+	2: 162 
+	3: 193 
+	4: 122 
+	5: 131 
+
+Review Count: 1057
+
+Recommend to Friend: 
+	RECOMMEND: 376
+	WONT RECOMMEND: 381
+
+
+
+
+The company has 1081 reviews on Glassdoor. The last review was posted on 2024-04-15T12:16:43.827. 
+There are 20 Reviews for Performance Food Group:
+
+Review 1:
+	Job Title: Manager
+	Location: Oregon City, OR
+	Review Date: 2024-03-24T11:01:48.737
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		People are awesome and great to work with
+
+
+	Cons: 
+		Nothing to add great place to work
+
+
+	Summary: 
+		Great company
+
+
+Review 2:
+	Job Title: Buyer
+	Location: Oakwood, GA
+	Review Date: 2024-04-15T12:16:43.827
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great boss and a great working environment
+
+
+	Cons: 
+		Low flexibility on work schedule
+
+
+	Summary: 
+		Good paying job
+
+
+Review 3:
+	Job Title: Production Associate
+	Location: La Crosse, WI
+	Review Date: 2024-02-19T22:45:04.337
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Guaranteed overtime, daytime hours, no weekends usually
+
+
+	Cons: 
+		There is a lot of money being made there, just not by the production workers who work their tails off all day every day. If you’re a good worker, expect harder work with more responsibilities for no additional pay. You will not be given a choice. You will be expected to work until an unspecified time when management decides you’ve done enough (not that most of them stick around to the end or help in any way) regardless of what other responsibilities you have in your personal life.
+
+
+	Summary: 
+		Everything that’s wrong with our economy
+
+
+Review 4:
+	Job Title: Administrative
+	Location: Richmond, VA
+	Review Date: 2024-03-27T17:23:33.013
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		The company is very family-oriented. The company shows it employees great appreciation for their work.
+
+
+	Cons: 
+		The communication with how the department is changing can be poor.
+
+
+	Summary: 
+		Company Atmosphere
+
+
+Review 5:
+	Job Title: CDL Driver
+	Location: Lebanon, TN
+	Review Date: 2024-04-05T21:32:00.113
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Home daily, paid every two weeks. Good healthcare.
+
+
+	Cons: 
+		Older equipment, more breakdown and delays, not properly compensated for extra work, no real room for advancement.
+
+
+	Summary: 
+		Solid CDL job with daily home time
+
+
+Review 6:
+	Job Title: Area Manager
+	Location: None
+	Review Date: 2024-04-05T07:48:37.143
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		You are your own boss, very collaborative
+
+
+	Cons: 
+		The "New Guy" phase lasts a little too long
+
+
+	Summary: 
+		They want to win, they support winning
+
+
+Review 7:
+	Job Title: Class A Truck Driver
+	Location: Madison, WI
+	Review Date: 2024-04-03T19:43:18.883
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		they do not care about drivers
+
+
+	Cons: 
+		its really hard work at pfg
+
+
+	Summary: 
+		not responsable
+
+
+Review 8:
+	Job Title: Area Manager
+	Location: None
+	Review Date: 2024-03-29T18:54:25.773
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 1
+
+	Pros: 
+		Support from management to help grow business
+		No cap on commission
+		Flexible schedule
+
+
+	Cons: 
+		Can have long hours, poor work/life balance
+
+
+	Summary: 
+		Very rewarding at the cost of great effort
+
+
+Review 9:
+	Job Title: AP Supervisor
+	Location: Denver, CO
+	Review Date: 2024-04-03T18:53:24.580
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Higher turn over means more growth
+
+
+	Cons: 
+		Same issues as other companies
+
+
+	Summary: 
+		Pay
+
+
+Review 10:
+	Job Title: Transportation Manager
+	Location: Springfield, MA
+	Review Date: 2024-03-07T08:43:13.913
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Going home..company expects its employees to be at their discretion every day at every hour. If you even try to have a life, you are made to feel like an outsider, and eventually shown the door. Even if they have to set you up in order to do it. Horrifically toxic environment demonstrated from the GM and the executive (used loosely) leadership team.
+
+
+	Cons: 
+		Having to deal with a group of people who are left to run the building however they want without recourse. No checks and balances and the good ol boy club runs rampant. Knowing that the people in charge could care less about the people that work for them, except for the VP heavy leadership in the building that are lined up to KA of their leader. VERY DISCOURAGING ! These people have no regard for the laws that they are required to operate within, and I have personally witnessed them breaking DOT laws and food handling and food safety laws on a regular basis, I wonder if their customers knew that their chicken was delivered in the back of a non-refrigerated Home Depot rental truck on a 100-degree day? Just one example but I have many and the pictures to go with it. ATROCIOUS way to treat their customers so why would they treat their employees any better?
+
+
+	Summary: 
+		Low Level Executive Leadership in Unrestrained World
+
+
+Review 11:
+	Job Title: Manager Corp IT
+	Location: Naperville, IL
+	Review Date: 2024-03-15T09:01:28.810
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Growing company
+		Actually promotes from within
+		A company you can be proud to work for morally
+
+
+	Cons: 
+		Pay normalization across all segments
+
+
+	Summary: 
+		Great place to work with good growth opportunities
+
+
+Review 12:
+	Job Title: Corporate Logistics Analyst
+	Location: Richmond, VA
+	Review Date: 2024-03-22T04:42:18.960
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		PFG is a great company to work for!
+
+
+	Cons: 
+		Haven’t found the cons yet.
+
+
+	Summary: 
+		Great company
+
+
+Review 13:
+	Job Title: Class A CDL Delivery Driver
+	Location: Fort Myers, FL
+	Review Date: 2024-03-20T09:55:42.213
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Starting pay is 250 daily
+
+
+	Cons: 
+		Starting pay will also be your only pay.
+		worked there for 5 years and still pays the same.
+		will go to several different counties and will end up at the one you started in.
+
+
+	Summary: 
+		Don't work here
+
+
+Review 14:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-03T16:02:48.993
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Helping people to get better at their jobs
+
+
+	Cons: 
+		For the first time since I started working in the office I have been able to get my hands on some good books
+
+
+	Summary: 
+		Good luck with your new job
+
+
+Review 15:
+	Job Title: Business Development Manager
+	Location: Sioux Falls, SD
+	Review Date: 2024-03-07T20:31:02.490
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Complete autonomy in day to day work life
+
+
+	Cons: 
+		Very minimal observance or direction within role or team
+
+
+	Summary: 
+		Decent at best
+
+
+Review 16:
+	Job Title: Night Warehouse Selector
+	Location: Morristown, TN
+	Review Date: 2024-02-14T12:22:11.137
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Pay is good, benefits are decent. Always have work to do, sometimes it's more hours than you want but it is a dependable income. You get paid for the amount of work you do.
+
+
+	Cons: 
+		Usually long hours, workload sometimes distributed unevenly based on performance. Work life balance usually isn't terrific.
+
+
+	Summary: 
+		Good place to work
+
+
+Review 17:
+	Job Title: Shuttle Driver
+	Location: Coal Township, PA
+	Review Date: 2024-03-07T22:53:06.660
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Weekends off good pay good benefits
+
+
+	Cons: 
+		The hours can be tough for some people
+
+
+	Summary: 
+		Decent compsny
+
+
+Review 18:
+	Job Title: Seasonal Driver Helper
+	Location: Springfield, MA
+	Review Date: 2024-03-10T18:50:09.937
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Reliable hours, ample overtime, good co-workers
+
+
+	Cons: 
+		Long and variable hours. Customers can be unfriendly
+
+
+	Summary: 
+		Driver Helper
+
+
+Review 19:
+	Job Title: Order Selector
+	Location: Lebanon, TN
+	Review Date: 2024-03-07T14:54:18.233
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Lots of hours to be worked
+
+
+	Cons: 
+		Odd shift times make it hard to do anything
+
+
+	Summary: 
+		Okay
+
+
+Review 20:
+	Job Title: Credit Supervisor
+	Location: Morristown, TN
+	Review Date: 2024-03-04T17:42:04.903
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Good benefits, great team, lots of room for advancement
+
+
+	Cons: 
+		Sometimes expectations are unclear, training could be improved
+
+
+	Summary: 
+		Good company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

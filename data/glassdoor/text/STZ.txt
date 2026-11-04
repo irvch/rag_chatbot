@@ -1,0 +1,622 @@
+
+Constellation Brands is a Beverages company based in 14564 Victor, New York. 
+The company has 10,000 employees and has a revenue of $8,821 according to Fortune 500.
+The company is valued at $41,688 and has a profit of -$40. The CEO of the company is Bill Newlands.
+
+The Company has the following ratings: 
+Average ratings for Constellation Brands:
+Business Outlook: 0.83
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 66 
+	2: 64 
+	3: 122 
+	4: 112 
+	5: 120 
+
+CEO: 0.88
+
+Compensation and Benefits: 4.1
+Distribution: 
+	1: 15 
+	2: 25 
+	3: 103 
+	4: 180 
+	5: 158 
+
+Culture and Values: 4
+Distribution: 
+	1: 56 
+	2: 58 
+	3: 77 
+	4: 124 
+	5: 154 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 16 
+	2: 19 
+	3: 42 
+	4: 59 
+	5: 101 
+
+Overall: 4.3
+Distribution: 
+	1: 47 
+	2: 53 
+	3: 108 
+	4: 182 
+	5: 204 
+
+Senior Management: 3.7
+Distribution: 
+	1: 89 
+	2: 66 
+	3: 95 
+	4: 106 
+	5: 117 
+
+Work Life Balance: 4
+Distribution: 
+	1: 45 
+	2: 60 
+	3: 118 
+	4: 129 
+	5: 128 
+
+Review Count: 596
+
+Recommend to Friend: 
+	RECOMMEND: 320
+	WONT RECOMMEND: 133
+
+
+
+
+The company has 719 reviews on Glassdoor. The last review was posted on 2024-04-17T15:58:55.977. 
+There are 20 Reviews for Constellation Brands:
+
+Review 1:
+	Job Title: Director of Sales
+	Location: Baltimore, MD
+	Review Date: 2024-04-17T15:58:55.977
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Culture, compensation, ability to move within the company
+
+
+	Cons: 
+		Constant juggling of responsibilities and personalities
+
+
+	Summary: 
+		Director of Sales
+
+
+Review 2:
+	Job Title: Senior Recruiter
+	Location: Rochester, NY
+	Review Date: 2024-04-16T08:01:44.220
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Collaborative culture, state of the art office environment, cool products, high availability of resources to do your job, amazing work/life balance
+
+
+	Cons: 
+		Compensation is on the lower side, growth has slowed causing reorgs and layoffs
+
+
+	Summary: 
+		Amazing culture!
+
+
+Review 3:
+	Job Title: Senior Data Analyst
+	Location: San Francisco, CA
+	Review Date: 2024-04-14T20:34:52.193
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Great people to work with. The company cares about work life balance and professional growth.
+
+
+	Cons: 
+		Moving up in the company is hard due to limited available position.
+
+
+	Summary: 
+		Good people and work life balance
+
+
+Review 4:
+	Job Title: Strategy Manager
+	Location: None
+	Review Date: 2024-04-11T20:21:24.980
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Overall have loved my experience here
+
+
+	Cons: 
+		Sometimes teams duplicate work and there isn’t a clear lack of ownership
+
+
+	Summary: 
+		Great people, great products, good values
+
+
+Review 5:
+	Job Title: National Account Manager
+	Location: Cincinnati, OH
+	Review Date: 2024-03-25T12:58:32.017
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good people, good work life balance,
+
+
+	Cons: 
+		reorganizations, they happen almost yearly. Job stability is always in question. Lack of direction, Lot's of talk but not a lot of action
+
+
+	Summary: 
+		Decent pay and good bonus structure 
+
+
+Review 6:
+	Job Title: National Accounts
+	Location: Chicago, IL
+	Review Date: 2024-03-22T13:24:22.840
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Amazing product portfolio, Decent benefits
+
+
+	Cons: 
+		The culture has changed where people are covering their own --- instead of working collaboratively and transparently.
+
+
+	Summary: 
+		Culture Deteriorating 
+
+
+Review 7:
+	Job Title: Account Manager
+	Location: Dallas, TX
+	Review Date: 2023-11-07T16:02:23.500
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Big company with some great brands. Decent pay. Decent resources. Some good leaders in select areas - but not all.
+
+
+	Cons: 
+		Culture used to be "act like an owner" - that is now long gone. The legacy beer side is now run by some tyrants. The wine and spirits side is collapsing. Long hours - fewer resources on the wine side. New product development on the beer side has had way more misses than hits. CEO made blunders with Ballast Point, Canopy Growth and a new brewery in Mexico - each were billion$ + dabacles. Marketing departments at both dvisions are a game of musical chairs at all levels. Very little respect for veteran employees at the top of their game in sales. "Your position is no longer available" is the excuse - "but you can apply for any and all others." This is pure lip service and they will not even respond to your resume submissions - even for lesser roles at lessing salaries.
+
+
+	Summary: 
+		Beer VS Wine &amp; Spirits - Fighting Themselves
+
+
+Review 8:
+	Job Title: Senior Packaging Specialist
+	Location: San Diego, CA
+	Review Date: 2024-03-18T14:15:12.553
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		flexibility and ability to work from home
+
+
+	Cons: 
+		lack of challenges within role
+
+
+	Summary: 
+		good
+
+
+Review 9:
+	Job Title: Director
+	Location: Chicago, IL
+	Review Date: 2023-12-21T19:10:40.603
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Flexibility program, people and product allowance
+
+
+	Cons: 
+		The pay is average. But since the company has been making money every year, the bonus has always been nice. Other than that, the company is full of CBI lifers - people who has been working here for 10, 15, 20 years. They continue to rotate from department to department or through promotions over the years. These tend to be the people who have the least idea about diversity and form a circle of their own. They are also the people who are difficult to coach and be open to new things. Other than that, things are chill here. A good place to aim for retirement if you like steady pace
+
+
+	Summary: 
+		Once you are in you become a lifer
+
+
+Review 10:
+	Job Title: Finance Manager
+	Location: Rochester, NY
+	Review Date: 2024-03-09T20:39:22.817
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good company to work for
+
+
+	Cons: 
+		Nothing significant at this time
+
+
+	Summary: 
+		Good
+
+
+Review 11:
+	Job Title: IT Systems Analyst
+	Location: Chicago, IL
+	Review Date: 2024-02-20T10:29:43.177
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		New remote flexibility is great.
+
+
+	Cons: 
+		Salary increases are always the minimum, which doesn't reflect the market.
+
+
+	Summary: 
+		Salary minimal increases
+
+
+Review 12:
+	Job Title: Coordinator
+	Location: None
+	Review Date: 2024-02-17T14:54:44.397
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		In-house legal team members are very appreciative of Coordinators and the company provides good benefits
+
+
+	Cons: 
+		In-house legal dept provides very limited opportunity for growth (laterally or vertically) if you do not have a JD
+
+
+	Summary: 
+		Good company, very limited development opportunities
+
+
+Review 13:
+	Job Title: IT Operations Engineer
+	Location: None
+	Review Date: 2024-02-02T08:26:12.520
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		The People, The Products. The Culture.
+
+
+	Cons: 
+		Some workloads can be difficult to work through given limited resources and conflicting priorities when needing resources from other teams to meet deliverables.
+
+
+	Summary: 
+		'Worth Working For' (if you know you know)
+
+
+Review 14:
+	Job Title: Senior Transportation Manager
+	Location: Chicago, IL
+	Review Date: 2024-02-12T08:54:41.367
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Bonuses are paying out very nice
+
+
+	Cons: 
+		Salaries keep up w/ market. Seems to be working against those who have been w/ the company for a long period of time.
+
+
+	Summary: 
+		Successful Company
+
+
+Review 15:
+	Job Title: Software Engineer
+	Location: None
+	Review Date: 2024-02-12T20:16:20.380
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great people to work with. Good compensation. Understanding management.
+
+
+	Cons: 
+		There are not many downsides. A lot of people stay for a long time.
+
+
+	Summary: 
+		Great place to work
+
+
+Review 16:
+	Job Title: On-Premise Sales Representative
+	Location: Jersey City, NJ
+	Review Date: 2024-02-15T17:56:19.583
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great beer portfolio to sell
+
+
+	Cons: 
+		The Lack of upward mobility
+
+
+	Summary: 
+		Salary
+
+
+Review 17:
+	Job Title: Bartender
+	Location: Louisville, KY
+	Review Date: 2024-02-09T16:51:01.820
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Product allowance for any constellation brand product
+
+
+	Cons: 
+		Very corporate management, even at the hospitality level
+
+
+	Summary: 
+		Corporate
+
+
+Review 18:
+	Job Title: Manager
+	Location: Phoenix, AZ
+	Review Date: 2024-01-19T15:02:26.137
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Brand portfolio, pay and benefits are tremendous.
+
+
+	Cons: 
+		Multiple mid management has been with the company in that capacity for way too many years. Not a good time to be a white male either.
+
+
+	Summary: 
+		Great Brands, old school managers
+
+
+Review 19:
+	Job Title: Vice President
+	Location: Chicago, IL
+	Review Date: 2024-02-02T12:38:13.290
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great people and leadership who care for their employees.
+
+
+	Cons: 
+		I legit can not think of anything
+
+
+	Summary: 
+		Great company to work for!
+
+
+Review 20:
+	Job Title: Marketing Manager
+	Location: Chicago, IL
+	Review Date: 2024-01-21T21:10:05.007
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great benefits, smart and friendly co-workers, passionate leadership.
+
+
+	Cons: 
+		Would like to see more females in leadership
+
+
+	Summary: 
+		Best company to work for
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

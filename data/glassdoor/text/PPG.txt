@@ -1,0 +1,622 @@
+
+PPG Industries is a Chemicals company based in 15272 Pittsburgh, Pennsylvania. 
+The company has 52,000 employees and has a revenue of $17,652 according to Fortune 500.
+The company is valued at $31,439 and has a profit of $1,026. The CEO of the company is Timothy M. Knavish.
+
+The Company has the following ratings: 
+Average ratings for PPG Industries:
+Business Outlook: 0.53
+
+Career Opportunities: 3.3
+Distribution: 
+	1: 71 
+	2: 79 
+	3: 148 
+	4: 128 
+	5: 105 
+
+CEO: 0.71
+
+Compensation and Benefits: 3.5
+Distribution: 
+	1: 31 
+	2: 80 
+	3: 152 
+	4: 162 
+	5: 107 
+
+Culture and Values: 3.3
+Distribution: 
+	1: 80 
+	2: 69 
+	3: 116 
+	4: 114 
+	5: 145 
+
+Diversity and Inclusion: 3.7
+Distribution: 
+	1: 59 
+	2: 42 
+	3: 97 
+	4: 132 
+	5: 176 
+
+Overall: 3.6
+Distribution: 
+	1: 56 
+	2: 82 
+	3: 171 
+	4: 199 
+	5: 177 
+
+Senior Management: 3
+Distribution: 
+	1: 112 
+	2: 89 
+	3: 108 
+	4: 111 
+	5: 102 
+
+Work Life Balance: 3.3
+Distribution: 
+	1: 75 
+	2: 71 
+	3: 132 
+	4: 117 
+	5: 131 
+
+Review Count: 685
+
+Recommend to Friend: 
+	RECOMMEND: 275
+	WONT RECOMMEND: 170
+
+
+
+
+The company has 767 reviews on Glassdoor. The last review was posted on 2024-04-07T20:12:03.437. 
+There are 20 Reviews for PPG Industries:
+
+Review 1:
+	Job Title: Helpdesk Analyst
+	Location: Pittsburgh, PA
+	Review Date: 2024-03-17T19:07:44.100
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Goog working environment for IT
+
+
+	Cons: 
+		No increase salary until I left
+
+
+	Summary: 
+		N/A
+
+
+Review 2:
+	Job Title: None
+	Location: None
+	Review Date: 2024-01-14T21:05:51.463
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		A lot of extremely hardworking people who will do whatever is necessary to keep things running and help out their colleagues. Great products that outperform the competition.
+
+
+	Cons: 
+		Management is completely out of touch with the company PPG has become over the last 15-20 years and even the last 3 years through the pandemic. No one has any clue what teams do or how they work. RTO is being forced on everyone who is within driving distance of an office even if they have no association with that location aside from needing to be based out of somewhere for tax purposes. There are a lot of non-technical people making technical decisions and it never ceases to amaze me how little logic or common sense is used in the decision making process. The emphasis on a one-size-fits-all approach is killing the company. Yes, redundancies need to be eliminated after acquisitions, but you need to actually integrate those acquisitions before you eliminate the duplicate resources as well as remember why you bought the business in the first place. PPG is too big.
+
+
+	Summary: 
+		Great people, great products, questionable management 
+
+
+Review 3:
+	Job Title: Credit Specialist
+	Location: Cranberry Township, PA
+	Review Date: 2023-12-16T07:57:26.073
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		I honestly cannot think of a pro, sadly. Maybe that they use SAP, at least the Credit Department did. But along with SAP we used at least 3 other systems and had to toggle between them all day every day.
+
+
+	Cons: 
+		Incompetent management team - clearly not qualified to manage people at all. They make up their own rules as they go. Hiring unqualified employees; making unethical decisions and comments (and nothing gets done about it). Then they have meetings to try and boost moral? A/P, Cash Apps, and IT are all outsourced outside of America. It's very difficult to perform our jobs when we have to wait hours or days for a response - especially to respond to a customer.
+
+
+	Summary: 
+		Unprofessional &amp; Unethical
+
+
+Review 4:
+	Job Title: Heavy Equipment Operator PPG
+	Location: None
+	Review Date: 2024-01-18T12:06:58.623
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Not many pros given that the place is hot or cold depending where your at and first shift doesn't follow the rules of sweeping because it's a mess for third shift. Maintenence half does work. I saw a damaged wire in the water and they hardly ever clean the fans for cooling and the new ones don't start easily.
+
+
+	Cons: 
+		Dirty, ignorant immature people, entitled, favoritism, a lot of lifting, they under pay if you don't watch paystubs. Bosses just stare at you with wierd stares like their stalkers and they like to distract you from your work and pretend their busy the last hour. 
+
+
+	Summary: 
+		Not for you if
+
+
+Review 5:
+	Job Title: Financial Analyst
+	Location: Pittsburgh, PA
+	Review Date: 2024-04-07T20:12:03.437
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Nice Team and coworkers. Good benefits
+
+
+	Cons: 
+		Company overall lacks diversity and inclusion. Limited growth opportunities
+
+
+	Summary: 
+		Working as a Financial Analyst 
+
+
+Review 6:
+	Job Title: Sales Specialist
+	Location: Gainesville, GA
+	Review Date: 2024-04-05T06:28:37.613
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Plenty of PTO, Pay is decent, Customers are interesting
+
+
+	Cons: 
+		Bonus structure is all over the place, Lots of corporate interruption in the work process
+
+
+	Summary: 
+		Good Vacation time, decent pay
+
+
+Review 7:
+	Job Title: Sales Analyst
+	Location: Atlanta, GA
+	Review Date: 2024-04-06T13:06:56.800
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		it has relatively good Work-Life Balance
+
+
+	Cons: 
+		too less benefits and pays
+
+
+	Summary: 
+		NA
+
+
+Review 8:
+	Job Title: Sales Support Specialist
+	Location: Wixom, MI
+	Review Date: 2024-03-21T11:39:10.660
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		PPG is changing and trying to get with the times. Company vehicle was great. They pay in full for travel and aren't stingy.
+
+
+	Cons: 
+		This is an antiquated industry where it's predominantly male and caucasian. Coworkers and customers alike aren't supportive or kind to women in the industry.
+
+
+	Summary: 
+		Tough place to work as a woman
+
+
+Review 9:
+	Job Title: Maintenance Technician
+	Location: Fresno, CA
+	Review Date: 2024-03-31T21:26:18.923
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Lots of and shift work
+
+
+	Cons: 
+		Shift work is rotating. Hard to balance life
+
+
+	Summary: 
+		Production 
+
+
+Review 10:
+	Job Title: Production Operator
+	Location: Huntsville, AL
+	Review Date: 2024-03-25T16:41:42.073
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Cool, laid back work atmosphere
+
+
+	Cons: 
+		The company changed to tier pay, instead of getting raises every 6 months.
+
+
+	Summary: 
+		Great company to work for
+
+
+Review 11:
+	Job Title: Shift Supervisor
+	Location: None
+	Review Date: 2024-03-22T06:12:16.217
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Pay and benefits. Good coworkers. 
+
+
+	Cons: 
+		Management. Scheduling. Support. No work life balance 
+
+
+	Summary: 
+		No work/life balance 
+
+
+Review 12:
+	Job Title: Production Worker
+	Location: Delaware, OH
+	Review Date: 2024-03-29T18:57:53.907
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		I have no good words
+
+
+	Cons: 
+		Horrible management , horrible contract no respect for workers Delaware plant save yourself the agony
+
+
+	Summary: 
+		Horrible management 
+
+
+Review 13:
+	Job Title: Line Leader
+	Location: Lima, OH
+	Review Date: 2024-03-15T10:58:30.137
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Advancement opportunities for those willing to put in effort.
+
+
+	Cons: 
+		Benefits are subpar, company pushes political views from the top.
+
+
+	Summary: 
+		Decent place to work
+
+
+Review 14:
+	Job Title: Global Category Manager
+	Location: Pittsburgh, PA
+	Review Date: 2024-02-13T09:27:53.987
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Great procurement leadership from the top with Christine C. Dedicated to her work and her people. She makes work enjoyable and she is very dynamic. PPG has been making nice investments into their people with updating the offices.
+
+
+	Cons: 
+		Paying for parking downtown 3x per week
+
+
+	Summary: 
+		Positive Work Environment
+
+
+Review 15:
+	Job Title: IT Quality Assurance Analyst
+	Location: None
+	Review Date: 2024-02-29T18:32:11.767
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Lots of opportunities and growth with in company
+
+
+	Cons: 
+		The pay could be higher
+
+
+	Summary: 
+		Enjoy the job
+
+
+Review 16:
+	Job Title: Batch Processor
+	Location: Racine, WI
+	Review Date: 2024-02-14T06:13:18.200
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Pay OK. Insurance OK. A lot of overtime.
+
+
+	Cons: 
+		A lot of mandatory overtime. Supervision is not on the same page. There is a strange relationship between union and non union.
+
+
+	Summary: 
+		OK pay but the place is literally falling apart.
+
+
+Review 17:
+	Job Title: Quality Lab Technician
+	Location: Delaware, OH
+	Review Date: 2024-02-12T11:28:09.723
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		PPG likes to hire within the company, so gathering experience feels very useful for progression.
+
+
+	Cons: 
+		You might not get a comprehensive understanding of how your roles are impacted by other peoples in production.
+
+
+	Summary: 
+		Good starting job to gain experience
+
+
+Review 18:
+	Job Title: Quality Facilitator
+	Location: Westlake, LA
+	Review Date: 2024-02-27T07:07:49.913
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great benefits. Work/life balance. Good culture
+
+
+	Cons: 
+		Turnover in management. Ever evolving job role
+
+
+	Summary: 
+		Good company
+
+
+Review 19:
+	Job Title: Senior Commercial Territory Manager
+	Location: Mooresville, NC
+	Review Date: 2024-02-27T11:43:42.200
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay and benefits and company car
+
+
+	Cons: 
+		Lots of changes with in Ppg
+
+
+	Summary: 
+		Ppg
+
+
+Review 20:
+	Job Title: Operations Accounting Supervisor
+	Location: Pittsburgh, PA
+	Review Date: 2024-02-16T06:42:57.447
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		coworkers and managers are fantastic
+
+
+	Cons: 
+		Month end close requires 3 days of 16+ hour days every month with no additional compensation or comp time
+
+
+	Summary: 
+		month end close is only downside
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

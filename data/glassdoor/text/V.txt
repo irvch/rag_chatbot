@@ -1,0 +1,648 @@
+
+Visa is a Financial Data Services company based in 94105 San Francisco, California. 
+The company has 26,500 employees and has a revenue of $29,310 according to Fortune 500.
+The company is valued at $475,307 and has a profit of $14,957. The CEO of the company is Ryan Mcinerney.
+
+The Company has the following ratings: 
+Average ratings for Visa:
+Business Outlook: 0.82
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 630 
+	2: 711 
+	3: 1147 
+	4: 1169 
+	5: 1050 
+
+CEO: 0.91
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 206 
+	2: 394 
+	3: 1119 
+	4: 1672 
+	5: 1303 
+
+Culture and Values: 4.1
+Distribution: 
+	1: 589 
+	2: 497 
+	3: 794 
+	4: 1059 
+	5: 1490 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 123 
+	2: 105 
+	3: 269 
+	4: 551 
+	5: 1051 
+
+Overall: 4.1
+Distribution: 
+	1: 548 
+	2: 654 
+	3: 1095 
+	4: 1684 
+	5: 1725 
+
+Senior Management: 3.6
+Distribution: 
+	1: 1002 
+	2: 688 
+	3: 936 
+	4: 1117 
+	5: 889 
+
+Work Life Balance: 4.1
+Distribution: 
+	1: 413 
+	2: 475 
+	3: 998 
+	4: 1297 
+	5: 1488 
+
+Review Count: 5721
+
+Recommend to Friend: 
+	RECOMMEND: 2604
+	WONT RECOMMEND: 1402
+
+
+
+
+The company has 6675 reviews on Glassdoor. The last review was posted on 2024-04-17T13:37:37.353. 
+There are 20 Reviews for Visa:
+
+Review 1:
+	Job Title: HR
+	Location: Atlanta, GA
+	Review Date: 2024-04-15T06:39:16.520
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Pay is good, work-life balance is good if you are under the Director level. 401(k) match is 2-for-1 up to 5%, effectively a 10% match. Internal mobility is valued, and the office is nice / has a good location
+
+
+	Cons: 
+		Culture is bureaucratic and hierarchical, some decisions are arbitrary--50% on-site requirement, but office social events are very rare, and very low-budget. No happy hours, etc.
+
+
+	Summary: 
+		Good benefits but bureaucratic
+
+
+Review 2:
+	Job Title: Security Engineer
+	Location: Austin, TX
+	Review Date: 2024-04-13T18:12:59.473
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Learned from others willing to mentor
+		Great team, though YMMV
+		Excellent retirement/investment with 2x 401k match and ESPP
+
+
+	Cons: 
+		Office politics
+		Bonuses and Promotions based on a determined headcount
+		Slightly lower base pay than relative positions in Financial Tech
+
+
+	Summary: 
+		Mixed
+
+
+Review 3:
+	Job Title: Director
+	Location: San Francisco, CA
+	Review Date: 2024-04-13T13:30:50.247
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Competitive Pay and Benefits, Collaborative and Friendly Culture
+
+
+	Cons: 
+		Slow and Bureaucratic; Hard to get things done sometimes
+
+
+	Summary: 
+		Good place to work overall
+
+
+Review 4:
+	Job Title: Product Manager
+	Location: San Francisco, CA
+	Review Date: 2024-03-09T16:58:09.443
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		1. New CEO that wants the company to be more bold and move faster
+		2. Great benefits (401k, health, vision dental and commuter etc..)
+		3. Stable company and fair worklife balance
+
+
+	Cons: 
+		1. Takes way to long to grow, invest and launch products (years). 
+		2. Lack of accountability among middle managers (Directors, VPs and even some SVPs). 
+		4. Cross-functional teams are not aligned on quarterly objectives. 
+		3. Pay is a bit lower than other tech companies.
+
+
+	Summary: 
+		Top heavy, slow to move but great company for stability
+
+
+Review 5:
+	Job Title: Senior Product Manager
+	Location: Austin, TX
+	Review Date: 2024-04-13T06:20:02.483
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great work life balance, great benefits
+
+
+	Cons: 
+		Bureacracy, sometimes moves too slow
+
+
+	Summary: 
+		Visa PM
+
+
+Review 6:
+	Job Title: Senior Executive Administrator
+	Location: Foster City, CA
+	Review Date: 2024-04-10T12:31:08.943
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Beautiful office with flexibility to work from home. They offer great benefits and 401k 2:1.
+
+
+	Cons: 
+		They tend to do re-orgs often which result in layoffs
+
+
+	Summary: 
+		Great company with great benefits
+
+
+Review 7:
+	Job Title: Sr. Software Engineer
+	Location: Foster City, CA
+	Review Date: 2024-04-10T13:19:44.667
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Collaborative and fun atmosphere to foster growth
+
+
+	Cons: 
+		Hybrid but not an issue for those who love to go in the office
+
+
+	Summary: 
+		Great place to work
+
+
+Review 8:
+	Job Title: Vice President
+	Location: San Francisco, CA
+	Review Date: 2024-04-10T14:46:10.277
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Working with smart people on impactful projects.
+
+
+	Cons: 
+		Sometimes work can get held up on internal processes.
+
+
+	Summary: 
+		Great place to work
+
+
+Review 9:
+	Job Title: Senior Director
+	Location: San Francisco, CA
+	Review Date: 2024-03-18T14:04:45.947
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Good benefits
+		Great locations
+		Great tech support and programs to participate
+
+
+	Cons: 
+		Too hierarchical
+		Too long and hard to get ahead
+		No real appetite for moving roles within company unless you are doing the exact same thing elsewhere
+		No real training to uplevel employees
+		Old Visa network (old boys' network)
+
+
+	Summary: 
+		Good for lower level employees, not so good if you are trying to get ahead
+
+
+Review 10:
+	Job Title: Senior Software Engineer
+	Location: Foster City, CA
+	Review Date: 2024-04-09T23:38:08.670
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Work life balance 
+		Good Colleagues
+
+
+	Cons: 
+		Pay is average 
+		Legacy Systems
+
+
+	Summary: 
+		Not great and Not bad to work for
+
+
+Review 11:
+	Job Title: Senior Director
+	Location: San Francisco, CA
+	Review Date: 2024-03-18T14:04:45.947
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Good benefits
+		Great locations
+		Great tech support and programs to participate
+
+
+	Cons: 
+		Too hierarchical
+		Too long and hard to get ahead
+		No real appetite for moving roles within company unless you are doing the exact same thing elsewhere
+		No real training to uplevel employees
+		Old Visa network (old boys' network)
+
+
+	Summary: 
+		Good for lower level employees, not so good if you are trying to get ahead
+
+
+Review 12:
+	Job Title: Senior Incident Manager
+	Location: None
+	Review Date: 2024-04-05T07:52:38.140
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Excellent working environment, respects time off, great pay.
+
+
+	Cons: 
+		Confusing direction from leadership, they leave vacated positions open far too long, burning out staff.  Overuse of AI.
+
+
+	Summary: 
+		Working at Visa
+
+
+Review 13:
+	Job Title: Specialist
+	Location: San Francisco, CA
+	Review Date: 2024-04-02T17:53:39.383
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good WLB and benefits offered by Visa
+
+
+	Cons: 
+		Slow-paced and very political, hard to get anything done
+
+
+	Summary: 
+		Visa is a slow burn, but a great place to work
+
+
+Review 14:
+	Job Title: None
+	Location: None
+	Review Date: 2024-04-08T14:51:36.267
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		good benefits, good work life balance
+
+
+	Cons: 
+		poor salary, slow growth, bad timing
+
+
+	Summary: 
+		good
+
+
+Review 15:
+	Job Title: Associate Analyst
+	Location: Atlanta, GA
+	Review Date: 2024-04-02T13:16:08.123
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Very friendly and solutions oriented. Good for mobility and gaining experience
+
+
+	Cons: 
+		No issues with my place of work so far
+
+
+	Summary: 
+		Newer Employee
+
+
+Review 16:
+	Job Title: Software Engineer
+	Location: Austin, TX
+	Review Date: 2024-04-02T23:57:02.637
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Good work life balance &amp; benefits
+
+
+	Cons: 
+		Lower pay and lots of bureaucracy
+
+
+	Summary: 
+		Pretty good place to work, not very challenging
+
+
+Review 17:
+	Job Title: Software Engineer (Swe II)
+	Location: Austin, TX
+	Review Date: 2024-04-03T18:28:53.047
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Easy work, team was bnglr heavy
+
+
+	Cons: 
+		Not enough learning, and alot of office politics
+
+
+	Summary: 
+		SWE Visa
+
+
+Review 18:
+	Job Title: None
+	Location: None
+	Review Date: 2024-04-03T22:52:34.067
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great culture and positive work environment.
+
+
+	Cons: 
+		Big company with lots of moving parts
+
+
+	Summary: 
+		Strong company 
+
+
+Review 19:
+	Job Title: Associate Director
+	Location: Washington, DC
+	Review Date: 2024-03-27T22:40:09.547
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 2
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Employee friendly policies that are very competitive.
+
+
+	Cons: 
+		Struggling with DEI. Percentage of black women promoted dropped significantly since Al retired.
+
+
+	Summary: 
+		It’s good!
+
+
+Review 20:
+	Job Title: Account Executive
+	Location: None
+	Review Date: 2024-03-11T12:40:54.843
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Industry Leader, Excellent Brand.
+		Great Compensation Package, especially the health insurance. 
+		Wants to have good work/life balance, but it really depends on your direct manager. 
+		Good DEI Programs
+
+
+	Cons: 
+		Very political.  Who you work for will make or break your role.  I've had great leaders and I've also had terrible leaders.  Otherwise, great company and I enjoyed my time there.
+
+
+	Summary: 
+		Overall Great Company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

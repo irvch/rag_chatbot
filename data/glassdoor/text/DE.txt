@@ -1,0 +1,637 @@
+
+Deere is a Construction and Farm Machinery company based in 61265 Moline, Illinois. 
+The company has 82,239 employees and has a revenue of $52,577 according to Fortune 500.
+The company is valued at $122,346 and has a profit of $7,131. The CEO of the company is John C. May.
+
+The Company has the following ratings: 
+Average ratings for Deere:
+Business Outlook: 0.69
+
+Career Opportunities: 3.2
+Distribution: 
+	1: 11 
+	2: 10 
+	3: 14 
+	4: 14 
+	5: 9 
+
+CEO: 0.77
+
+Compensation and Benefits: 3.8
+Distribution: 
+	1: 1 
+	2: 6 
+	3: 22 
+	4: 15 
+	5: 14 
+
+Culture and Values: 3.9
+Distribution: 
+	1: 6 
+	2: 8 
+	3: 7 
+	4: 19 
+	5: 16 
+
+Diversity and Inclusion: 3.3
+Distribution: 
+	1: 2 
+	2: 3 
+	3: 9 
+	4: 5 
+	5: 5 
+
+Overall: 3.9
+Distribution: 
+	1: 4 
+	2: 9 
+	3: 16 
+	4: 17 
+	5: 21 
+
+Senior Management: 3.4
+Distribution: 
+	1: 10 
+	2: 8 
+	3: 9 
+	4: 10 
+	5: 11 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 6 
+	2: 13 
+	3: 11 
+	4: 16 
+	5: 11 
+
+Review Count: 67
+
+Recommend to Friend: 
+	RECOMMEND: 35
+	WONT RECOMMEND: 18
+
+
+
+
+The company has 77 reviews on Glassdoor. The last review was posted on 2024-03-01T01:09:41.603. 
+There are 20 Reviews for Deere:
+
+Review 1:
+	Job Title: Production Supervisor
+	Location: None
+	Review Date: 2022-03-08T07:50:27.583
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good company good culture great people
+
+
+	Cons: 
+		Nothing that you can’t find anywhere else
+
+
+	Summary: 
+		Great company
+
+
+Review 2:
+	Job Title: Assemblyman
+	Location: Kernersville, NC
+	Review Date: 2023-02-16T05:44:29.820
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Good benefits and pay scale
+
+
+	Cons: 
+		Long hours, little notice to change in schedule
+
+
+	Summary: 
+		Decent place to work
+
+
+Review 3:
+	Job Title: None
+	Location: None
+	Review Date: 2022-01-08T14:44:19.980
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Everything it’s a good place to be
+
+
+	Cons: 
+		None it’s good place to be
+
+
+	Summary: 
+		Production production production
+
+
+Review 4:
+	Job Title: Engineer III
+	Location: Kernersville, NC
+	Review Date: 2021-12-29T09:06:36.473
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		good engineering staff, safety culture
+
+
+	Cons: 
+		benefits, limited opportunities for advancement
+
+
+	Summary: 
+		Company Review
+
+
+Review 5:
+	Job Title: Human Resources
+	Location: Kernersville, NC
+	Review Date: 2021-11-11T07:51:23.530
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		People, benefits, safety, pay, leadership
+
+
+	Cons: 
+		No CONS to working at DH
+
+
+	Summary: 
+		Great Company
+
+
+Review 6:
+	Job Title: Welder
+	Location: Kernersville, NC
+	Review Date: 2021-09-04T07:17:35.237
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good benefits, good pay , yearly bonus
+
+
+	Cons: 
+		A ton of cry baby coworkers
+
+
+	Summary: 
+		Good workspace
+
+
+Review 7:
+	Job Title: Engineer
+	Location: None
+	Review Date: 2017-10-13T06:23:54.103
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Some co-workers are supportive of one-another.  
+		Parent companies are unlikely to ever let it fail.
+		In my rear view mirror.
+
+
+	Cons: 
+		There used to be lots of little perks.  They didn't cost much or mean much, but added together, you kind of looked forward to coming to work.  Over the last decade I've watched each of the carrots get replaced with a stick.....
+		
+		Management, management, management.   They tend to go out of their way to show people who's boss.  President really tanked the good culture that existed 10 yrs ago.  I actually started getting physically sick every morning knowing I had to go back to that hole.  Not at all interested in employee growth, and begrudge the tiny paychecks they pay.
+		
+		The thing that really drove me crazy was the dishonesty.  They'd happily call the sky green and expect you to lend enthusiastic support.   They like to brag how they've never had a lay-off, but what they do is actually worse.  You will get just barely enough hours to prevent an unemployment claim.  As people get starved out (literally in a couple cases) and leave, the management team congratulates themselves on good works and takes bonuses to the bank.
+
+
+	Summary: 
+		Used to be OK
+
+
+Review 8:
+	Job Title: None
+	Location: Kernersville, NC
+	Review Date: 2016-12-12T17:35:19.173
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		I worked in the main office.  Loved the people, and really felt supported by my supervisor.  Culture of safety is truly top-notch.  They have a history of not firing or laying people off when the market turns down.
+
+
+	Cons: 
+		Jobs there are not paid market value, so it's a revolving door of people at the bottom-to-middle with no turnover at the top.  People with children had to burn vacation days if their kids got sick, while people who called in sick constantly, kept theirs.  Even though the work day ended at 4:45, professional employees are told to not be seen leaving before 5.  Perception was king.  No matter what position you are hired for or what level you come in, you will only get 2 wks. vacation for 5 yrs.  Medical benefits are pretty much non-existent now.  You will pay everything out-of-pocket until your high deductible is met.  Very limited movement within the organization.
+
+
+	Summary: 
+		Loved my co-workers, but underpaid
+
+
+Review 9:
+	Job Title: None
+	Location: None
+	Review Date: 2016-05-13T09:55:22.707
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Company has good pay and decent benefits.  Pretty good company culture and people are friendly and helpful.
+
+
+	Cons: 
+		It seems like the bulk of the work gets dumped on the lowest people on the totem pole.  Employees are rarely listened to.  Supervisors and Managers have been in place for YEARS so little to no chance of advancement.  Don't disagree with your Manager or Supervisor or you will have a target on your back.  Deere Hitachi employees take a back seat to the Deere employees.
+
+
+	Summary: 
+		OK company to work for....  Worked at better
+
+
+Review 10:
+	Job Title: None
+	Location: None
+	Review Date: 2016-02-15T13:59:19.093
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		The pay is pretty good and the 401k is descent..great people on the floor to work with .everybody seems to get along
+
+
+	Cons: 
+		Been on 32 hr a week for almost a yr... insurance they forced down employees throats is poor at best. Upper management has lost site of the backbone of the company which is its workforce.your treated as a number not a valuable part of the company.. president of company is NEVER on the floor an could name 20 employees on the floor. He is about deere. Not deere hitachi
+
+
+	Summary: 
+		use to be a great company/ lost touch with employees
+
+
+Review 11:
+	Job Title: None
+	Location: Kernersville, NC
+	Review Date: 2016-05-11T03:34:25.697
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Decent 401K, pretty good working conditions, nice facility overall, and good people to work with
+
+
+	Cons: 
+		My direct management is very disconnected, my department is like a merry go round with constant turnover.  Most of the people who are here are looking for other jobs.  Sr. Management is very petty, constantly picking apart the smallest things but do not see the total picture at all, CEO never speaks to employees, seems to dislike or distrust Deere Hitachi people
+
+
+	Summary: 
+		Buyer
+
+
+Review 12:
+	Job Title: None
+	Location: Ankeny, IA
+	Review Date: 2014-08-01T12:02:20.397
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Good business future for those commited to do whatever they say.  Still able to attract people with good values and intentions, and commited.
+
+
+	Cons: 
+		Very pigeon holed jobs.  Not very diverse to make job interesting to broaden employee's knowledge, and experience.
+
+
+	Summary: 
+		Top heavy.  More interested in profits than building quality products anymore.
+
+
+Review 13:
+	Job Title: None
+	Location: None
+	Review Date: 2018-08-06T01:40:40.563
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Stable, clean, safe work environment
+
+
+	Cons: 
+		Maybe the best manager that ever worked here retired last week, and several more will go soon.  With them goes the history and the heart that built this company,  New management coming in only wants to punch their ticket and look good, but don't have any heart or commitment to this business only to John Deere
+
+
+	Summary: 
+		Supervisor
+
+
+Review 14:
+	Job Title: Design Engineer
+	Location: Kernersville, NC
+	Review Date: 2008-10-16T20:08:52.367
+	Business Outlook: None
+	Career Opportunities: 3.5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4.5
+	Work Life Balance: 5
+
+	Pros: 
+		-cultural and professional diversity: lots of employeers have good background experience and you get to work with people from different countries
+		-good and fair managers: easy to get time off; they are understanding about family time and emergencies;
+
+
+	Cons: 
+		-small company, so not much career advancement; design engineer will always be a design engineer, there isn't room to move up the corporate ladder
+		-you're expected to put in long hours; be there before 8 and leave after 5
+
+
+	Summary: 
+		Good company and good place
+
+
+Review 15:
+	Job Title: Assembly Technician
+	Location: None
+	Review Date: 2021-06-24T14:48:19.250
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		The pay is amazing I have a family of 5 and I don’t have any issues providing for my family on one income 
+		The benefits are amazing you start out with 2 weeks paid vacation and paid holidays
+		The upper management is really on top of safety
+
+
+	Cons: 
+		When business is booming you work a lot of overtime as well as saturdays so home life is kind of non existent 
+		The transition from third shift to first shift is very lengthy
+
+
+	Summary: 
+		Great place to work
+
+
+Review 16:
+	Job Title: Buyer/Planner
+	Location: Kernersville, NC
+	Review Date: 2021-03-06T04:37:38.543
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Most people are good but want to leave
+
+
+	Cons: 
+		Out of touch, probably a good company in the 80s. Factories are chaotic, and disorganized. Supply chain is always broken due to poor planning. Lots of manual and people dependent systems. Poor usage of technology, due to greed from Sr. Deere Management. Deere people treated very well, but DH people are expendable
+
+
+	Summary: 
+		out of touch
+
+
+Review 17:
+	Job Title: Production Sceduler
+	Location: Kernersville, NC
+	Review Date: 2015-05-26T18:43:21.073
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Everyone seems so happy to work there. They really take great care of their employees.  Spend a ton of time and resources on employee development and prefer to promote from within.
+
+
+	Cons: 
+		I can't think of anything poor to say about this company. There doesn't appear to be any obvious con to working here.
+
+
+	Summary: 
+		Excellent Company to Work For
+
+
+Review 18:
+	Job Title: Assembly Line Worker
+	Location: None
+	Review Date: 2018-05-14T15:25:16.707
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Decent pay if taxes didn't kill you.
+
+
+	Cons: 
+		EVERYTHING. They stress safety, but don't address issues that have led to unsafe conditions. They jerk you around, they push you as if you are a damn machine and they will constantly put you at a disadvantage, and act like it is your fault you are not keeping up. I would NOT recommend this job to anyone.
+
+
+	Summary: 
+		Ridiculous
+
+
+Review 19:
+	Job Title: Assembly Line Worker
+	Location: Kernersville, NC
+	Review Date: 2016-09-03T14:00:24.660
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Management is great and DH is very oriented around safety and is a top competitor in pay
+
+
+	Cons: 
+		Turn around time for 3rd shift getting an opportunity can take upwards to 5-10 years depending on the work flow
+
+
+	Summary: 
+		Assembly
+
+
+Review 20:
+	Job Title: Assembler
+	Location: Kernersville, NC
+	Review Date: 2019-07-20T07:31:46.680
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Fair pay
+		Adequate breaks
+		Good product
+		Well developed SOPs 
+		Opportunities for overtime
+
+
+	Cons: 
+		In the heavier season--can work more than 65 hours a week. This can affect work life balance. But, gotta get the product out, and the pay is more than worth the temporary imbalance. Just gotta go with the flow.
+
+
+	Summary: 
+		Great company with a solid future
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

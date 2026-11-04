@@ -1,0 +1,685 @@
+
+AECOM is a Engineering & Construction company based in 75240 Dallas, Texas. 
+The company has 50,000 employees and has a revenue of $13,496 according to Fortune 500.
+The company is valued at $11,716 and has a profit of $311. The CEO of the company is Troy Rudd.
+
+The Company has the following ratings: 
+Average ratings for AECOM:
+Business Outlook: 0.66
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 994 
+	2: 1072 
+	3: 1918 
+	4: 2134 
+	5: 1702 
+
+CEO: 0.81
+
+Compensation and Benefits: 3.4
+Distribution: 
+	1: 773 
+	2: 1206 
+	3: 2428 
+	4: 2261 
+	5: 1148 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 1252 
+	2: 1006 
+	3: 1673 
+	4: 1859 
+	5: 1721 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 232 
+	2: 220 
+	3: 610 
+	4: 1000 
+	5: 1184 
+
+Overall: 3.8
+Distribution: 
+	1: 1057 
+	2: 1114 
+	3: 2420 
+	4: 2941 
+	5: 2040 
+
+Senior Management: 3.4
+Distribution: 
+	1: 1882 
+	2: 1173 
+	3: 1743 
+	4: 1761 
+	5: 1177 
+
+Work Life Balance: 3.7
+Distribution: 
+	1: 971 
+	2: 1039 
+	3: 2015 
+	4: 2120 
+	5: 1644 
+
+Review Count: 9597
+
+Recommend to Friend: 
+	RECOMMEND: 4152
+	WONT RECOMMEND: 2535
+
+
+
+
+The company has 10588 reviews on Glassdoor. The last review was posted on 2024-04-17T19:39:41.980. 
+There are 20 Reviews for AECOM:
+
+Review 1:
+	Job Title: Vice President
+	Location: None
+	Review Date: 2024-04-12T06:21:37.923
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The people, projects and flexibility
+
+
+	Cons: 
+		We're large, so there can be bureaurocracy.
+
+
+	Summary: 
+		A Truly Great Place To Work
+
+
+Review 2:
+	Job Title: Transportation Planner
+	Location: New York, NY
+	Review Date: 2024-04-09T19:58:46.867
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Great coworkers, good variety of work, lots of options to move and stay with the company, lots of resources and advanced technology, mid-level managers and department leads are solid, generally good ethical culture and safety/quality-focus.
+
+
+	Cons: 
+		Bureaucratic, heavily bottom-line focused, a lot of corporate bluster without much follow-through, unwilling to put their money where their mouths are (especially for their employees, in terms of benefits and training).
+
+
+	Summary: 
+		As corporate as you'd expect
+
+
+Review 3:
+	Job Title: Civil Engineering
+	Location: Omaha, NE
+	Review Date: 2024-04-03T09:11:07.273
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		A lot of the people are nice and friendly. The Omaha office has a good culture and people were pleasant.
+
+
+	Cons: 
+		Some people are not very nice or friendly. Management for the Civil Engineering group in Chicago is corrupt. Human Resources throughout the company were bias and always sided with the worker higher on the totem pole. Common theme concerning production workers was they felt bad about taking PTO/FTO and that never changed throughout my 6+ years
+
+
+	Summary: 
+		Can be good or bad depending on group
+
+
+Review 4:
+	Job Title: Marketing Specialist
+	Location: Chelmsford, MA
+	Review Date: 2024-04-17T18:23:38.343
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		There are lots of opportunities, but it can depend on your manager.
+
+
+	Cons: 
+		It can be hard to not get lost in such a large organization.
+
+
+	Summary: 
+		Great company, lots of opportunities
+
+
+Review 5:
+	Job Title: Environmental Manager
+	Location: Houston, TX
+	Review Date: 2024-04-04T06:23:41.187
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 1
+
+	Pros: 
+		Great pay and the culture insulate you from client frustrations, and can make it a wonderful place to start a career.
+
+
+	Cons: 
+		You will be a small piece in a very large machine. If you are fulfilled by participating in a limited scope on a number of projects and potentially never being fully involved in the cradle to grave lifespan of a project then it's great.
+
+
+	Summary: 
+		Cog in the Machine
+
+
+Review 6:
+	Job Title: Scientist
+	Location: None
+	Review Date: 2024-03-29T18:32:51.897
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Flexible hours, working from home.
+		Supervisor didn't micromanage
+
+
+	Cons: 
+		Significant gender wage gaps despite doing exact same task
+		Dysfunctional mid management dumping their tasks onto field staff but still billing time to tasks
+		Unqualified staff directing the qualified experienced staff how to do tasks leading to project inefficiencies and cost overruns
+		
+		Complete lack of mentoring
+		Complete lack of direction within department
+
+
+	Summary: 
+		Look elsewhere
+
+
+Review 7:
+	Job Title: Network Engineer
+	Location: Washington, DC
+	Review Date: 2024-04-17T13:59:08.587
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 0
+
+	Pros: 
+		AECOM has great benefits and reasonable salaries.
+
+
+	Cons: 
+		Sometimes the they require long work hours.
+
+
+	Summary: 
+		AECOM
+
+
+Review 8:
+	Job Title: Client Account Manager
+	Location: Greenville, SC
+	Review Date: 2024-04-09T07:36:06.363
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		There are opportunities to work on incredible projects around the world that are industry leading and massive.
+
+
+	Cons: 
+		It's hard to get to the interesting and challenging work - the corporate structure is not set-up to reward achievement or merit, and employees are seen as a "number" for profit, not as a true part of the team.
+
+
+	Summary: 
+		Opportunity rich, support poor
+
+
+Review 9:
+	Job Title: Senior Structural Engineer - Lead Structural Engineer
+	Location: Oakland, CA
+	Review Date: 2024-04-03T21:30:35.790
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		My paychecks did not bounce.
+
+
+	Cons: 
+		There are plenty of downsides to working there. I worked in the Buildings &amp; Places division.
+		
+		They claimed to have the work. All they had were tenant improvement projects instead of the large building projects they claimed to have. I was treated very poorly. I was given subpar work while my younger colleagues were given the massive building projects.
+		
+		My colleagues were not good at designing their structures. They missed basic engineering concepts like how to anchor structures to wood. I had to correct a majority of their mistakes.
+		
+		They did not have many typical details. This explains why they burn through budgets. The constant changing of staff means that budgets get blown because the new engineer must approve what the laid off engineer did.
+		
+		They use outsourcing of structural engineers alot. When I was asked to review their work, it was not complete. They did not even have calculations prepared. They had no clue about building codes.
+		
+		My unprofessional boss was a narcissist. He harassed me constantly. I was never notified of any issues for several months until he sprang a Performance Improvement Plan on me. I asked for evidence behind the PIP. My boss and HR refused to provide it to me. My boss took the side of the other person without even consulting me first. I was punished constantly. He gaslit me constantly. The only way I could keep track of what he said was to have a tape recorder on me at all times. How does someone improve if they do not know what they did wrong? My boss offered me no praise at all. My boss is the jealous type that fears what he does not understand or cannot tolerate.
+		
+		After I was issued the PIP, my boss increased his petty and unjustified attacks against me. He stood over me and treated me like a criminal. He sent me instant messages every hour without giving me a chance to do my work. He called me up on Teams constantly. He asked me to give him deadlines for projects before I had a chance to review them. Then when I did not meet the deadlines, he would scold me like a child.
+		
+		HR harassed me constantly and told me to keep quiet. They kept telling me they never laid off any employees they PIPped. That was a lie because I was laid off thanks to toxic employees.
+		
+		My boss ordered me to ignore structural safety issues. I was asked to jeopardize my professional engineering licenses for the firm's profitability.
+		
+		My boss asked me to only approve responses to comments of building plans. The problem with that is that the buildings have no complete lateral and gravity systems. This boss cared only about profit for the job, not whether these buildings were safe.
+		
+		Company has unlimited PTO. Good luck trying to use it. After I was laid off, I got no money for unused vacation time.
+		
+		My boss ordered me to charge my time to jobs that I did not do because he ordered the job codes locked out.
+		
+		My boss got upset because I charged time to Overhead on videos that corporate made their employees watch. My boss never did this with any of the other employees.
+		
+		They never ordered my business cards. They never ordered my headset so I could talk through Teams. I was given an unsafe one to use. It had exposed wires.
+		
+		They never got all the software I needed to do my job. My boss harassed me for not having it. I never had it because he failed to sign off on the paper work.
+		
+		This company is always laying people off by claiming they do not have the work yet they are hiring new people. They refused to let those people transfer to over departments. Many of the laid off people were over 40 and close to retirement.
+		
+		The company is laying people off so they can hire lower salaried individuals.
+		
+		The company had plenty of openings in other business sectors, yet I was not allowed to transfer into any of them because my boss laid me off. A day before that happened, he congratulated me for my transfer yet it never got approved. My boss lies so much it is like water running out of a fire hydrant. Even when it was on tape, this boss denied what he said. This boss even went on social media to delete the videos of him and his co-worker harassing me. Guess they do not want people to see the toxic work environment for themselves.
+		
+		The firm had the audacity to make me sign a severance agreement asking me not to talk about the harassment they put me through. My boss almost tried to kill me due to the stress I had to endure.
+		
+		Being an admired company is a complete joke because they treat their employees badly.
+		
+		Recently, a long-term employee filed suit against them for cooking their books and illegal termination. That employee said the CEO loved having high turnover. This is a big fat recipe for a major disaster.
+		
+		You need to run away from this company as fast as you can.
+
+
+	Summary: 
+		Senior Structural Engineer PIPped Laid Off and Scammed After Working 8 Months
+
+
+Review 10:
+	Job Title: Design Engineer
+	Location: Hunt Valley, MD
+	Review Date: 2024-04-17T08:54:38.470
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good people, laid back work environment
+
+
+	Cons: 
+		No room for growth, poor management
+
+
+	Summary: 
+		Designer
+
+
+Review 11:
+	Job Title: Planner V
+	Location: Dallas, TX
+	Review Date: 2024-04-08T13:26:40.410
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		The salary is good compared to other companies.
+
+
+	Cons: 
+		Lack of lower-level resources. Poor upper management support.
+
+
+	Summary: 
+		Good, but could be better.
+
+
+Review 12:
+	Job Title: Associate Architect
+	Location: New York, NY
+	Review Date: 2024-04-16T12:16:59.617
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		They pay you money for working.
+
+
+	Cons: 
+		They don't pay you enough for working.
+
+
+	Summary: 
+		Cool Place
+
+
+Review 13:
+	Job Title: Environmental Scientist I
+	Location: Orlando, FL
+	Review Date: 2024-03-18T10:11:02.813
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Higher pay compared to other consulting firms. 
+		Many projects to work on.
+
+
+	Cons: 
+		Management had no interest in training/teaching me in order to grow in my position. 
+		Management had very poor planning i.e. asking you to go on work trips last second and getting upset if you have prior obligations.
+		Expected to be available by email/phone after working hours.
+
+
+	Summary: 
+		Fired due to poor management and lack of training.
+
+
+Review 14:
+	Job Title: Biologist
+	Location: None
+	Review Date: 2024-02-16T11:08:55.480
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Excellent variety of exciting and interesting project, decent travel perks. Unlimited PTO. Great direct team.
+
+
+	Cons: 
+		Definition of "just a number" health benefits are very lackluster. Nothing matters except your billability each week. Doesn't matter if you worked 60 hours a week for months at a time, as soon as you're light one week, it's a massive problem. Recently put in my notice and provided a month in observance of a project schedule I was working on. As soon as the project was delayed I was given 3 days notice that I had to change my end date because I wasn't billable. 4 years of employment and strong ratings and they will drop you the absolute second they can to save some money. Upper management is definition of corporate sleeze.
+
+
+	Summary: 
+		Great until it wasn't 
+
+
+Review 15:
+	Job Title: Air Quality Engineer
+	Location: Katy, TX
+	Review Date: 2024-04-01T09:40:08.137
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		They are committed to helping you grow and helping you achieve your own career goals.
+
+
+	Cons: 
+		Not necessarily a downside and applies to all consulting type jobs. It is a fairly fast paced work environment and you are jumping around lots of different projects compared to if you work in industry you might focus more specifically on a few projects at a time.
+
+
+	Summary: 
+		Great work community.
+
+
+Review 16:
+	Job Title: Resident Engineer
+	Location: New York, NY
+	Review Date: 2024-04-11T09:44:21.353
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good amount of projects and locations
+
+
+	Cons: 
+		too big of a company
+
+
+	Summary: 
+		==                 .
+
+
+Review 17:
+	Job Title: Recruiter
+	Location: Arlington, VA
+	Review Date: 2024-04-11T16:20:43.683
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		AECOM is a good company to work for.
+
+
+	Cons: 
+		Their 401k is lower than some competitors
+
+
+	Summary: 
+		Recruiter
+
+
+Review 18:
+	Job Title: Vice President
+	Location: Washington, DC
+	Review Date: 2024-04-12T06:54:11.363
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Breadth of services and opportunities
+
+
+	Cons: 
+		Financial management with main focus on share holders
+
+
+	Summary: 
+		Vice President
+
+
+Review 19:
+	Job Title: Senior Project Manager
+	Location: None
+	Review Date: 2024-04-04T12:49:14.047
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Remote work, training,  diverse group of experts
+
+
+	Cons: 
+		Crippling procedures,  poorly trained managers exist and get promoted.
+
+
+	Summary: 
+		Some departments are great,  others not
+
+
+Review 20:
+	Job Title: Wildlife Biologist
+	Location: None
+	Review Date: 2023-12-27T23:04:54.057
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		- flexible time off
+		- well structured chain of command leading to good mentorship and career guidance
+		- massive company so lots of opportunities to get involved with different projects and gain experiences in different facets of environmental consulting
+		- workplace independence
+		- OT hours as a full time exempt employee
+		- Above average yearly inflation raises
+
+
+	Cons: 
+		- big company so non-corporate staff are often viewed as cogs that can be easily replaced.
+		- as is the case with most large consultancies, they do not value their non-corporate staff and will do very little to retain loyal staff
+		- no yearly bonuses
+		- no incentives bonuses
+		- corporate massively cut bonuses for the 2024 fiscal year
+		- little room for promotions or significant career growth when compared to smaller consulting firms, government, or NGO orgs
+		- pay is not competitive
+		- consistency hire junior staff at higher rates than long-term/more experienced staff and do not adjust staff salaries accordingly
+
+
+	Summary: 
+		Good company but really depends on your team and region
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

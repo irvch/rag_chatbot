@@ -1,0 +1,642 @@
+
+American Express is a Diversified Financials company based in 10285 New York, New York. 
+The company has 77,300 employees and has a revenue of $55,625 according to Fortune 500.
+The company is valued at $122,734 and has a profit of $7,514. The CEO of the company is None.
+
+The Company has the following ratings: 
+Average ratings for American Express:
+Business Outlook: 0.79
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 482 
+	2: 592 
+	3: 1592 
+	4: 2234 
+	5: 2912 
+
+CEO: 0.91
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 255 
+	2: 448 
+	3: 1609 
+	4: 2502 
+	5: 2957 
+
+Culture and Values: 4.2
+Distribution: 
+	1: 406 
+	2: 335 
+	3: 848 
+	4: 1705 
+	5: 4459 
+
+Diversity and Inclusion: 4.4
+Distribution: 
+	1: 251 
+	2: 222 
+	3: 572 
+	4: 1322 
+	5: 3913 
+
+Overall: 4.2
+Distribution: 
+	1: 398 
+	2: 424 
+	3: 1318 
+	4: 2960 
+	5: 4859 
+
+Senior Management: 3.8
+Distribution: 
+	1: 676 
+	2: 581 
+	3: 1481 
+	4: 2127 
+	5: 2826 
+
+Work Life Balance: 4.1
+Distribution: 
+	1: 456 
+	2: 422 
+	3: 1099 
+	4: 1762 
+	5: 4001 
+
+Review Count: 16204
+
+Recommend to Friend: 
+	RECOMMEND: 5325
+	WONT RECOMMEND: 1011
+
+
+
+
+The company has 17826 reviews on Glassdoor. The last review was posted on 2024-04-18T00:32:48.837. 
+There are 20 Reviews for American Express:
+
+Review 1:
+	Job Title: Cmp
+	Location: Phoenix, AZ
+	Review Date: 2024-04-18T00:32:48.837
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Working remotely and good pay
+
+
+	Cons: 
+		A lot of internal changes
+
+
+	Summary: 
+		Great experience
+
+
+Review 2:
+	Job Title: Software Engineer
+	Location: Phoenix, AZ
+	Review Date: 2018-11-26T03:25:18.473
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		They have fantastic pay for the position you're in, and they teach you interesting and engaging utility of modern technology mixed with legacy fundamentals. I've learned quite a bit while AmEx while getting paid more than fairly - I'd recommend a stretch here to whomever may be reading this!
+
+
+	Cons: 
+		The Company is huge, and at times it may take more than a little time to get recognized for your abilities and the growth you've had. There's a reason there is a "only way up is out" reputation exists for some enterprise companies...
+
+
+	Summary: 
+		Software Engineer
+
+
+Review 3:
+	Job Title: Small Business Specialist
+	Location: Phoenix, AZ
+	Review Date: 2024-02-21T15:56:52.347
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Semi-good benefits: Pay for school upfront if you don't qualify for pell grants or can be concurrent with it.
+
+
+	Cons: 
+		There's not a lot of room for growth unless you know people. Even a great performer only has upward growth but is still in sales and not higher up in the chain of command. Working virtually means that even if the systems issues you may encounter are because of Amex equipment, you will get written up or warned about it. The virtual employees receive a desktop PC rather than a laptop, like the hybrid employees. This makes your PC dependent on VPN connectivity or an Aruba device, which is not efficient. All the work apps are accessed via another virtual portal, which is inefficient.
+
+
+	Summary: 
+		OK at best!
+
+
+Review 4:
+	Job Title: FIU Analyst
+	Location: Phoenix, AZ
+	Review Date: 2024-04-17T11:34:47.093
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		-Good pay
+		-Office location is pristine
+		-Remote options
+
+
+	Cons: 
+		-Lack of general calibration due to most people being fully remote
+		-Initial training covers only basics, while on the job duties do not have any formal training
+		-Department does not provide helpful training tools nor do they provide an easy to use procedure manual
+
+
+	Summary: 
+		Lack of guidance and training
+
+
+Review 5:
+	Job Title: Software Engineer
+	Location: None
+	Review Date: 2024-04-13T17:41:27.080
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Direct leadership is great, and there are decent learning opportunities. Your direct leaders will usually have your back and go to bat for you as best they can. Peers are wonderful as well.
+
+
+	Cons: 
+		Collapsing under its own weight and arbitrary processes. No drive to innovate. Executive leadership is fostering a toxic culture encouraging people to come in while sick while continuously piling work onto teams struggling to get by. Wages are stagnant.
+
+
+	Summary: 
+		Very poor exec leadership
+
+
+Review 6:
+	Job Title: Travel and Lifestyle Customer Service Specialist
+	Location: Miami, FL
+	Review Date: 2024-04-09T17:05:04.270
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		With a good supervisor, this can be one of the healthiest jobs in the world. Time off, difficult but manageable workloads, a fair PIP with multiple levels that are very fair.
+
+
+	Cons: 
+		If you do not get along with your Sueprvisor, this position can quickly turn into a nightmare. I love my team, but I've seen a number of toxic leaders that quiet fire their employees over the smallest disagreements. It may be shallow, but you must play to the ego of those in charge, like many jobs.
+
+
+	Summary: 
+		Depends on your direct supervisor.
+
+
+Review 7:
+	Job Title: Director Digital Product Management
+	Location: None
+	Review Date: 2024-04-17T15:53:01.873
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		American Express offers a collaborative work culture with robust support for professional development. It boasts a respected brand that adds significant value to your resume. The company also provides excellent benefits and opportunities to engage with innovative projects.
+
+
+	Cons: 
+		The work can sometimes demand long hours which may impact work-life balance. There can also be slow movement in terms of career progression due to the size and structure of the organization.
+
+
+	Summary: 
+		Supportive Environment and Strong Brand with Room for Improvement in Work-Life Balance
+
+
+Review 8:
+	Job Title: Travel Counselor
+	Location: None
+	Review Date: 2024-01-12T14:16:56.033
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Endless opportunities to progress on your career. The company has so many opportunities and internal job openings that once you’re in, there’s need to change the company even if you want completely change your career path. Temporary work assignments offer a great way to get a feel of what you like to do before committing fully for a new position. 
+		Compensation for your time is good. Base pay is hourly and quarterly bonuses and annual raises are based on metrics and each employees performance. 
+		Benefits they offer are hard to beat including generous maternity leave, annual paid time off and financial assistance for school.
+		Military spouse dream career!
+
+
+	Cons: 
+		Middle management can be hit or miss. Some are extremely knowledgeable and truly care about their team and each individual’s success. Others seem to lost their interest on their position on being a leader or do not have the experience to perform a leadership position.
+		Sometimes being part of such a huge company you can feel like you’re just a body to complete the work. However managers do offer opportunities to have one on one meetings or are always available when meetings are requested.
+
+
+	Summary: 
+		Great Environment with Endless Possibilities
+
+
+Review 9:
+	Job Title: Manager, Business Development
+	Location: New York, NY
+	Review Date: 2024-04-08T21:16:05.430
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Benefits, 401-K &amp; 6% match, great brand
+
+
+	Cons: 
+		While the company, as a whole, might win awards for being a great place to work, the SME division is terrible if you enjoy sales. Constant gas-lighting the entire sales team and they now issue “infractions” and dock your pay $5,000 if you get too many infractions. It is a culture of fear and capped commissions.
+
+
+	Summary: 
+		Terrible Sales Culture 
+
+
+Review 10:
+	Job Title: Director, Product Development
+	Location: New York, NY
+	Review Date: 2024-03-27T10:30:17.237
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Good culture and hours. People like working here and tackling big issues. Not an evil bank
+
+
+	Cons: 
+		Pay is lower than industry, priorities leave many teams out in the cold, and the balance of travel between business units often leave those who build out of opportunities to network with coworkers and very long commutes into workplaces.
+
+
+	Summary: 
+		Good culture, but needs to think more about employee pay and travel
+
+
+Review 11:
+	Job Title: Service Delivery Analyst II
+	Location: Phoenix, AZ
+	Review Date: 2024-04-11T12:21:20.050
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Virtual work available. Diverse corporate culture. Benefits and training better than most.
+
+
+	Cons: 
+		Unable to apply for promotion unless arbitrary, competitive individual rating (ONCE YEARLY) is higher than majority of peers regardless of role. Pay is flatlining and not competitive. Management is wildly different between organizations. Upper management tends to leave every 1-3 years, so stability suffers.
+
+
+	Summary: 
+		Ambiguous Promotion Requirements, but Overall Good
+
+
+Review 12:
+	Job Title: Sr. Credit Analyst
+	Location: None
+	Review Date: 2024-04-16T12:38:35.207
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Very flexible.  Ability to move across different depts.  Great benefits and wonderful people and leaders.
+
+
+	Cons: 
+		No Cafeteria at this location
+
+
+	Summary: 
+		Great Place to Work
+
+
+Review 13:
+	Job Title: None
+	Location: Sunrise, FL
+	Review Date: 2024-02-20T06:06:07.287
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		40 hours a week, hybrid schedule, free food.
+
+
+	Cons: 
+		Awful company culture within the sales department. The resources you are provided heavily depends on the relationships you build with the veterans of the sales floor. If you are not in a position to network, your longevity is nonexistent. You are not provided enough training to be successful when hitting the floor. Additionally, the goals and expectations of the sales force are nearly impossible to meet due to compliance issues and a poor implementation process. Management is very hands-off and indirectly promotes a sink-or-swim environment where you are left on your own.
+
+
+	Summary: 
+		Middle Market Business Consultant
+
+
+Review 14:
+	Job Title: Executive Assistant
+	Location: New York, NY
+	Review Date: 2024-04-08T16:56:09.777
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Decent pay for starting roles. The company pushes for growth but they limit salary increases to internal employees. Work culture seems positive and I'm fortunate to work with a professional and friendly team. However, there is elitism amongst certain band levels.
+
+
+	Cons: 
+		Inconsistent pay for different people in the same role. Upper management C-Suite need to stop pushing in office and focus on improving technology resources.
+
+
+	Summary: 
+		Positive experience with potential to become better
+
+
+Review 15:
+	Job Title: Product Manager
+	Location: New York, NY
+	Review Date: 2024-02-06T07:30:53.943
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		-Majority of leaders are understanding and protective of their team.
+		-Flexible work schedule (especially when you have a great leader)
+		-Snacks and Food credit incentive to go back to office
+		-Top notch family leave policy. 
+		-Lots of "TED talks" from leaders and individuals from industry that you can search for and attend.
+
+
+	Cons: 
+		-Hard to make progress / reach consensus due to the fact that the Bureaucracy at the company is very feudalistic (ie: everyone is looking out for themselves/their team rather than the whole enterprise). 
+		-Lack of product understanding / acumen across enterprise (ie: many requests are top-down and done "just because")
+		-Hard to manage career growth (need to get on alot of people's good graces / navigate politics) and career path isn't always well defined. 
+		-Likewise, some promotions don't always make sense (ie: loudest or most sociable (not most hardworking) gets the attention)
+		-Compelled to go to office even though most of the team isn't onsite.
+
+
+	Summary: 
+		Great Leaders Bad Bureaucracy
+
+
+Review 16:
+	Job Title: Manager
+	Location: None
+	Review Date: 2024-04-17T15:49:58.380
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Commute was doable and always something new to learn
+
+
+	Cons: 
+		Very competitive and peers not willing to train or show how processes should be followed
+
+
+	Summary: 
+		Great 
+
+
+Review 17:
+	Job Title: Travel Consultant
+	Location: Phoenix, AZ
+	Review Date: 2024-04-05T09:17:46.403
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great pay, generous pto, steady work.
+
+
+	Cons: 
+		Metrics can be stressful. Write offs are a huge concern as it’s likely to make mistakes with all the information and processes it takes just to make one booking. Negative reviews from cardmembers affect you negatively even though there are several times that the reviewer will say that you did an amazing job but rate the experience as an 8 out of 10 brings your score down and prompts counseling and beyond.
+
+
+	Summary: 
+		Great job
+
+
+Review 18:
+	Job Title: Sr Tech Product Manager
+	Location: New York, NY
+	Review Date: 2024-04-17T06:46:35.347
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Lots of team support and able to move around. Perks are great from food to snacks to pro.
+
+
+	Cons: 
+		Certain teams do work longer hrs
+
+
+	Summary: 
+		Great company to work for
+
+
+Review 19:
+	Job Title: Vice President
+	Location: New York, NY
+	Review Date: 2024-04-16T18:40:52.923
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		robust compensation and benefits, well structured compensation and evaluation system good HR leadership overall
+
+
+	Cons: 
+		none it was very fair thorough
+
+
+	Summary: 
+		strong leadership, HR 
+
+
+Review 20:
+	Job Title: Engineer 2
+	Location: New York, NY
+	Review Date: 2024-04-16T15:26:43.783
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Health benefits, financial support, 8-5 PM hybrid is 3 days
+
+
+	Cons: 
+		Beware Manager/Leader power trip company, 
+		No stocks compare to my last role,
+		low vacation time, 3 weeks of sick leave is not enough if covid is still around. 
+		Poor onboarding exp,
+		Low Pay
+
+
+	Summary: 
+		Just not worth it,
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

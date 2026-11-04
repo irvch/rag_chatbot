@@ -1,0 +1,634 @@
+
+Darden Restaurants is a Food Services company based in 32837 Orlando, Florida. 
+The company has 178,956 employees and has a revenue of $9,630 according to Fortune 500.
+The company is valued at $18,884 and has a profit of $953. The CEO of the company is Rick Cardenas.
+
+The Company has the following ratings: 
+Average ratings for Darden Restaurants:
+Business Outlook: 0.65
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 246 
+	2: 287 
+	3: 599 
+	4: 484 
+	5: 531 
+
+CEO: 0.85
+
+Compensation and Benefits: 3.7
+Distribution: 
+	1: 199 
+	2: 269 
+	3: 620 
+	4: 560 
+	5: 487 
+
+Culture and Values: 3.9
+Distribution: 
+	1: 199 
+	2: 209 
+	3: 387 
+	4: 459 
+	5: 624 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 41 
+	2: 33 
+	3: 82 
+	4: 124 
+	5: 358 
+
+Overall: 3.9
+Distribution: 
+	1: 186 
+	2: 241 
+	3: 617 
+	4: 871 
+	5: 681 
+
+Senior Management: 3.6
+Distribution: 
+	1: 324 
+	2: 327 
+	3: 531 
+	4: 486 
+	5: 446 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 253 
+	2: 265 
+	3: 547 
+	4: 518 
+	5: 546 
+
+Review Count: 2597
+
+Recommend to Friend: 
+	RECOMMEND: 1328
+	WONT RECOMMEND: 570
+
+
+
+
+The company has 2642 reviews on Glassdoor. The last review was posted on 2024-04-17T21:44:21.943. 
+There are 20 Reviews for Darden Restaurants:
+
+Review 1:
+	Job Title: Server/Waitress
+	Location: Bloomington, IL
+	Review Date: 2024-04-17T14:06:59.550
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Amazing staff that works hard together and communicates clearly
+
+
+	Cons: 
+		Occasional night shifts as any server may have
+
+
+	Summary: 
+		Great work enviorment
+
+
+Review 2:
+	Job Title: Risk Service Advisor
+	Location: Orlando, FL
+	Review Date: 2024-04-17T21:44:21.943
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Alot of employee perks at the headquarters
+
+
+	Cons: 
+		Not many
+		Our internal team had some issues with a Manager that lacked communication skills.
+		This person expected you to know what they were thinking at all times. 
+		This person for the department was not a good fit. However, Darden does a great job overall with communication and taking care of their employees.
+
+
+	Summary: 
+		Good Company
+
+
+Review 3:
+	Job Title: Server, Host, ToGo Specialist
+	Location: Mechanicsburg, PA
+	Review Date: 2023-11-15T20:52:00.993
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		* Flexible hours
+		* Close-knit staff
+		* Easy to go from an hourly employee to salaried with the right mindset/motivation
+
+
+	Cons: 
+		* Micromanaging regional manager who refuses to listen to staff. Makes changes without consulting anyone, expects change to happen immediately, and then blames staff when changes go sideways 
+		* Customers are rude all the time and managers refuse to do anything about it. Will tell you they have your back and then throw you under the bus 
+		* Company will do anything to save a buck. Eliminated 2 positions and severely reduced the hours of another. The tasks were reassigned to other jobs, typically tipped out (non-hourly) jobs. No extra pay incentive added 
+		* No raises were given out post-Covid, managers cited funding issues.. They were all getting raises/bonuses and talking about them in front of the staff
+		* Benefits were severely cut for full-time staff
+		* Training was severely cut. Two-week server training program got knocked down to 2-3 days and it showed in both employee quality and tenure
+
+
+	Summary: 
+		Not a great experience towards the end
+
+
+Review 4:
+	Job Title: Server/Waiter
+	Location: Erie, PA
+	Review Date: 2024-04-07T17:07:54.147
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Co-workers are great and the money is good when it is good. The food is good, as well.
+
+
+	Cons: 
+		Management is terrible and inconsistent. No paid benefits except for full-time employees (which they will not let you reach due to company policy)
+
+
+	Summary: 
+		Steer Clear (pun intended)
+
+
+Review 5:
+	Job Title: Server/Waiter
+	Location: Orange, CA
+	Review Date: 2024-04-11T11:27:10.380
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good experience and nice coworkers
+
+
+	Cons: 
+		not enough tables so low tips
+
+
+	Summary: 
+		Server at Olive Garden
+
+
+Review 6:
+	Job Title: Server/Waiter
+	Location: Langhorne, PA
+	Review Date: 2024-04-03T12:49:25.260
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		When all the pieces are in place, everything works well
+
+
+	Cons: 
+		Sometimes when workers of any role don't work properly, the collective machine suffers.
+
+
+	Summary: 
+		Good place with decent management
+
+
+Review 7:
+	Job Title: Mangerment
+	Location: Pittsburgh, PA
+	Review Date: 2024-04-04T18:45:58.583
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Chance to grow your connections and skillset
+
+
+	Cons: 
+		No work life balance - holiday work
+
+
+	Summary: 
+		Good place fo work 
+
+
+Review 8:
+	Job Title: AGM
+	Location: Sacramento, CA
+	Review Date: 2024-04-04T08:18:13.453
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		The environment, pay, team, freedom.
+
+
+	Cons: 
+		Can be a roll of the dice and get shuffled around where needed.
+
+
+	Summary: 
+		Great atmosphere
+
+
+Review 9:
+	Job Title: Service Professional
+	Location: Live Oak, TX
+	Review Date: 2024-01-08T15:27:49.900
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Darden's management philosophy is to develop its people. If you are interested in improving your skills and career in food service, they will teach you the various roles in their restaurants. Schedules are very flexible, and they will work with you to achieve the work/life balance that best fits you.
+
+
+	Cons: 
+		Management positions, while being added to regularly in this area, are limited. If you intend to move up in the company, you do need to put in the time and effort to stand out from the others who are doing the same. It is competitive. Location is also very important, I do not recommend staying at a location if the business is better down the road.
+
+
+	Summary: 
+		Great Team, Growth Opportunities
+
+
+Review 10:
+	Job Title: Server
+	Location: Kissimmee, FL
+	Review Date: 2024-03-27T00:48:22.910
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Great manager to work with
+
+
+	Cons: 
+		Tips not great, customers sometimes pay zero
+
+
+	Summary: 
+		Darden is the biggest restaurant employer
+
+
+Review 11:
+	Job Title: Server
+	Location: Cleveland, OH
+	Review Date: 2024-03-27T14:09:28.597
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Decent pay and benefits for the job
+
+
+	Cons: 
+		the clientele can be difficult
+
+
+	Summary: 
+		Server
+
+
+Review 12:
+	Job Title: Server
+	Location: Flint, MI
+	Review Date: 2024-03-23T21:18:52.050
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Money, flexible hours, discounted food
+
+
+	Cons: 
+		Managers aren’t always the best, costumers aren’t always the best
+
+
+	Summary: 
+		Just okay
+
+
+Review 13:
+	Job Title: Server/Waiter
+	Location: None
+	Review Date: 2024-03-19T18:03:22.950
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		discounts at other restaurants owned by Darden, easy work.
+
+
+	Cons: 
+		none at all, maybe customers can be rude.
+
+
+	Summary: 
+		Good discounts
+
+
+Review 14:
+	Job Title: System Engineer
+	Location: Orlando, FL
+	Review Date: 2024-03-18T07:55:46.787
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Darden care about their employee. Their culture is to help employee to advance different role.
+
+
+	Cons: 
+		I don't have anything it.
+
+
+	Summary: 
+		Great company great culture
+
+
+Review 15:
+	Job Title: Hostess
+	Location: None
+	Review Date: 2024-03-20T14:06:38.010
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		very nice job setting and enviorment
+
+
+	Cons: 
+		managers are a bit everywhere sometimes
+
+
+	Summary: 
+		no
+
+
+Review 16:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-01T12:25:10.510
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		It’s a great company to work for. They take care of all their employees and make them feel like family.
+
+
+	Cons: 
+		Really hard to get hired on at the corporate office. Easy to get a job at the restaurant level but corporate is near impossible.
+
+
+	Summary: 
+		Great Company To Work For
+
+
+Review 17:
+	Job Title: Financial Analyst
+	Location: Orlando, FL
+	Review Date: 2024-03-16T22:44:55.280
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great company culture
+		Many opportunities for growth
+		Work life balance
+
+
+	Cons: 
+		Can be hard to get acquainted with practices
+
+
+	Summary: 
+		Great company!
+
+
+Review 18:
+	Job Title: Shift Leader
+	Location: None
+	Review Date: 2024-02-14T10:52:52.157
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		A corporate restaurant offers invaluable experience in team management, problem-solving, and customer service. It's a chance to hone leadership skills, foster teamwork, and make a real impact on operations. Plus, the structured environment provides opportunities for growth and advancement within the company
+
+
+	Cons: 
+		One potential downside of working in a corporate restaurant is the need to adhere strictly to established procedures and guidelines, which may limit flexibility and autonomy in decision-making.
+
+
+	Summary: 
+		Darden
+
+
+Review 19:
+	Job Title: Server/Waiter
+	Location: Lake Oswego, OR
+	Review Date: 2024-03-11T08:32:39.990
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good and friendly work environment, consistent hours
+
+
+	Cons: 
+		Not the greatest tips wise
+
+
+	Summary: 
+		Good
+
+
+Review 20:
+	Job Title: Server/Waiter
+	Location: Minneapolis, MN
+	Review Date: 2024-01-23T17:00:24.030
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Olive Garden is a friendly-easy going environment. Tips are good (depending on the business and number of servers on). Free soup and salad so I can go through my shift well. Guests are always happy and love the food. It is easy to work part or full time.
+
+
+	Cons: 
+		Unlimited soup and salad take up a lot of time as a server, especially when we are busy. At times there are many servers scheduled for a shift which means you get less tables, so less tips.
+
+
+	Summary: 
+		Olive Garden
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

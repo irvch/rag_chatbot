@@ -1,0 +1,626 @@
+
+Textron is a Aerospace & Defense company based in 02903 Providence, Rhose Island. 
+The company has 34,000 employees and has a revenue of $12,869 according to Fortune 500.
+The company is valued at $14,385 and has a profit of $861. The CEO of the company is Scott C. Donnelly.
+
+The Company has the following ratings: 
+Average ratings for Textron:
+Business Outlook: 0.67
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 77 
+	2: 73 
+	3: 190 
+	4: 178 
+	5: 175 
+
+CEO: 0.88
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 38 
+	2: 80 
+	3: 221 
+	4: 229 
+	5: 121 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 99 
+	2: 81 
+	3: 141 
+	4: 191 
+	5: 132 
+
+Diversity and Inclusion: 3.6
+Distribution: 
+	1: 33 
+	2: 22 
+	3: 61 
+	4: 78 
+	5: 87 
+
+Overall: 3.8
+Distribution: 
+	1: 71 
+	2: 93 
+	3: 218 
+	4: 266 
+	5: 209 
+
+Senior Management: 3.4
+Distribution: 
+	1: 116 
+	2: 112 
+	3: 174 
+	4: 168 
+	5: 108 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 75 
+	2: 78 
+	3: 173 
+	4: 205 
+	5: 157 
+
+Review Count: 857
+
+Recommend to Friend: 
+	RECOMMEND: 389
+	WONT RECOMMEND: 214
+
+
+
+
+The company has 1016 reviews on Glassdoor. The last review was posted on 2024-04-07T08:08:48.300. 
+There are 20 Reviews for Textron:
+
+Review 1:
+	Job Title: Financial Analyst
+	Location: None
+	Review Date: 2024-03-18T08:10:54.720
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Lots of rotational opportunities across the US. Merits based on performance.
+
+
+	Cons: 
+		Salaries at market level. Not the most competitive company in the world for salaries.
+
+
+	Summary: 
+		Innovative and exciting
+
+
+Review 2:
+	Job Title: Project Manager
+	Location: Hunt Valley, MD
+	Review Date: 2024-04-07T08:08:48.300
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		People in general were decent to work with, work was fun, SOME uppermanagement will look out for the employees.
+
+
+	Cons: 
+		Never know when your not going to have a job. RIF's 1-2 times a year. Leadership is backstabbing to eachother which creates a terrible toxic division for the employees to get along and collaborate for the greater good of the business.
+
+
+	Summary: 
+		Many RIF's
+
+
+Review 3:
+	Job Title: Software Developer
+	Location: Augusta, GA
+	Review Date: 2024-03-29T10:18:39.407
+	Business Outlook: NEGATIVE
+	Career Opportunities: 0
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Literally the only good thing about them was that they offered more money than other companies I spoke to and they paid %80 of my bootcamp.
+
+
+	Cons: 
+		- We made projects but nobody used them because none of the managers had any idea what was going on.
+		- Managers don't give you any documentation and tell you to 'do this project' with just one paragraph of information. And when you deliver they don't like it and they say 'I wanted this, that', how can I read your brain when you don't communicate with me?
+		- Higher level managers always lie in the presentations.
+		- I can add many more
+
+
+	Summary: 
+		Very poor management
+
+
+Review 4:
+	Job Title: Foundry Lead
+	Location: Muskegon, MI
+	Review Date: 2024-04-05T13:49:21.963
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Decent money and good people on the floor.
+
+
+	Cons: 
+		Poorly managed and you get the feeling of having no value.
+
+
+	Summary: 
+		Poorly managed
+
+
+Review 5:
+	Job Title: None
+	Location: None
+	Review Date: 2024-04-06T19:44:14.010
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Opportunities for growth and development are good. Every other Friday off.
+
+
+	Cons: 
+		Can’t think of anything major.
+
+
+	Summary: 
+		Good opportunities 
+
+
+Review 6:
+	Job Title: Associate General Counsel
+	Location: Providence, RI
+	Review Date: 2024-03-30T07:40:54.463
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Interesting work. Good people. I really enjoyed my time there.
+
+
+	Cons: 
+		It is a big company and a lot of turnover, but many internal opportunities, too.
+
+
+	Summary: 
+		Good Place to Work
+
+
+Review 7:
+	Job Title: Machine Operator
+	Location: None
+	Review Date: 2024-04-03T22:10:42
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Good coworkers and good hours
+
+
+	Cons: 
+		Horrible management, no room for improvement
+
+
+	Summary: 
+		Horrible management
+
+
+Review 8:
+	Job Title: None
+	Location: Boston, MA
+	Review Date: 2024-03-29T12:00:08.280
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		3 Reasons money, money and money.
+
+
+	Cons: 
+		Use of my time and expertise.i
+
+
+	Summary: 
+		Carpe Diem
+
+
+Review 9:
+	Job Title: Shop Assistant
+	Location: Orlando, FL
+	Review Date: 2024-03-27T07:20:43.400
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		There aren't any pros to working here
+
+
+	Cons: 
+		Absolutely no work life balance
+
+
+	Summary: 
+		IDK
+
+
+Review 10:
+	Job Title: Warehouse Clerk/Forklift Operator
+	Location: None
+	Review Date: 2024-03-22T16:55:22.203
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 1
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good place to work without education.
+
+
+	Cons: 
+		Bad internal hiring which can lead to you getting stuck.
+
+
+	Summary: 
+		Review
+
+
+Review 11:
+	Job Title: Human Resources Coordinator
+	Location: Augusta, GA
+	Review Date: 2024-03-19T11:17:47.647
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		The working schedule is nice, Tuition Assistance, great healthcare and other benefits
+
+
+	Cons: 
+		Changes take place at snail speed sometimes
+
+
+	Summary: 
+		Company with a lot of opportunity
+
+
+Review 12:
+	Job Title: Technician
+	Location: Minneapolis, MN
+	Review Date: 2024-03-20T08:39:01.643
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		big company lot of things to do
+
+
+	Cons: 
+		to big of company to many thing going on
+
+
+	Summary: 
+		header
+
+
+Review 13:
+	Job Title: Engineering LDP
+	Location: Fort Worth, TX
+	Review Date: 2024-03-04T20:28:42.040
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Not sure how pay compares, good work atmosphere
+
+
+	Cons: 
+		maybe pay, not sure if it is low or not
+
+
+	Summary: 
+		Good job
+
+
+Review 14:
+	Job Title: Leadership Development Program (LDP)
+	Location: Fort Worth, TX
+	Review Date: 2024-03-01T15:05:40.567
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Pay is above avg and the work is pretty cool
+
+
+	Cons: 
+		Bonuses aren’t that much and the % is lower than avg
+
+
+	Summary: 
+		Good Job Ok Benefits
+
+
+Review 15:
+	Job Title: Software Engineer
+	Location: Augusta, GA
+	Review Date: 2024-02-29T10:48:24.997
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Employee friendly and flexible timing.
+
+
+	Cons: 
+		I can’t think of any
+
+
+	Summary: 
+		Management
+
+
+Review 16:
+	Job Title: Outside Sales Representative
+	Location: Dallas, TX
+	Review Date: 2024-02-08T16:42:02.247
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Descent benifits,
+		Company car and 401k.
+
+
+	Cons: 
+		Tend to mico manage. Had 3 Vp’s in 4 years.
+
+
+	Summary: 
+		E-Z-Go Territory Sales
+
+
+Review 17:
+	Job Title: Fatigue and Damage Tolerance Engineer
+	Location: Wichita, KS
+	Review Date: 2024-02-23T08:45:50.340
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		get to work on entire airplane
+
+
+	Cons: 
+		not a very stable company
+
+
+	Summary: 
+		Good Company
+
+
+Review 18:
+	Job Title: Supply Chain Intern
+	Location: Augusta, GA
+	Review Date: 2024-02-22T10:38:56.967
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good atmosphere and great team
+
+
+	Cons: 
+		I do not have any cons
+
+
+	Summary: 
+		Good internship
+
+
+Review 19:
+	Job Title: Regional Sales Manager
+	Location: Augusta, GA
+	Review Date: 2024-01-20T11:29:40.980
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		The pay is good, company vehicle is nice,
+
+
+	Cons: 
+		Management has no idea what is going on in the field. Decisions are made without taking 5 seconds to explore potential consequences. Quality control is nonexistent and reps constantly have to deal with it. Culture is very anti HR, boys club, get fired for being different, type of place. What else.. about every 2 years they round up the whole sales team and fire about 25% of them.
+
+
+	Summary: 
+		Good pay, but that’s it
+
+
+Review 20:
+	Job Title: Senior Product Manager
+	Location: Augusta, GA
+	Review Date: 2024-02-01T18:24:43.820
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Competitive pay. Good work life balance.
+
+
+	Cons: 
+		Some old technology or inefficient tech in the business but that seems common for most companies.
+
+
+	Summary: 
+		Solid company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,665 @@
+
+Paccar is a Motor Vehicles & Parts company based in 98004 Bellevue, Washington. 
+The company has 31,100 employees and has a revenue of $28,820 according to Fortune 500.
+The company is valued at $38,251 and has a profit of $3,012. The CEO of the company is Preston Feight.
+
+The Company has the following ratings: 
+Average ratings for Paccar:
+Business Outlook: 0.69
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 108 
+	2: 161 
+	3: 205 
+	4: 173 
+	5: 123 
+
+CEO: 0.76
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 85 
+	2: 186 
+	3: 251 
+	4: 149 
+	5: 98 
+
+Culture and Values: 3.4
+Distribution: 
+	1: 181 
+	2: 120 
+	3: 155 
+	4: 110 
+	5: 92 
+
+Diversity and Inclusion: 3.5
+Distribution: 
+	1: 48 
+	2: 45 
+	3: 78 
+	4: 57 
+	5: 54 
+
+Overall: 3.8
+Distribution: 
+	1: 134 
+	2: 171 
+	3: 258 
+	4: 208 
+	5: 131 
+
+Senior Management: 3.3
+Distribution: 
+	1: 227 
+	2: 162 
+	3: 178 
+	4: 114 
+	5: 82 
+
+Work Life Balance: 3.7
+Distribution: 
+	1: 128 
+	2: 109 
+	3: 190 
+	4: 193 
+	5: 145 
+
+Review Count: 903
+
+Recommend to Friend: 
+	RECOMMEND: 323
+	WONT RECOMMEND: 345
+
+
+
+
+The company has 1003 reviews on Glassdoor. The last review was posted on 2024-04-10T10:28:00.907. 
+There are 20 Reviews for Paccar:
+
+Review 1:
+	Job Title: None
+	Location: None
+	Review Date: 2024-02-29T05:45:11.030
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		PACCAR always seems to value its people in that they are willing to promote from within and seem to have your best career interests at heart
+
+
+	Cons: 
+		Work can be somewhat monotonous at times
+
+
+	Summary: 
+		Great Company that Values its People
+
+
+Review 2:
+	Job Title: Senior Commodity Manager
+	Location: Bellevue, WA
+	Review Date: 2024-03-30T21:18:15.583
+	Business Outlook: NEGATIVE
+	Career Opportunities: 0
+	CEO: DISAPPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Pension is nice, but due to the incredibly low salaries you will probably have to work till you’re 80 before you can retire and actually use it.
+
+
+	Cons: 
+		Does anyone seriously believe any of these generic 2 sentence, 5 star reviews of late are even remotely plausible?
+		
+		It sure says a lot about your company’s culture and ethics if you have to write fake reviews to offset the overwhelmingly poor scores. 
+		
+		Filter these reviews from lowest to highest and then you will know the truth about this place from REAL employees.
+		
+		Seriously, only work here if your family is starving and you are about to be evicted and thrown on the street. You can easily make 30-50% more money at any other company in the Seattle area and will actually get treated like a human being.
+		
+		Leaving this place was the best decision I ever made in my life, should’ve known my worth and done it a decade earlier. My net income and savings was severely hampered by staying at PACCAR…wish I could’ve warned myself earlier.
+
+
+	Summary: 
+		5 STARS! Like all of the other recent reviews!
+
+
+Review 3:
+	Job Title: Engineering Technician
+	Location: None
+	Review Date: 2024-04-10T10:28:00.907
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Great benefits. Good work life balance. Work with great people. Work on fun things.
+
+
+	Cons: 
+		Low base pay. Poor management in engineering departments. Lack of direction from senior management.
+
+
+	Summary: 
+		God work life balance and benefits. Bad managers.
+
+
+Review 4:
+	Job Title: HR Specialist
+	Location: Bellevue, WA
+	Review Date: 2024-04-03T13:26:27.573
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Working at PACCAR was a pleasant experience due to the friendly and supportive people working there.
+
+
+	Cons: 
+		The outdated policies and processes, such as extensive paper record-keeping, insistence on in-person work for roles suitable for remote work, and a formal dress code, are not suitable for most people in the modern work landscape.
+
+
+	Summary: 
+		Outdated Policies, Friendly Coworkers
+
+
+Review 5:
+	Job Title: None
+	Location: Columbus, MS
+	Review Date: 2024-03-21T16:32:47.417
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		PACCAR has a solid but evolving culture with an extensive history of growth and technological advancement.
+
+
+	Cons: 
+		Decision making (even in times of need) is slower than the organization can afford at times. While rash, reactionary decisions are not good; not reacting fast-enough can be equally damaging.
+
+
+	Summary: 
+		PACCAR Engine still going strong
+
+
+Review 6:
+	Job Title: Analyst
+	Location: Bellevue, WA
+	Review Date: 2024-02-01T12:10:11.600
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Coworkers are great. Most of the bosses are really good. Good pay. A lot of people stay here for decades. Best thing of all is that this company has both a 401k program AND a pension. That's almost unheard of in this day and age. Anyone who joins this company and sticks with it for a couple of decades will have a very comfortable retirement.
+
+
+	Cons: 
+		The corporate headquarters is a bit stuffy and conservative. Formal business attire every day (suit and tie) and almost everyone works on site (very little remote work). However, that's just corporate. The dress code, atmosphere and work rules are different at other locations.
+
+
+	Summary: 
+		Old fashioned conservative company with good people and good perks.
+
+
+Review 7:
+	Job Title: Mechanical Design Engineer
+	Location: Neenah, WI
+	Review Date: 2024-04-07T13:51:12.583
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Pay is the best money to get
+
+
+	Cons: 
+		Weekends suck when it's allowed
+
+
+	Summary: 
+		Monet Tree
+
+
+Review 8:
+	Job Title: Engineering Technician
+	Location: Mount Vernon, WA
+	Review Date: 2024-03-20T16:30:07.153
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Competitive pay. 
+		Good work/life balanace. 
+		Great benefits. 
+		Job security.
+
+
+	Cons: 
+		Horrible management. 
+		Lack of direction from management.
+		Field and customer issues are like groundhogs day. Recurring and unresolved.
+
+
+	Summary: 
+		Good life balanace and pay. Horrible management.
+
+
+Review 9:
+	Job Title: Data Scientist
+	Location: None
+	Review Date: 2024-04-03T19:08:54.580
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Can explore new ideas
+		Supportive management
+
+
+	Cons: 
+		Not enough data maturity to create advanced ml products
+
+
+	Summary: 
+		Chill working
+
+
+Review 10:
+	Job Title: Engineer
+	Location: Lewisville, TX
+	Review Date: 2024-03-20T16:32:44.957
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		It's a job to get salary.
+
+
+	Cons: 
+		Top down culture is not respectful.
+
+
+	Summary: 
+		Not respectful or trustful culture for employees
+
+
+Review 11:
+	Job Title: Treasury
+	Location: None
+	Review Date: 2024-01-26T12:29:31.837
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Integrity and kindness permeate the company culture.
+		Opportunities to advance from within.
+		Working in various departments is supported and encouraged, leading to a well-rounded understanding of the company and further opportunity for advancement.
+		Strong, cohesive company culture
+		Pension plan
+		Good pay &amp; benefits
+
+
+	Cons: 
+		If working in the office is not your thing, this is a con. Paccar encourages 5 days/week in office and allows 1/day week WFH.
+		If dressing up is not your thing, this is a con. Paccar has a business formal dress code at HQ and less formal dress codes at other locations.
+
+
+	Summary: 
+		Excellent place to grow a career
+
+
+Review 12:
+	Job Title: Assembly Line Worker
+	Location: Denton, TX
+	Review Date: 2024-03-13T01:55:15.343
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Easy work for excellent pay with no degree of any kind
+
+
+	Cons: 
+		Very repetitive, Badge number system, Layoffs
+
+
+	Summary: 
+		Peterbilt/Paccar
+
+
+Review 13:
+	Job Title: Product Manager
+	Location: Renton, WA
+	Review Date: 2024-02-21T14:32:21.390
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Good work life balance. 
+		One of a few companies offering a pension AND 401K match.
+		Employees are passionate about products and services.
+
+
+	Cons: 
+		Starting salaries are on the lower end
+
+
+	Summary: 
+		Quality Company With Quality People
+
+
+Review 14:
+	Job Title: Accountant
+	Location: Bellevue, WA
+	Review Date: 2023-08-01T17:21:12.217
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Cannot comment because there are no pros to working here.
+
+
+	Cons: 
+		The experience with the Corporate Accounting department was quite challenging. The long working hours, especially during busy periods, required coming to the office on weekends, which made achieving work-life balance nearly impossible. Although they promised to compensate for working late, the process of requesting time off was quite painful and cumbersome. Micromanagement was prevalent, and it felt as if every task was under constant scrutiny, leaving little room for autonomy and creativity. Subordinates often faced mental and verbal abuse, which was demoralizing and created a hostile work environment. In addition, the manager's constant pestering for results every hour only added to the already stressful work environment. The relentless pressure to deliver instant updates and progress reports became overwhelming and hindered the team's ability to focus on their tasks effectively. The lack of consideration for personal time and family commitments was apparent, as they expected employees to plan their lives around work, even sacrificing weekends. The manager's constant loud eating and phone conversations in another language made it challenging to concentrate and work peacefully. In conclusion, the corporate accounting department's approach to management and work-life balance left much to be desired. The excessive working hours, micromanagement, and disregard for personal time were major downsides that affected the overall work experience. It is my hope that they can address these issues and create a more supportive and respectful work environment in the future.
+
+
+	Summary: 
+		Unmasking the Toxicity: A Harrowing Review of Paccar
+
+
+Review 15:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-05T21:10:43.107
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good work-life balance, good salary
+
+
+	Cons: 
+		Limited growth for an IT worker
+
+
+	Summary: 
+		Stable company
+
+
+Review 16:
+	Job Title: Process Engineer
+	Location: Lewisville, TX
+	Review Date: 2024-01-14T16:19:15.970
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		good company and retiree benefits
+
+
+	Cons: 
+		HR does not know how to handle immigration.
+		Salary offered to H1b is less compared to H1b salary noted to pay for H1b.
+		cannot reimburse the travel expenses, and they cannot even know how to calculate the expense even on submitting the receipt 
+		Hr and Financial dept require spoon feeding.
+
+
+	Summary: 
+		HR is really does not know how to handle the immigration matter
+
+
+Review 17:
+	Job Title: Compliance Specialist
+	Location: Bellevue, WA
+	Review Date: 2024-02-18T19:16:21.390
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Highly structured, hierarchical. Hardworking people are encouraged and promoted.
+
+
+	Cons: 
+		Conservative culture, less flexibility and sometimes lack of trust.
+
+
+	Summary: 
+		Paccar workplace
+
+
+Review 18:
+	Job Title: Assistant Distribution Manager
+	Location: Rockford, IL
+	Review Date: 2024-02-07T05:40:29.260
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Benefits are really quite good
+
+
+	Cons: 
+		The people, very negative atmosphere
+
+
+	Summary: 
+		Terrible morale
+
+
+Review 19:
+	Job Title: Business Analyst
+	Location: None
+	Review Date: 2023-11-27T15:10:11.753
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		LGBT and tattoo friendly, modern work environment, richly appointed kitchens and meeting rooms, free gourmet coffee machines, electric desks raise and lower at the touch of a button, and WiFi throughout
+
+
+	Cons: 
+		Understand that Paccar's three trucking division nameplates (Kenworth, Peterbilt, and DAF) fiercely compete with each other, and each division has its own cultural norms and IT departments - none of whom seem to want to play well together or show any genuine concern for the other. This is a huge risk for you as a BA because, for example, one division favors a COTS package and wants to implement it, but the other divsion does not, and yet at the end of the day Paccar is supposed to be one company right? Well, not exactly. So securing funding for your projects will be difficult because the trucking divisions have separate budgets and priorities as well.
+		
+		North America Paccar (Kenworth and Peterbilt) is a few years behind its European nameplate (DAF) in terms of after-sales technologies and processes.
+		
+		Paccar in general (regardless of nameplate) is about five years behind its competitors (e.g., Volvo, Freightliner, etc.) for after-sales.
+		
+		Wonky expense and travel booking system (Concur)
+		
+		Wonky support ticketing system (Cherwell)
+		
+		Poor, minimal onboarding experience - other than a few meet &amp; greets set up by your manager, you'll be on your own.
+		
+		Azure DevOps boards are a mess; incredible amount of project overlap between roadmap initiatives, their requirements, and the user stories.
+		
+		Must wait 6 months before being approved (IF you're approved, it's not automatic) to WFH, not to exceed two days per week. (But managers often ignore the policy, and are inconsistent when using the benefit, so you'll frequently be "surprised" when your manager decides to WFH without telling you ahead of time.)
+		
+		ZERO TRUST - your badge is timestamped when you come and go from the building. Doesn't matter that you're salaried, you better have your butt in your seat for 8+ hours per day -- it doesn't matter that you worked overtime last week or last Saturday, there is no "balancing things out" allowed.
+		
+		Wonky performance management and training system ("Success Factors") - you're required to set goals, assess yourself, track your progress, etc. It's just too much...
+
+
+	Summary: 
+		(IT Division) Best for new or junior BA's
+
+
+Review 20:
+	Job Title: Mdi Analyst
+	Location: Renton, WA
+	Review Date: 2024-01-25T12:28:20.663
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		some WFH, achievable expectations, engaging leadership programs, industry leader
+
+
+	Cons: 
+		Low pay, minimal time off, no compensation outside of base pay
+
+
+	Summary: 
+		Its ok
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

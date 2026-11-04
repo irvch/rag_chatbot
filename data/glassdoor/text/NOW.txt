@@ -1,0 +1,690 @@
+
+ServiceNow is a Computer Software company based in 95054 Santa Clara, California. 
+The company has 20,433 employees and has a revenue of $7,245 according to Fortune 500.
+The company is valued at $94,338 and has a profit of $325. The CEO of the company is Bill Mcdermott.
+
+The Company has the following ratings: 
+Average ratings for ServiceNow:
+Business Outlook: 0.9
+
+Career Opportunities: 4.2
+Distribution: 
+	1: 248 
+	2: 232 
+	3: 435 
+	4: 846 
+	5: 1760 
+
+CEO: 0.96
+
+Compensation and Benefits: 4.4
+Distribution: 
+	1: 65 
+	2: 99 
+	3: 385 
+	4: 1081 
+	5: 1897 
+
+Culture and Values: 4.5
+Distribution: 
+	1: 259 
+	2: 187 
+	3: 274 
+	4: 621 
+	5: 2164 
+
+Diversity and Inclusion: 4.5
+Distribution: 
+	1: 96 
+	2: 60 
+	3: 187 
+	4: 464 
+	5: 1841 
+
+Overall: 4.4
+Distribution: 
+	1: 235 
+	2: 229 
+	3: 350 
+	4: 921 
+	5: 2349 
+
+Senior Management: 4.2
+Distribution: 
+	1: 335 
+	2: 218 
+	3: 380 
+	4: 805 
+	5: 1756 
+
+Work Life Balance: 4.2
+Distribution: 
+	1: 264 
+	2: 221 
+	3: 504 
+	4: 893 
+	5: 1628 
+
+Review Count: 4092
+
+Recommend to Friend: 
+	RECOMMEND: 2790
+	WONT RECOMMEND: 535
+
+
+
+
+The company has 4637 reviews on Glassdoor. The last review was posted on 2024-04-17T16:51:31.847. 
+There are 20 Reviews for ServiceNow:
+
+Review 1:
+	Job Title: VP Sales
+	Location: Santa Clara, CA
+	Review Date: 2023-07-22T14:59:55.567
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		In my opinion, one of the greatest cultures to work for in all of Tech. One of the greatest platforms to position to customers in all of tech. I would also say that Servicenow has the most potential in all of tech given the first two.
+
+
+	Cons: 
+		Given its great reputation in the market – it’s very competitive to not only get into, but also to stay at. As it’s valuation has increased rapidly, and the need for people has increased, this has improved.
+
+
+	Summary: 
+		Amazing platform to position, great leadership, great processes and tools
+
+
+Review 2:
+	Job Title: Sr. Advisory Solution Consultant
+	Location: New York, NY
+	Review Date: 2024-04-17T16:51:31.847
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Career flexibility
+		Compensation
+		Organizational support
+
+
+	Cons: 
+		CJ Desai
+		We’ve hired a lot of ex-SFDC folks that were laid off for various reasons. Not sure why we are hiring people that didn’t make the cut there (especially in CiWF).
+
+
+	Summary: 
+		Still a great company but not like the old days
+
+
+Review 3:
+	Job Title: Sales Compensation Communications Manager
+	Location: Boston, MA
+	Review Date: 2024-01-30T09:53:47.697
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		I've never worked anywhere or with anyone quite like I have at ServiceNow. Everything is just better. The people-first focus is so loud and clear to my experience so far. I've referred nearly 10 people in my 6 months. I'm VERY interested to see my career journey unfold here. I could see myself growing into different roles. 
+		
+		A few highlights:
+		- Unlimited PTO (&amp; everyone means it and encourages PTO)
+		- True flexibility in a remote/hybrid environment (no pressure to be online and responsive 24/7, everyone is human here)
+		- Competitive, negotiable pay
+		- Incredible transparency from the C-suite
+		- Focus &amp; resources on development
+		- People do what they say they will do
+
+
+	Cons: 
+		Joining any company has its challenges. Still, I've had virtually very little since joining. 
+		
+		My challenges include:
+		- Finding the right stakeholders across a large, matrixed environment to collaborate with
+		- Being in a role that is new &amp; unique. No one else on my team does what I do or anything similar 
+		- Not a ton of visibility into everything in the works from my leader (Which would help me in planning new ideas + moving things forward)
+		- Learning the products &amp; services. There's a lot, it's a learning curve that everyone is on
+
+
+	Summary: 
+		A model company with the perfect say:do ratio
+
+
+Review 4:
+	Job Title: Director, Product Management
+	Location: Santa Clara, UT
+	Review Date: 2024-03-05T06:24:31.087
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great product, great business outlook, good people to work with in general
+
+
+	Cons: 
+		Used to be a great culture, but as the firm grew they got folks who are good at selling themselves in interview but arent actually good at job. These middle managers spread toxicity across the firm. They would often lie to their reportees about their performance only to later reveal the true rating after review leaving the candidates disheartened. Upper management rarely looks in to actual functioning of teams and this leads to toxic managerial practices being incentivized. Promotions are based on nepotism or who ever manager decides will make them look good if promoted at the expense of truly deserving, hard working candidates. Good people are going to leave as soon as economy stabilizes, but till then they are trapped. For those looking to join, do a thorough background check about team/managers/teammates etc., I rate Diversity and inclusion as 1 star because SNOW tends to err on side of excess, resulting in alienation of those who are put in limelight without any care for the actual context.
+
+
+	Summary: 
+		Good firm in general with quite a few toxic teams
+
+
+Review 5:
+	Job Title: Sales Manager
+	Location: None
+	Review Date: 2024-02-29T11:53:45.303
+	Business Outlook: NEUTRAL
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Stock is at an all time high, good training. They are really trying to improve Manager development.
+
+
+	Cons: 
+		Lots of good old boy club in sales organization from Dell EMC and Salesforce - especially 2nd line leader and above. Need to fight to get diverse candidates in the interview pools and on interview panels. 
+		But why bother? They don't want anyone who challenges their thinking or thinks or acts differently than they do. 
+		
+		Lots of brown nosing and blatant upward management vs taking care of your team who takes care of the customer. Pushing "initiatives" down the organization to look like they are doing something is prevalent, Very little thought or explanation to these projects is given to make it easy for an individual contributor to execute.
+
+
+	Summary: 
+		Lots of middle managers asking ICs to do their work
+
+
+Review 6:
+	Job Title: Senior Account Escalation Manager
+	Location: Orlando, FL
+	Review Date: 2024-04-08T07:35:37.370
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Culture - Everyone seems genuinely happy with a very supportive team and office environment.
+		Focus on the customer - Some organizations are ONLY focused on the Sale and forget about the importance of ongoing customer support and success. 
+		Experience is very valued with lots of opportunity.
+		Work/life balance is important to the business with great PTO, wellness days and holidays.
+		Interview process was very professional, organized and did not drag out. Decision made quickly. Recruiter great to work with. 
+		Onboarding experience very positive.
+
+
+	Cons: 
+		Health benefits for a such a large company could be better. Other benefits are very good.
+		For people who want to be fully remote, hybrid could be a con.
+
+
+	Summary: 
+		Fantastic place to work!!!
+
+
+Review 7:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-19T21:32:52.420
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Very difficult to provide pros considering what I've experienced.
+
+
+	Cons: 
+		I joined ServiceNow with high hopes for a positive work environment and opportunities for growth. Unfortunately, my recent experience with discrimination has overshadowed my time at the company.
+		
+		While ServiceNow promotes diversity, inclusion, and bringing your authentic self to work on the surface, I've personally encountered instances of targeting and wrongful claims that have deeply affected me. Despite raising concerns with HR early on, there has been little tangible action taken to address these issues effectively nor do I feel anything will be done. Unfortunately, the only option would be to resign and file a lawsuit in order to receive the proper attention and concern the matter deserves.
+
+
+	Summary: 
+		Discrimination Overshadows My Time at ServiceNow
+
+
+Review 8:
+	Job Title: Senior Manager
+	Location: Santa Clara, CA
+	Review Date: 2023-12-06T19:39:28.140
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Overwhelmingly the greatest people you will ever work with - smart, hard working, and kind to each other
+		Whatever experience you want to grow professionally, you will find it here
+		CEO Bill McDermott is inspiring everytime he talks - he is a true visionary and the company is fortunate to have him
+
+
+	Cons: 
+		Most processes (ironically) are still very manual. As the company grows and changes, the tools and technology aren't updated leaving teams with unmanageable amounts of manual work. This is raised as biggest issue every year in employee feedback surveys, but nothing ever improves, just more manual work to compensate for bad tools and processes
+		Lots of pressure from leaders to deliver results, but no direction or support to improve - they promise it, then back out when it's time to deliver on their promises - yet they still expect perfect execution from their teams
+		Most teams are completely burned out - unrealistic expectations and demands without support. No time to do anything but work - no time for learning, career development, or even vacation (time off = work builds up, so you either work while on vacation and/ or work even more hours when you're back just to get caught up)
+
+
+	Summary: 
+		Great people, terrible processes
+
+
+Review 9:
+	Job Title: Customer Success Manager
+	Location: None
+	Review Date: 2023-12-21T08:11:02.560
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		There is a genuine commitment and distinctive vibe when it comes to values. Inclusion and belonging exceeds the positive values that is communicated. It's no surprise ServiceNow is highlighted for so many workforce categories, but the one that energizes me most is America's Greatest Workplaces for Diversity.
+		
+		The company is a global tech hub. All teams across departments are diverse and assembled with talented folks. Our success can be attributed to our high influential CEO and the strategic decision making of the leadership team. From the P4 to your direct manager and peer teammates are top caliber individuals in the technology industry. Goals and expectations are personalized so that you are evolving professionally. ServiceNow celebrates your achievements and is a steadfast champion.
+		
+		The office spaces, perks, and employee benefits are super nice. Flexible work arrangements and family-oriented programs so that you are able to do your best work and live well. A good mix of company events and social activities across the company. Professional development opportunities are endless at ServiceNow. 
+		
+		The platform stays fresh and ahead of market trends with regular enhancements. Customers have a range of selections to maximize the value of the technology. Robust security measures to protect customer data and build trust. First movers in multiple verticals. I've worked in the big five tech, and I am blown away at how much new innovation is live in the current release and road mapped for future releases. ServiceNow is the largest rocket ship I have ever been on!
+
+
+	Cons: 
+		I wish I joined ServiceNow sooner because this has been my best tech experience in over 10 years.
+
+
+	Summary: 
+		Best Culture and Best Tech in the Business
+
+
+Review 10:
+	Job Title: Senior Staff Software Quality Engineer
+	Location: Chicago, IL
+	Review Date: 2024-03-01T13:34:55.150
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Our motto is "hungry and humble" and that really describes the culture here. There's a culture of collaboration and helping others, I've been here about 4.5 years and I've never been made to feel dumb for asking a question. There are no jerks here, it's truly amazing. I've worked at a LOT of other places and this is by far the best place I've ever worked, I'm planning to work here until I retire.
+		
+		I could go on and on, great leadership, pay and benefits (including stock options), flexibility, opportunities. But nothing beats the culture here.
+
+
+	Cons: 
+		It's a challenging job, the bar is high. I also work a lot with folks overseas, they're wonderful but the time difference is a bit of a drag.
+
+
+	Summary: 
+		Best place to work ever
+
+
+Review 11:
+	Job Title: Solution Sales Executive
+	Location: Austin, TX
+	Review Date: 2024-02-28T13:14:31.593
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		A few benefits of NOW were the health benefits, RSU's and wellness days off. A small trade off for working in an environment that only looks at what you should of done, armchair Monday morning QB.
+
+
+	Cons: 
+		The many downsides of NOW include a lack of transparency, management support, leaving you on an island, limited direction, fail to recognize true contributions, playing favorites and just about anything else that you would not want in a job.
+
+
+	Summary: 
+		Definitely not the best job anyone has ever had!
+
+
+Review 12:
+	Job Title: Product Strategist
+	Location: Los Angeles, CA
+	Review Date: 2024-02-06T10:39:03.927
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		- A+ culture. Vast majority of people are kind, approachable, hardworking, smart, ambitious
+		- Great work life balance
+		- Excellent compensation, yearly bonus, benefits, unlimited PTO (actively encouraged and tracked with your manager - not a sham) 
+		- One of the few if only tech companies right now with high morale
+		- Exciting growth period, especially as company hits financial targets ahead of schedule
+		- Investment in personal development
+		- Commitment to DE&amp;I, volunteering, generous stipends to donate to non-profits
+		- Flexible WFH policy. No mandates so far to return to office, which is also rare for tech companies these days
+		- MyServiceNow is the best onboarding and employee hub I've ever used. Incredible AI integrations where you can find contacts, information, glossaries, etc. with one search
+
+
+	Cons: 
+		- Onboarding contains a lot of content, especially if you're not familiar with ServiceNow's platform operability. However, as mentioned above, the onboarding platform is incredible and helps you stay on track. Your manager also gives you time to get this done 
+		- Pace is extremely quick, which can sometimes create gaps in communication and task delegation
+		- ServiceNow has so many products within its platform - focus on learning the basics of the products most relevant to your line of work
+
+
+	Summary: 
+		Amazing company to work at
+
+
+Review 13:
+	Job Title: Datacenter Technician
+	Location: San Diego, CA
+	Review Date: 2024-04-10T14:52:32.370
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Everyone there is very intelligent
+
+
+	Cons: 
+		Watch your back. They are a cloud customer based, and will fire you for anything that affects their customers. Make sure you fight as they will try to ignore them overworking you, and poor training, when using you as a scapegoat.
+
+
+	Summary: 
+		Good enough company
+
+
+Review 14:
+	Job Title: Product Manager
+	Location: None
+	Review Date: 2024-02-29T15:35:01.533
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		I love the org of the company that I work in; incredibly supportive management and work life balance is amazing. And the work we do is fulfilling. When it comes to social goals around diversity, inclusion, and environment, it actually feels like this company makes meaningful efforts.
+
+
+	Cons: 
+		There does seem to be different experiences depending on the department or management. Have several teams that I work with closely in another org where I hear unfortunate stories of work toxicity and either indifferent or down-right hostile management. Some great people have left the company as a result.
+
+
+	Summary: 
+		Overall great company, but seems to be a department lotto for toxicity
+
+
+Review 15:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-19T11:04:24.153
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		- The product is incredible and it feels like a 'once in a lifetime' company to work for. 
+		- Compensation
+		- C Suite Leadership
+		- RSUs
+		- Commitment to no layoffs
+		- Massive upside potential in Sales Org
+
+
+	Cons: 
+		- Growing like crazy and every day it feels like things are breaking (that's actually both a pro and a con. depending on how you look at it). Good news is that no one pretends this isn't the case, so the awareness is there. 
+		
+		- First line managers can be incredible or horrible. Just like any job, be super aware of this.
+
+
+	Summary: 
+		As good as it gets in 'tech'
+
+
+Review 16:
+	Job Title: Principal Business Process Consultant
+	Location: None
+	Review Date: 2024-04-17T09:09:46.230
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The best co-workers
+		Freedom to work (No Micro Managing)
+		Upward Mobility
+		A ton of days off
+
+
+	Cons: 
+		I didn't work here sooner
+
+
+	Summary: 
+		Best Employer EVER!!!
+
+
+Review 17:
+	Job Title: Manager
+	Location: Vienna, VA
+	Review Date: 2024-02-13T17:33:10.060
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		ServiceNow talks a big game and in many ways follows through. The C-Suite is largely competent and their performance has consistently led to the stock price increasing.
+		
+		Broadly, the company culture is supportive and talks a big game when it comes to DEI. Broadly, the company lives up to its stated goals but experiences vary depending on the team. 
+		
+		The company is a rocket ship and the momentum is palpable.
+
+
+	Cons: 
+		Your experience at ServiceNow will depend on the team that you are on.
+		
+		Managers run their teams as their own personal fiefdoms and experiences can vary. Some managers are not qualified for their jobs. 
+		
+		The company's public sector strategy is not good. Recent hiring decisions have made it clear the company prioritizes short term gain over long term sustainability. This will likely negatively affect ServiceNow in the long run.
+
+
+	Summary: 
+		Great Presentation with Underlying Problems
+
+
+Review 18:
+	Job Title: Senior Staff Software Engineer
+	Location: None
+	Review Date: 2024-04-15T13:14:13.597
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Relentless growth, good opportunities in the right orgs
+
+
+	Cons: 
+		The fast growth can be challenging to manage
+
+
+	Summary: 
+		Company continues its growth path
+
+
+Review 19:
+	Job Title: Sr. Software Engineer
+	Location: Chicago, IL
+	Review Date: 2024-04-15T03:29:51.153
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good work life balance and pays well
+
+
+	Cons: 
+		Pay raise for a loyal employee isn't as high as new hire
+
+
+	Summary: 
+		Good
+
+
+Review 20:
+	Job Title: Staff Software Engineer
+	Location: San Diego, CA
+	Review Date: 2024-04-07T09:58:02.233
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great work life balance with a company that cares. Base pay is fair and bonus/stocks make for a very attractive total compensation. Coworkers are all wonderful people to be around and zero issues with management.
+
+
+	Cons: 
+		Not the most exciting interface, but a powerful platform.
+
+
+	Summary: 
+		Fantastic place to work
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

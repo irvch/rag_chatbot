@@ -1,0 +1,635 @@
+
+MasTec is a Engineering & Construction company based in 33134 Coral Gables, Florida. 
+The company has 32,000 employees and has a revenue of $9,778 according to Fortune 500.
+The company is valued at $7,441 and has a profit of $33. The CEO of the company is Jose R. Mas.
+
+The Company has the following ratings: 
+Average ratings for MasTec:
+Business Outlook: 0.56
+
+Career Opportunities: 3
+Distribution: 
+	1: 164 
+	2: 120 
+	3: 145 
+	4: 100 
+	5: 88 
+
+CEO: 0.77
+
+Compensation and Benefits: 3.2
+Distribution: 
+	1: 116 
+	2: 117 
+	3: 170 
+	4: 135 
+	5: 80 
+
+Culture and Values: 2.9
+Distribution: 
+	1: 206 
+	2: 87 
+	3: 144 
+	4: 84 
+	5: 78 
+
+Diversity and Inclusion: 3.3
+Distribution: 
+	1: 39 
+	2: 26 
+	3: 68 
+	4: 56 
+	5: 50 
+
+Overall: 3.2
+Distribution: 
+	1: 173 
+	2: 133 
+	3: 160 
+	4: 142 
+	5: 120 
+
+Senior Management: 2.7
+Distribution: 
+	1: 233 
+	2: 116 
+	3: 124 
+	4: 71 
+	5: 72 
+
+Work Life Balance: 3.1
+Distribution: 
+	1: 210 
+	2: 111 
+	3: 126 
+	4: 90 
+	5: 78 
+
+Review Count: 731
+
+Recommend to Friend: 
+	RECOMMEND: 232
+	WONT RECOMMEND: 339
+
+
+
+
+The company has 778 reviews on Glassdoor. The last review was posted on 2024-04-12T05:26:36.027. 
+There are 20 Reviews for MasTec:
+
+Review 1:
+	Job Title: Foreman
+	Location: None
+	Review Date: 2024-04-12T05:26:36.027
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good management. They let you be involved with your family.
+
+
+	Cons: 
+		I haven’t found any yet
+
+
+	Summary: 
+		Mastec
+
+
+Review 2:
+	Job Title: IT Support Analyst
+	Location: Coral Gables, FL
+	Review Date: 2024-02-14T04:42:37.910
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Learn new skills
+		Get to work with multiple types of technology
+		Used to be able to handle walk-ups before becoming full-time remote.
+		Great Christmas party.
+
+
+	Cons: 
+		Willard the manager and John the Director are clueless. John made promises about growth within the team but never kept his promises. No learning or development program to improve your skills.
+		Willard will go with what the user say over what his tech says.
+		Don't get me started with the on-call support as before with the previous managers, it was not a 24/7 support. Now from what I was told from current employees that it has become a 24/7 support and the techs have to log into the phone queue and only get to clame OT if and only IF they get a call and put in a ticket. So if a call does not come in all weekend long and you are logged into the phone system, you are not getting paid for that time. You will be overworked and your time will be micro-managed by the manager, Willard.
+		After being there for 9 years, I finally got a 10% raise, but it was too little too late.
+		Your mental health means nothing for the company or mostly for the IT Department.
+
+
+	Summary: 
+		Overworked and underpaid
+
+
+Review 3:
+	Job Title: Integration Engineer
+	Location: None
+	Review Date: 2024-04-10T14:16:27.730
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Remote work, defined hours, decent work life balance.
+
+
+	Cons: 
+		Very dependent of which contracts you are on and most of the support technical work is going offshore to India.
+
+
+	Summary: 
+		No more work
+
+
+Review 4:
+	Job Title: Recruiter
+	Location: New York, NY
+	Review Date: 2024-04-08T12:00:53.613
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		work life balance is great
+
+
+	Cons: 
+		recruiting has a lot of responsibilities
+
+
+	Summary: 
+		competitive salary and great place to work
+
+
+Review 5:
+	Job Title: Project Manager
+	Location: Florida Ridge, FL
+	Review Date: 2024-04-07T12:39:24.487
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		great people and amazing culture
+
+
+	Cons: 
+		a lot of work to be done
+
+
+	Summary: 
+		Mastec review
+
+
+Review 6:
+	Job Title: Foreman
+	Location: Atlanta, GA
+	Review Date: 2024-03-31T07:06:12.757
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Keep alot of work, benefits are ok
+
+
+	Cons: 
+		Insurance is getting very expensive, their std and Ltd provider seems to be disqualifying everyone, hard to get tools and decent equipment. Need more mechanics
+
+
+	Summary: 
+		Decent place
+
+
+Review 7:
+	Job Title: Senior Scoping engineer
+	Location: None
+	Review Date: 2024-04-06T18:47:17.613
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		A good company for learning.
+
+
+	Cons: 
+		Sometimes there are long hours.
+
+
+	Summary: 
+		Scoping
+
+
+Review 8:
+	Job Title: Laborer
+	Location: Coral Gables, FL
+	Review Date: 2024-04-04T07:02:59.873
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		I still have a job.
+
+
+	Cons: 
+		Promised a lot but haven’t yet delivered. Health care cost is very high.
+
+
+	Summary: 
+		Meh
+
+
+Review 9:
+	Job Title: Administrative Assitant
+	Location: Wilmington, NC
+	Review Date: 2024-03-29T08:33:49.230
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Flexibility with your schedule &amp; some OT allowed
+
+
+	Cons: 
+		Not paid fairly in comparison with male coworkers (in the office)
+
+
+	Summary: 
+		MasTec Salary
+
+
+Review 10:
+	Job Title: Field Satellite Technician
+	Location: Edison, NJ
+	Review Date: 2024-02-23T16:23:20.333
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		• Opportunities to travel
+		• Work vehicle to take home with all maintenance and gas being paid by the company 
+		• Freedom of working by yourself
+		• Staff will work with you in the event of private matters arising and having to miss work (although, that was gained with seniority and relationships with the local staff)
+
+
+	Cons: 
+		To put it bluntly, DO NOT work for this company. I started here in July 2015 at 19 years old and was fired 3 days before Christmas 2023 due to my FIRST company vehicle accident, which had occurred 10 days prior. **To those who read this, please do not discount me as a disgruntled (ex)employee. Me getting fired just fast tracked my resignation** 
+		
+		With that being said, they’re just another company to add to the list of ruthless corporations who would have your position filled before your funeral. When I first started here, it was an entirely different company than when I was fired. There was leadership, structure, accountability, and decent opportunity to make a livable wage. I can only speak up to the end of 2023, but that is no longer the case. Mastec has little to no opportunity for advancement, as over the past 4 years they’ve done nothing but eliminate managerial positions. With streaming becoming more relevant every day, DirecTV has become less and less relevant annually, and Mastec leaves little to no solutions for its employees to compensate the lost wages. The solutions they do provide such as taking on contracts for other business lines (I.e smartaira, ADT, AAS) pay LESS than the dwindling DirecTV work that it would be replacing on any particular day. They will send you hours away from your home multiple times a week, and expect that time to be free. They force you to clock a lunch break on any day you work more than 5 hours whether or not you have the time to actually take a break. There’s absolutely no structure within the management. My manager worked remotely from 6 hours away; The supervisor doesn’t really care about anything, and nobody takes him seriously when he does try to correct an issue (and when that happens he just gives up and doesn’t follow through). You get shorted on equipment every pick up day, not at fault of the warehouse manager but instead the technology they use to determine how much equipment we’re installing in between pick ups. When you live 1.5 hours away from the warehouse, that becomes more than a minor inconvenience. They make it extremely hard to have a work/life balance, as every day is different. You could be done at 3:00 pm 25 minutes from home, or 7:00 pm 2.5 hours away from home; and you never know until you wake up and see your route in the morning. The turnover rate is absolutely ridiculous, and nowadays techs stay for 90 days @ $20/hour to collect their $1000 bonus, and then they quit. Meanwhile, the guys who do stay around get paid piece rate and could work an 8 hour day to go home with $30. With that being said, there’s TONS more minor inconveniences that I could complain about but I think the point has been made. 8.5 years of sacrificing a ridiculous amount of my youth for a company whose HR rep said “it is what it is” on the PHONE CALL telling me I was fired just confirmed everything I had learned about Mastec in that time. I knew how badly I was being treated at Mastec, but I stuck around to maintain a schedule with my child and because I was scared of change. I now work for a small, family run business and my eyes have been opened to just how badly I was treated. So again, DO NOT put yourself in that vicious cycle with this company, THEY DO NOT CARE ABOUT YOU.
+
+
+	Summary: 
+		This is going to be long…
+
+
+Review 11:
+	Job Title: Project Manager
+	Location: New York, NY
+	Review Date: 2024-03-21T06:35:16.490
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good place to work, good benefits
+
+
+	Cons: 
+		Can be a stressful environment
+
+
+	Summary: 
+		Good place to work
+
+
+Review 12:
+	Job Title: Crew Foreman
+	Location: None
+	Review Date: 2024-03-17T08:24:16.273
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Good benefits and pay. Constant work load.
+
+
+	Cons: 
+		Poor maintenance on equipment. Poor equipment. Poor quality of people in leadership roles.
+
+
+	Summary: 
+		It's ok
+
+
+Review 13:
+	Job Title: Senior Market Analyst
+	Location: Louisville, CO
+	Review Date: 2024-03-04T11:30:03.137
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		The company's broad geographical and markets reach provide so many opportunities for professional growth &amp; accomplishment.
+
+
+	Cons: 
+		The company's growth spurt through acquisitions has made for hiccups when it comes to standardization of policies, etc. Progress on this front, however, is being made.
+
+
+	Summary: 
+		Good company with bright future
+
+
+Review 14:
+	Job Title: CX Manager
+	Location: King of Prussia, PA
+	Review Date: 2024-03-14T14:22:03.763
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Flexible schedule, professional team to work with
+
+
+	Cons: 
+		No vision for your own future
+
+
+	Summary: 
+		Professional environment 
+
+
+Review 15:
+	Job Title: Project Manager
+	Location: Louisville, KY
+	Review Date: 2024-03-01T10:50:44.653
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Competitive wages and standard benefits
+
+
+	Cons: 
+		Routine chaos with a side of old boys club.
+
+
+	Summary: 
+		Good stepping stone, Bad idea for long term parking.
+
+
+Review 16:
+	Job Title: Coax Splicer
+	Location: Ijamsville, MD
+	Review Date: 2024-03-11T17:27:10.043
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good upper management and take home trucks for splicers
+
+
+	Cons: 
+		Not enough raises yet been there for 2 years
+
+
+	Summary: 
+		Good
+
+
+Review 17:
+	Job Title: Technician
+	Location: Chicago, IL
+	Review Date: 2024-02-02T08:40:24.973
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		If you are looking for the first job in your life - that's fine to start from that company, otherwise, you should never apply.
+
+
+	Cons: 
+		After 3 months, the pay rate drops to the state minimum.
+		 THEY NEVER PAID 1000$ BONUS AS PROMISED, DO NOT BELIEVE THEM !!!
+
+
+	Summary: 
+		Survival job
+
+
+Review 18:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-03T11:02:01.703
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		None, run away, stay away
+
+
+	Cons: 
+		Horrible upper management that don't care about employees, you have no work-life balance, health insurance is the worst, better not having insurance at all
+
+
+	Summary: 
+		Stay away
+
+
+Review 19:
+	Job Title: Project Coordinator
+	Location: Sumner, WA
+	Review Date: 2024-02-15T21:28:20.243
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Work remotely, 3 week PTO, matching up to 4% on 401k
+
+
+	Cons: 
+		Not that high of pay
+
+
+	Summary: 
+		Mastec
+
+
+Review 20:
+	Job Title: Project Manager
+	Location: None
+	Review Date: 2024-02-13T09:02:17.083
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Room to learn and grow
+
+
+	Cons: 
+		Fast Paced Industry, changes rapidly. Learning as you go
+
+
+	Summary: 
+		Great company for overall growth
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,647 @@
+
+General Mills is a Food Consumer Products company based in 55426 Minneapolis, Minnesota. 
+The company has 32,500 employees and has a revenue of $18,993 according to Fortune 500.
+The company is valued at $50,195 and has a profit of $2,707. The CEO of the company is Jeffrey L. Harmening.
+
+The Company has the following ratings: 
+Average ratings for General Mills:
+Business Outlook: 0.74
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 275 
+	2: 432 
+	3: 890 
+	4: 1048 
+	5: 822 
+
+CEO: 0.91
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 93 
+	2: 293 
+	3: 861 
+	4: 1288 
+	5: 928 
+
+Culture and Values: 4.1
+Distribution: 
+	1: 229 
+	2: 249 
+	3: 518 
+	4: 843 
+	5: 1341 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 62 
+	2: 74 
+	3: 175 
+	4: 351 
+	5: 699 
+
+Overall: 4.1
+Distribution: 
+	1: 169 
+	2: 308 
+	3: 796 
+	4: 1438 
+	5: 1321 
+
+Senior Management: 3.6
+Distribution: 
+	1: 390 
+	2: 387 
+	3: 822 
+	4: 936 
+	5: 718 
+
+Work Life Balance: 4.1
+Distribution: 
+	1: 255 
+	2: 285 
+	3: 646 
+	4: 943 
+	5: 1330 
+
+Review Count: 4035
+
+Recommend to Friend: 
+	RECOMMEND: 2471
+	WONT RECOMMEND: 680
+
+
+
+
+The company has 4416 reviews on Glassdoor. The last review was posted on 2024-04-16T13:36:02.233. 
+There are 20 Reviews for General Mills:
+
+Review 1:
+	Job Title: Loader
+	Location: Green Bay, WI
+	Review Date: 2024-04-09T03:47:49.937
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Pay is good lots of work
+
+
+	Cons: 
+		Some ppl just stuck in their ways
+
+
+	Summary: 
+		Good vibes
+
+
+Review 2:
+	Job Title: R&D Scientist II
+	Location: None
+	Review Date: 2024-03-28T16:41:09.853
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great people to work with, strong ethical values, many great affinity networks, fun products, fun culture, competitive benefits
+
+
+	Cons: 
+		Teams are very lean and overworked (my unit went from 30+ scientists/ technicians many years ago to now 9), extremely difficult to get promoted and are forced to apply for other job positions to get a promotion (many interview 10+ times), underpay internal employees overtime leading to retention issues
+
+
+	Summary: 
+		Forgets to reward internally
+
+
+Review 3:
+	Job Title: R&D Technologist
+	Location: None
+	Review Date: 2024-01-09T09:24:08.377
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Schedule is consistent, benefits are good, culture is welcoming of diversity, and things are kept professional for the most part
+
+
+	Cons: 
+		Working in a pilot plant, technologists are expected to 'pivot' with agility, meaning that our jobs are constantly changing. There is no normal workflow, and the faster you are able to adapt, the better. This creates a toxic safety culture, which this location is working to address. However, their efforts are mostly compromised by too much managing and bureaucracy. 
+		
+		Working as a technologist in the pilot plant, I see people pushing themselves too hard in terms of their personal safety. There is a large amount of entitled office and development staff pushing for faster results. All the toxicity of a tech startup, with a much larger scale. Office staff loathes workers rights and safety culture, but live in an echo chamber. It is obvious that they have never been told 'no' and it is clear that they don't respect safety or production.
+		
+		If they could actually stand up for their people, and realize that we want for them to succeed, then we could foster a true partnership, however they continue to squeeze harder for agility.
+		
+		It is only a matter of time until a serious safety incident occurs. This is by far the most dangerous manufacturing environment I have worked at in my 15 years across 4 different states.
+
+
+	Summary: 
+		Pilot Plant safety hazard for cereal
+
+
+Review 4:
+	Job Title: Laborer
+	Location: New York, NY
+	Review Date: 2024-04-16T13:36:02.233
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good people to work with
+
+
+	Cons: 
+		Long hard hrs hard work
+
+
+	Summary: 
+		Great 
+
+
+Review 5:
+	Job Title: Data Analyst
+	Location: Minneapolis, MN
+	Review Date: 2024-04-14T12:12:54.140
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Was great company until they started mass layoffs every few years.
+
+
+	Cons: 
+		Layoffs every few years when plans go down the drain
+
+
+	Summary: 
+		Mass layoffs
+
+
+Review 6:
+	Job Title: Marketing Intern
+	Location: Chaska, MN
+	Review Date: 2024-03-27T12:43:38.397
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		-Flexible schedule and workspaces -Open and clear communication -well organized projects and meetings -plenty of opportunities for networking -good pay
+
+
+	Cons: 
+		-internship was too short therefore wasn't given enough time to develop skills and thorough projects
+
+
+	Summary: 
+		Very open, and welcoming experience
+
+
+Review 7:
+	Job Title: Packing Maintenance mechanic
+	Location: Buffalo, NY
+	Review Date: 2024-02-29T05:58:15.830
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		There was a pension, health/dental/vision with around $80 weekly contribution, good base rates and weekend/holiday ot.
+
+
+	Cons: 
+		Two drawbacks, both directly related to seniority: 1)they staff very lean and it's a continuous operation, so if they need a body, least senior man stays. Coupled with the fact they have a 20 day variance instead of 13, working 20 consecutive 16hr days in a row is common. 2) when demand slows down enough and ot disappears, the low man gets none. Layoffs were constant for years but evened out...I was there over five years before I worked one entire year without being laid off.
+		All that said, it's very reasonable to net$90,000+/year.
+
+
+	Summary: 
+		Work/Life balance 
+
+
+Review 8:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-22T12:45:03.980
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		- Great work/life balance.
+		- Competitive salary.
+		- Healthy work culture.
+
+
+	Cons: 
+		- Health benefits are okay but could be better for a large company.
+		- Company lacks in the diversity area for management, but there are great efforts actively being made to improve this currently, and it is acknowledged openly by the company as one of their major goals to accomplish within the next 3-5 years.
+
+
+	Summary: 
+		Solid Company
+
+
+Review 9:
+	Job Title: Machine Operator
+	Location: Murfreesboro, TN
+	Review Date: 2024-01-31T00:05:26.037
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		very good pay due to forced overtime. Got to take one hour breaks daily. Good benefits, and fast top out pay. Free food from too much product.
+
+
+	Cons: 
+		Forced overtime. You had to work overtime or take a point and risk getting fired. Managers and supervisors and leads had favoritism where they would give the people they liked easier jobs and constantly forced the ones they didn’t like to do overtime and work the harder jobs. Constantly on your feet moving, very heavy lifting especially when dough piles up in machine and on floor. Pushed 1 ton totes to the dumpster which is a 5-10 min walk from station. Worked 19 days on and two days off for months. Unsanitary work areas.
+
+
+	Summary: 
+		Long hours/many days 
+
+
+Review 10:
+	Job Title: Consumer Insights Associate
+	Location: Minneapolis, MN
+	Review Date: 2024-03-19T07:06:46.460
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Culture is awesome! Everyone is kind and inclusive. As a company GMI makes changes quickly to be more inclusive, refreshing to see. Lots of events to get involved with. Good mix of people who are out of state, hybrid or in person.
+
+
+	Cons: 
+		You have to be motivated to learn and grow
+
+
+	Summary: 
+		Great place to work!
+
+
+Review 11:
+	Job Title: None
+	Location: None
+	Review Date: 2024-04-02T16:03:49.020
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Able to work remote, enjoy my coworkers.
+
+
+	Cons: 
+		None that I can think of.
+
+
+	Summary: 
+		Great Place to Work
+
+
+Review 12:
+	Job Title: Supply Chain Consultant
+	Location: None
+	Review Date: 2024-03-21T10:39:52.200
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Data driven decision making is priority 
+		Relationships are still valued in a data world 
+		Progressive org with forward thinking leadership 
+		Diverse workforce
+
+
+	Cons: 
+		Very few external hires 
+		Some management gets promoted too fast and results in under qualified leaders
+
+
+	Summary: 
+		Great place to work
+
+
+Review 13:
+	Job Title: Intern
+	Location: Buffalo, NY
+	Review Date: 2024-03-27T08:46:51.973
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Everyone is super nice and will help with anything.
+
+
+	Cons: 
+		Management has its objectives which will limit the types of extra projects you can complete.
+
+
+	Summary: 
+		General Mills Review
+
+
+Review 14:
+	Job Title: Sr. Associate Brand Manager
+	Location: Minneapolis, MN
+	Review Date: 2024-03-29T14:36:57.123
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Work on iconic brands; lots of responsibility to manage P&amp;Ls
+
+
+	Cons: 
+		No big items to note
+
+
+	Summary: 
+		Top company for brand management
+
+
+Review 15:
+	Job Title: TL II
+	Location: West Chicago, IL
+	Review Date: 2024-03-19T09:54:49.277
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Great Products.
+		Impressive social environment with a focus on DEI. 
+		MEA program worked well.
+
+
+	Cons: 
+		Very passive aggressive environment. 
+		Forced socialization. 
+		Ability to fail your way to the top if you're popular.
+		Avoids conflict.
+
+
+	Summary: 
+		Minnesota Nice!
+
+
+Review 16:
+	Job Title: Sr. R&D Scientist
+	Location: Minneapolis, MN
+	Review Date: 2024-03-22T09:43:25.083
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		nice culture;
+		good WLB;
+		nice co-workers;
+		Good management team;
+		good insurance benefits
+
+
+	Cons: 
+		slow promotions;
+		a strong corporate culture;
+		not diverse - US midwestern dominates
+
+
+	Summary: 
+		good place to work!
+
+
+Review 17:
+	Job Title: R&D Food Scientist II
+	Location: Minneapolis, MN
+	Review Date: 2024-03-11T09:51:12.333
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		General Mills does a fantastic job of bringing value-added, relevant content for personal and professional use as an unnamed benefit.
+
+
+	Cons: 
+		Being such a large company can create a lag in the launching of new items at times.
+
+
+	Summary: 
+		Unmatched Personal &amp; Professional Development
+
+
+Review 18:
+	Job Title: Machine Operator
+	Location: Buffalo, NY
+	Review Date: 2024-03-24T23:03:36.540
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Fair management and strong culture
+
+
+	Cons: 
+		Better pay and bonuses pay
+
+
+	Summary: 
+		  Work
+
+
+Review 19:
+	Job Title: Warehouse Worker
+	Location: None
+	Review Date: 2024-03-20T02:42:25.580
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		A good place to work. Workers are friendly
+
+
+	Cons: 
+		Break is very short looking at the nature of work
+
+
+	Summary: 
+		Review 
+
+
+Review 20:
+	Job Title: Production Utility
+	Location: Joplin, MO
+	Review Date: 2024-03-09T19:20:37.300
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Decent pay, 12 hour shifts so more time off if you don’t work overtime.
+
+
+	Cons: 
+		Extremely fast paced environment. Being asked to do too much in too little time. Lots of heavy lifting constantly.
+
+
+	Summary: 
+		Hard work, okayish pay
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

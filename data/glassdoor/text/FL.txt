@@ -1,0 +1,623 @@
+
+Foot Locker is a Specialty Retailers: Apparel company based in 10001 New York, New York. 
+The company has 31,040 employees and has a revenue of $8,759 according to Fortune 500.
+The company is valued at $3,708 and has a profit of $342. The CEO of the company is Mary N. Dillon.
+
+The Company has the following ratings: 
+Average ratings for Foot Locker:
+Business Outlook: 0.44
+
+Career Opportunities: 3.1
+Distribution: 
+	1: 497 
+	2: 589 
+	3: 1026 
+	4: 775 
+	5: 701 
+
+CEO: 0.72
+
+Compensation and Benefits: 3
+Distribution: 
+	1: 586 
+	2: 697 
+	3: 1066 
+	4: 679 
+	5: 515 
+
+Culture and Values: 3.6
+Distribution: 
+	1: 371 
+	2: 375 
+	3: 795 
+	4: 864 
+	5: 1003 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 140 
+	2: 114 
+	3: 315 
+	4: 494 
+	5: 945 
+
+Overall: 3.6
+Distribution: 
+	1: 345 
+	2: 502 
+	3: 1387 
+	4: 1414 
+	5: 1196 
+
+Senior Management: 3.1
+Distribution: 
+	1: 643 
+	2: 509 
+	3: 917 
+	4: 733 
+	5: 667 
+
+Work Life Balance: 3.4
+Distribution: 
+	1: 490 
+	2: 498 
+	3: 954 
+	4: 761 
+	5: 816 
+
+Review Count: 4856
+
+Recommend to Friend: 
+	RECOMMEND: 1907
+	WONT RECOMMEND: 1085
+
+
+
+
+The company has 5072 reviews on Glassdoor. The last review was posted on 2024-04-17T19:43:55.697. 
+There are 20 Reviews for Foot Locker:
+
+Review 1:
+	Job Title: Assistant Manager
+	Location: None
+	Review Date: 2024-04-15T09:14:12.210
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Cool and fun place to work as a young adult.
+
+
+	Cons: 
+		Potentially long hours, and unnecessary stress.
+
+
+	Summary: 
+		Fun Environment
+
+
+Review 2:
+	Job Title: Business Partner
+	Location: Parrish, FL
+	Review Date: 2024-04-17T09:38:19.047
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		There are wonderful leaders employed in the operations side of the business that look to nurture your personal development.
+
+
+	Cons: 
+		Workload is overwhelming and recognition is lacking
+
+
+	Summary: 
+		Nice on the surface - Not so much underneath
+
+
+Review 3:
+	Job Title: Sales Floor Team Member
+	Location: Pleasanton, CA
+	Review Date: 2024-04-17T19:43:55.697
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		nice hours , I was able to make a lot of money
+
+
+	Cons: 
+		I got fired on accident
+
+
+	Summary: 
+		It was okay
+
+
+Review 4:
+	Job Title: Retail Sales Associate
+	Location: Gainesville, FL
+	Review Date: 2024-04-08T12:53:07.487
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		People i worked with were nice
+
+
+	Cons: 
+		The amount of hours each store gets is based on traffic, so if you live in a town like Gainesville with low traffic in the malls, you cannot make a liveable wage.
+
+
+	Summary: 
+		It was fine 
+
+
+Review 5:
+	Job Title: Assistant Manager
+	Location: Tucson, AZ
+	Review Date: 2024-04-17T12:22:39.910
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Team development and good culture
+
+
+	Cons: 
+		Monotonous at times and too much administrative tasks.
+
+
+	Summary: 
+		Happy to work here
+
+
+Review 6:
+	Job Title: Sales Associate
+	Location: West Covina, CA
+	Review Date: 2024-04-16T20:20:37.103
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Amazing staff ready to help
+
+
+	Cons: 
+		Hours decrease if Sales are not up to par
+
+
+	Summary: 
+		Perfect for HS
+
+
+Review 7:
+	Job Title: Sale Associate
+	Location: New York, NY
+	Review Date: 2024-04-17T12:13:41.450
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		You get a good discount on sneakers
+
+
+	Cons: 
+		It can get very busy
+
+
+	Summary: 
+		Sale associate 
+
+
+Review 8:
+	Job Title: Sales Associate
+	Location: San Bruno, CA
+	Review Date: 2024-04-11T17:01:39.167
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		A pro was their good management
+
+
+	Cons: 
+		A can was there wasn't a large staff
+
+
+	Summary: 
+		Good work environment 
+
+
+Review 9:
+	Job Title: Sales Associate
+	Location: New Orleans, LA
+	Review Date: 2024-04-11T12:54:46.650
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great company. Nice discounts and coworkers
+
+
+	Cons: 
+		No cons at the location I worked in
+
+
+	Summary: 
+		Great company 
+
+
+Review 10:
+	Job Title: Part Time Sales Associate
+	Location: Brooklyn, NY
+	Review Date: 2024-04-07T15:24:45.163
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Merchandise discount 30% off. 3 times a year they do 50% off.
+
+
+	Cons: 
+		Discount is limited for part time employees to $250 a month.
+
+
+	Summary: 
+		Review
+
+
+Review 11:
+	Job Title: Sales Associate
+	Location: Philadelphia, PA
+	Review Date: 2024-04-10T06:59:46.763
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Fine place to start in retail
+
+
+	Cons: 
+		Part time employees do not receive raised
+
+
+	Summary: 
+		Not Bad
+
+
+Review 12:
+	Job Title: Part Time Sales Associate
+	Location: Brooklyn, NY
+	Review Date: 2024-04-07T15:24:45.163
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Merchandise discount 30% off. 3 times a year they do 50% off.
+
+
+	Cons: 
+		Discount is limited for part time employees to $250 a month.
+
+
+	Summary: 
+		Review
+
+
+Review 13:
+	Job Title: Sales Associate
+	Location: New York, NY
+	Review Date: 2024-04-08T14:47:54.370
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		good work environment and people
+
+
+	Cons: 
+		not enough hours when you start working
+
+
+	Summary: 
+		working
+
+
+Review 14:
+	Job Title: Assistant Manager
+	Location: None
+	Review Date: 2024-04-13T21:43:54.990
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		 Cool Discount If Your In To That
+
+
+	Cons: 
+		Bad Pay Not Fun Very Bad Experience 
+
+
+	Summary: 
+		 
+
+
+Review 15:
+	Job Title: Sales Associate
+	Location: Las Vegas, NV
+	Review Date: 2024-03-23T21:14:16.627
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		The pros are the discounts. However, they just started declining discounts on retros. You can also get a pick of one size from each category (preschool, grade school, women, men) of a big drop if there are any leftovers from the raffles.
+
+
+	Cons: 
+		The pay grade is low.
+
+
+	Summary: 
+		Footlocker
+
+
+Review 16:
+	Job Title: Footlocker Sales Associate
+	Location: None
+	Review Date: 2024-04-05T07:18:52.697
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		great, awesome, best place to work
+
+
+	Cons: 
+		No cons at all its great
+
+
+	Summary: 
+		Great
+
+
+Review 17:
+	Job Title: Footwear Sales Associate
+	Location: None
+	Review Date: 2024-04-02T15:18:34.103
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		great for learning how to talk to random strangers, help sales ability
+
+
+	Cons: 
+		stand up all day and rude customers.
+
+
+	Summary: 
+		aaaaaaaa
+
+
+Review 18:
+	Job Title: Sales Associate/Cashier
+	Location: New York, NY
+	Review Date: 2024-03-24T00:38:51.103
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		It’s a very calm work space if you love sneakers and have style skills amazing benefits to get the newest things
+
+
+	Cons: 
+		Might be a little hard to adjust at first with all the shoes and getting adjusted to find them.
+
+
+	Summary: 
+		Foot locker
+
+
+Review 19:
+	Job Title: Part Time Sales Associate
+	Location: New York, NY
+	Review Date: 2024-03-28T16:07:39.263
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Personality is encouraged and it’s easy to sell shoes.
+
+
+	Cons: 
+		Very political and relationship based.
+
+
+	Summary: 
+		It was cool for the most part
+
+
+Review 20:
+	Job Title: Sales Associate
+	Location: Lincolnwood, IL
+	Review Date: 2024-04-01T11:46:44.657
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good work environment
+		Great team
+
+
+	Cons: 
+		There not many cons about working here
+
+
+	Summary: 
+		Good place to work
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

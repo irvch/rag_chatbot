@@ -1,0 +1,638 @@
+
+Cummins is a Industrial Machinery company based in 47201 Columbus, Indiana. 
+The company has 73,600 employees and has a revenue of $28,074 according to Fortune 500.
+The company is valued at $33,811 and has a profit of $2,151. The CEO of the company is Jennifer Rumsey.
+
+The Company has the following ratings: 
+Average ratings for Cummins:
+Business Outlook: 0.74
+
+Career Opportunities: 3.9
+Distribution: 
+	1: 394 
+	2: 557 
+	3: 1397 
+	4: 1754 
+	5: 1555 
+
+CEO: 0.89
+
+Compensation and Benefits: 3.7
+Distribution: 
+	1: 257 
+	2: 632 
+	3: 1730 
+	4: 1869 
+	5: 1143 
+
+Culture and Values: 4.2
+Distribution: 
+	1: 365 
+	2: 351 
+	3: 733 
+	4: 1333 
+	5: 2597 
+
+Diversity and Inclusion: 4.4
+Distribution: 
+	1: 121 
+	2: 63 
+	3: 218 
+	4: 500 
+	5: 1462 
+
+Overall: 4.1
+Distribution: 
+	1: 353 
+	2: 458 
+	3: 1272 
+	4: 2422 
+	5: 2174 
+
+Senior Management: 3.6
+Distribution: 
+	1: 665 
+	2: 650 
+	3: 1299 
+	4: 1574 
+	5: 1166 
+
+Work Life Balance: 4
+Distribution: 
+	1: 378 
+	2: 455 
+	3: 1156 
+	4: 1681 
+	5: 1952 
+
+Review Count: 6688
+
+Recommend to Friend: 
+	RECOMMEND: 3965
+	WONT RECOMMEND: 1070
+
+
+
+
+The company has 8139 reviews on Glassdoor. The last review was posted on 2024-04-16T07:00:49.167. 
+There are 20 Reviews for Cummins:
+
+Review 1:
+	Job Title: Software Engineer
+	Location: Indianapolis, IN
+	Review Date: 2024-04-01T08:03:04.983
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		I love Cummins culture to its core!
+
+
+	Cons: 
+		So far no cons, only pros!
+
+
+	Summary: 
+		Software Engineer
+
+
+Review 2:
+	Job Title: Environmental Sustainability Director
+	Location: None
+	Review Date: 2024-04-15T07:47:32.447
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		People are awesome, good career opportunities, family and life balance, parental benefits, education benefits.  I feel supported and welcome.
+
+
+	Cons: 
+		Anyone working outside of the corporate headquarters "the Indiana bubble" is a secondary employee.  It was better when we were all at home because of Covid, but now that people are in the office again, it's the 'we're here and you aren't' mentality, and you will lose opportunities and feel excluded.  You have to be willing to aggressively self promote to be seen.
+
+
+	Summary: 
+		Great People, beware the Indiana Bubble
+
+
+Review 3:
+	Job Title: Mechanical systems Engineer - Analytical
+	Location: Columbus, IN
+	Review Date: 2024-04-04T14:56:01.193
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Everyone is always very friendly and helpful
+		Your growth is always discussed.
+		Work load is realistic, but you need to keep it in check.
+
+
+	Cons: 
+		Salary raise year on year is not competitive.
+		PTO is 10 days a year which to be honest is barely anything.(can't be taken over to next year either)(my advice ask for a higher salary for this reason)
+
+
+	Summary: 
+		Decent company to start in or retire
+
+
+Review 4:
+	Job Title: Senior Project Manager
+	Location: Columbus, IN
+	Review Date: 2023-11-26T07:43:38.527
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		The people are friendly, the environment is inclusive, office areas are up graded. There is plenty of technical work. The cash balance plan is great to have. The employee stock purchase plan is great. Parental leave is great. Work life balance is great. Continuous education support.
+
+
+	Cons: 
+		As I have recently learned the salary is low. Engineering leadership is on the decline; more leadership good at box checking than being an engineer. As many places are CMI relies on relationships to get the next promotion. Instead of increasing salary they keep adding benefits you don't need. They hire to fire; layoffs every 4ish years like clockwork. Growth opportunities exist when new employees and for certain individuals when more experienced. Now they are taking volunteers to leave; business is good but we need you to leave please. They are hiring a lot of external executives to lead and it is changing the mood and feel and lower level hiring. I think these individuals are just trying to capitalize off the current environment and don't really care about CMI; they seem so fake.
+
+
+	Summary: 
+		Great place but...
+
+
+Review 5:
+	Job Title: Quality Engineer Co-Op
+	Location: None
+	Review Date: 2024-04-16T07:00:49.167
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		No micromanagement. Good Work life balance.
+
+
+	Cons: 
+		locations sometimes are very faraway from main cities.
+
+
+	Summary: 
+		Good Environment.
+
+
+Review 6:
+	Job Title: Operations Leader
+	Location: Columbus, IN
+	Review Date: 2024-04-06T06:33:02.780
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Good to learn about engineering fundamentals
+
+
+	Cons: 
+		Not good from compensation standpoint. Very beau acratic company where the top leader orders are followed with no accountability on leader on the failure of the strategic decisions
+
+
+	Summary: 
+		Experienced Operation leader with 15 yr of experience
+
+
+Review 7:
+	Job Title: Sr. IT Business Analyst
+	Location: Columbus, IN
+	Review Date: 2024-04-15T20:08:12.740
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Opportunity to feel pure US corporate.
+
+
+	Cons: 
+		Management is pretty old fashioned.
+
+
+	Summary: 
+		Sr. IT Business Analyst
+
+
+Review 8:
+	Job Title: Senior Engineer
+	Location: Columbus, IN
+	Review Date: 2024-02-07T01:04:54.933
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good pay for lower cost town. Severance when they fire you within 4 to five years.
+
+
+	Cons: 
+		More than I can list. 
+		Health insurance is expensive and covers nothing.
+		Culture of conflict avoidance. Nobody wants to solve anything. 
+		Surrounding companies do not want to hire people from Cummins. 
+		Always walking on egg shells, waiting for a Union employee or Union leader to harass and threaten you. Always worried you will be laid off in the next reoccurring, 2 year layoff cycle. 
+		You have to constantly stroke your managers and teams ego. 
+		Work plan is an extensive list of additional work you are expected to largely do on your own time and does not include your daily work. This is how you are ranked, promoted, and retained. 
+		
+		I could really go on and on. 
+		
+		Do not expect to make this a lasting career. Most do not make it past five years.
+
+
+	Summary: 
+		Egg shells and hateful Union
+
+
+Review 9:
+	Job Title: Certification and Compliance Engineer
+	Location: Indianapolis, IN
+	Review Date: 2024-04-08T14:40:40.990
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		The work life balance is great and It has huge diversity
+
+
+	Cons: 
+		The compensation is relatively on the low side
+
+
+	Summary: 
+		Recommend to tart your career
+
+
+Review 10:
+	Job Title: Diesel Technician
+	Location: None
+	Review Date: 2024-03-29T06:04:23.743
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Decent pay. Monday - Friday work days are great. Hours are ok 8-5. Yearly bonuses. Boot allowance.
+
+
+	Cons: 
+		Extremely poor management. Grading scale on everything. Lack of support for junior techs. Shop manager uses fear to run and try to control personnel. Cummins is trying to add OEM repairs from bumper to bumper with not OE materials or support.
+
+
+	Summary: 
+		Cummins
+
+
+Review 11:
+	Job Title: Sales
+	Location: Anchorage, AK
+	Review Date: 2024-04-05T21:31:41.357
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		People at the location are great to work with
+
+
+	Cons: 
+		Upper management are disconnected and doesn't understand the day-to-day
+
+
+	Summary: 
+		Marine sales
+
+
+Review 12:
+	Job Title: Product Designer
+	Location: None
+	Review Date: 2024-03-30T14:54:14.397
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Work life balance and people are great. Truly care about employees
+
+
+	Cons: 
+		The processes are very standard hence it becomes a little difficult to innovate sometimes.
+
+
+	Summary: 
+		Great company to work with
+
+
+Review 13:
+	Job Title: Market Strategist
+	Location: Houston, TX
+	Review Date: 2024-04-02T17:02:49.923
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Very nice work life balance
+
+
+	Cons: 
+		Impossible to grow substantially fast. 3% increase every year no matter what
+
+
+	Summary: 
+		Low pay grades
+
+
+Review 14:
+	Job Title: Engineering Technician
+	Location: Fridley, MN
+	Review Date: 2024-03-15T00:00:16.677
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Fair work life balance. Some of the Team building events are fun.
+
+
+	Cons: 
+		It's a sink or swim environment. Training is very poor to non existent. If you are on an off shift. Prepare to be treated like dirt. You don't matter. 1st will ensure this to be the case. You will be setup to fail. It makes 1st shift feel important. It gives them something to do.
+
+
+	Summary: 
+		Sink or Swim
+
+
+Review 15:
+	Job Title: Product Quality Manager
+	Location: Seymour, IN
+	Review Date: 2024-04-04T11:56:33.293
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good work life balance overall
+
+
+	Cons: 
+		Hiring and firing cycles frequently
+
+
+	Summary: 
+		Good and chill company
+
+
+Review 16:
+	Job Title: Sr. Supply Chain Planner
+	Location: Columbus, IN
+	Review Date: 2024-04-01T18:43:22.360
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Solid directors and decent colleagues
+
+
+	Cons: 
+		Middle management needs work and there is a huge lack of accountability
+
+
+	Summary: 
+		Not great
+
+
+Review 17:
+	Job Title: Project Manager
+	Location: Columbus, IN
+	Review Date: 2024-04-03T19:33:15.613
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Flexible and better work life balance
+
+
+	Cons: 
+		None at this time that can think
+
+
+	Summary: 
+		Awesome culture
+
+
+Review 18:
+	Job Title: Senior Electronic Systems Engineer
+	Location: Seymour, IN
+	Review Date: 2024-03-30T14:11:45.060
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Very good work life balance
+
+
+	Cons: 
+		The pay is very low compared to other companies in the same industry
+
+
+	Summary: 
+		Cummins is alright, but could be better
+
+
+Review 19:
+	Job Title: Director
+	Location: Columbus, IN
+	Review Date: 2024-03-25T10:10:36.847
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Great engine and great following for engine
+
+
+	Cons: 
+		Lack of leadership. Supply chain “leaders” attempt to intimidate employees. 
+		Toxic Workplace Culture
+
+
+	Summary: 
+		Toxic
+
+
+Review 20:
+	Job Title: Project Manager
+	Location: Columbus, IN
+	Review Date: 2024-03-31T17:05:21.553
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		-values work life balance 
+		-opportunities to move up
+
+
+	Cons: 
+		-changing leadership 
+		-unclear direction / decisions
+
+
+	Summary: 
+		Great flexibility
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

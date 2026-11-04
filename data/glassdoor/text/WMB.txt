@@ -1,0 +1,576 @@
+
+Williams is a Pipelines company based in 74172 Tulsa, Oklahoma. 
+The company has 5,043 employees and has a revenue of $10,965 according to Fortune 500.
+The company is valued at $36,394 and has a profit of $2,049. The CEO of the company is Alan S. Armstrong.
+
+The Company has the following ratings: 
+Average ratings for Williams:
+Business Outlook: 0.73
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 4 
+	2: 0 
+	3: 3 
+	4: 4 
+	5: 6 
+
+CEO: 0.71
+
+Compensation and Benefits: 3.5
+Distribution: 
+	1: 1 
+	2: 3 
+	3: 5 
+	4: 4 
+	5: 4 
+
+Culture and Values: 3.3
+Distribution: 
+	1: 3 
+	2: 3 
+	3: 4 
+	4: 1 
+	5: 6 
+
+Diversity and Inclusion: 3.4
+Distribution: 
+	1: 1 
+	2: 2 
+	3: 1 
+	4: 2 
+	5: 3 
+
+Overall: 3.3
+Distribution: 
+	1: 4 
+	2: 1 
+	3: 5 
+	4: 3 
+	5: 5 
+
+Senior Management: 3.3
+Distribution: 
+	1: 4 
+	2: 2 
+	3: 2 
+	4: 5 
+	5: 4 
+
+Work Life Balance: 3
+Distribution: 
+	1: 4 
+	2: 3 
+	3: 3 
+	4: 3 
+	5: 4 
+
+Review Count: 18
+
+Recommend to Friend: 
+	RECOMMEND: 10
+	WONT RECOMMEND: 5
+
+
+
+
+The company has 19 reviews on Glassdoor. The last review was posted on 2024-01-25T20:28:59.430. 
+There are 18 Reviews for Williams:
+
+Review 1:
+	Job Title: HVAC Maintenance Technician
+	Location: Indianapolis, IN
+	Review Date: 2023-10-17T12:30:57.923
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Commission potential. Lots of training. Advancement opportunities.
+
+
+	Cons: 
+		On Call. Base pay somewhat lacking. 360 degree video cameras in truck cabs.
+
+
+	Summary: 
+		Good Management
+
+
+Review 2:
+	Job Title: Customer Service Representative
+	Location: None
+	Review Date: 2022-05-18T09:58:57.983
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		really close to my house
+
+
+	Cons: 
+		I don't have any cons at the moment
+
+
+	Summary: 
+		Great place to work
+
+
+Review 3:
+	Job Title: HVAC Installer
+	Location: Lawrence, IN
+	Review Date: 2024-01-25T20:28:59.430
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Competitive pay and good benefits
+
+
+	Cons: 
+		Ever since they sold the company they care about their corporation more than their employees… they sweep the people who put up with the most crap under the rug and try making it better with food.
+
+
+	Summary: 
+		Hard work no incentives
+
+
+Review 4:
+	Job Title: Customer Service Representative
+	Location: None
+	Review Date: 2022-12-26T16:35:51.747
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Coworkers and an hour long lunch
+
+
+	Cons: 
+		Very low pay, dishonest HR, deceptive sales techniques
+
+
+	Summary: 
+		Dishonest
+
+
+Review 5:
+	Job Title: Sales Coordinator
+	Location: Indianapolis, IN
+	Review Date: 2022-03-13T12:05:16.877
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		40 hours not a lot of overtime
+		Pay is decent after time. Consistent raises
+
+
+	Cons: 
+		Low entry level pay
+		Lots of monitoring
+
+
+	Summary: 
+		Sales coordinator review
+
+
+Review 6:
+	Job Title: Service Technician
+	Location: Indianapolis, IN
+	Review Date: 2022-01-11T17:46:06.287
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Training, they pay for certifications
+
+
+	Cons: 
+		Ridiculous on call schedule, work life balance
+
+
+	Summary: 
+		Not terrible
+
+
+Review 7:
+	Job Title: Plumbing Apprentice
+	Location: Indianapolis, IN
+	Review Date: 2021-10-28T09:06:50.763
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good benefits and top notch quality work
+
+
+	Cons: 
+		Not so flexible, very large company. Upper management is not very connected to the boots on the ground.
+
+
+	Summary: 
+		Solid
+
+
+Review 8:
+	Job Title: Installer
+	Location: Carmel, IN
+	Review Date: 2021-02-11T14:16:23.587
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Decent pay to start, good benefits with great insurance. Pretty understanding with needing a day off here and there.
+
+
+	Cons: 
+		Must stay until job is done even if it runs super late. You can get stuck doing a lot of certain types of jobs because other employees don’t know how. Don’t find out if you’re working Saturday until Friday night in a text.
+
+
+	Summary: 
+		Good job, a lot of work and attics/crawl spaces
+
+
+Review 9:
+	Job Title: None
+	Location: Carmel, IN
+	Review Date: 2018-03-03T20:21:57.017
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		We are a winning team with solution focused and highly ethical people, who are personally connected and in service to others.
+		
+		There's an immense amount of opportunity within skilled trades within the American home.
+
+
+	Cons: 
+		Being of emergency service to the public is tough. As stated in the other review, when mother nature calls the commitment is required.
+
+
+	Summary: 
+		Team member
+
+
+Review 10:
+	Job Title: Dig Lead
+	Location: None
+	Review Date: 2017-02-16T12:44:26.030
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Great people work here pays for school thats about it if you work anywhere but digs you get a company vehicle
+
+
+	Cons: 
+		Management is disorganized pay rate sucks 12/hr starting out 3.5years with the company and i was making 15.50/hr and dont even think about trying to do anything outside of work you might as well pitch a tent in the parking lot
+
+
+	Summary: 
+		Dig lead
+
+
+Review 11:
+	Job Title: None
+	Location: Carmel, IN
+	Review Date: 2019-02-13T03:03:45.193
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great culture and opportunities to grow personally and technical. Full time technical trainer dedicated to your success. Full time life coach to help you through difficult times. What other company does this.
+
+
+	Cons: 
+		Time for bigger location 😉
+
+
+	Summary: 
+		Great atmosphere, growth opportunities
+
+
+Review 12:
+	Job Title: HVAC Service Technician
+	Location: None
+	Review Date: 2021-07-18T18:47:32.617
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Good pay
+		Good benefits
+		Good training for certifications
+
+
+	Cons: 
+		Poor work life balance 
+		Large service area that they don’t care how long of a drive you have to go home.
+		Company has an issues with departments not working together. It’s always other departments issue.
+
+
+	Summary: 
+		It’s ok
+
+
+Review 13:
+	Job Title: None
+	Location: Carmel, IN
+	Review Date: 2018-01-22T10:38:05.253
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Stable, good pay, training.  Can always find someone who knows answers to tech issues.
+
+
+	Cons: 
+		When weather hits, expect long hours.  Biweekly pay.
+
+
+	Summary: 
+		Great Coworkers, Cares about Employees
+
+
+Review 14:
+	Job Title: None
+	Location: Carmel, IN
+	Review Date: 2015-10-06T20:16:13.737
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Free  and  Awesome Coffee, great co-workers
+
+
+	Cons: 
+		Management picks favorites, is disorganized, and lacks training and common sense. Pay increased vary yearly from 1% to 3%. Vacation time hard to get off work attendance policy insane, expect you to  be married to the job. After 2 five company buyouts, still a disaster.
+
+
+	Summary: 
+		My time at Williams Comfort Air
+
+
+Review 15:
+	Job Title: Director of Marketing
+	Location: Indianapolis, IN
+	Review Date: 2019-10-19T06:10:20.087
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Industry leader. Good work life balance. Client focused.
+
+
+	Cons: 
+		Improved communication top down on internal goals and vision.
+
+
+	Summary: 
+		Great Growth Opportunity
+
+
+Review 16:
+	Job Title: Installer
+	Location: None
+	Review Date: 2020-11-17T06:22:54.547
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		good opportunity if you have no prior experience
+
+
+	Cons: 
+		low pay, favoritism, seasonal layoffs
+
+
+	Summary: 
+		it's a job
+
+
+Review 17:
+	Job Title: HVAC Technician
+	Location: None
+	Review Date: 2018-06-27T16:30:57.653
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Okay place to work
+
+
+	Cons: 
+		Long hours, Benifits not very good
+
+
+	Summary: 
+		WCA
+
+
+Review 18:
+	Job Title: Field Service Technician
+	Location: Cincinnati, OH
+	Review Date: 2018-11-03T11:07:46.427
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 0
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Vehicles are well-stocked and in good condition
+
+
+	Cons: 
+		Not a good place if you’re new in the business hostile  work environment.
+
+
+	Summary: 
+		Hostile work environment
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

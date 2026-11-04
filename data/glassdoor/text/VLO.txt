@@ -1,0 +1,627 @@
+
+Valero Energy is a Petroleum Refining company based in 78249 San Antonio, Texas. 
+The company has 9,743 employees and has a revenue of $171,189 according to Fortune 500.
+The company is valued at $51,351 and has a profit of $11,528. The CEO of the company is Joseph W. Gorder.
+
+The Company has the following ratings: 
+Average ratings for Valero Energy:
+Business Outlook: 0.74
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 57 
+	2: 72 
+	3: 148 
+	4: 144 
+	5: 144 
+
+CEO: 0.92
+
+Compensation and Benefits: 4.3
+Distribution: 
+	1: 20 
+	2: 30 
+	3: 85 
+	4: 175 
+	5: 253 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 54 
+	2: 50 
+	3: 87 
+	4: 122 
+	5: 213 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 28 
+	2: 15 
+	3: 61 
+	4: 56 
+	5: 98 
+
+Overall: 4.2
+Distribution: 
+	1: 33 
+	2: 52 
+	3: 121 
+	4: 206 
+	5: 278 
+
+Senior Management: 3.5
+Distribution: 
+	1: 73 
+	2: 86 
+	3: 102 
+	4: 138 
+	5: 160 
+
+Work Life Balance: 3.5
+Distribution: 
+	1: 70 
+	2: 76 
+	3: 142 
+	4: 110 
+	5: 168 
+
+Review Count: 691
+
+Recommend to Friend: 
+	RECOMMEND: 371
+	WONT RECOMMEND: 124
+
+
+
+
+The company has 870 reviews on Glassdoor. The last review was posted on 2024-04-18T15:15:08.557. 
+There are 20 Reviews for Valero Energy:
+
+Review 1:
+	Job Title: None
+	Location: None
+	Review Date: 2023-05-10T08:54:37.320
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Amazing benefits, great end of year bonus, culture of respect, prioritizes family, zero layoffs during the pandemic, extremely involved in community service each year.
+
+
+	Cons: 
+		Work from home flex days are not an option
+
+
+	Summary: 
+		Company really cares about employees and community
+
+
+Review 2:
+	Job Title: Lab Manager
+	Location: None
+	Review Date: 2024-04-18T15:15:08.557
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great company, good benefits, good pay
+
+
+	Cons: 
+		Inherently dangerous working in a refinery
+
+
+	Summary: 
+		Love it
+
+
+Review 3:
+	Job Title: Sales Associate/Cashier
+	Location: Shreveport, LA
+	Review Date: 2024-03-31T10:29:26.890
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Always meeting new people, not open 24 hours, stands 10 toes down behind their employees
+
+
+	Cons: 
+		Women closing by themselves, pay not good, no teamwork
+
+
+	Summary: 
+		Pay could be a lot better
+
+
+Review 4:
+	Job Title: Operations
+	Location: Corpus Christi, TX
+	Review Date: 2024-04-17T14:09:58.080
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay, and 7% match 401k
+
+
+	Cons: 
+		Change in culture but that is every place you work
+
+
+	Summary: 
+		Pay
+
+
+Review 5:
+	Job Title: Pipeline Controller
+	Location: Three Rivers, TX
+	Review Date: 2024-04-16T12:11:10.147
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Benefits
+		Excellent Pay
+		Employee Input
+		Safety Protocol
+
+
+	Cons: 
+		Location, small town limitations
+		Promotion's- buddy system managed
+
+
+	Summary: 
+		Great Major Company
+
+
+Review 6:
+	Job Title: Operation Technician
+	Location: None
+	Review Date: 2024-04-10T20:24:13.440
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Pay, benefits, pension, insurance, bonuses
+
+
+	Cons: 
+		Management, broken equipment, work load
+
+
+	Summary: 
+		Technician
+
+
+Review 7:
+	Job Title: Technician
+	Location: Houston, TX
+	Review Date: 2024-04-05T21:54:56.640
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Pay is decent especially with overtime
+
+
+	Cons: 
+		No work life balance, too much OT
+
+
+	Summary: 
+		Decent pay
+
+
+Review 8:
+	Job Title: Operator Trainee
+	Location: Houston, TX
+	Review Date: 2024-04-01T23:15:29.643
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Great benefits , good coworkers, space for improvement
+
+
+	Cons: 
+		Can be a dangerous work area
+
+
+	Summary: 
+		Great workplace
+
+
+Review 9:
+	Job Title: Senior Accounting Coordinator
+	Location: San Antonio, TX
+	Review Date: 2024-03-30T09:38:18.477
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Great medical and health benefits. 
+		Flexible schedules (except during close).
+
+
+	Cons: 
+		Advancement and promotion is selective and dependent on friendships and not on ability, performance, and work ethic. The pay is also subpar and subjective.
+
+
+	Summary: 
+		Advancement limited; based on favoritism
+
+
+Review 10:
+	Job Title: Contract welder
+	Location: Dumas, TX
+	Review Date: 2024-03-12T15:11:10.533
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Pay scale, benefits, Rig pay, Location
+
+
+	Cons: 
+		Stress, Fast Paced, Dangerous, Holidays, Overtime
+
+
+	Summary: 
+		Great Place to work!
+
+
+Review 11:
+	Job Title: Maintenance Specialist
+	Location: Benicia, CA
+	Review Date: 2024-03-12T11:43:00.190
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great Bonuses! The people here are nice.
+
+
+	Cons: 
+		Long work hours..Comes with the territory.
+
+
+	Summary: 
+		Great Culture! Awesome place to work
+
+
+Review 12:
+	Job Title: Operator
+	Location: Corpus Christi, TX
+	Review Date: 2024-03-11T22:34:13.190
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Pension, 12% bonus, 401k, insurance, paternity leave, overtime
+
+
+	Cons: 
+		Shift work, night shift, work holidays
+
+
+	Summary: 
+		Great job
+
+
+Review 13:
+	Job Title: Manager
+	Location: Benicia, CA
+	Review Date: 2024-01-23T21:27:30.567
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Good pay, great bonuses, focus on safety and environment, opportunities for learning and advancement
+
+
+	Cons: 
+		California is a tough market for refineries which puts a burden on the company to minimize expenses, corporate leadership is slow to accept changes in managing employees, lack of flexibility for remote work, benefits are good but pay is less competitive
+
+
+	Summary: 
+		Overall good place to work
+
+
+Review 14:
+	Job Title: Information Services Co-op
+	Location: San Antonio, TX
+	Review Date: 2024-01-25T19:50:38.013
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Allow students to work while they are still in school for a much better salary than any campus job would ever offer for any Computer Science Students.
+
+
+	Cons: 
+		Use old technologies like SAP and were not flexible to hybrid or remote work.
+
+
+	Summary: 
+		Intern While in School
+
+
+Review 15:
+	Job Title: HR Supervisor
+	Location: Port Arthur, TX
+	Review Date: 2024-02-27T04:39:12.787
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		It is a great place to work
+
+
+	Cons: 
+		they need help with Work-Life Ballance
+
+
+	Summary: 
+		Great place to work
+
+
+Review 16:
+	Job Title: None
+	Location: San Antonio, TX
+	Review Date: 2024-02-26T21:37:12.483
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		People, culture, security, benefits, location
+
+
+	Cons: 
+		No remote work, no hybrid
+
+
+	Summary: 
+		Good
+
+
+Review 17:
+	Job Title: Engineering Intern
+	Location: Port Arthur, TX
+	Review Date: 2024-02-15T21:01:11.057
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Very good culture as well as great mentors.
+
+
+	Cons: 
+		Some of the management doesn't seem to respect engineering and trys to undermine their authority
+
+
+	Summary: 
+		Great Company
+
+
+Review 18:
+	Job Title: Executive Administrative Assistant
+	Location: None
+	Review Date: 2024-02-13T08:02:08.510
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		safety first culture driven. Has the potential to relocate to other valero refineries.
+
+
+	Cons: 
+		management needs help managing employees. Racial issues and prejudice actions
+
+
+	Summary: 
+		enjoyed the work culture
+
+
+Review 19:
+	Job Title: Associate Engineer
+	Location: Three Rivers, TX
+	Review Date: 2024-02-12T19:27:09.973
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great pay and a good culture
+
+
+	Cons: 
+		Not a lot of cons.
+
+
+	Summary: 
+		Good Company
+
+
+Review 20:
+	Job Title: Chemist
+	Location: Houston, TX
+	Review Date: 2024-02-12T08:49:53.393
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Solid pay and good training
+
+
+	Cons: 
+		Takes time to move up
+
+
+	Summary: 
+		Good job
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,631 @@
+
+Westlake is a Chemicals company based in 77056 Houston, Texas. 
+The company has 15,920 employees and has a revenue of $15,794 according to Fortune 500.
+The company is valued at $14,812 and has a profit of $2,247. The CEO of the company is Albert Yuan Chao.
+
+The Company has the following ratings: 
+Average ratings for Westlake:
+Business Outlook: 0.72
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 26 
+	2: 19 
+	3: 51 
+	4: 67 
+	5: 62 
+
+CEO: 0.85
+
+Compensation and Benefits: 3.8
+Distribution: 
+	1: 10 
+	2: 7 
+	3: 46 
+	4: 87 
+	5: 75 
+
+Culture and Values: 3.6
+Distribution: 
+	1: 24 
+	2: 25 
+	3: 46 
+	4: 51 
+	5: 74 
+
+Diversity and Inclusion: 3.7
+Distribution: 
+	1: 18 
+	2: 14 
+	3: 35 
+	4: 35 
+	5: 56 
+
+Overall: 4
+Distribution: 
+	1: 22 
+	2: 17 
+	3: 45 
+	4: 84 
+	5: 102 
+
+Senior Management: 3.4
+Distribution: 
+	1: 30 
+	2: 32 
+	3: 48 
+	4: 46 
+	5: 67 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 25 
+	2: 23 
+	3: 45 
+	4: 71 
+	5: 58 
+
+Review Count: 272
+
+Recommend to Friend: 
+	RECOMMEND: 153
+	WONT RECOMMEND: 50
+
+
+
+
+The company has 307 reviews on Glassdoor. The last review was posted on 2024-04-12T12:45:50.113. 
+There are 20 Reviews for Westlake:
+
+Review 1:
+	Job Title: Senior Buyer
+	Location: Calvert City, KY
+	Review Date: 2024-03-25T10:17:33.227
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Very stable company with very risk averse management
+
+
+	Cons: 
+		Seems to being more of a micro managed company as we get larger.
+
+
+	Summary: 
+		Good place, pay is not best in class
+
+
+Review 2:
+	Job Title: Supply Chain Manager
+	Location: Houston, TX
+	Review Date: 2024-02-02T08:41:42.627
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Employees with Specialist title and below title do not qualify for an annual bonus or stock options benefit. They try to get as many employees with Specialist title so they don't have to pay bonus.
+
+
+	Cons: 
+		Westlake scheduled me to interview with one of their hiring managers out of their corporate office in Houston, Texas. I met with the hiring manager and boy was I shocked by the behavior the person had. The person did not give me a full explanation of the scope of the role or even a clear idea of what skills they were looking for in a candidate. It felt like the person was trying to trip me up during the interview. I have a lot of experience so I found his behavior very odd. 
+		
+		The person spoke in generalities. The person did not ask me how my skills apply to the current opening. The role on the manager's team was very broad in scope so I did not know what he wanted me to explain. When I asked the person specific questions the person spoke really fast and never gave me an full big picture of what the job scope included. I been around the block long enough to spot poor manager when I see it.
+
+
+	Summary: 
+		Nothing to see here ......Keep on Looking for the next opportunity
+
+
+Review 3:
+	Job Title: Electrical and Instrumentation Technician
+	Location: Deer Park, TX
+	Review Date: 2024-04-12T12:45:50.113
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good company to work for.
+
+
+	Cons: 
+		Management is not the best.
+
+
+	Summary: 
+		Westlake I&amp;E pay
+
+
+Review 4:
+	Job Title: Senior Buyer
+	Location: None
+	Review Date: 2024-04-09T10:38:03.560
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Very Stable company, with growth in mind.
+
+
+	Cons: 
+		Don't value contributors with pay equally across the company.
+
+
+	Summary: 
+		Great Company with growing pains
+
+
+Review 5:
+	Job Title: Warehouse Worker
+	Location: Chambersburg, PA
+	Review Date: 2024-03-20T15:33:18.190
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Pay and benefits plus overtime
+
+
+	Cons: 
+		Lack of communication between departments
+
+
+	Summary: 
+		Warehouse work
+
+
+Review 6:
+	Job Title: Process Engineer
+	Location: None
+	Review Date: 2024-03-15T17:12:52.630
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good pay
+		Great environment 
+		Great people
+
+
+	Cons: 
+		No complaints 
+		Always a great day
+
+
+	Summary: 
+		No complaints
+
+
+Review 7:
+	Job Title: None
+	Location: Houston, TX
+	Review Date: 2023-10-18T14:17:16.583
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Company is well run and very stable, with a good track record of growth and investment into its assets. Good reliable owner and leadership team. Pay and benefit in line with market (not the best but above average). Good coworkers that are professional.
+
+
+	Cons: 
+		Not the most forward-thinking even among peers in a very traditional industry. Culturally still very old school - meaning expect a boys club at the top, limited career development or movement especially for younger people that are driven to do more, limited maternity leave, etc. At the end of the day, it's all about personal fit. Westlake attracts a certain type of people to stay and collect a decent stable paycheck, but if you are a young woman/minority driven to do something more or looking for a more innovative culture, this is not the place.
+
+
+	Summary: 
+		Good company but old school
+
+
+Review 8:
+	Job Title: Engineer I
+	Location: Lake Charles, LA
+	Review Date: 2024-02-01T05:09:51.610
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 1
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Fun exciting projects, every day looks extremely different. Fun process, knowledgeable people. Decent pay, good benefits. Solid 401k match.
+
+
+	Cons: 
+		The people, and sadistic culture. There are many people within this company that bolster a get it done mentality. Many people have negligence towards safety, and unrealistic expectations. Power gets to many people here, and overtakes their entire personality.
+
+
+	Summary: 
+		Interesting job, but not everyones cup of tea
+
+
+Review 9:
+	Job Title: Maintenance Technician
+	Location: Bristol, VA
+	Review Date: 2024-02-28T21:13:36.073
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Great work environment and benefits.
+
+
+	Cons: 
+		Swing shift schedule and home life balance.
+
+
+	Summary: 
+		Maintenance Swing Shift
+
+
+Review 10:
+	Job Title: Production Supervisor
+	Location: Phoenix, AZ
+	Review Date: 2024-01-30T13:02:30.937
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 1
+
+	Pros: 
+		For a fortune 500 company it feels like working at a mom and pops.
+
+
+	Cons: 
+		The word work life balance does not exist here. You need to be flexible in the drop of a hat here.
+
+
+	Summary: 
+		Westlake Royal Roofing
+
+
+Review 11:
+	Job Title: None
+	Location: Houston, TX
+	Review Date: 2024-02-11T20:58:21.697
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Quarterly bonuses, benefits and 401k
+
+
+	Cons: 
+		Pay, managers and working with people that don't have the knowledge to lead but are in positions that require leadership
+
+
+	Summary: 
+		Good
+
+
+Review 12:
+	Job Title: Analyst
+	Location: None
+	Review Date: 2024-02-12T07:31:46.347
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Very stable and easy going culture
+
+
+	Cons: 
+		No emphasis on development from management
+
+
+	Summary: 
+		Steady but slow
+
+
+Review 13:
+	Job Title: Engineer
+	Location: New Orleans, LA
+	Review Date: 2024-02-08T12:20:36.527
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great people for the most part.
+
+
+	Cons: 
+		Not as inclusive as I would expect them to be in this day-and-age. Same "good-ole-boy" attitude, can take some getting used to.
+
+
+	Summary: 
+		Okay
+
+
+Review 14:
+	Job Title: Warehouse Associate
+	Location: Garland, TX
+	Review Date: 2024-02-11T20:20:01.917
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Everything looks the same kinda boring.
+
+
+	Cons: 
+		Not much advancement but still good pay
+
+
+	Summary: 
+		Good company
+
+
+Review 15:
+	Job Title: Relief FM-Cell Renewal/Loader
+	Location: Sulphur, LA
+	Review Date: 2024-01-29T17:22:32.473
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Pay
+		Benefits 
+		Schedule
+		Ability to work overtime
+		Ability to move up
+
+
+	Cons: 
+		The pay is less in certain departments compared to other units.
+
+
+	Summary: 
+		Great company
+
+
+Review 16:
+	Job Title: Planner
+	Location: Lake Charles, LA
+	Review Date: 2024-02-21T01:59:22.773
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Great salary and bonuses are good
+
+
+	Cons: 
+		Lack of leadership, new technology and new ideas
+
+
+	Summary: 
+		Don’t Do It Tp Yourself 
+
+
+Review 17:
+	Job Title: Maintenance Supervisor
+	Location: None
+	Review Date: 2024-02-07T19:11:45.467
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Work life balance is great
+
+
+	Cons: 
+		Maintenance structure and accountability for employees
+
+
+	Summary: 
+		Great company
+
+
+Review 18:
+	Job Title: Customer Service Supervisor
+	Location: Wixom, MI
+	Review Date: 2024-01-02T07:05:47.560
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Work with good people and products.
+
+
+	Cons: 
+		Too many unnecessary rules that stifle creativity and progress. Highly bureaucratic environment and company that is more about internal politics than doing the right thing.
+
+
+	Summary: 
+		Building products supervisor
+
+
+Review 19:
+	Job Title: Logistics
+	Location: Franklin, OH
+	Review Date: 2023-10-24T15:31:58.517
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		None come to mind or standout.
+
+
+	Cons: 
+		Stuck in a time warp, management has no interest in solving decades old issues. No concern for the way those issues impact daily quality of life. Every department operates like their own little island with no care for the impacts of their practices on other departments. Hours are clocked on "the 7-minute rounding up or down rule' which allows the company to legally not pay you for time worked if you don't know how to "play the game". Look it up to understand what this means.
+
+
+	Summary: 
+		Mediocre
+
+
+Review 20:
+	Job Title: Logistics Analyst
+	Location: Houston, TX
+	Review Date: 2024-02-03T16:59:09.397
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great group of people to work with
+
+
+	Cons: 
+		Commute can be long depending on area
+
+
+	Summary: 
+		Great
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

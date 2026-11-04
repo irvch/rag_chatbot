@@ -1,0 +1,653 @@
+
+Loews is a Insurance: Property and Casualty (Stock) company based in 10065 New York, New York. 
+The company has 12,050 employees and has a revenue of $14,044 according to Fortune 500.
+The company is valued at $13,395 and has a profit of $1,012. The CEO of the company is James S. Tisch.
+
+The Company has the following ratings: 
+Average ratings for Loews:
+Business Outlook: 0.45
+
+Career Opportunities: 2.9
+Distribution: 
+	1: 12 
+	2: 5 
+	3: 10 
+	4: 12 
+	5: 8 
+
+CEO: 0.47
+
+Compensation and Benefits: 3.3
+Distribution: 
+	1: 2 
+	2: 5 
+	3: 17 
+	4: 13 
+	5: 10 
+
+Culture and Values: 2.7
+Distribution: 
+	1: 12 
+	2: 4 
+	3: 7 
+	4: 11 
+	5: 9 
+
+Diversity and Inclusion: 3.1
+Distribution: 
+	1: 4 
+	2: 1 
+	3: 2 
+	4: 7 
+	5: 4 
+
+Overall: 3.4
+Distribution: 
+	1: 9 
+	2: 6 
+	3: 9 
+	4: 14 
+	5: 16 
+
+Senior Management: 2.6
+Distribution: 
+	1: 13 
+	2: 7 
+	3: 7 
+	4: 12 
+	5: 8 
+
+Work Life Balance: 3.1
+Distribution: 
+	1: 5 
+	2: 4 
+	3: 10 
+	4: 16 
+	5: 12 
+
+Review Count: 54
+
+Recommend to Friend: 
+	RECOMMEND: 24
+	WONT RECOMMEND: 21
+
+
+
+
+The company has 62 reviews on Glassdoor. The last review was posted on 2023-12-01T12:02:35.993. 
+There are 20 Reviews for Loews:
+
+Review 1:
+	Job Title: Officer
+	Location: New York, NY
+	Review Date: 2023-12-01T12:02:35.993
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Senior management is always attempting to allocate capital at a diversified holding corporation. There will often be a new line of business to understand.
+
+
+	Cons: 
+		Information understandably has to be on a close hold - but this can be off-putting if one is not in the group privy to thought leadership.
+
+
+	Summary: 
+		Diverse Challenges at Small Organization with Broad Reach
+
+
+Review 2:
+	Job Title: Human Resources
+	Location: New York, NY
+	Review Date: 2023-07-26T09:53:11.600
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Compensation and benefits were generous
+
+
+	Cons: 
+		Career and skill development options were somewhat limited
+
+
+	Summary: 
+		Kind folks
+
+
+Review 3:
+	Job Title: Sr. PM
+	Location: None
+	Review Date: 2023-06-02T13:02:39.063
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Great leadership. Growth is promoted
+
+
+	Cons: 
+		Non stop. Skelton crews scheduled
+
+
+	Summary: 
+		Great culture
+
+
+Review 4:
+	Job Title: Lifeguard
+	Location: Orlando, FL
+	Review Date: 2023-04-30T06:46:29.577
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Free lunch and consistent work
+
+
+	Cons: 
+		Management was not very helpful
+
+
+	Summary: 
+		Ok
+
+
+Review 5:
+	Job Title: Customer Service Representative
+	Location: Orlando, FL
+	Review Date: 2023-01-03T10:02:03.623
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		It was a lot of fun working for the Hotel, dirrect management is awesome and the opportunity to cross train with other positions was provided within my department. They is average, depending on tips (like any other hospitalitu job). Employee discounts was one of the best I've seem in the market, and overall good benefits.
+
+
+	Cons: 
+		It takes a long time to get promoted. They don't always consider current employees for promotions
+
+
+	Summary: 
+		Guest Services
+
+
+Review 6:
+	Job Title: Shift Supervisor
+	Location: Orlando, FL
+	Review Date: 2023-03-20T08:03:12.887
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Perks Discounts Free lunch Opportunity Tickets
+
+
+	Cons: 
+		Pay Management Hours Culture Unheard
+
+
+	Summary: 
+		Nothing
+
+
+Review 7:
+	Job Title: None
+	Location: New York, NY
+	Review Date: 2022-10-07T05:04:49.110
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		I guess the small size ?
+
+
+	Cons: 
+		It has been a quick in and out for me here. Promotions are all based on how much of a favorite you are in this small place and not on actual work. I voiced a concern to HR that ultimately sat on someone’s desk for months and was never dealt with. There is no extra opportunity for learning and development, health and wellness, DEI, nothing. There are a couple benefits of working at a small place like this but all of these things make it not worth it.
+
+
+	Summary: 
+		Save yourself the time
+
+
+Review 8:
+	Job Title: Valet Attendant
+	Location: San Diego, CA
+	Review Date: 2022-05-19T13:50:25.890
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Great tips, easy job, autonomy and free lunch
+
+
+	Cons: 
+		Low base pay, poor management
+
+
+	Summary: 
+		Good tips, boring long hours
+
+
+Review 9:
+	Job Title: None
+	Location: None
+	Review Date: 2022-01-09T15:32:51.763
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Most of the colleagues were nice to work with.
+
+
+	Cons: 
+		The organization is getting smaller as they keep letting people go. 
+		The upper management doesn’t believe in remote working; it’s difficult for them to change. 
+		The management doesn’t care about the health and safety of their employees.
+		No interests in DEI.
+
+
+	Summary: 
+		It’s not a great place to work for
+
+
+Review 10:
+	Job Title: Cash Control Assistant
+	Location: New York, NY
+	Review Date: 2022-04-20T03:53:26.407
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		friendly coworkers, quiet working environment
+
+
+	Cons: 
+		Not much space for growth
+
+
+	Summary: 
+		My time there was fine
+
+
+Review 11:
+	Job Title: None
+	Location: None
+	Review Date: 2022-03-15T03:36:16.720
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great work environment and programs
+
+
+	Cons: 
+		Salaries are low, no fair promotions and very low salary increases
+
+
+	Summary: 
+		Unfair promotions
+
+
+Review 12:
+	Job Title: None
+	Location: None
+	Review Date: 2022-01-06T18:15:55.867
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Work life balance was OK.
+
+
+	Cons: 
+		Managers only manage upwards. 
+		No transparency. 
+		No development. 
+		Poor people managers. 
+		No care for mental health, wellbeing or safety for employees.
+
+
+	Summary: 
+		Would not Recommend
+
+
+Review 13:
+	Job Title: None
+	Location: New York, NY
+	Review Date: 2016-02-22T14:15:08.680
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		There is an incentive bonus, but it is very small and does not correlate to any metrics or to the 25% one that is listed on your personal benefits on the intranet. 
+		
+		Work life balance and team atmosphere before layoffs.
+
+
+	Cons: 
+		Management did a poor job with resource allocation and now an even worse selection of the 8 IT people they let go as most are “worker bees”, experts in supporting and enhancing primary financial systems  now it is left to less knowledgeable resources who will struggle just to maintain these systems and put out fires. 
+		
+		 Loews has no performance or reward systems in place for the employee to prove they achieved or did not achieve goals so Management who oversees the systems has to use their own judgement of  "who they like" to reward as most don't even log into the systems to even begin to understand their complexities.    
+		
+		Loews holding company is no longer a family atmosphere and it is now considered the same mentality as a Private Equity or Corporate America and loyalty does not matter after firing 8 IT people on Feb. 10, some who have worked there for years, having to   leave immediately, escorted out like a criminal with 10 minutes to pack their stuff and not being able to say goodbye to anyone or anyone saying goodbye to them.
+
+
+	Summary: 
+		"Lights Out" Mode for Key Financial Systems
+
+
+Review 14:
+	Job Title: None
+	Location: None
+	Review Date: 2022-01-06T18:11:31.973
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Benefits are fully covered with no out of pocket expense
+
+
+	Cons: 
+		Loews culture is catered to the elderly.
+		No employee engagememt.
+		Puts employees at risk especially during Covid.
+		There is no such thing as DEI at Loews.
+		There's no upward mobility.
+
+
+	Summary: 
+		Would not recommend
+
+
+Review 15:
+	Job Title: Senior Product Manager
+	Location: None
+	Review Date: 2021-12-13T04:35:23.917
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good pay holiday off , micro mgmt
+
+
+	Cons: 
+		Co workers was a bit stubborn
+
+
+	Summary: 
+		Not bas
+
+
+Review 16:
+	Job Title: Stocker
+	Location: None
+	Review Date: 2021-11-13T10:48:53.257
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		The one I worked at was well lead, and had a great team.
+
+
+	Cons: 
+		No cons, this was a great place to work.
+
+
+	Summary: 
+		Review
+
+
+Review 17:
+	Job Title: None
+	Location: None
+	Review Date: 2018-08-20T08:28:44.990
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		There’s a lot of buzz around the office about how things are changing but as far as I can tell it’s all for the better.  Rather than throw stones at the people going out on a limb to improve things like some have been doing, the smarter folks understand how business works and we need to change with the times.  Nobody likes to see somebody lose a job but sometimes there are casualties when technology comes in. Hasn’t that been proven by now? Wake up people!
+		
+		I have had plenty of conversations with my friends at the office about how nice it is to finally see the company make some changes. Workday came into HR and caused some waves and now its being put into Finance so there will be more waves. In the end, the company will be better off with cool technology and we will be able to work on more interesting things without being bogged down with work that the systems will do for us.
+		
+		REALLY nice people (for the most part), new technology, good pay and interesting new projects are all positives.
+
+
+	Cons: 
+		Naysayers and negative people.  The problem here is that many of the negative people have some kind of pension plan so they aren’t going anywhere. They should get with the program or get out of the way.
+		
+		The office is small but you never see senior management. They don’t seem concerned with the average employee.
+
+
+	Summary: 
+		Good experience
+
+
+Review 18:
+	Job Title: Hotel Sales Coordinator
+	Location: None
+	Review Date: 2021-10-19T16:55:41.637
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good benefits and exciting environment
+
+
+	Cons: 
+		Long hours and may have to work weekends
+
+
+	Summary: 
+		Good atmosphere
+
+
+Review 19:
+	Job Title: Analyst
+	Location: None
+	Review Date: 2019-12-22T09:58:29.017
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		I really enjoyed my time working at Loews. I made lifelong friends and learned a lot from senior staff. Most of my time with Loews (IT Department) was positive, it was a great place to get your hands on different types of technologies and learn from lots of talented people (Note: many of the talented people are no longer with the company but very technically talented people remain). They moved away from in house development so if you are a developer, its not the right fit for you. This is a great place to gain lots of experience and then move on.
+		
+		-Above average medical benefits and other company benefits
+		-Decent Work/life balance 
+		-great office location, next to central park.
+
+
+	Cons: 
+		-The company started to change 3 years ago with its first layoff in over 20 years. In 2016, roughly 10% of the technology team was laid off. In 2018, an entire group under the accounting team was laid off. In 2019, 50% (mostly lifers) of the technology team was laid off. 
+		-staff scared of losing their jobs creating a sense of an unstable work environment which creates a toxic work environment
+		-lack of promotion/upward mobility
+		
+		Note: other reviews mentioned nepotism and its accurate.
+
+
+	Summary: 
+		Decent place to work at but read on
+
+
+Review 20:
+	Job Title: Cashier
+	Location: Bear, DE
+	Review Date: 2021-07-29T08:00:13.533
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Close to home and clean
+
+
+	Cons: 
+		Short staff and schedule changes
+
+
+	Summary: 
+		Good
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

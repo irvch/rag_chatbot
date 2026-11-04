@@ -1,0 +1,626 @@
+
+Kimberly-Clark is a Household and Personal Products company based in 75038 Irving, Texas. 
+The company has 44,000 employees and has a revenue of $20,175 according to Fortune 500.
+The company is valued at $45,293 and has a profit of $1,934. The CEO of the company is Mike Hsu.
+
+The Company has the following ratings: 
+Average ratings for Kimberly-Clark:
+Business Outlook: 0.69
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 308 
+	2: 421 
+	3: 849 
+	4: 935 
+	5: 821 
+
+CEO: 0.82
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 104 
+	2: 226 
+	3: 818 
+	4: 1242 
+	5: 929 
+
+Culture and Values: 4
+Distribution: 
+	1: 218 
+	2: 237 
+	3: 495 
+	4: 840 
+	5: 1317 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 84 
+	2: 94 
+	3: 230 
+	4: 402 
+	5: 721 
+
+Overall: 4
+Distribution: 
+	1: 207 
+	2: 270 
+	3: 731 
+	4: 1244 
+	5: 1336 
+
+Senior Management: 3.5
+Distribution: 
+	1: 406 
+	2: 393 
+	3: 735 
+	4: 766 
+	5: 649 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 285 
+	2: 328 
+	3: 687 
+	4: 919 
+	5: 1095 
+
+Review Count: 3799
+
+Recommend to Friend: 
+	RECOMMEND: 2332
+	WONT RECOMMEND: 656
+
+
+
+
+The company has 4509 reviews on Glassdoor. The last review was posted on 2024-04-17T20:08:31.047. 
+There are 20 Reviews for Kimberly-Clark:
+
+Review 1:
+	Job Title: Lead Product Scientist
+	Location: Neenah, WI
+	Review Date: 2023-12-04T11:14:57.957
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Caring culture, employee perks, good management, flexible work
+
+
+	Cons: 
+		Slow career advancement when making moves to different functions.
+
+
+	Summary: 
+		Company that CARES!
+
+
+Review 2:
+	Job Title: Financial Analyst
+	Location: Neenah, WI
+	Review Date: 2024-03-12T20:08:04.983
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Benefits and pay are good. They really care about their employees.
+
+
+	Cons: 
+		needs some work in the culture space
+
+
+	Summary: 
+		Great Pay, Benefits, and Work Life balance
+
+
+Review 3:
+	Job Title: HR- Consultant
+	Location: Roswell, GA
+	Review Date: 2024-04-17T16:52:16.010
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Progressive leadership across the organization
+
+
+	Cons: 
+		Work life balance, depending upon project and team, can sometimes be a challenge
+
+
+	Summary: 
+		Great place to work 
+
+
+Review 4:
+	Job Title: Customer Service Advocate
+	Location: Roswell, GA
+	Review Date: 2024-04-12T22:34:13.010
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Ive worked at Kimberly Clark for some years now. This company has a great leadership team, open communication and values their employees.
+
+
+	Cons: 
+		The bar is now set high for other companies
+
+
+	Summary: 
+		Best job
+
+
+Review 5:
+	Job Title: Finance Executive
+	Location: Chicago, IL
+	Review Date: 2024-04-17T14:29:19.803
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Good company, with unbelievably talented professionals across the organization.
+
+
+	Cons: 
+		Recent uneasiness around (another) global restructure
+
+
+	Summary: 
+		Good Company
+
+
+Review 6:
+	Job Title: Senior Accounting Analyst
+	Location: Neenah, WI
+	Review Date: 2024-04-04T10:11:21.177
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		I love working here. Most of the teams I've been a part of are good to work with. Overall, the culture is great and aligns with the values of the company.
+
+
+	Cons: 
+		There is little to no career path for the lower level employees.
+
+
+	Summary: 
+		I love working here, but...
+
+
+Review 7:
+	Job Title: Machine Operator
+	Location: None
+	Review Date: 2024-04-17T20:08:31.047
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay
+		Decent people decent management
+
+
+	Cons: 
+		12 hr rotating shifts changing every 2 days
+
+
+	Summary: 
+		Good pay
+
+
+Review 8:
+	Job Title: Senior Quality Manager
+	Location: None
+	Review Date: 2024-04-10T13:29:52.630
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Pay, Work life balance and awesome local teams
+
+
+	Cons: 
+		senior leadership sometimes are disconnected from the challenges that face local manufacturing facilities.
+
+
+	Summary: 
+		Great Company
+
+
+Review 9:
+	Job Title: Administrative Assistant
+	Location: None
+	Review Date: 2024-04-16T09:27:12.480
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Flexible, fun, versatile, good bosses, good coworkers
+
+
+	Cons: 
+		They cut people, and change teams
+
+
+	Summary: 
+		Good
+
+
+Review 10:
+	Job Title: Strategic Material Planner
+	Location: Neenah, WI
+	Review Date: 2024-04-14T18:47:23.143
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Culture is one of the best
+
+
+	Cons: 
+		Nothing to say nothing bad about
+
+
+	Summary: 
+		Great place to work
+
+
+Review 11:
+	Job Title: Senior Associate
+	Location: Chicago, IL
+	Review Date: 2024-04-14T16:42:18.927
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Work life balance is unmatched
+
+
+	Cons: 
+		Leadership needs work with direction
+
+
+	Summary: 
+		Good place to work
+
+
+Review 12:
+	Job Title: Engineering Team Leader
+	Location: Neenah, WI
+	Review Date: 2024-04-12T06:29:40.353
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Great culture and people to work with. Bosses understand work-life balance
+
+
+	Cons: 
+		Lots of bureaucracy to get capital projects or hiring decisions approved.
+
+
+	Summary: 
+		Great culture
+
+
+Review 13:
+	Job Title: Brand Manager
+	Location: Chicago, IL
+	Review Date: 2024-04-12T17:25:03.913
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Caring culture balanced with performance
+
+
+	Cons: 
+		Complex decision making structure and communication
+
+
+	Summary: 
+		Great place to work
+
+
+Review 14:
+	Job Title: Associate Director
+	Location: Roswell, GA
+	Review Date: 2024-04-04T14:29:31.297
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great culture
+		Work life balance
+		Learning opportunities
+
+
+	Cons: 
+		Board and senior leaders not walk the talk when it comes to career planning. 
+		Sometimes relationship is taken too personal and some favoritism in the team seems to happen
+
+
+	Summary: 
+		Great Culture not as good commitment from senior leaders
+
+
+Review 15:
+	Job Title: Senior Finance Analyst
+	Location: Irving, TX
+	Review Date: 2024-04-10T12:29:14.910
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Amazing corporate culture and good benefits.
+
+
+	Cons: 
+		Closure of company gyms since i left
+
+
+	Summary: 
+		Great place to work
+
+
+Review 16:
+	Job Title: Brand Manager
+	Location: Atlanta, GA
+	Review Date: 2024-04-07T19:16:39.223
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Great benefits, work life balance
+
+
+	Cons: 
+		slow progress due to red tape in regulatory and quality.
+
+
+	Summary: 
+		Decent
+
+
+Review 17:
+	Job Title: Category Manager
+	Location: Roswell, GA
+	Review Date: 2024-01-15T11:05:29.357
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		I work remotely and only go into the office I needed. They have good Business Resource Groups. They have great networking events at the corp office. Truly a global organization where you get to work with folks all over the world.
+
+
+	Cons: 
+		The lack of change management and poor communication is abhorrent. They changed to a new P2P systems that added hours upon hours of non-value add work onto procurement. There was minimal training with 25+ page documents that’s don’t have definitions. The new p2p proceses don’t seem to have any real world logic built into them or understanding of how procurement actually works. The person leading this for the organization has no experience in indirect. We recently went through the reorg and most were left with no understanding of what the changes meant, how roles were impacted and when changes begin. There is an urgency culture and lack of established processes and timelines. This is very matrix’s organization with lots of decisions makers so hard to consolidate spend. This is where good procurement goes to die.
+
+
+	Summary: 
+		Indirect Procurement Sadness
+
+
+Review 18:
+	Job Title: Supply Chain Analyst
+	Location: Neenah, WI
+	Review Date: 2024-03-13T08:59:15.377
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Nice work perks and good culture overall. Experience can vary by team. Learning and growth mindsets.
+
+
+	Cons: 
+		Over complicated at times. Training and connection amongst teams and to leadership could be better as a whole, but understandable given size of company.
+
+
+	Summary: 
+		Positive culture. Large company. Learning opportunity.
+
+
+Review 19:
+	Job Title: Production Operator
+	Location: Mobile, AL
+	Review Date: 2024-01-01T20:13:30.930
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good for people who have worked there over 30 years. You don't stand a chance if you are new.
+
+
+	Cons: 
+		This place sucks. It's very racist and doesn't care about new team members. It's not any different from the slavery era where they force you to come to work on your days off and if you don't, you get wrote up. Once you make it out of your first year, the influential people decide where you go next. Their friends get to pick who they want and if you are not one of them, you get stuck on the worst machine. Vacation should be taken once and not in installments meaning if you only need 1 day off, they force you to take the whole 40 hours and now you are left with no vacation. The place itself is very depressing, dirty and dusty and was built like a prison. This is the reason people die quick after retiring from this place. Work here at your own risk or simply make a Will as soon as you get hired.
+
+
+	Summary: 
+		Don't Recommend
+
+
+Review 20:
+	Job Title: None
+	Location: None
+	Review Date: 2023-11-16T12:31:34.907
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		You'll work with some of the most amazing people but they will be weary and overworked, and kept afloat by decent pay.
+
+
+	Cons: 
+		It's kind of a free-for-all. There is no central person or depository to go to when you need help, be it onboarding or off boarding and everything in between. Need help navigating your benefits or something as simple as locating group files and folders/resources? Good luck. No one can help you. Not even your management leads. They are currently going through a "transformation" AKA "silent layoffs" and are not very forthcoming about what is actually happening.
+
+
+	Summary: 
+		zero transparency
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

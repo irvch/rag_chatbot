@@ -1,0 +1,645 @@
+
+Lennar is a Homebuilders company based in 33126 Miami, Florida. 
+The company has 12,012 employees and has a revenue of $33,671 according to Fortune 500.
+The company is valued at $29,726 and has a profit of $4,614. The CEO of the company is Jonathan M. Jaffe.
+
+The Company has the following ratings: 
+Average ratings for Lennar:
+Business Outlook: 0.68
+
+Career Opportunities: 3.5
+Distribution: 
+	1: 151 
+	2: 102 
+	3: 160 
+	4: 167 
+	5: 211 
+
+CEO: 0.75
+
+Compensation and Benefits: 3.8
+Distribution: 
+	1: 69 
+	2: 96 
+	3: 190 
+	4: 222 
+	5: 218 
+
+Culture and Values: 3.5
+Distribution: 
+	1: 184 
+	2: 87 
+	3: 103 
+	4: 143 
+	5: 238 
+
+Diversity and Inclusion: 3.8
+Distribution: 
+	1: 57 
+	2: 41 
+	3: 67 
+	4: 100 
+	5: 168 
+
+Overall: 3.7
+Distribution: 
+	1: 154 
+	2: 114 
+	3: 171 
+	4: 225 
+	5: 291 
+
+Senior Management: 3.4
+Distribution: 
+	1: 221 
+	2: 88 
+	3: 129 
+	4: 162 
+	5: 187 
+
+Work Life Balance: 3.3
+Distribution: 
+	1: 202 
+	2: 110 
+	3: 165 
+	4: 152 
+	5: 164 
+
+Review Count: 956
+
+Recommend to Friend: 
+	RECOMMEND: 411
+	WONT RECOMMEND: 285
+
+
+
+
+The company has 1015 reviews on Glassdoor. The last review was posted on 2024-04-15T19:37:23.563. 
+There are 20 Reviews for Lennar:
+
+Review 1:
+	Job Title: Acquisition Analyst
+	Location: None
+	Review Date: 2024-04-03T12:48:11.727
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great place to learn. You have control over your own projects. 
+
+
+	Cons: 
+		Amount of deals that need to be done. 
+
+
+	Summary: 
+		Recommend
+
+
+Review 2:
+	Job Title: Financial Systems Analyst II
+	Location: Irvine, CA
+	Review Date: 2024-04-15T19:37:23.563
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		There were zero pro's.
+		They hired me at $78,000/year, full-time W-2 with benefits. It was a low ball offer since I used to make over $100,000/year before.
+		
+		I took the job in hopes that I would not stay at this salary and did not have many options.
+
+
+	Cons: 
+		- They harass, belittle, and threaten employees that HR did not want to be hired (through a recruiter/agency)
+		- Toxic Culture. The Lead on my team threatened that I should not use the bathroom for bowel movements during work hours as it takes away from my amount of time at the desk. She specifically said not to.
+		- The supervisor (not even manager) agreed with the Lead saying I should not be allowed more than 15 minutes in the restroom (yeah, right) and should make it as a part of my break (or whole break)
+		- They monitor all the systems you access and if you are logged out for 15-30 minutes due to working on a task off the system, the team accuses you of not working even though you were
+		- Biggest reason not to work in IT here: They regularly hire new workers full-time, and use them for the short-term and then lay them off because it's cheaper than paying higher rates (double the amount) for contract workers. 
+		
+		This is to satisfy seasonal/periodical peaks of work and then once the work is done, they keep the seasoned/experienced/tenured people who have worked there over 5 years and let everybody else go.
+		
+		- They wasted an entire week of my time flying me to Miami, FL to do an orientation where I the "facilitators" were all sarcastic, threatening, and made inappropriate remarks about discriminatory things the whole week (such as saying, "SDI/State Disability is only for women who need to go on maternity leave, not for someone experiencing a health issue that requires time off. There was someone else who commented, "Why would you train a 'camel'?")
+		- Last reason: Some director caught on to all this. I sat at the office every day while the lead multiple times on the phone told me about my restroom issues, amongst other nonsensical things. There were within the permanent Teams chat history messages from the lead and supervisor about all this nonsense and toxic culture. He decided it was best to lay me off and provide me a $19-20,000 severance. They ended up not providing any stub or remittance for the severance, and only paid $11,000.
+		The maximum tax rate when yearly income cannot be calculated is 22% for Federal/State here. I was not paid my full severance.
+		(Therefore, their NDA and anti-liability clause of the severance agreement does not apply).
+		
+		Guess what? That means there is no arbitration or mediation. If they have an issue, they would have to go through small claims to get their fake severance back, and the judge and clerk would laugh at the paperwork and throw it out before it even goes through.
+		
+		Thanks for the $11K. I'm going to be leaving this here for future "candidates".
+
+
+	Summary: 
+		Do not accept an offer in IT. They hire short-term and layoff
+
+
+Review 3:
+	Job Title: Director IT
+	Location: Miami, FL
+	Review Date: 2024-03-13T06:14:47.627
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Strong money maker business thanks to a high growth market. Lean operations minimizing the risks, construction is fully outsourced, lean construction supply chain and +27% Gross Margin.
+
+
+	Cons: 
+		The company has been investing in the business for the sake of the investors but not enough in people. The C-Level was missing a CTO, CHRO and Co-CEO for years. There is no technology innovation, systems are 30 years with very low automation. There is a lack of HR fundamentals such as salary homogenization, performance management, talent management, training programs, career planning, expensive health insurance. Over the years we could feel the impacts on the IT department and the employees.
+
+
+	Summary: 
+		Strong business but poor management
+
+
+Review 4:
+	Job Title: New Home Sales Consultant
+	Location: Hamilton, NJ
+	Review Date: 2024-02-28T18:35:43.770
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Great pay, flexibility in which communities/location you can work - it is a national company and you can transfer from state to state (real estate licenses requirements vary), they offer 3 weeks of PTO, excellent 401K match, good health insurance. They hire and promote within, work with lots of charities.
+
+
+	Cons: 
+		Very hard to use the PTO, there are black out dates depending on the time of year. You only get, for certain, 3 holidays off - Thanksgiving day, Christmas Day and New Years Day. If performing well you may get to close the office early or possibly even give you the holiday off ... but they do not tell you until like 5pm the day before making it impossible to plan things. No consistency in how management runs things and very rarely learns from any of their mistakes. Beware of potential extreme favoritism!!
+
+
+	Summary: 
+		Lots of Pros and Cons
+
+
+Review 5:
+	Job Title: Sr Construction Manager
+	Location: Austin, TX
+	Review Date: 2024-04-11T11:58:45.760
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great pay, flexible hours, no micro-managing
+
+
+	Cons: 
+		Can get loaded up with a lot of work and it can be overbearing and frustrating
+
+
+	Summary: 
+		Great Company to work for
+
+
+Review 6:
+	Job Title: Construction Manager
+	Location: Palm Bay, FL
+	Review Date: 2024-04-15T07:36:10.487
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Good pay, good support, decent benifits
+
+
+	Cons: 
+		High stress environment, tough to advance
+
+
+	Summary: 
+		Great place
+
+
+Review 7:
+	Job Title: Construction Manager
+	Location: San Antonio, TX
+	Review Date: 2024-03-10T11:02:56.150
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		You get out of it what you put in. Trust the process. You will learn how to build a house in your sleep if you are new to industry. They treat you fairly on salary and bonus when you’re dedicated. If you’re satisfied with your salary only, this is not the company for you. You will always have enough homes.
+
+
+	Cons: 
+		Fast paced, high stress, carrying a lot of homes with no end in sight. Not everyone is cut out for this job. You have to enjoy the pressure to succeed.
+
+
+	Summary: 
+		Good Company
+
+
+Review 8:
+	Job Title: Network Operations Engineer
+	Location: Miami, FL
+	Review Date: 2024-03-28T22:08:38.197
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		The company culture is very friendly and you will enjoy yor peers majority of the time
+
+
+	Cons: 
+		challenges with communication, especially in-between teams. Left hand always struggles with what the right hand is doing. Checks and balances don't exist. which leaves an open for improve.
+
+
+	Summary: 
+		Not to Bad
+
+
+Review 9:
+	Job Title: Construction Project Manager
+	Location: Tampa, FL
+	Review Date: 2024-04-03T13:31:58.007
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great team to be apart of
+
+
+	Cons: 
+		Compensation could have been better
+
+
+	Summary: 
+		Great place to work to get foot in the door
+
+
+Review 10:
+	Job Title: Sales Contract Coordinator
+	Location: Chantilly, VA
+	Review Date: 2024-04-02T07:36:34.010
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Flexible Hours, tuition reimbursement, paid holidays, great salary
+
+
+	Cons: 
+		Not always a pathway for growth in certain positions
+
+
+	Summary: 
+		Great place to work 
+
+
+Review 11:
+	Job Title: Purchasing Coordinator
+	Location: None
+	Review Date: 2024-04-02T09:31:01.507
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Innovative and in constant evolution.
+
+
+	Cons: 
+		Too worry to meet expectations.
+
+
+	Summary: 
+		Good Company to work for
+
+
+Review 12:
+	Job Title: Assistant Project Manager
+	Location: Las Vegas, NV
+	Review Date: 2024-03-28T21:44:55.467
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great Manager. Great People. Great Benefits
+
+
+	Cons: 
+		Working from home. It’s a plus at times and a minus at times.
+
+
+	Summary: 
+		Great Company
+
+
+Review 13:
+	Job Title: Analyst II
+	Location: Miami, FL
+	Review Date: 2024-03-20T19:37:07.053
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		I’ve met very kind people since I started, especially in IT. There’s lots of people willing to help you out. Wonderful place to work and great benefits too
+
+
+	Cons: 
+		Moving towards all work week in person
+
+
+	Summary: 
+		Great work environment
+
+
+Review 14:
+	Job Title: Jr. construction manager
+	Location: Queen Creek, AZ
+	Review Date: 2024-01-22T20:13:47.823
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 3
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		$3,000 quarterly bonus that can go up a little based on performance.
+
+
+	Cons: 
+		Too much work load for the amount of time you’re allowed to work.
+		 Pay starts out low and doesn’t even increase to keep up with inflation.
+		
+		Very aggressive and belittling management, with expectations that can’t be met due to endless handicaps put in place by management.
+		
+		Taking vacation is a nightmare, because nothing gets done and you get chewed out for it when you return.
+
+
+	Summary: 
+		Bad pay. Terrible culture.
+
+
+Review 15:
+	Job Title: Compensation Analyst
+	Location: Miami, FL
+	Review Date: 2024-03-28T12:46:39.620
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Solid entry level position salary
+
+
+	Cons: 
+		Human Resources were discriminatory towards LGBTQ
+
+
+	Summary: 
+		Salary
+
+
+Review 16:
+	Job Title: Customer Care Representative
+	Location: None
+	Review Date: 2023-10-23T15:01:21.283
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Good benefits, good time off. Decent work life balance.
+
+
+	Cons: 
+		Management overworked, leaves employees without help when needed. Constant revolving door of people quitting. Do NOT value employees. Pay is NOT commensurate with work load. Management does not back you up. Gives you a standard to follow but if the trades complain enough, they get what they want rendering your authority to get your work done, moot. Trades do not respect CCR staff. Yell, scream at CCRS.
+
+
+	Summary: 
+		Bad experience
+
+
+Review 17:
+	Job Title: ASM (Area Sales Manager)
+	Location: Denver, CO
+	Review Date: 2024-03-23T12:57:49.817
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Schedule flexibility, pay, benefits, enjoy majority of co-workers
+
+
+	Cons: 
+		Micromanagement, Work/Life Balance, Culture has changed
+
+
+	Summary: 
+		Area Sales Manager
+
+
+Review 18:
+	Job Title: Escrow Closer
+	Location: Orlando, FL
+	Review Date: 2024-03-18T10:43:24.607
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Allows for Overtime during peak months
+
+
+	Cons: 
+		Does not allow proper work life balance
+
+
+	Summary: 
+		Work Life Balance
+
+
+Review 19:
+	Job Title: Construction Manager
+	Location: Houston, TX
+	Review Date: 2024-03-09T18:45:28.700
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Industry leader, lots of business opportunity and network growth
+
+
+	Cons: 
+		Terrible pay structure when paired with workload
+
+
+	Summary: 
+		Eh, nice people, poor pay
+
+
+Review 20:
+	Job Title: Environmental Specialist
+	Location: San Francisco, CA
+	Review Date: 2024-02-26T09:49:47.797
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Innovation is welcome. Thinking outside the box to help improve processes is core in operational stance. Team atmosphere: we all dig in and get it done if there is an issue that needs multiple perspectives and manpower.
+
+
+	Cons: 
+		None that I can think of
+
+
+	Summary: 
+		Room for growth, accepting of innovative ideas
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

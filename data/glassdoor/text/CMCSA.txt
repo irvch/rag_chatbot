@@ -1,0 +1,643 @@
+
+Comcast is a Telecommunications company based in 19103 Philadelphia, Pennsylvania. 
+The company has 186,000 employees and has a revenue of $121,427 according to Fortune 500.
+The company is valued at $159,831 and has a profit of $5,370. The CEO of the company is Brian L. Roberts.
+
+The Company has the following ratings: 
+Average ratings for Comcast:
+Business Outlook: 0.63
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 950 
+	2: 983 
+	3: 1778 
+	4: 1922 
+	5: 2503 
+
+CEO: 0.76
+
+Compensation and Benefits: 3.8
+Distribution: 
+	1: 441 
+	2: 589 
+	3: 1649 
+	4: 2411 
+	5: 3027 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 1111 
+	2: 833 
+	3: 1521 
+	4: 1776 
+	5: 2828 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 383 
+	2: 269 
+	3: 647 
+	4: 1090 
+	5: 2515 
+
+Overall: 3.8
+Distribution: 
+	1: 920 
+	2: 936 
+	3: 2194 
+	4: 2804 
+	5: 3124 
+
+Senior Management: 3.3
+Distribution: 
+	1: 1571 
+	2: 1087 
+	3: 1695 
+	4: 1702 
+	5: 1963 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 1122 
+	2: 959 
+	3: 1812 
+	4: 1879 
+	5: 2314 
+
+Review Count: 15624
+
+Recommend to Friend: 
+	RECOMMEND: 4674
+	WONT RECOMMEND: 2332
+
+
+
+
+The company has 16822 reviews on Glassdoor. The last review was posted on 2024-04-17T19:38:42.487. 
+There are 20 Reviews for Comcast:
+
+Review 1:
+	Job Title: Financial Analyst 2
+	Location: Denver, CO
+	Review Date: 2024-04-17T19:38:42.487
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		The people are good and a family
+
+
+	Cons: 
+		Nothing to say about this
+
+
+	Summary: 
+		Comcast
+
+
+Review 2:
+	Job Title: None
+	Location: Philadelphia, PA
+	Review Date: 2015-02-28T06:51:00.747
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Working at Comcast has given me the opportunity to develop myself; take the time to grow and learn, and that was really important to me during the time in my life when I joined the company. If you have the drive and ambition, there are a ton of ways in which you can grow into a leader if that's what you want to be. I took advantage of the continued education benefit and am finishing my masters degree now... I also joined a couple of the employee resource groups which offer seminars and networking events that support your professional profile. Listen, I'm not a total nerd. The point of my post is that this isn't a company you join and just stay stale within. They encourage your growth, but it's up to you to make it happen. Not only this - it's pretty exciting. We're busy and we have big jobs to do. My salary is in the top percentile for my industry but not only this, I again get the continued education (which is ~$6K/year) plus free cable/internet, top health care benefits and a truly balanced lifestyle - which is rarely the case within the Tech industry.
+
+
+	Cons: 
+		Telling people you work at Comcast triggers 2 typical responses: 1) A big hatred rant on customer service 2) A how do I get my foot in the door? 
+		
+		The reputation of the company is difficult, but the style of the company is to stay humble - I've never seen the company defend themselves against the harmful and discrediting news that exists. I personally think they should defend themselves a little more - they are between a rock and a hard place in many instances of service. I personally experienced visiting someone's home where the issues they were having with their connection was due to a tree root growing into the cable lines which had been their for over 20 years. Things like that cannot be diagnosed over a phone call. It's hard work in the field for sure. Being a part of the corporate side sometimes we're too disconnected from what's happening on the frontline. So I think the size of the organization comes with its complications, but again if you're a working professional looking for an exciting, robust and sexy career, you can comfortably have it here.
+
+
+	Summary: 
+		Tons of Opportunity, in your Hands
+
+
+Review 3:
+	Job Title: Customer Service Associate
+	Location: Plymouth, MI
+	Review Date: 2024-01-27T06:36:59.920
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Can be fun at times. Decent pay and benefits. Good work/life balance.
+
+
+	Cons: 
+		Systems used to sell are unreliable, you're always praying you can enter your sale without 30 mins plus of attempts even in back-up systems. You can also sometimes lose the sale due to the customer getting tired of being one the phone so long, while you're getting help to deal with the outage in a system. You are expected to push extra services even when its just plain inappropriate; welfare customers applying for reduced cost plans wont hear about said plans unless they ask for them directly (even in the department that is only for the reduced cost plans) and you are expected to fast talk, confuse, and push them into more then they can afford. With all of this said, you might just not get enough actual sales calls to make your scorecard which is required to keep the job. I love call center work and am extremely good at it, I was a top 25 rep in my department month after month and its still a struggle to make a good commission in my new department. They lied by omission to recruit top talent from regular inbound sales to work this low income call que by saying more money can be made when the truth was only 3 or 4 people make good commissions in this area. We all felt they knew it would be a pay cut (saved them money) and helped to pad a low revenue departments numbers at the same time. So if you're all good feeling sneaky and dirty all day for decent money this could be for you, but keep your trust low here as management is also very sneaky.
+
+
+	Summary: 
+		Lost in the numbers
+
+
+Review 4:
+	Job Title: Devops Engineer
+	Location: Denver, CO
+	Review Date: 2024-04-08T08:47:22.703
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Lots of opportunity learn.
+		Work can be very complex &amp; challenging
+		Had the best boss I've ever had here
+
+
+	Cons: 
+		Compensation is lower than competitors.
+		Promotions rarely ever happen. You have to apply for the next level if you want to move up. 
+		8 paid holidays is pretty minimal compared to most companies.
+		Vacation accrual is slow, start at 2 weeks and get 1 additional week every 5 years. After 10+ years I was paid out 48 out of 160 "earned" vacation hours because of the companies 10% accrual per month. 
+		Company doesn't really care about people. Shipping tons of jobs to India to save money. 
+		Remote work is difficult to find here.
+
+
+	Summary: 
+		Not great but not the worst
+
+
+Review 5:
+	Job Title: Director, Product Management
+	Location: Philadelphia, PA
+	Review Date: 2024-03-15T10:33:13.860
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Overall, a great company to work for. The pay is good, benefits &amp; perks good, majority of people are great to meet and work with, and there are lots of opportunities for learning and growth.
+
+
+	Cons: 
+		Like I suspect most massive companies are, it totally depends on the team that you are on and the manager you get. Some are phenomenal; some are ridiculous and you question why they're in their position. It can be frustrating to deal with some of the mouth service you will encounter and the many (many) re-orgs, but if you do your work and don't rock the boat, you'll be in a great position here.
+
+
+	Summary: 
+		Great Benefits &amp; Perks
+
+
+Review 6:
+	Job Title: Senior Software Development Engineer In Test (SDET)
+	Location: Philadelphia, PA
+	Review Date: 2024-03-12T15:40:19.913
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		In my org I have found leadership to be receptive and helpful with cocnerns.
+
+
+	Cons: 
+		Pay is not particularly competitive and leadership likes to act like they give much more equity than competitors to offset that but more than 50% of my "Equity" from the past 5 years is options which were worthless by the time they vested. Thankfully moving forward it will all be RSU but even so, comparing to other employers the totals are weak at best. I make effectively less as a higher level engineer thanks to inflation than I did when I was hired due to pitifully low annual raises ( &lt;3%) and a sub 5% raise from moving up in level, all while dragging employees back to the office for jobs that can easily be done remote.
+
+
+	Summary: 
+		Lackluster employer
+
+
+Review 7:
+	Job Title: None
+	Location: Washington, DC
+	Review Date: 2024-03-20T13:17:36.330
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Some of the leadership is very good. They care about their teams, work life balance, and are smart/technical enough to genuinely appreciate the work. Benefits are generally good. You get to work on cool problems and make a difference.
+
+
+	Cons: 
+		Some leadership is incredibly toxic, this flows down to their teams. Unfortunately, this leadership and their teams gets more visibility. Under resourced team do all of the work, whereas overly resourced teams just make pretty slide decks and kiss up. Compensation does not reflect that it is a Fortune 50 company.
+		
+		There is a lot of shop talk around DE&amp;I, but generally speaking it is much easier for white employees. There are no penalties for sucking at your job for them.
+
+
+	Summary: 
+		Good, Bad, and Ugly
+
+
+Review 8:
+	Job Title: Residential Installation Technician
+	Location: Peachtree City, GA
+	Review Date: 2024-02-21T03:04:48.197
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		I guess the company vehicle system was okay
+
+
+	Cons: 
+		This is a job in which you have to carry around heavy ladders, drag yourself through crawlspaces, 150° attics, and deal with irate customers who just want a Comcast rep that they can yell at in person. You get to do all this in exchange for getting to live paycheck to paycheck. I worked for them for 5 years, and always met or exceeded my performance metrics, and never even got to $20 an hour for all my hard work. Their raises are a joke, I worked hours of extra, incredibly hard to achieving the highest level of performance metrics, and was given a $.30 an hour raise. That’s insulting. 
+		
+		Management doesn’t actually support employees, they just bother you about meeting unrealistic and meaningless performance metrics. 
+		
+		All in all, the job is awful, the pay is awful, and managers don’t care. This was *the worst* job I have ever had in my life, and quitting was the single best decision I have made in my life.
+
+
+	Summary: 
+		They do not care about their technicians
+
+
+Review 9:
+	Job Title: Network Maintenance Supervisor
+	Location: Houston, TX
+	Review Date: 2024-02-06T16:01:42.980
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		A great place to work. The pay as a Network Maintenance Supervisor was great. Provided for me and my family. There were times I truly enjoyed my job being a leader. Work was very challenging but overall fun at times!
+
+
+	Cons: 
+		Was the pay worth the heartache and stress I went through in the position? NO!
+		Too much favoritism and unethical behavior was accepted by Senior leadership just so the number was made. Some Directors and managers had a GOD complex. Individuals who were not qualified for a Manager position were promoted and the concept of "I don't have to know your job, I just have to know how to manage you." was adopted.
+
+
+	Summary: 
+		Seat at the Table
+
+
+Review 10:
+	Job Title: Direct Sales Representative (DSR)
+	Location: None
+	Review Date: 2024-04-17T13:21:24.327
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Great benefits, Good established company.
+
+
+	Cons: 
+		In my position it was encouraged to work on weekends and events.
+		Sales reps are given a very minimal car allowance. Low base salary.
+
+
+	Summary: 
+		Direct Sales Representative
+
+
+Review 11:
+	Job Title: Sales
+	Location: None
+	Review Date: 2024-01-17T11:45:37.383
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		There is nothing positive about Comcast. This is HIGH pressure sales, for minimal pay period!
+
+
+	Cons: 
+		High pressure sales, unfair commission structure, unobtainable goals, no sales opportunities, low low pay, poor training, poor benefits. EVERYTHING they tell you while being hired is a lie, Most of your calls are non sales related but those calls go against you and your goals. The structure is designed to get the most out of you while paying you the very least possible. Be prepared to only make $14 and hour. If you don't make your goals, you only get a tiny bit of commission. Other companies pay over $20 base and you will not even get close to that. There is no integrity with Comcast, They want you to lie and manipulate the customer to trick them claiming they will be saving money when in reality they rarely do. This company doesn't care about the customer, only the amount you can extract from them. You are always in coaching with them telling you how bad you are doing and opportunities you missed. Supervisors are not helpful and will just continue to berate you. The stress and pressure is unimaginable. 
+		This is the worst company I have ever had to deal with!!!
+
+
+	Summary: 
+		Vulture Mindset, Toxic
+
+
+Review 12:
+	Job Title: Community Account Representative
+	Location: Chicago, IL
+	Review Date: 2024-04-17T09:45:37.647
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Loved the culture of the department. Everyone felt collaborative and cared about their large multifamily customers and each other
+
+
+	Cons: 
+		Now the culture has changed and care only about the profits.
+
+
+	Summary: 
+		Culture was great, now its not
+
+
+Review 13:
+	Job Title: Service Delivery Director
+	Location: Seattle, WA
+	Review Date: 2024-04-16T07:39:44.650
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		COmcast is a massive company, and tons of internal openings.
+
+
+	Cons: 
+		None when I worked there, but now they have a 4-day per week in the office policy
+
+
+	Summary: 
+		Great opportunities
+
+
+Review 14:
+	Job Title: Director
+	Location: Philadelphia, PA
+	Review Date: 2024-03-04T13:29:05.380
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		I loved working there! I felt valued and appreciated by my boss / team / key stakeholders and I was doing high visible work.
+
+
+	Cons: 
+		After a number of years, our entire department was gone (RIF). This was the result of senior leaders joining the company and wanted to do stuff their way. (at least that was what we thought happened throughout the multiple rounds of layoffs because Comcast had no issues with incoming revenue and had a strong balance sheet). So I loved my job and was a gold star, until that day when the company decided our entire department was no longer needed.
+
+
+	Summary: 
+		Just like the Comcast internet service, everything was good, until it wasn't
+
+
+Review 15:
+	Job Title: Customer Service Representative
+	Location: Tallahassee, FL
+	Review Date: 2024-03-19T13:09:07.480
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Great benefits, time off, if u are looking for a job with benefits then comcast might be for u
+
+
+	Cons: 
+		A Sales representative at comcast has to watch there own sales, other reps will steal them then u will have to dispute them . Mangers do not like to get on the phone with customers, so just do your best to calm your caller down . Commission does not add up u can make the company 7,000 for the month u might get 800$ back as a return.
+
+
+	Summary: 
+		Overworked
+
+
+Review 16:
+	Job Title: Sales Representative
+	Location: None
+	Review Date: 2024-04-16T07:11:53.087
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Benefits (decent health, not great but more than adequate)
+		Free cable and internet 
+		Universal studios discounts
+
+
+	Cons: 
+		Weird hours
+		Pay structure (commision based)
+
+
+	Summary: 
+		Good place to work
+
+
+Review 17:
+	Job Title: Retail Salesman
+	Location: Independence, MO
+	Review Date: 2024-04-17T07:12:43.790
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Decent pay and sign on bonus
+
+
+	Cons: 
+		Angry customers. Insurance isn't great
+
+
+	Summary: 
+		Not great
+
+
+Review 18:
+	Job Title: Customer Service
+	Location: Beaverton, OR
+	Review Date: 2024-01-21T06:31:51.580
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good compensation and benefits package
+
+
+	Cons: 
+		Terrible business practices, including forced training videos framing BIPOC as problem customers. During the pandemic when low income people needed good internet they didn't offer discounts on the right packages for larger low income families to stay connected to work remote or attend school. Encouraged to force those low income clients into high cost packages instead of offering relief. During this time, Comcast saw a huge jump in profits and raised prices TWICE during Covid 19. All the while they were ALSO firing/laying off many managers and long time employed administrative assistants. They wanted to maximize their new found jump in profits more so, and to do that, on top of the layoffs, they gave current managers, who were used to teams of about 8 agents, teams of 20+ agents . Not great behavior or business practices. They are as slimy as you'd expect. There is a reason so many people hate Comcast
+
+
+	Summary: 
+		Predatory and manipulative business practices. Miserable work/life balance.
+
+
+Review 19:
+	Job Title: Purchaser
+	Location: Philadelphia, PA
+	Review Date: 2024-04-09T09:50:05.387
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		As a whole, Comcast is a great company to work for. Many opportunities to grow. Benefits are also great. Pay is the one sore spot. Expect to be paid 20-30% less than similar roles at other companies.
+
+
+	Cons: 
+		The pay doesn't match similar roles at other companies. Still is a wonderful company.
+
+
+	Summary: 
+		Good Company
+
+
+Review 20:
+	Job Title: Full Stack Developer
+	Location: None
+	Review Date: 2024-04-16T13:38:56.420
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 0
+
+	Pros: 
+		Good pay and is flexible
+
+
+	Cons: 
+		less work life balance sometimes too much work
+
+
+	Summary: 
+		Good Place
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

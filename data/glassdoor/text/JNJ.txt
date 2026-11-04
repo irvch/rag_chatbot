@@ -1,0 +1,625 @@
+
+Johnson & Johnson is a Pharmaceuticals company based in 08933 New Brunswick, New Jersey. 
+The company has 152,700 employees and has a revenue of $94,943 according to Fortune 500.
+The company is valued at $483,576 and has a profit of $17,941. The CEO of the company is None.
+
+The Company has the following ratings: 
+Average ratings for Johnson & Johnson:
+Business Outlook: 0.76
+
+Career Opportunities: 3.9
+Distribution: 
+	1: 402 
+	2: 623 
+	3: 1679 
+	4: 2248 
+	5: 2627 
+
+CEO: 0.89
+
+Compensation and Benefits: 4.1
+Distribution: 
+	1: 206 
+	2: 344 
+	3: 1371 
+	4: 2569 
+	5: 3031 
+
+Culture and Values: 4.2
+Distribution: 
+	1: 368 
+	2: 369 
+	3: 1000 
+	4: 1879 
+	5: 3866 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 203 
+	2: 183 
+	3: 679 
+	4: 1218 
+	5: 2596 
+
+Overall: 4.2
+Distribution: 
+	1: 338 
+	2: 419 
+	3: 1436 
+	4: 3203 
+	5: 4576 
+
+Senior Management: 3.7
+Distribution: 
+	1: 587 
+	2: 647 
+	3: 1573 
+	4: 2163 
+	5: 2125 
+
+Work Life Balance: 3.9
+Distribution: 
+	1: 420 
+	2: 546 
+	3: 1454 
+	4: 2134 
+	5: 2922 
+
+Review Count: 13055
+
+Recommend to Friend: 
+	RECOMMEND: 5557
+	WONT RECOMMEND: 998
+
+
+
+
+The company has 16510 reviews on Glassdoor. The last review was posted on 2024-04-18T02:25:16.677. 
+There are 20 Reviews for Johnson & Johnson:
+
+Review 1:
+	Job Title: Sustainability Consultant
+	Location: New York, NY
+	Review Date: 2024-04-18T02:25:16.677
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		JJ was a pleasure to work for. They were flexible and ethical.
+
+
+	Cons: 
+		I really have no complaints
+
+
+	Summary: 
+		Pleasure to work for
+
+
+Review 2:
+	Job Title: User Experience Design Co-Op
+	Location: New Brunswick, NJ
+	Review Date: 2024-04-11T19:28:53.077
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Working at Johnson &amp; Johnson as an experienced designer co-op offers a myriad of advantages. Firstly, the company's renowned reputation and global presence provide an unparalleled platform to collaborate with diverse teams and tackle complex design challenges. Additionally, Johnson &amp; Johnson's commitment to innovation in healthcare allows designers to contribute to meaningful projects that positively impact millions of lives worldwide. The supportive work culture and emphasis on professional development provide ample opportunities for skill enhancement and career advancement. Moreover, the company's focus on diversity, equity, and inclusion fosters an environment where individuals can thrive and make a difference. Overall, Johnson &amp; Johnson offers an enriching experience for experienced designers to grow, learn, and make a lasting impact in the field of healthcare design.
+
+
+	Cons: 
+		I truly can not think of anything negative - working at Johnson &amp; Johnson as an experienced designer co-op offers an unparalleled opportunity to contribute to meaningful projects that positively impact lives worldwide, collaborate with diverse teams, and grow both personally and professionally in a supportive and inclusive environment.
+
+
+	Summary: 
+		Tremendous Company Culture
+
+
+Review 3:
+	Job Title: Senior Manager
+	Location: Jacksonville, FL
+	Review Date: 2024-03-18T10:41:21.317
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Pay is strong and opportunities seem to present at younger ages than other medical device companies. I work with many Sr. Director, VP, and even C Suite level team members who are 36-45 years old.
+
+
+	Cons: 
+		The unfortunately consequence of being a great company for existing employees (i.e. internal promotions, etc) is that I see quite a few senior team members who are really really bad at their functions and lack strong best practice and industry knowledge. In other businesses there would be leaders who would solve problems more quickly and achieve better results. The business keeps moving, but if you're a person with strong experience and industry knowledge you just scratch your head sometimes and ask yourself, "WTF are they doing?" Then you have to keep quiet because of office politics and just wait for it to hit the fan.
+
+
+	Summary: 
+		2024 Senior Manager Pay
+
+
+Review 4:
+	Job Title: Supply Chain Analyst
+	Location: Boston, MA
+	Review Date: 2024-04-12T05:51:26.843
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		The size of the company allows you to have a career change while maintaining your benefits. EX: move from Med Tech to Pharma or Cardiac
+
+
+	Cons: 
+		Downsides- Job security lately is not good. A lot of shifts and re-organizations. Many new acquisitions which seems the route to compensate slow internal innovation. New policies make working from home less accessible than in the past, if you're a working mom this can be challenging.
+
+
+	Summary: 
+		Good Benefits- Opportunities to move around
+
+
+Review 5:
+	Job Title: Sr. Manager and Category Owner
+	Location: Raritan, NJ
+	Review Date: 2024-01-19T12:44:45.107
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Salaries are at or above market salaries; opportunity for internal growth and learning via movement from one business unit to another; bonus structure good (but not nearly as good as it used to be); opportunity to work with very smart people globally.
+
+
+	Cons: 
+		Difficult to get things done due to size of company and bureauracratic polices and structures; emphasis on standardization has caused productivity and morale decreases, while weakening the company's performance; the company used to pride much of its success on its decentralized nature and the empowerment of its business units; age discrimination is wide spread; little work life balance.
+
+
+	Summary: 
+		Once a great company
+
+
+Review 6:
+	Job Title: Account Manager
+	Location: Kansas City, KS
+	Review Date: 2024-03-26T21:10:44.273
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great respect and reputation as a Company.
+
+
+	Cons: 
+		In the Eye Care Surgical Division they have superior products over the competition but are plagued by back orders and delayed product availability that sales effort lose steam and die on the vine. Plus, they promote mediocre sales people to division managers that many times bring their “keen’ awareness of metrics to the table with nothing else…much like I experienced as a manager when personnel brings complaints to me without even a hint of a terrible solution.
+
+
+	Summary: 
+		Eye care surgical great product when they are available
+
+
+Review 7:
+	Job Title: Senior Software Engineer
+	Location: San Francisco, CA
+	Review Date: 2024-04-15T13:51:38.620
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		If you like big company and stable position this is the place for you
+
+
+	Cons: 
+		After getting bought out by J&amp;J it was clear that this company didn't fully understand how to stay competitive in the Bay Area.
+
+
+	Summary: 
+		Big Corporation Poor Compensation for Bay Area
+
+
+Review 8:
+	Job Title: Medical Science Liaison (MSL)
+	Location: Dallas, TX
+	Review Date: 2024-04-16T09:33:09.277
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Pension, autonomy, base pay, bonus, car, cell phone, PTO
+
+
+	Cons: 
+		placed on multiple projects and asked to do more, ALOT of chasing people to get your job done. I personally don't care for the product I am supporting.
+
+
+	Summary: 
+		MSL overview
+
+
+Review 9:
+	Job Title: Software Engineer
+	Location: Jersey City, NJ
+	Review Date: 2024-04-17T22:21:44.117
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Very good, nice company environment, engaging.
+
+
+	Cons: 
+		Lots of work, not much overpay, and feel like small piece in large puzzle.
+
+
+	Summary: 
+		WORK AT J AND J
+
+
+Review 10:
+	Job Title: Migration Technician
+	Location: Spring House, PA
+	Review Date: 2024-04-16T12:02:35.560
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The company has a good standing in its respective fields.
+
+
+	Cons: 
+		IT is outsourced so you get poor pay, poor benefits, and extra bosses.
+
+
+	Summary: 
+		Great for actual employees
+
+
+Review 11:
+	Job Title: Corporate Development Analyst
+	Location: New York, NY
+	Review Date: 2024-04-16T21:45:49.423
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		People are phenomenal and office culture is laid back.
+
+
+	Cons: 
+		Work can be boring and long into the night.
+
+
+	Summary: 
+		Great work environment
+
+
+Review 12:
+	Job Title: Senior Engineer
+	Location: Cincinnati, OH
+	Review Date: 2024-03-21T09:05:41.637
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Lots of opportunity to be challenged and learn, and strong support network of peers that doesn't stop at your specific operating company. Good work life balance and paid time off, starting at 3wks. Strong ethics and competent management as average. Really making an effort to improve DE&amp;I.
+
+
+	Cons: 
+		You need a good manager and high visibility to see compensation, in title and raises. Continuous org changes lead to power vacuums that stifle program progress as too many middle managers try to 'make their mark' by insisting on more shakeups. Best upward mobility opportunities are from taking internal role changes.
+
+
+	Summary: 
+		Great growth, balance and culture, but still operates like a blue chip
+
+
+Review 13:
+	Job Title: Investigator
+	Location: None
+	Review Date: 2024-04-12T09:44:08.027
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		The benefits were great, and the people at the site were like an extended family.
+
+
+	Cons: 
+		Upper management decisions came from the main office and didn't take into account how the work should be managed at the site.
+
+
+	Summary: 
+		The people made it a great place to work.
+
+
+Review 14:
+	Job Title: Executive
+	Location: Newark, NJ
+	Review Date: 2024-04-17T20:06:03.850
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great culture and leadership at J and J
+
+
+	Cons: 
+		No Cons to speak of
+
+
+	Summary: 
+		Great
+
+
+Review 15:
+	Job Title: Postdoctoral Fellow
+	Location: San Diego, CA
+	Review Date: 2024-04-17T14:09:05.403
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		vacation, 401, health insurance, Roth,
+
+
+	Cons: 
+		No stock, No promotion, no work life balance,
+
+
+	Summary: 
+		J&amp;J
+
+
+Review 16:
+	Job Title: Executive Sales Representative
+	Location: Houston, TX
+	Review Date: 2024-04-12T20:05:45.793
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good pipeline, good benefits, good people
+
+
+	Cons: 
+		Very process oriented as many large pharma companies are. Pension is great to have, rest of benefits are good, 401k match is not vested for 3 years.
+
+
+	Summary: 
+		Good company
+
+
+Review 17:
+	Job Title: Senior Executive Sales Specialist
+	Location: None
+	Review Date: 2024-04-16T11:37:32.157
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Colleagues are warm and professional
+		Credo
+		Company Culture
+
+
+	Cons: 
+		Conservative
+		Not at Top of Pay Scale
+
+
+	Summary: 
+		Great Company to Work for
+
+
+Review 18:
+	Job Title: Senior Manager
+	Location: Raritan, NJ
+	Review Date: 2024-04-02T02:11:24.500
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		JNJ has has generous family leave policies both paid and unpaid. Recently they added 30 days paid leave for death of immediate family member which can be taken consecutively or intermittently over 6 months.
+
+
+	Cons: 
+		If you don’t use all of your leave, you lose it except for 5 days vacation which must be used the first quarter of the following year.
+
+
+	Summary: 
+		Leave policy
+
+
+Review 19:
+	Job Title: Program Manager
+	Location: None
+	Review Date: 2024-04-15T13:49:52.913
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		medium upside, medium downside overall.
+
+
+	Cons: 
+		Not for good perks overall.
+
+
+	Summary: 
+		Ok
+
+
+Review 20:
+	Job Title: IT Senior Manager
+	Location: Santa Clara, CA
+	Review Date: 2024-02-16T12:29:56.340
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Love the culture of J&amp;J with many DE&amp;I initiatives. Leadership is big on employee happiness. Many in the company end up staying for their entire career which is very rate these days. Those who leave end up coming back for most part.
+
+
+	Cons: 
+		If someone coming from Tech Industry like the Googles and Apple, work gets bit slow here due to very strict regulatory and compliance requirements. Also in the technology transformation/adoption front, its quite a bit behind compared to rest of the tech industry.
+
+
+	Summary: 
+		Good work life balance with great culture
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

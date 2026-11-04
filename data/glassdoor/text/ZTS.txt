@@ -1,0 +1,637 @@
+
+Zoetis is a Pharmaceuticals company based in 07054 Parsippany, New Jersey. 
+The company has 13,800 employees and has a revenue of $8,080 according to Fortune 500.
+The company is valued at $77,053 and has a profit of $2,114. The CEO of the company is Kristin C. Peck.
+
+The Company has the following ratings: 
+Average ratings for Zoetis:
+Business Outlook: 0.75
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 112 
+	2: 156 
+	3: 233 
+	4: 201 
+	5: 195 
+
+CEO: 0.88
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 37 
+	2: 57 
+	3: 199 
+	4: 323 
+	5: 280 
+
+Culture and Values: 3.9
+Distribution: 
+	1: 116 
+	2: 99 
+	3: 160 
+	4: 215 
+	5: 280 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 38 
+	2: 31 
+	3: 76 
+	4: 106 
+	5: 214 
+
+Overall: 4.1
+Distribution: 
+	1: 75 
+	2: 101 
+	3: 232 
+	4: 302 
+	5: 344 
+
+Senior Management: 3.5
+Distribution: 
+	1: 167 
+	2: 130 
+	3: 181 
+	4: 197 
+	5: 178 
+
+Work Life Balance: 3.9
+Distribution: 
+	1: 100 
+	2: 106 
+	3: 171 
+	4: 238 
+	5: 277 
+
+Review Count: 1055
+
+Recommend to Friend: 
+	RECOMMEND: 581
+	WONT RECOMMEND: 248
+
+
+
+
+The company has 1191 reviews on Glassdoor. The last review was posted on 2024-04-16T19:46:49.883. 
+There are 20 Reviews for Zoetis:
+
+Review 1:
+	Job Title: Technical Support Specialist
+	Location: Union City, CA
+	Review Date: 2024-04-16T19:46:49.883
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		- Job is extremely flexible
+		- Process is easy if you are willing to learn
+		- PTO is very generous
+
+
+	Cons: 
+		No cons just yet. I am very happy at this company. Although the information is very technical and takes time to learn, as long as you're willing to learn, you will succeed in the role.
+
+
+	Summary: 
+		Great Company
+
+
+Review 2:
+	Job Title: Logistics Specialist
+	Location: Kalamazoo, MI
+	Review Date: 2024-04-03T00:34:48.743
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		You will get lots of vacation which means you will be working by yourself as everyone uses up their vacation
+
+
+	Cons: 
+		Lack to no training. They try to keep you down. A lot of sitting around not doing much of anything. So don't be a hard worker there. If you kiss cheeks you might be able to keep your job. This company keeps the worst employees which is very toxic workplace.
+
+
+	Summary: 
+		Lack of Training and Respect
+
+
+Review 3:
+	Job Title: Product Manager
+	Location: Parsippany, NJ
+	Review Date: 2024-04-16T06:16:55.967
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good culture, overall happy to be part of Zoetis
+
+
+	Cons: 
+		Lacks a bit of structure and solid priorities
+
+
+	Summary: 
+		Good company
+
+
+Review 4:
+	Job Title: None
+	Location: None
+	Review Date: 2024-04-07T19:52:29.063
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Remote/Hybrid schedule allows you to WFH.
+
+
+	Cons: 
+		Offices need to be renovated and updated to modern day
+
+
+	Summary: 
+		Great work/life balance
+
+
+Review 5:
+	Job Title: Senior Marketing Manager
+	Location: Parsippany, NJ
+	Review Date: 2024-02-24T17:30:01.987
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		The CEO is inspiring but unfortunately that does not trickle down. The leadership team is horrid. Very political and cliques!
+
+
+	Cons: 
+		Game of thrones! When you finally get a decent boss, they are moved. You have to be a favorite of leadership to get anything done! It was such an awful experience!!
+
+
+	Summary: 
+		Not worth it! Look elsewhere!
+
+
+Review 6:
+	Job Title: QO Lab Analyst II
+	Location: Kalamazoo, MI
+	Review Date: 2024-03-23T10:58:16.500
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Competitive pay and benefits. Great company culture. Flexible schedule.
+
+
+	Cons: 
+		Some shilohing of different departments.
+
+
+	Summary: 
+		Overall great company.
+
+
+Review 7:
+	Job Title: Inside Sales Representative
+	Location: Malvern, PA
+	Review Date: 2024-03-29T07:31:30.350
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		We get to work with great people!
+
+
+	Cons: 
+		Leadership doesn't always do what they say they will
+
+
+	Summary: 
+		na
+
+
+Review 8:
+	Job Title: Director
+	Location: Parsippany, NJ
+	Review Date: 2024-03-26T08:42:34.607
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Company with strong core values.
+
+
+	Cons: 
+		Still have some silos to break.
+
+
+	Summary: 
+		Great company
+
+
+Review 9:
+	Job Title: Finance Manager
+	Location: None
+	Review Date: 2024-03-11T16:26:44.643
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Dynamic team, growing sector, interesting work, industry leader
+
+
+	Cons: 
+		archaic systems,  understaffed, lots of change
+
+
+	Summary: 
+		If you land a job here, you could be happy here for a long time
+
+
+Review 10:
+	Job Title: Aseptic Technician
+	Location: None
+	Review Date: 2024-03-21T14:29:21.227
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		They have lots of vacation time.
+
+
+	Cons: 
+		I was overqualified for the position I was in. 
+
+
+	Summary: 
+		Not Bad
+
+
+Review 11:
+	Job Title: Reliability Maintenance Engineer
+	Location: Kalamazoo, MI
+	Review Date: 2024-03-05T19:52:08.027
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 1
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		- Good culture and work-life balance
+		- Great benefits
+
+
+	Cons: 
+		- New management changing things that worked previously and don't need to be changed.
+		- Pays very low.
+
+
+	Summary: 
+		Good company to work for
+
+
+Review 12:
+	Job Title: Marketing
+	Location: Parsippany, NJ
+	Review Date: 2024-02-21T06:33:46.663
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good leadership 
+		Real focus on DE&amp;I, done in an authentic way
+		Great brands, industry-leading innovation
+
+
+	Cons: 
+		Budgets too small vs industry peers given brand size.
+
+
+	Summary: 
+		Good company
+
+
+Review 13:
+	Job Title: Aseptic Technician I
+	Location: Charles City, IA
+	Review Date: 2023-10-11T10:28:31.313
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Benefits are good, decent pay if you’re newer as to compete against Cambrex, if you’re one of the favorites you get unofficial &amp; under the table perks
+
+
+	Cons: 
+		No protocol or guide for training, management has no idea what they’re even in charge of, policy’s that are only enforced to certain people, ridiculous and unclean uniforms that we have to share including socks, unfair and unequal treatment, very petty &amp; full of slander, overworked with mandatory weekends, never know what time you can leave bc it depends on the work load that day and what goes wrong, machines and equipment are 30-40 years old, exposure to extreme chemicals, the medical response team and “nurse” don’t have a clue how to respond if they’re even available, ZERO confidentiality although it’s a “core belief”, coworkers are hypocritical, unsafe working environment although they claim the opposite, lab uniforms require goggles that are cheap and obstruct vision but nobody cares, promotions are not available equally or even based off skills….
+
+
+	Summary: 
+		Would NOT recommend to ANYONE!
+
+
+Review 14:
+	Job Title: Packaging Operator
+	Location: None
+	Review Date: 2024-02-14T18:38:05.387
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Some good coworkers
+		Some good management
+		Good overtime pay
+		Convenient food in break rooms
+
+
+	Cons: 
+		Machines always going down
+		Some bad coworkers
+		Some bad management
+		Mandates 12 days in a row
+		Sometimes unclear instructions from management
+
+
+	Summary: 
+		Overall 50-50
+
+
+Review 15:
+	Job Title: Quality Operation Specialist
+	Location: Kalamazoo, MI
+	Review Date: 2024-02-15T13:02:49.257
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good place to work. Engaged employees. Understand customer requirements.
+
+
+	Cons: 
+		Small company site. No other cons to list.
+
+
+	Summary: 
+		Good place to work 
+
+
+Review 16:
+	Job Title: Principal Engineer
+	Location: None
+	Review Date: 2023-10-26T16:48:10.710
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		- Relatively Diverse Workforce - CEO emphasizes ethics and training - It’s a respectful culture - Parents are supported
+
+
+	Cons: 
+		- Management hires contractors when they need stable, long-term employees and institutional knowledge. The better contractors tend to leave. - IT support is the worst I’ve encountered in decades of work. Security measures are both cumbersome and ineffective. Trouble tickets are outsourced to contract workers who are unqualified to help, don’t care, or both. Escalation to someone who can help is slow. There is zero Mac or Linux support. Microsoft has captured the IT organization. - Clear, simple communication is undervalued. Emails are acronym-heavy and laden with automated boilerplate junk and legalese.
+
+
+	Summary: 
+		Very Good Except for IT/Security
+
+
+Review 17:
+	Job Title: Lab Technician
+	Location: None
+	Review Date: 2024-02-16T15:01:58.353
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Vacation, Benefits, Fast Paced, Tuition Reimbursement,
+		Flexibility
+
+
+	Cons: 
+		Repetitive work 
+		Size of company
+
+
+	Summary: 
+		Good place to work
+
+
+Review 18:
+	Job Title: Material Planner
+	Location: Kalamazoo, MI
+	Review Date: 2024-02-05T12:08:37.767
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Colleagues, hybrid work environment, 401(k)
+
+
+	Cons: 
+		Kalamazoo Leadership is not transparent with colleagues. I would work at any other Zoetis site, just not Kalamazoo.
+
+
+	Summary: 
+		Buyer
+
+
+Review 19:
+	Job Title: Executive Director
+	Location: Kalamazoo, MI
+	Review Date: 2024-02-12T16:45:16.040
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Zoetis is a purpose-driven company with great culture and values.
+
+
+	Cons: 
+		Nothing that I can think of.
+
+
+	Summary: 
+		Culture
+
+
+Review 20:
+	Job Title: Senior Quality Assurance Specialist
+	Location: None
+	Review Date: 2024-02-13T13:03:25.443
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great benefits, time off, bonuses and profit sharing
+
+
+	Cons: 
+		No cons, great company to work for.
+
+
+	Summary: 
+		Great Benefits
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

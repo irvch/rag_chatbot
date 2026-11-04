@@ -1,0 +1,685 @@
+
+Walmart is a General Merchandisers company based in 72716 Bentonville, Arkansas. 
+The company has 2,100,000 employees and has a revenue of $611,289 according to Fortune 500.
+The company is valued at $397,475 and has a profit of $11,680. The CEO of the company is Douglas McMillon.
+
+The Company has the following ratings: 
+Average ratings for Walmart:
+Business Outlook: 0.46
+
+Career Opportunities: 3.3
+Distribution: 
+	1: 6357 
+	2: 5486 
+	3: 10098 
+	4: 8089 
+	5: 10086 
+
+CEO: 0.58
+
+Compensation and Benefits: 3.3
+Distribution: 
+	1: 5569 
+	2: 5383 
+	3: 10628 
+	4: 9098 
+	5: 8966 
+
+Culture and Values: 3.1
+Distribution: 
+	1: 8527 
+	2: 6018 
+	3: 9369 
+	4: 7047 
+	5: 8389 
+
+Diversity and Inclusion: 3.6
+Distribution: 
+	1: 5087 
+	2: 3372 
+	3: 8020 
+	4: 9271 
+	5: 13414 
+
+Overall: 3.4
+Distribution: 
+	1: 7265 
+	2: 7391 
+	3: 17003 
+	4: 13991 
+	5: 12478 
+
+Senior Management: 2.9
+Distribution: 
+	1: 10478 
+	2: 6296 
+	3: 9065 
+	4: 6342 
+	5: 6794 
+
+Work Life Balance: 3
+Distribution: 
+	1: 8695 
+	2: 5976 
+	3: 10171 
+	4: 6951 
+	5: 7478 
+
+Review Count: 124912
+
+Recommend to Friend: 
+	RECOMMEND: 16892
+	WONT RECOMMEND: 14274
+
+
+
+
+The company has 129865 reviews on Glassdoor. The last review was posted on 2024-04-17T22:26:55.260. 
+There are 20 Reviews for Walmart:
+
+Review 1:
+	Job Title: Cashier
+	Location: Aberdeen, WA
+	Review Date: 2024-04-17T21:33:11.493
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Manangement is over all good.
+
+
+	Cons: 
+		A normal day is understaffed.
+
+
+	Summary: 
+		Walmart
+
+
+Review 2:
+	Job Title: Assistant Store Manager
+	Location: Amarillo, TX
+	Review Date: 2015-06-02T07:55:18.903
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Advancement opportunities, great at developing skills, great place to learn a skill and grow your resume, or grow with the company.
+
+
+	Cons: 
+		Understaffing issues negatively affects all parts of their business. However, Walmart has increased their minimum hourly rate with hopes to attract more committed employees, and retain better employees.
+
+
+	Summary: 
+		From an Asst Store Manager
+
+
+Review 3:
+	Job Title: OverNight Team Lead
+	Location: LaFayette, GA
+	Review Date: 2024-04-12T08:20:17.380
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Predictable schedule and ok pay as long as you only do your job don't except other peoples work because XYZ reason.
+
+
+	Cons: 
+		Management is a nightmare they only care about meeting quotas and reducing numbers on cost, if you work hard for less you'll have a permanent position it you question anything you'll get coached into having the correct mindset set.
+
+
+	Summary: 
+		It's not the worst 
+
+
+Review 4:
+	Job Title: Stocking Associate
+	Location: Indianapolis, IN
+	Review Date: 2024-04-13T16:19:54.917
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Yeah, Walmart's got this whole system thing goin' on, so you kinda know what you gotta do each day. Keeps things simple, man. It's not a desk job, bro. You're movin' around, liftin' stuff, so you're gettin' some exercise on the job. Ain't just stackin' cans, yo. You get to help out customers, which ain't half bad. Keeps things interesting.
+
+
+	Cons: 
+		Man, when it's busy, it's like a tornado hit the aisle. Keeps you on your toes, but can be stressin'. Liftin' all them heavy boxes day in, day out? Yeah, it takes a toll. Backache city, bro. It's like Groundhog Day sometimes, you know? Same shelves, same stuff, day after day.
+
+
+	Summary: 
+		consider them stocked
+
+
+Review 5:
+	Job Title: Cart Associate
+	Location: Midland, MI
+	Review Date: 2024-04-02T16:34:14.307
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		-The pay is decent for part time work 
+		-Some flexibility* 
+		-The Cart Associate position is great for people who don't like to interact with others frequently 
+		-Customers that you do interact with generally are quite friendly and understanding and will typically tip you for your service
+
+
+	Cons: 
+		-Pay is every 2 weeks (this can be a struggle if you only work part time and average a few hours per week) 
+		-Scheduling is a nightmare: you will constantly have your schedule changed without any warning 
+		-Lower-level management does not care about part-time workers, you will frequently have your hours slashed and be put on days that do not work with your schedule 
+		-Managers frequently deny employees mandatory 15 minute and lunch breaks to get by when they are understaffed (sometimes your breaks aren't "denied" but you end up having no time to take a break during your shift)
+
+
+	Summary: 
+		Decent first job...
+
+
+Review 6:
+	Job Title: Quality Assurance
+	Location: Macclenny, FL
+	Review Date: 2024-03-31T18:39:52.827
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Pay is pretty good, higher than most if not all unskilled labor positions, fixed work days is nice, you either work 4 days at 40 hours or 3 days for 36 hours
+
+
+	Cons: 
+		Poor management and leadership, GM’s don’t get to that position by caring, most only care about numbers, Walmarts open door policy is the fastest way to get yourself fired, and anything you talk to HR about will get passed around the whole building, your manager will tell you to do something a specific way and when you get caught doing it, you will get a write up or fired for it.
+		
+		Hours, yes the workdays and fixed schedules are nice but if you are only get 20 something hours a week because of severe overstaffing your experienced and skilled associates are going to stop caring and leave.
+		
+		Safety… they will say safety is number 1 when someone gets hurt, fire associates for having accidents, but when it is an operations manager pulls pallets off a trailer without stopping and drops them hitting an associate they do nothing.
+
+
+	Summary: 
+		Good pay, terrible company
+
+
+Review 7:
+	Job Title: Order Filler
+	Location: Monroe, GA
+	Review Date: 2024-03-26T23:05:21.747
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		The schedule is good, good work life balance
+
+
+	Cons: 
+		-Order fillers are treated like the bottom of the barrel in contrast to other workers.
+		- the isles are numbered weird so you are going back to the same slot twice and even backwards at times.
+		- they make the orderfillers pick up pallets instead of the machine that’s made for that task (forklifts) creating extra weight on our backs along with the heavy cases for no reasons other than trying to hurt their production pay
+		-makes orderfillers (clean as u go) instead of hiring a sanitition crew and causing them to hurt their incentive pay, also encourages security guards to harass them about it as well.
+		- you lose your hard earn money for that pay cycle if you get an error when it’s already a step out the door
+
+
+	Summary: 
+		Knows all the ways to slow down your production
+
+
+Review 8:
+	Job Title: Product Development
+	Location: Bentonville, AR
+	Review Date: 2024-04-03T13:07:19.393
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The benefits are good, that's about it.
+
+
+	Cons: 
+		I have worked in corporate America for over 10 years and have never seen a more toxic and non-inclusive environment than when I worked for Walmart. Most of the associates have an air about them acting as if they are above everyone and treating others that are “below” them terribly. They also treat the suppliers that are the life blood of the company like garbage that they can throw away at any given time if they don’t submit to whatever request/demand that Walmart has. I’ve also witnessed racial injustices that were brought to the attention of managers, but nothing ever happened, and the person/people involved never were called out for what they said or did. There is a culture of rewarding bad behavior and putting bullies on pedestals. Managers promote their problem associates, so they personally do not have to deal with them anymore and they become someone else’s issue. That cycle just keeps continuing. Walmart is a huge company, the largest in the world, so it isn’t fair of me to say that EVERYONE is like this, but I worked specifically in the MLK building for Home &amp; Apparel and unfortunately, that is how it is there.
+
+
+	Summary: 
+		If you care about your own &amp; others wellbeing, don’t work here.
+
+
+Review 9:
+	Job Title: Warehouse Associate
+	Location: Honolulu, HI
+	Review Date: 2024-04-02T17:41:33.203
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		I did a short 3 month stint at Walmart while figuring my life out. As the saying goes, "a job is a job when you need a job." Although I had no intent on ever working there for very long, I was surprised to find out that (at least in Hawai'i) health insurance was decent, employees who did not already have a college degree had the opportunity to earn one no personal cost, stock options were available, management was surprisingly flexible with scheduling, and of course, a 10 percent employee discount was a nice practical perk.
+
+
+	Cons: 
+		Warehouse management would set completely unsafe and unattainable time goals for unloading the trucks. On more than one occasion, there were a few very close calls, and we were lucky that nobody got hurt. But of course, "time is money," and at Walmart, the aim is to "save money, live better." So better get back to "throwing that can" (emptying the truck).
+
+
+	Summary: 
+		A job is a job when you need a job
+
+
+Review 10:
+	Job Title: Deli/Bakery Associate
+	Location: Milford, DE
+	Review Date: 2024-02-20T17:34:09.403
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		- All you have to do is show up to work, and you most likely won't be fired unless you steal or something of that nature. 
+		
+		-Decent priced Insurance (including vision and dental).
+		
+		-Free college if you choose to pursue it.
+		
+		-Easy-to-learn work.
+
+
+	Cons: 
+		-Annual hour cuts that seemingly last all year...
+		
+		-Selective management, in-your-face favoritism. Says "no hoodies, no earbuds!" to everyone but a select few. They are downright cruel to some. Demand even more productivity, while always laughing and chatting in personnel. And a lot of them won't handle very obvious problem employees.
+		
+		-No performance based raises.
+		
+		-Can't be comfortable in your own area, always getting pulled to where they need you, while still being held accountable for the work in your area.
+		
+		-Drama and scandal! Find out which manager slept with associates and promoted them! Find out who the work snitch is! Watch them get away with the things they say you're doing! Argue in front of customers! Argue WITH customers! Only at walmart!
+
+
+	Summary: 
+		Bad for your mental health....
+
+
+Review 11:
+	Job Title: Cashier
+	Location: Seaford, DE
+	Review Date: 2024-04-16T15:31:16.827
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 1
+
+	Pros: 
+		Have the opportunity to get paid weekly with even app. You get tow 15 minutes breaks as well as an our lunch. I had some awesome coworkers .
+
+
+	Cons: 
+		Rude customers, no weekends off unless you use your pto or ppto, terrible communication skills like sometimes they would randomly edit your schedule even if it’s the day before. They tend to cut hours when the holidays are over, Walmart doesn’t care if their employees are sick or injured, even though I had a lot of pto it was hard to get any type of day off especially during the summer. The way the company treats their employees is disgusting. The point system can be annoying.
+
+
+	Summary: 
+		Okay job
+
+
+Review 12:
+	Job Title: Asset Protection Host
+	Location: None
+	Review Date: 2024-03-28T05:02:39.827
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		I like the customers, enjoy making them smile.
+
+
+	Cons: 
+		Management never smiles, never has anything positive or encouraging to say.  
+		Too much standing on my feet.
+		Unwritten rules are not communicated to staff until you don't do something right.
+		Told you can't do something, then observe your coach doing it.
+		Not given the resources to do your job (example:  a walkie-talkie for each entrance).
+		"A.P. bosses" visited the store on my second day.  I was interviewed/quizzed,  got everything right except one thing.  My supervisor never said anything about what I did right, just what I didn't. 
+		There is a big communication gap between Management and peons.
+		I hate this job.
+
+
+	Summary: 
+		Thankless Job
+
+
+Review 13:
+	Job Title: Personal Shopper
+	Location: Houston, TX
+	Review Date: 2024-03-20T11:48:29.863
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		-My coworkers were great, and made the job less miserable. 
+		-Pay started at $15 at my store.
+		-You can set your availability (be stern because some managers try not to approve your availability request so that they can schedule whenever they want )
+
+
+	Cons: 
+		-Extreme heavy lifting: we would have customers that order 20+ cases of water, purchase thousands of dollars worth of groceries, and a whole bunch of other stuff. Obviously we would have to get all of that and bring it into the backroom from the salesfloor, and lift it into their car when they came to pick it up. We had to do this multiple times a day.
+		- Weather: Our store didn't have a carport/cover, so we had to get rained on very often. It didn't matter if it was a 100 degrees outside, if it was a tropical storm/ hurricane, or freezing cold; you had to take out orders. Best believe people would come to pick up their order even if it was flooding.
+		-Busy location: Along with the weather and heavy orders, we were generally busy as a store. From when the doors opened to when they closed it was always packed. We rarely got a breather except for when it was our scheduled breaks.
+
+
+	Summary: 
+		It was ok
+
+
+Review 14:
+	Job Title: Pharmacy Technician
+	Location: Rochester Hills, MI
+	Review Date: 2024-04-15T03:23:10.387
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		- People from other departments were always nice to get along with
+		- A great way to learn Pharmaceutical products on an entry level
+		- The skills you learn can be used across other pharmacies
+		- Learn about insurance coverages
+
+
+	Cons: 
+		- I don't have many cons, but sometimes it's really just the type of customers you work with. Due to needing medications, if patients don't receive their medications, they can become escalated quickly
+		- It fluctuates in speed. Sometimes you are working extremely fast and others you can be moving at a slower pace.
+
+
+	Summary: 
+		Super friendly environment
+
+
+Review 15:
+	Job Title: ON Stocking TA
+	Location: Green Bay, WI
+	Review Date: 2024-02-18T05:29:39.637
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Free therapy is available through Lyra
+
+
+	Cons: 
+		The very worst thing about working at Walmart is the insane attendance policy. Every missed shift is an attendance point, and five points get you fired. Each point takes six months to be deleted. The PPTO given to counteract these attendance points is insufficient. If you get sick enough to miss a few days of work, you've basically already wrecked your attendance, and once your points are high it becomes incredibly difficult to get them back down. There are no real safeguards around getting fired just from getting sick, as the only real option is to apply for a leave of absence, which is intensive and obviously designed for "serious medical issues" and requires a doctor's note, which can be hard to obtain on short notice or expensive to get and may not cover more than a couple days anyway. It's like they don't understand that normal illness can knock someone out for a few days and expect you to come back to work before you reasonably should. If a multi-day illness doesn't at least partially overlap with your days off, you're probably screwed. The whole thing is dehumanizing.
+		
+		Aside from that, the work rate we're held to is wildly inaccurate to how quickly one can complete tasks if doing them correctly. It's obvious the time estimates were generated by people who have never done a thing on the floor. As a result, doing the job the way you're supposed to is disincentivized, and you'll only have a decent time if you prioritize doing things quickly over going them well.
+		
+		The job is underpaid and underappreciated, and you will be treated like garbage more often than not.
+
+
+	Summary: 
+		Last resort job only
+
+
+Review 16:
+	Job Title: Team Lead
+	Location: Detroit Lakes, MN
+	Review Date: 2024-01-17T08:25:55.997
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		They push alot on you and you must move fast. If you can't take the lower pay of Front end Team Lead at fast pace...most go for slow pace, set schedule, more pay as Team Leads in other areas that don't have to deal with multiple management of departments at once, or customer service issues, or 1 on 1 complaints as the Frontend Team does. Never understood the lack of monetary or physical support towards this department. Maybe change yhe name to (drop a load ... they can takr it... thats why they are here...right?)
+
+
+	Cons: 
+		The customers stealing and theft. Repeat customers buying so much of one or to things turning around and returning next week. Just for the deal they see.
+		Too many times I closed and had to open the next day...being pressured by Store Manager to make sure all Carts in Lot were inside and by building. Knowing the employment staffing issued didn't mater, it's your responsibility to ensure it gets complete. Yet we could not control schedule unless we called employees but watchful of age laws.
+
+
+	Summary: 
+		Front end Team Lead
+
+
+Review 17:
+	Job Title: Sales Associate
+	Location: Oroville, CA
+	Review Date: 2024-03-30T01:18:28.253
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Always needed for something. job security. Discount on something not everything
+
+
+	Cons: 
+		NO BONUSES.
+		NO RAISES.
+		Minimum wage
+		You do every job in the store for low pay.
+		No matter what you do you get yelled at by management. 
+		You have to zone other departments when we are busy and can't stay in your own area than get yelled at for leaving the area.
+		Management is against the employees
+		They do not care about them.
+		You get no rewards for working hard
+		You get no respect from anyone
+		Over night coach is a jerk always yelling at everyone for something they didn't do. 
+		You work blood sweat and tears. They will laugh at you an tell you did everything wrong and threaten you. 
+		They don't care if you are helping a customer they still want you to finish what they ask of you even if that customer is disabled and your helping them.
+		Always be on the look out for the overnight coach and the store lead they aren't friendly. Can't say anything with them threatening to fire you.
+		Only favorites move up.
+		NO DISCOUNT ON FOODS.
+
+
+	Summary: 
+		Not worth the pay nor pain
+
+
+Review 18:
+	Job Title: Overnight Associate
+	Location: Onalaska, WI
+	Review Date: 2024-04-14T12:08:20.473
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Overnights are pretty chill for the most part. You don't have to deal with customers outside of the first and last hours of the nice shift. Also great that you can stick in one earbud and listen to podcasts/music
+
+
+	Cons: 
+		Incredibly mindless work stocking shelves for hours on end. Despite how introverted you might think you are; you'll begin to miss conversation with human beings. I can imagine bad management would make the work environment toxic, but I never had to deal with that.
+
+
+	Summary: 
+		It's a Job
+
+
+Review 19:
+	Job Title: Product Manager III
+	Location: Bentonville, AR
+	Review Date: 2024-04-11T21:09:10.010
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The benefits are decent but not as good as tech companies
+
+
+	Cons: 
+		WALMART IS DOING SILENT LAYOFFS masquerading as performance issues and that has happened with a countless number of people who I worked with at my time with Walmart. Their work culture since 2023 has been similar to Amazon since they recently increased pay and terminated a lot of people under the pretext of “bad performers”. The management at Sam’s Club Supply Chain Product is a big joke and highly political. It doesn’t matter what you do here because in my case my manager expected me to do the work of 5-6 product managers (25-30 engineers for 1 product manager). I confirmed that 1:8/9 is the ratio during my interview at Amazon.
+
+
+	Summary: 
+		NOT RECOMMENDED!!
+
+
+Review 20:
+	Job Title: Sales Associate/Cashier
+	Location: None
+	Review Date: 2024-02-03T20:31:32.500
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		There was a lot of circumstances that happened that made me feel like I was back in high school. The way that some of the Team Leads would yell or correct associates in front of customers. Also some people were treated with special circumstances when others were reprimanded for the same thing because they were related or because they were friends outside of work. Equipment was broken by team leads and then covered up and blamed on new associates. Like I said there was a lot of acts preformed that were unprofessional!
+
+
+	Cons: 
+		I did make a lot of friends and I totally enjoyed working with the customers every day. 
+
+
+	Summary: 
+		Unprofessional 
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

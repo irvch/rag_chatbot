@@ -1,0 +1,659 @@
+
+Chewy is a Internet Services and Retailing company based in 33322 Plantation, Florida. 
+The company has 19,400 employees and has a revenue of $10,099 according to Fortune 500.
+The company is valued at $15,959 and has a profit of $49. The CEO of the company is Sumit Singh.
+
+The Company has the following ratings: 
+Average ratings for Chewy:
+Business Outlook: 0.55
+
+Career Opportunities: 3.3
+Distribution: 
+	1: 542 
+	2: 371 
+	3: 491 
+	4: 446 
+	5: 737 
+
+CEO: 0.67
+
+Compensation and Benefits: 3.5
+Distribution: 
+	1: 325 
+	2: 335 
+	3: 627 
+	4: 630 
+	5: 669 
+
+Culture and Values: 3.5
+Distribution: 
+	1: 579 
+	2: 314 
+	3: 408 
+	4: 401 
+	5: 864 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 223 
+	2: 144 
+	3: 258 
+	4: 351 
+	5: 804 
+
+Overall: 3.5
+Distribution: 
+	1: 555 
+	2: 429 
+	3: 623 
+	4: 664 
+	5: 830 
+
+Senior Management: 3.1
+Distribution: 
+	1: 796 
+	2: 328 
+	3: 431 
+	4: 419 
+	5: 572 
+
+Work Life Balance: 3.4
+Distribution: 
+	1: 583 
+	2: 362 
+	3: 531 
+	4: 486 
+	5: 612 
+
+Review Count: 3111
+
+Recommend to Friend: 
+	RECOMMEND: 1275
+	WONT RECOMMEND: 1057
+
+
+
+
+The company has 3283 reviews on Glassdoor. The last review was posted on 2024-04-17T09:11:06.387. 
+There are 20 Reviews for Chewy:
+
+Review 1:
+	Job Title: Director+
+	Location: None
+	Review Date: 2023-10-31T08:19:19.593
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		1. Everyone actually cares about the customer experience - and not just product teams shipping customer-facing gizmos...on-site facilities teams care about welcome experience for guests, IT cares about the experience of employees submitting request, etc. It's an extremely customer centric organization and it's thoroughly engrained at all levels. 2. Everyone wants to help. Sure, there are busy times when there are bandwidth issues like anywhere else and you might feel like you don't have enough resources, but by intention, everyone is in everyone's corner. This isn't a cutthroat place where your success has to mean someone else's failure - everyone can succeed. 3. People are nice. Crazy thought, right? People are SO nice. Like, everyone. Run into someone in a break room? Friendliest conversation ever. On a call with a C Suite leader, you walk away thinking "WOW, I wouldn't have assumed they'd be so nice". It's just a company of really kind people who actually care how you're doing when they ask. 4. You get the OPPORTUNITY to have shifting priorities. Sometimes people complain "We keep changing priorities." To which I say, "So? Would you rather work for a company that can't switch priorities and instead goes out of business because you didn't adapt to new information and customer demands?" Your paycheck stays the same if your priority shifts. It's ok. You will have the opportunity to work on many different projects, and while it sometimes seems tiring, it's pretty cool to look back after a year and say "I got to work on 15 different impactful things " Chewy has a high "I get to do a lot" quotient. 5. Everyone gets a say. This isn't a "VP+ gets a voice and we all march" sort of place. Every team member at any level has the opportunity to voice their POV and share an idea, and the great ideas are used. They are involved in bringing it to life, in building on the idea, and even presenting it. I've seen many leaders at Chewy start in entry level positions and soar to senior leader roles in a matter of a few years by having well founded ideas and seeing them through.
+
+
+	Cons: 
+		1. (For some) You will have to work. At some companies with 20k+ employees, you can sort of skirt by doing the bare minimum and your lack of effort can hide amongst the volume. At Chewy, you'll get sniffed out pretty quickly. As kind as everyone is, we are also goal-oriented and you can't sit idle here - we move too fast, This is a con for "big company people" who want to rest for 10 years before retiring. If you're motivated and focused, you'll love it. If you're not, this will be a major con for you. 2. (For some) There are a lot (and growing) of inspection mechanisms. And while they may add value and be important for scale, document writing is the way decisions are made at Chewy, and it's a big upfront level of effort to present or support an idea. If you enjoy very high autonomy, the ability to move super fast and only 'check in with a PPT slide or two" at the end of a quarter with a couple fancy graphics that distract from results, Chewy may not be the place for you. In current state, data-driven, crisp, long-format document writing is more than a task, it's HOW we work. For someone who is great at 'doing' but weak at explaining their ideas, and the how/why in written format, or someone who doesn't like to be questioned and inspected continually, it may be stressful. Great place for those who like strong upfront alignment, clear decision-making thought process and ongoing discussions about our effectiveness, but would not recommend for the 'casual, let me do my thing and don't inspect me' type of person.
+
+
+	Summary: 
+		Amazing Company for Strong Leaders
+
+
+Review 2:
+	Job Title: Software Engineer II
+	Location: Boston, MA
+	Review Date: 2024-02-17T01:02:30.753
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		- Pays relatively well
+		- Unlimited PTO
+
+
+	Cons: 
+		- Focus on return to office
+		- Stock has taken a hit
+
+
+	Summary: 
+		Great Company with caveats
+
+
+Review 3:
+	Job Title: Senior Operations Manager
+	Location: Ocala, FL
+	Review Date: 2024-04-07T02:30:04.043
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Developed a new training program for all new leaders
+
+
+	Cons: 
+		Need to update systems
+		Improve quality and packaging
+
+
+	Summary: 
+		Feedback
+
+
+Review 4:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-09T15:26:23.470
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Good direct report management structure and coworkers, small productive teams, good tech and learning opportunities. Decent compensation.
+
+
+	Cons: 
+		Increased uncertainty about our jobs. Multiple rounds of layoffs combined with the messaging that our positions will be backfilled with offshore labor when people leave. Extremely hypocritical messaging encouraging RTO (while pretending that it's not an official policy), as if somehow we're supposed to believe in the cultural value of RTO when they're just turning around and replacing us with budget foreign labor. Are those Cognizant Mumbai employees going to come into the Boston office once a week for us to build relationships with us, Sumit??
+
+
+	Summary: 
+		Concerning culture shifts
+
+
+Review 5:
+	Job Title: Customer Service Representative (CSR)
+	Location: Richardson, TX
+	Review Date: 2024-04-09T05:49:04.727
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Chewy is unlike any other company I have every worked for.
+		Chewy really cares not only for their customers but their employees as well, they are always doing little appreciation surprises and things like that.
+		Working remotely has given me the flexablilty I needed for my schedule.
+
+
+	Cons: 
+		I really have found no down sides to my job. I will be with Chewy hopefully until these old paws are laid to rest.
+
+
+	Summary: 
+		Just WOW!
+
+
+Review 6:
+	Job Title: Customer Service Supervisor
+	Location: Richardson, TX
+	Review Date: 2024-03-27T10:36:30.327
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Chewy Customer Service has proven to be an incredibly supportive environment marked by leadership that is receptive and responsive to opinions from outside of the leadership group itself.
+		Leadership does an excellent job of actively identifying and developing top performers for further advancement with little consideration of seniority between peers.
+		Feedback from both team members and customers provides the basis for many if not most decisions rather than the impact to the company balance sheet.
+		Plans for continued growth into new sectors mean that Chewy intends to remain a force in the pet supplies and pet health industries for many years to come.
+		Company and department-wide raises have been frequent and aggressive in terms of attracting and retaining top talent in the field.
+
+
+	Cons: 
+		Scheduling is somewhat inflexible in terms of taking time off, adjusting long-term availability post-hire, and during each shift which includes breaks and meal periods which may be scheduled at different times from day to day.
+		Opportunities for advancement from entry-level to specialist are numerous but may become substantially less common thereafter.
+		Meal breaks are only a half-hour.
+
+
+	Summary: 
+		Growth and Commitment to Values
+
+
+Review 7:
+	Job Title: Pharmacist
+	Location: Louisville, KY
+	Review Date: 2024-04-15T18:37:01.053
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		You’re part of a welcoming but professional environment. You’re never left completely on your own and have plenty of resources to assist you. All levels of management are engaging and take an interest in your life and your satisfaction with your job. That is unheard of in pharmacy, but you have a voice here.
+
+
+	Cons: 
+		There is no shortage of work and lots of new information to digest, but you have an endless number of resources, including the person sitting beside you to help you get acclimated.
+
+
+	Summary: 
+		Great opportunity for unique pharmacy work
+
+
+Review 8:
+	Job Title: Designer
+	Location: Dania Beach, FL
+	Review Date: 2024-02-15T13:44:12.443
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Working from home, salary, pay raise and company shares are the only good things about this company
+
+
+	Cons: 
+		If you want an environment where people speak down to you and constantly diminish your talent, then work at chewy. I stayed as long as I did because I could work from home and not look at those peoples grotesque faces. As soon as they stated there would be a hybrid, I knew it was time to quit.
+
+
+	Summary: 
+		Worst group of people to work with and for
+
+
+Review 9:
+	Job Title: Warehouse Worker
+	Location: Mount Juliet, TN
+	Review Date: 2024-03-28T21:38:44.250
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		-Good pay
+		-Good benefits package for full time employees
+		-Consistent schedule
+		-Good call-out policy (start with UTO hours available)
+		-Break schedule works well so you have proper rest
+		-Fine with working with friends or partners during shift as long as you aren't slacking
+
+
+	Cons: 
+		-Long hours
+		-Takes a while to claim a shift if you aren't quick to respond to the texts or calls after interviews
+		-Physically demanding and need to keep a quick pace even when handling 50+ LB bags of horse feed
+		-Can't move from initial picking stage until a month after hire date to prove your mettle
+		-Vending machine/ cafeteria items are a wee bit expensive
+
+
+	Summary: 
+		Overall a good place to work
+
+
+Review 10:
+	Job Title: Senior Program Manager
+	Location: Dallas, TX
+	Review Date: 2024-04-17T07:58:07.977
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		- Unlimited PTO for salaried roles (functions differently by leader, though)
+		- Flexible work culture (and Remote for CS teams)
+		- Work with some truly brilliant people
+		- Pets at work!!!
+
+
+	Cons: 
+		- Individual contributor-focused culture 
+		- Collaboration not valued
+		- Leadership skills not valued
+		- Constant re-organizations (departments and whole company)
+		- Unqualified / toxic leaders never coached or removed
+		- Lack of trust for all employees (from CEO level)
+
+
+	Summary: 
+		Collaboration is Hard; Authentic Leadership not Valued
+
+
+Review 11:
+	Job Title: None
+	Location: None
+	Review Date: 2024-02-29T10:47:26.007
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Within the right team, you can work with like-minded individuals and collaborate creatively. I've personally always been able to find a team leader who supports any move that I've needed within the company and has helped me prepare for interviews or been provided recommendations for different role opportunities.
+
+
+	Cons: 
+		Sometimes transparency is an issue when it comes to big changes coming down the pipeline. Things often change too quickly and that can lead to some issues with morale within groups or teams.
+
+
+	Summary: 
+		Chewy Review
+
+
+Review 12:
+	Job Title: Learning Coordinator
+	Location: Louisville, KY
+	Review Date: 2024-03-30T11:29:18.807
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good Benefits* 
+		Can meet great people*
+
+
+	Cons: 
+		*Favoritism / Nepotism amongst management - High School Clique Mentality 
+		*No directions from management on tasks - Management also lacks knowledge of your position due to inability to leave their office to engage with employees as a leader. 
+		* Management promises opportunities only to phase out employee roles. 
+		* Leadership will change roles without participating in role duties or knowledge of what someone does. 
+		* Management talks down to their employees when they lack complete knowledge of what their employee does. 
+		*Management seems to engage in gaslighting employees.
+		*Management and HR seem to ignore bigotry, racism, favoritism, sexism, and sexual harassment in favor of keeping employees to push out good production numbers.
+
+
+	Summary: 
+		Corrupt Culture
+
+
+Review 13:
+	Job Title: Pharmacy Technician
+	Location: Louisville, KY
+	Review Date: 2024-04-14T03:49:08.343
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good discount
+		WFM opportunity
+		Good company values
+
+
+	Cons: 
+		Pay is not competitive for a pharmacy technician
+
+
+	Summary: 
+		Good company values, low pay
+
+
+Review 14:
+	Job Title: Customer Service Representative
+	Location: None
+	Review Date: 2024-04-17T09:11:06.387
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Get to work from home
+
+
+	Cons: 
+		Not much flexibility if you need time off. Got to build your UTO &amp; PTO. Unfortunately myself and my kids got sick the 2nd week out of training
+
+
+	Summary: 
+		Not what I expected
+
+
+Review 15:
+	Job Title: Senior Manager
+	Location: Fort Lauderdale, FL
+	Review Date: 2024-04-01T12:41:13.597
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great brand, people love Chewy.
+
+
+	Cons: 
+		Company culture does not align to what we want our customers to think about us. Too much trying to emulate Amazon and force things that don't make sense for Chewy. Executive leadership very out of touch, disengaged workers, lack of growth opportunity, horrible performance review practices. Lack of diversity, equity, inclusion with no real intent to fix it. Forcing return to office with no reason or demonstrated benefit. Actually tracking how many times/week people badge in.
+
+
+	Summary: 
+		Great company for customers, not so great for employees
+
+
+Review 16:
+	Job Title: Customer Service Representative (CSR)
+	Location: Hollywood, FL
+	Review Date: 2024-04-14T14:59:50.353
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		the best reasons to work for Chewy is the customers forever brag about how great our customer service is. I love the benefits we offer as well as the compassion everyone has for the employess
+
+
+	Cons: 
+		I'd love to go to a different dept easier.
+
+
+	Summary: 
+		Amazing place to wrork
+
+
+Review 17:
+	Job Title: Customer Service Agent
+	Location: Goodyear, AZ
+	Review Date: 2024-04-14T13:41:26.303
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Opportunity for growth within the company, excellent support teams, rewarding and fun place to work!
+
+
+	Cons: 
+		Dealing with the occasional tough customer, but there is always someone to help you out and back you up.
+
+
+	Summary: 
+		Endless Opportunities - Great place to work
+
+
+Review 18:
+	Job Title: Staff Pharmacist
+	Location: Louisville, KY
+	Review Date: 2024-04-02T12:41:13.843
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		I've been a pharmacist at Chewy for 3.5 years. The company has experienced a lot of growth during that time and continues to provide flexibility that is crucial to a working parent. I feel supported professionally and personally in this company, and truly know my opinions and concerns are heard and considered.
+
+
+	Cons: 
+		With growth of multiple sites across the country there have been instances where each site does not align on procedures. However, management is working to address these.
+
+
+	Summary: 
+		Great place to work
+
+
+Review 19:
+	Job Title: Category Manager
+	Location: None
+	Review Date: 2024-04-09T22:48:24.700
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		As a company, Chewy is a great company and all team members were super ambitious and knowledgable. But it depends on the team
+
+
+	Cons: 
+		If you're an innovator, it's hard to get ideas through. It all comes down to how much money it will take and how much money it will bring
+
+
+	Summary: 
+		Great company and great goals
+
+
+Review 20:
+	Job Title: Customer Service Representative (CSR)
+	Location: Hollywood, FL
+	Review Date: 2024-02-27T10:40:23.077
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Work from home and most co workers are nice
+
+
+	Cons: 
+		Monitored every single little thing you do or don't do, coaching sessions every week that makes you very anxious because they will just point things didn't go well during the week but never say anything about things you did well. My 3 managers are rude, they have high expectations for agents that do everything mostly, we are the door for this company and they just give you0.50 raise every 6 months. Also, you have to be super nice to lazy customers that don't have the courage toc check for products online or even learn how to browse their own acct. Work Force is a joke, they don't even answer the phone, UTO is limited, which I can't understand if they are not paying you for that.
+
+
+	Summary: 
+		Mental Health
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

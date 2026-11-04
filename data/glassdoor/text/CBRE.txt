@@ -1,0 +1,636 @@
+
+CBRE Group is a Real Estate company based in 75201 Dallas, Texas. 
+The company has 115,000 employees and has a revenue of $30,828 according to Fortune 500.
+The company is valued at $22,563 and has a profit of $1,407. The CEO of the company is None.
+
+The Company has the following ratings: 
+Average ratings for CBRE Group:
+Business Outlook: 0.7
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 713 
+	2: 786 
+	3: 1705 
+	4: 2323 
+	5: 2544 
+
+CEO: 0.88
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 596 
+	2: 973 
+	3: 2254 
+	4: 2601 
+	5: 1623 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 810 
+	2: 754 
+	3: 1491 
+	4: 2193 
+	5: 2781 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 416 
+	2: 398 
+	3: 912 
+	4: 1461 
+	5: 2177 
+
+Overall: 4
+Distribution: 
+	1: 653 
+	2: 658 
+	3: 2057 
+	4: 3344 
+	5: 3255 
+
+Senior Management: 3.6
+Distribution: 
+	1: 1115 
+	2: 926 
+	3: 1653 
+	4: 2130 
+	5: 2065 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 864 
+	2: 869 
+	3: 1846 
+	4: 2217 
+	5: 2233 
+
+Review Count: 11230
+
+Recommend to Friend: 
+	RECOMMEND: 5173
+	WONT RECOMMEND: 1740
+
+
+
+
+The company has 12351 reviews on Glassdoor. The last review was posted on 2024-04-18T00:48:25.397. 
+There are 20 Reviews for CBRE Group:
+
+Review 1:
+	Job Title: Senior Associate
+	Location: None
+	Review Date: 2024-04-02T17:26:10.797
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Systems, Staff, Leadership, Offices, Access, Respect
+
+
+	Cons: 
+		Hard to think of any at this time
+
+
+	Summary: 
+		Number 1 Brokerage in the world
+
+
+Review 2:
+	Job Title: Senior Fund Accountant
+	Location: Bloomington, MN
+	Review Date: 2024-04-05T15:21:39.520
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Hybrid schedule, two days in the office. 
+		Good benefits.
+
+
+	Cons: 
+		Compensation is low compared to competitors. No work/life balance. You have to bend over backwards to meet client deadlines even when they are unreasonable. The team seems very disorganized and while flexibility is nice, it is hard when you rely on your team members to review or complete items and they frequently leave for hours in the middle of the day.
+
+
+	Summary: 
+		Just Ok
+
+
+Review 3:
+	Job Title: Sr Project Manager
+	Location: Phoenix, AZ
+	Review Date: 2024-04-08T11:51:59.433
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		The pay is competitive, Most of the people are great to work with.
+
+
+	Cons: 
+		Leadership does not listen and is unaware there are certain director level people that do not know how to lead. They believe in adding more work rather than creating improvements and improving processes. They have a great PM software tool, however they refuse to utilize the tools it has, stating cost prevents it, Yet they spend money on licenses for MS Project, SmartSheet, as well as various other that create more work rather than improving the process.
+
+
+	Summary: 
+		Great Company
+
+
+Review 4:
+	Job Title: Facilities Manager
+	Location: Dallas, TX
+	Review Date: 2024-04-17T18:10:32.767
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Great experience with all trades and positions
+
+
+	Cons: 
+		You may be blocked from transferring if you're really good at your job.
+
+
+	Summary: 
+		Salary 
+
+
+Review 5:
+	Job Title: Sr. Project Manager
+	Location: East Hanover, NJ
+	Review Date: 2024-03-03T13:49:39.173
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		they offer benefits like most companies
+
+
+	Cons: 
+		like most business service companies, once you've been there for a few years and they can't find any more savings for the client, they start eliminating positions, getting rid of people but not their jobs, so you end doing your job plus the job of the ones that were let go, so they really squeeze the crap out of you until until they get rid of you too.
+
+
+	Summary: 
+		Unfortunately, not the best company to work for.
+
+
+Review 6:
+	Job Title: Facility Manager
+	Location: San Jose, CA
+	Review Date: 2024-04-10T16:27:56.497
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Large provider with huge brandname customer accounts. Great opportunity to network and build a career in facilities management.
+
+
+	Cons: 
+		Managers actively encouraged aggression and in-fighting for limited resources. Staff were pushed to a breaking point. Low pay for the area and industry
+
+
+	Summary: 
+		Challenging and Disrespectful
+
+
+Review 7:
+	Job Title: Lobby Host
+	Location: Redmond, WA
+	Review Date: 2024-04-04T08:11:10.060
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Enjoyed the schedule and the people who are on the lobby host and facilities team. I felt that I was given an adequate amount of work to stay busy but not feel overwhelmed. There are many opportunities to move up within the company. Pay and benefits are generous considering the type of work you are doing.
+
+
+	Cons: 
+		Fixed hours of 8AM to 5PM with a mandatory one hour lunch break. This is standard practice for all lobby host jobs, but the hours became annoying after a year or two.
+
+
+	Summary: 
+		Great Job
+
+
+Review 8:
+	Job Title: Senior Financial Analyst
+	Location: Dallas, TX
+	Review Date: 2024-04-17T12:02:39.400
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Everyone is helpful and friendly
+		Easy to lateral with company and always looking to promote
+
+
+	Cons: 
+		Pay raises are rough if not being promoted and bonus process is very standard with CBRE being so large
+
+
+	Summary: 
+		Good company culture
+
+
+Review 9:
+	Job Title: Sr. Construction Project Manager
+	Location: Charleston, SC
+	Review Date: 2024-03-29T14:48:47.103
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		- RISE Core values (Respect, Integrity, Service, Excellence) have meaning to everyone and management holds individuals accountable
+		- Leadership cares about employees and their career progress
+		- They have 18,000+ free classes
+		- They pay for school/certifications 
+		- Benefits on Day 1
+		- Opportunities around the country
+		- They have over a dozen business resource groups, that provide help and networking across accounts.
+
+
+	Cons: 
+		- 
+		- My experience is only with one account team. I am siloed and have no idea about other teams.
+		- A lot of the jobs are contract work
+
+
+	Summary: 
+		Great Company
+
+
+Review 10:
+	Job Title: Sr. Project Manager
+	Location: San Francisco, CA
+	Review Date: 2024-04-16T19:01:52.857
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Used to be a company focused results and providing value. You had to be the best at what you do to earn a role. The company now values what you look like more than what you have accomplished.
+
+
+	Cons: 
+		The toxic work environment and the lack of support from executive leadership.
+
+
+	Summary: 
+		Went Completely Woke
+
+
+Review 11:
+	Job Title: Assistant Property Manager
+	Location: Detroit, MI
+	Review Date: 2024-04-17T04:28:29.003
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great work environment and lots of learning opportunities.
+
+
+	Cons: 
+		Not good about promoting to higher positions.
+
+
+	Summary: 
+		Good environment,  slow to promote
+
+
+Review 12:
+	Job Title: Maintenance Technician III
+	Location: Lithia Springs, Douglas, GA
+	Review Date: 2024-04-05T18:42:27.163
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		They bought out the company i worked for. No problem they kept everyone, nothing changed work related
+
+
+	Cons: 
+		Their metrics somehow showed we all needed a pay cut to stay on. I had just recently got a raise . Lost that and some.
+
+
+	Summary: 
+		Too new to tell
+
+
+Review 13:
+	Job Title: Portfolio Analyst
+	Location: Houston, TX
+	Review Date: 2024-04-16T21:14:01.597
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Amazing work environment, great people and staff
+
+
+	Cons: 
+		Honestly cannot think of any cons besides the normal ups and downs of business in general
+
+
+	Summary: 
+		Portfolio analyst
+
+
+Review 14:
+	Job Title: Operations Manager
+	Location: South San Francisco, CA
+	Review Date: 2024-04-14T14:31:56.543
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Great benefits, ability to transfer within company, offers great training
+
+
+	Cons: 
+		no stocks or profit sharing, bonus depends on account
+
+
+	Summary: 
+		Great Company
+
+
+Review 15:
+	Job Title: Program Manager
+	Location: Tampa, FL
+	Review Date: 2024-04-01T05:40:25.737
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		CBRE has several lines of business with multiple chances to move forward. There are 100s of jobs, and if one works well and gets good reviews then there is an opportunity to move forward with the company.
+
+
+	Cons: 
+		There are some budget restraints that does prevent some travel at the company. This can lead to trying to manage a job remotely and has caused some additional work to find out what is wrong and needs to be corrected without being on site.
+
+
+	Summary: 
+		Real Estate Program Manager
+
+
+Review 16:
+	Job Title: Analyst
+	Location: None
+	Review Date: 2024-04-16T16:50:52.240
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Exposure to multiple real estate asset types in a collaborative work environment.
+
+
+	Cons: 
+		Easy to get lost in a large company.
+
+
+	Summary: 
+		Great Work Environment
+
+
+Review 17:
+	Job Title: Records Administrator
+	Location: Seattle, WA
+	Review Date: 2024-04-16T19:57:37.580
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		ok pay, benefits, and environment
+
+
+	Cons: 
+		management has no idea what’s going on
+
+
+	Summary: 
+		alright
+
+
+Review 18:
+	Job Title: Analyst
+	Location: Los Angeles, CA
+	Review Date: 2024-04-15T12:45:57.393
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		- Competitive salary
+		- Great MDs
+		- Great coworkers
+		- Relaxed environment
+
+
+	Cons: 
+		- Downtown LA traffic is not fun
+
+
+	Summary: 
+		Great place to work with plenty of learning opportunities
+
+
+Review 19:
+	Job Title: People Team
+	Location: None
+	Review Date: 2024-04-09T06:01:26.277
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Mobility and flexibility within the company. Large company with some great clients.
+
+
+	Cons: 
+		Lack of direction and structure. Constant changes in policy and procedure so you never know what to expect. Benefits aren’t anything to write home about.
+
+
+	Summary: 
+		Large Company
+
+
+Review 20:
+	Job Title: Project Manager
+	Location: Denver, CO
+	Review Date: 2024-04-17T11:42:35.800
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Good benefits are provided 
+		Work life balance
+
+
+	Cons: 
+		Contractor work is always unknown
+
+
+	Summary: 
+		Great benefits
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

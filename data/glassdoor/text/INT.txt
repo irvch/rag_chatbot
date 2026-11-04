@@ -1,0 +1,634 @@
+
+World Fuel Services is a Energy company based in 33178 Miami, Florida. 
+The company has 5,214 employees and has a revenue of $59,043 according to Fortune 500.
+The company is valued at $1,585 and has a profit of $114. The CEO of the company is Michael J. Kasbar.
+
+The Company has the following ratings: 
+Average ratings for World Fuel Services:
+Business Outlook: 0.54
+
+Career Opportunities: 3.1
+Distribution: 
+	1: 125 
+	2: 83 
+	3: 102 
+	4: 93 
+	5: 77 
+
+CEO: 0.62
+
+Compensation and Benefits: 3.3
+Distribution: 
+	1: 58 
+	2: 65 
+	3: 119 
+	4: 164 
+	5: 73 
+
+Culture and Values: 3.3
+Distribution: 
+	1: 146 
+	2: 60 
+	3: 78 
+	4: 83 
+	5: 95 
+
+Diversity and Inclusion: 3.6
+Distribution: 
+	1: 39 
+	2: 16 
+	3: 37 
+	4: 49 
+	5: 84 
+
+Overall: 3.3
+Distribution: 
+	1: 122 
+	2: 84 
+	3: 105 
+	4: 143 
+	5: 104 
+
+Senior Management: 3.2
+Distribution: 
+	1: 165 
+	2: 64 
+	3: 84 
+	4: 81 
+	5: 81 
+
+Work Life Balance: 3.5
+Distribution: 
+	1: 100 
+	2: 71 
+	3: 123 
+	4: 89 
+	5: 95 
+
+Review Count: 561
+
+Recommend to Friend: 
+	RECOMMEND: 215
+	WONT RECOMMEND: 209
+
+
+
+
+The company has 594 reviews on Glassdoor. The last review was posted on 2024-04-16T02:17:42.187. 
+There are 20 Reviews for World Fuel Services:
+
+Review 1:
+	Job Title: Accounts Payable
+	Location: Houston, TX
+	Review Date: 2024-03-17T20:21:41.037
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good team to work with.
+
+
+	Cons: 
+		No negative review for the company
+
+
+	Summary: 
+		Good company
+
+
+Review 2:
+	Job Title: Fuel Transporter
+	Location: None
+	Review Date: 2024-04-10T17:22:56.890
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good equipment, some nice coworkers. 
+
+
+	Cons: 
+		Poor communication from corporate management. Long shifts, weekends, and working on holidays. To many lazy coworkers as well.
+
+
+	Summary: 
+		Wfs review
+
+
+Review 3:
+	Job Title: Employee
+	Location: None
+	Review Date: 2024-03-21T11:44:12.067
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Nice co-workers, Good salary. Not in the office all 5 days.
+		Popcorn in the lobby.
+
+
+	Cons: 
+		Leadership does not know what they are doing, toxic environment, lots of people leaving, work demand is unrealistic, low morale.
+		Hybrid work expectations- Tuesdays and Thursdays in the office (unless you live more than 50 miles away from the office that is located in Doral, FL).
+		If you want to keep your job, keep the head down and do not give your opinion.
+
+
+	Summary: 
+		Disfuncional leadership
+
+
+Review 4:
+	Job Title: Sr Data Administrator
+	Location: Miami, FL
+	Review Date: 2024-04-09T07:55:42.570
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Working for fortune 100
+		Good benefits with cool office space and gym
+
+
+	Cons: 
+		Company culture…not very collaborative environment. People tend to see themselves as part of a team and not the company
+
+
+	Summary: 
+		Mostly good but meh
+
+
+Review 5:
+	Job Title: Marketing Director
+	Location: Miami, FL
+	Review Date: 2024-02-19T10:58:41.833
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		During a difficult market WFS leadership has done a solid job navigating the challenges
+
+
+	Cons: 
+		Lack of communication to middle management and below
+
+
+	Summary: 
+		Challenging Market
+
+
+Review 6:
+	Job Title: Accountant
+	Location: Miami, FL
+	Review Date: 2024-02-13T19:10:05.603
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great work/life balance. A very fair place to work.
+
+
+	Cons: 
+		pandemic happened and fuel prices went down. But a very fair place to work.
+
+
+	Summary: 
+		Great place to work 
+
+
+Review 7:
+	Job Title: Customer Experience Coordinator
+	Location: Miami, FL
+	Review Date: 2024-02-09T20:11:30.137
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Work from home, involved supervisors, busy
+
+
+	Cons: 
+		slow to promote, a lot of blending/taking on of other responsibilities while other departments are pacified, low wage
+
+
+	Summary: 
+		It's a good start but do not get stuck
+
+
+Review 8:
+	Job Title: IT Engineer Staff
+	Location: Miami, FL
+	Review Date: 2023-11-27T08:46:14.377
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		-Competitive salary, but not the best.
+		- Work with new technologies
+		- Reimbursement for certifications 
+		- Flex work from home and office
+		- Workload is light as management does not have a clear goal.
+
+
+	Cons: 
+		-Management sucks, if you are not Indian or part of the exclusive Indian group of individuals you will not get promoted.
+		- Non-working Agile environment.
+		- No space for grow
+		- Discrimination based on ethnic race.
+
+
+	Summary: 
+		Impossible to get promoted
+
+
+Review 9:
+	Job Title: Software Developer
+	Location: Miami, FL
+	Review Date: 2024-02-12T13:35:40.850
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Decent Salary, average benefits. WFH.
+
+
+	Cons: 
+		The IT management is toxic, and backwards. They greenlight projects that waste money. They push ideas from 20+ years ago. Avoid.
+
+
+	Summary: 
+		Toxic management
+
+
+Review 10:
+	Job Title: Director
+	Location: Houston, TX
+	Review Date: 2024-01-17T13:02:11.813
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Great place for Diversity and inclusion. The company is big with a local touch and a lean hierarchy
+
+
+	Cons: 
+		constant change of strategy. we need a clearer vision and focus.
+
+
+	Summary: 
+		Grate Diversity
+
+
+Review 11:
+	Job Title: Truck Driver
+	Location: Virginia Beach, VA
+	Review Date: 2024-01-03T08:32:31.060
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great Benefits and Great Pay
+
+
+	Cons: 
+		You work long hours and most Holidays
+
+
+	Summary: 
+		Great Company and Benefits
+
+
+Review 12:
+	Job Title: Sales Representative
+	Location: Houston, TX
+	Review Date: 2023-09-13T13:30:47.830
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		I have thoroughly enjoyed my time working at World Fuel Services. The culture is great, management is great both in my department and in others. From top to bottom leadership values you as a person just as much as they do an employee, which is uncommon in large corporations. You are encouraged to use your PTO and the amount of PTO is generous. Benefits are good. You will have all the resources you could possibly need to be successful in Sales.
+
+
+	Cons: 
+		Base salaries could be better, but there is ample opportunity to increase your earnings via commission if you perform well.
+
+
+	Summary: 
+		Excellent Place To Work
+
+
+Review 13:
+	Job Title: Cloud Engineer
+	Location: Miami, FL
+	Review Date: 2023-12-13T02:59:56.173
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good environment to work in
+
+
+	Cons: 
+		Not enough growth for engineers only upper management gets promoted
+
+
+	Summary: 
+		Good
+
+
+Review 14:
+	Job Title: IT Support Technician
+	Location: None
+	Review Date: 2023-12-13T19:50:13.350
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Health Benefits, 401k, PTO, Dental
+
+
+	Cons: 
+		Low salaries, no appreciation, hard to get promoted and lack of leadership. No holiday Christmas appreciation for remote workers.
+
+
+	Summary: 
+		Avoid WFS
+
+
+Review 15:
+	Job Title: Transportation Manager
+	Location: Miami, FL
+	Review Date: 2023-11-15T23:12:30.453
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great medical dental and vision
+
+
+	Cons: 
+		Pushing the return to office
+		Senior leaders stuck in old ways and will not change
+
+
+	Summary: 
+		Ttransportstion manager
+
+
+Review 16:
+	Job Title: Accounts Receivable
+	Location: Miami, FL
+	Review Date: 2023-11-06T07:49:10.210
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good benefits Fair Pay Friendly people
+
+
+	Cons: 
+		They clean house every so often. Wether you’ve been there 5 years or 20 years.
+
+
+	Summary: 
+		Great place to work
+
+
+Review 17:
+	Job Title: Program Manager
+	Location: Miami, FL
+	Review Date: 2023-10-24T13:54:37.373
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Only pros I can think of is experience. Nothing else.
+
+
+	Cons: 
+		Very toxic and click-y environment. Starting from the top.
+
+
+	Summary: 
+		Not sure how I worked here for too long
+
+
+Review 18:
+	Job Title: Sr. Manager IT
+	Location: None
+	Review Date: 2023-10-10T17:32:54.957
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Solid benefits and technology solutions
+
+
+	Cons: 
+		No down side for me
+
+
+	Summary: 
+		Solid
+
+
+Review 19:
+	Job Title: Software Engineer
+	Location: Doral, FL
+	Review Date: 2023-09-27T10:30:10.970
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good culture, with good benefits.
+
+
+	Cons: 
+		Nothing to major as a con, mostly just salary not being the best.
+
+
+	Summary: 
+		Software Dev 1
+
+
+Review 20:
+	Job Title: Financial Operations Coordinator
+	Location: Miami, FL
+	Review Date: 2023-08-14T19:25:10.180
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Health insurance, PTO &amp; 401K
+
+
+	Cons: 
+		Micromanage, no room to grow, no positive work environment, no employee appreciation and low pay for the amount of work you are asked to do.
+
+
+	Summary: 
+		Avoid working at WFS
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,656 @@
+
+Nvidia is a Semiconductors and Other Electronic Components company based in 95051 Santa Clara, California. 
+The company has 26,196 employees and has a revenue of $26,974 according to Fortune 500.
+The company is valued at $686,092 and has a profit of $4,368. The CEO of the company is Jen-Hsun Huang.
+
+The Company has the following ratings: 
+Average ratings for Nvidia:
+Business Outlook: 0.92
+
+Career Opportunities: 4.4
+Distribution: 
+	1: 61 
+	2: 108 
+	3: 197 
+	4: 347 
+	5: 644 
+
+CEO: 0.97
+
+Compensation and Benefits: 4.6
+Distribution: 
+	1: 39 
+	2: 82 
+	3: 217 
+	4: 392 
+	5: 634 
+
+Culture and Values: 4.5
+Distribution: 
+	1: 53 
+	2: 40 
+	3: 97 
+	4: 254 
+	5: 764 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 16 
+	2: 19 
+	3: 46 
+	4: 126 
+	5: 312 
+
+Overall: 4.6
+Distribution: 
+	1: 58 
+	2: 71 
+	3: 149 
+	4: 373 
+	5: 873 
+
+Senior Management: 4.3
+Distribution: 
+	1: 93 
+	2: 88 
+	3: 183 
+	4: 343 
+	5: 652 
+
+Work Life Balance: 4.1
+Distribution: 
+	1: 92 
+	2: 121 
+	3: 280 
+	4: 393 
+	5: 476 
+
+Review Count: 1528
+
+Recommend to Friend: 
+	RECOMMEND: 1137
+	WONT RECOMMEND: 164
+
+
+
+
+The company has 5543 reviews on Glassdoor. The last review was posted on 2024-04-17T19:43:20.473. 
+There are 20 Reviews for Nvidia:
+
+Review 1:
+	Job Title: Supplier Base Engineer
+	Location: Santa Clara, CA
+	Review Date: 2024-01-17T12:21:09.373
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 0
+
+	Pros: 
+		During my time at NVidia, I found the company culture to be inclusive, fostering teamwork and creativity. The company constantly encourages innovation so that employees feel empowered to suggest or try new methods and new ideas. The leadership team embraces a "learnt from failures' mentality, creating a supportive environment for professional growth and development.
+
+
+	Cons: 
+		There could be room for improvement in cross-departmental communication to streamline processes further.
+
+
+	Summary: 
+		A great company to do your life work.
+
+
+Review 2:
+	Job Title: Software Intern
+	Location: Santa Clara, CA
+	Review Date: 2024-04-17T19:43:20.473
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Interesting work, good projects to work on
+
+
+	Cons: 
+		Sometimes can be tedious or boring
+
+
+	Summary: 
+		Good projects
+
+
+Review 3:
+	Job Title: Software Engineer
+	Location: Santa Clara, CA
+	Review Date: 2024-02-13T14:23:04.450
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		- Name and prestige perhaps
+
+
+	Cons: 
+		I am not sure where all these positive reviews about the healthy work-life balance comes from but it was one of the worst place and onboarding I've had in the industry.
+		
+		Its actually quite embarassing for a company that have been around for a really long time, astronomically high market cap, in the middle of sillicon valley, to have a really bad engineering culture.
+		
+		There seems to be no value for the whole organization to build a good engineering ecosystem (especially on software side). There are a lot of upper managers who has been around for a while that is pretty conservative in work culture, imposing servitude on engineers instead growing them.
+		
+		As for work-life balance, more than half of my team members have been working past 7pm everyday and the directory keeps spamming the chat almost everyday 11pm at night.
+		
+		The stand-up process is a mess where there are too many people in the meeting and no one has any idea on the scope of projects and the PM is clueless and seemed to be assigned for the role to chase artificially imposed deadline.
+		
+		On compensation side, there is a 1 year cliff, so if you are coming from a lot of FAANG, its pretty much a year of half salary paycut
+
+
+	Summary: 
+		Bad place for engineers
+
+
+Review 4:
+	Job Title: Principal Software Engineer
+	Location: Santa Clara, CA
+	Review Date: 2024-01-06T17:36:58.137
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		I worked there for 18 years before I retired early. I enjoyed working there because:
+		 - Inspired and inspiring CEO. One day I was at lunch with a coworker and a voice behind me said "Can I join you?" It was the CEO, and over lunch he wanted to know what we did, what we thought of the company, benefits, etc. No private dining room for him!
+		- a great deal of fast paced work developing solutions for cutting edge problems.
+		- everyone right up to senior management buys into the company culture. Employees are treated extremely well and are generally motivated to do excellent work and create quality products.
+		- many highly competent engineers throughout the company.
+		- great benefits. I was treated well when I was off work for five months after a boating accident. I received full salary and my job was waiting for me when I returned to work.
+		- high salaries and excellent stock benefits.
+		- unlimited personal time off.
+
+
+	Cons: 
+		The work is usually fast paced and often time sensitive so it's easy to forget to maintain your work/life balance. A good balance is highly encouraged by the company.
+
+
+	Summary: 
+		Very difficult to find a better company
+
+
+Review 5:
+	Job Title: Sr. SW Engineer
+	Location: Austin, TX
+	Review Date: 2024-02-20T12:58:10.973
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		benefits
+		pay
+		management
+		tools
+		coworkers
+
+
+	Cons: 
+		workspace - tiny cubes
+		overly inclusive in hiring based on race, sexual preference, etc instead of hiring the best people.
+		Missing milestones/deadlines is allowed
+
+
+	Summary: 
+		Retiring after 24 good years
+
+
+Review 6:
+	Job Title: OEM Account Manager
+	Location: Raleigh, NC
+	Review Date: 2024-02-03T06:53:19.853
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		NVIDIA is not an easy place to work. It's fast-paced, with high expectations on your ability to contribute and move the company into the future. But they give you all the tools for your job, and the ability to succeed, or to fail fast and course-correct. Jensen is a visionary which sometimes means what you were focused on yesterday has been de-prioritized because the next most important thing has arrived. As long as you can pivot at the speed of light, you'll do well here.
+
+
+	Cons: 
+		It's time to move along some of the old guard. Seeing lots of folks who have been there 15-20 years retiring in place, just doing the bare minimum waiting for each quarterly stock grant to vest. Time to move them out to make room for fresh ideaa.
+
+
+	Summary: 
+		Best company I've ever worked for
+
+
+Review 7:
+	Job Title: Senior Hardware Engineer
+	Location: Santa Clara, CA
+	Review Date: 2024-04-12T13:38:11.023
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Technical leadership in field
+		Growth potential for both company and myself
+		Nice culture for supporting work&amp;life balance
+		Co-operation across teams&amp;business inits
+
+
+	Cons: 
+		Work load for continuous projects
+		Communication with the different teams located in various timezone
+
+
+	Summary: 
+		Great
+
+
+Review 8:
+	Job Title: Senior Software Engineer
+	Location: Santa Clara, CA
+	Review Date: 2024-04-11T08:36:58.773
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Interesting, challenging work with many opportunities to advance.
+
+
+	Cons: 
+		As you go higher, some members of some teams have personal agendas or personal preferences that can often run counter to product interests and result in a bifurcated product.
+
+
+	Summary: 
+		Great place to work
+
+
+Review 9:
+	Job Title: Sr. Software Engineer
+	Location: Santa Clara, CA
+	Review Date: 2024-04-16T10:01:14.180
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Company is growing and there are opportunities in all sectors
+
+
+	Cons: 
+		Achieving work life balance is a challenge
+
+
+	Summary: 
+		Great place to work
+
+
+Review 10:
+	Job Title: Silicon Design Engineer
+	Location: Hillsboro, OR
+	Review Date: 2024-04-16T19:41:49.987
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good WLB
+		Flexibility
+		Individual contributor
+
+
+	Cons: 
+		No cons in our team
+
+
+	Summary: 
+		Silicon methodology engineer
+
+
+Review 11:
+	Job Title: Shipping and Receiving Specialist
+	Location: Santa Clara, CA
+	Review Date: 2024-04-11T13:00:42.167
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Learned so much with hands on experience and people were very supportive.
+
+
+	Cons: 
+		Hire bad managers and manager brings in worse talent.
+
+
+	Summary: 
+		Learned a lot
+
+
+Review 12:
+	Job Title: Research Intern
+	Location: Santa Clara, CA
+	Review Date: 2024-04-11T15:54:31.517
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		It is a great place to work
+
+
+	Cons: 
+		It could be quite intense sometimes
+
+
+	Summary: 
+		Awesome company
+
+
+Review 13:
+	Job Title: Intern
+	Location: Santa Clara, CA
+	Review Date: 2024-04-06T17:04:38.713
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Welcoming and diverse people and management
+
+
+	Cons: 
+		There really weren't any great experience overall
+
+
+	Summary: 
+		Company Environment
+
+
+Review 14:
+	Job Title: ASIC Design Engineer
+	Location: Santa Clara, CA
+	Review Date: 2024-04-05T15:48:19.923
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great openness and intellectual honesty.
+
+
+	Cons: 
+		I have no cons to share
+
+
+	Summary: 
+		My First Employer
+
+
+Review 15:
+	Job Title: Software Engineer
+	Location: Santa Clara, CA
+	Review Date: 2024-04-03T07:23:13.563
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Offers Small company CEO policies
+
+
+	Cons: 
+		Merit increases are smaller but rsu increases are good
+
+
+	Summary: 
+		Great employee satisfaction
+
+
+Review 16:
+	Job Title: Senior ASIC Design Engineer
+	Location: Santa Clara, CA
+	Review Date: 2024-02-10T18:30:14.330
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		ESPP plan has 2-year lock period gave good returns over past few years. CEO is very interesting person and empathetic.
+
+
+	Cons: 
+		Lack of management support, coupled with very high expectations ruins WLB. Lower ICs are also expected to perform at level of managers. Sometimes they are very cruel in giving feedback.
+
+
+	Summary: 
+		Good benefits, but brutally high expectations
+
+
+Review 17:
+	Job Title: Senior Hardware Engineer
+	Location: Santa Clara, CA
+	Review Date: 2024-04-03T12:36:58.920
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		good paid. enough holidays and paid time off.
+
+
+	Cons: 
+		some overtime,too much meetings. meetings with Taiwan.
+
+
+	Summary: 
+		good balanced life
+
+
+Review 18:
+	Job Title: Network Storage Engineer 4 
+	Location: Santa Clara, CA
+	Review Date: 2024-02-26T22:40:50.973
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		- Work on top notch technology in the market
+		- Great perks, benefits (medical, ESPP, 401k and much more)
+		- Love their Gear store (provides points to bug goodies worth $200 as a new joinee, $50 every quarter). Goodies are a great deal.
+		- Provides top notch IT equipments to it's employees
+		- Great cafeterias, subsidized food
+		- Flat culture
+
+
+	Cons: 
+		- People in the company for long doesn't help much with trainings etc.
+
+
+	Summary: 
+		Network Storage Engineer with 10 years of experience
+
+
+Review 19:
+	Job Title: Principal Research Engineer
+	Location: Durham, NC
+	Review Date: 2024-03-13T03:46:21.593
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great work for a lifetime, lateral mobility, still has a small-company feel, CEO who is a great business person and a great technologist, ability to work from home as much as you want, flat and matrix management structure, progressive culture.
+
+
+	Cons: 
+		I can't really think of any.
+
+
+	Summary: 
+		best computer company in the world
+
+
+Review 20:
+	Job Title: Software Engineer
+	Location: Santa Clara, CA
+	Review Date: 2024-02-15T22:49:06.737
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Working at NVIDIA offers the opportunity to be at the forefront of technological innovation, as the company is a global leader in graphics processing technology and artificial intelligence. Employees at NVIDIA are part of a dynamic, creative, and collaborative culture that encourages innovation and supports personal and professional growth. Furthermore, NVIDIA is known for offering competitive benefits and fostering a workplace environment that values diversity, inclusion, and sustainability, making it an attractive place to work for professionals across various disciplines.
+
+
+	Cons: 
+		Some orgs act like a startup, but get worst of both world.
+
+
+	Summary: 
+		AI Revolution
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,627 @@
+
+ManpowerGroup is a Temporary Help company based in 53212 Milwaukee, Wisconsin. 
+The company has 30,900 employees and has a revenue of $19,828 according to Fortune 500.
+The company is valued at $4,191 and has a profit of $374. The CEO of the company is Jonas Prising.
+
+The Company has the following ratings: 
+Average ratings for ManpowerGroup:
+Business Outlook: 0.65
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 296 
+	2: 284 
+	3: 464 
+	4: 467 
+	5: 469 
+
+CEO: 0.85
+
+Compensation and Benefits: 3.3
+Distribution: 
+	1: 264 
+	2: 325 
+	3: 591 
+	4: 469 
+	5: 327 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 285 
+	2: 217 
+	3: 418 
+	4: 429 
+	5: 617 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 89 
+	2: 72 
+	3: 178 
+	4: 275 
+	5: 489 
+
+Overall: 3.8
+Distribution: 
+	1: 236 
+	2: 232 
+	3: 541 
+	4: 684 
+	5: 693 
+
+Senior Management: 3.6
+Distribution: 
+	1: 320 
+	2: 235 
+	3: 410 
+	4: 375 
+	5: 458 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 240 
+	2: 202 
+	3: 463 
+	4: 501 
+	5: 562 
+
+Review Count: 2388
+
+Recommend to Friend: 
+	RECOMMEND: 1193
+	WONT RECOMMEND: 540
+
+
+
+
+The company has 3035 reviews on Glassdoor. The last review was posted on 2024-04-17T06:18:09.273. 
+There are 20 Reviews for ManpowerGroup:
+
+Review 1:
+	Job Title: Senior Solution Architect
+	Location: Camden, NJ
+	Review Date: 2024-01-29T19:07:05.093
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		No Issues with the company
+
+
+	Cons: 
+		Good Benefits with the company
+
+
+	Summary: 
+		Good
+
+
+Review 2:
+	Job Title: Engineering Recruiter
+	Location: None
+	Review Date: 2024-02-23T08:00:36.690
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		On the positive side, the team at ManpowerGroup is undoubtedly one of its strongest assets. Their collective knowledge and dedication shine through, making interactions seamless and productive. From understanding client needs to sourcing suitable candidates, the team navigates the recruitment landscape adeptly, fostering trust and reliability along the way. Their commitment to excellence is commendable, reflecting in the quality of placements made and the relationships forged.
+
+
+	Cons: 
+		Nevertheless, it's essential to address the inherent challenges that come with the territory. One notable hurdle is the occasionally overwhelming workload. The demand for engineering talent, coupled with the meticulous process of sourcing and screening candidates, can stretch the team thin at times. This can lead to pressures that may affect efficiency and morale, highlighting areas for potential improvement in resource management and workload distribution.
+
+
+	Summary: 
+		ManpowerGroup as an Engineering Recruiter
+
+
+Review 3:
+	Job Title: Customer Service Representative
+	Location: Raleigh, NC
+	Review Date: 2024-04-07T10:00:05.790
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		flexibility, pto, great supervisors, and set schedule
+
+
+	Cons: 
+		nothing in my opinion. if you enjoy working from home this is the job for you
+
+
+	Summary: 
+		Great company!!
+
+
+Review 4:
+	Job Title: Sr. Recruiter
+	Location: Milwaukee, WI
+	Review Date: 2024-04-03T17:43:11.663
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Supportive team, great bosses. They have many opportunities and may move you around in the company.
+
+
+	Cons: 
+		They have regular lay offs
+
+
+	Summary: 
+		Great company 
+
+
+Review 5:
+	Job Title: Senior/Lead Business Intelligence Analyst
+	Location: South Lake Tahoe, CA
+	Review Date: 2024-04-02T15:50:13.230
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Excellent Coworkers
+		Transparent Environment
+		Flexibility
+		Solid Benefits
+
+
+	Cons: 
+		Somewhat outdated
+		Difficult to modernize
+		Large company, slow to implement changes
+
+
+	Summary: 
+		More Pros than Cons!
+
+
+Review 6:
+	Job Title: Customer Service Representative (CSR)
+	Location: Los Angeles, CA
+	Review Date: 2024-04-03T16:50:22.177
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		no micro managing, good communication
+
+
+	Cons: 
+		temporary contract, not consistent work
+
+
+	Summary: 
+		Good work environment 
+
+
+Review 7:
+	Job Title: Director, Client Solutions
+	Location: Jacksonville, FL
+	Review Date: 2023-12-27T13:34:09.963
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Competitive Salary and Benefits. A leader in the industry and most buyers are familiar with ManpowerGroup. There are some great people that work for the organization as well as some great leaders.
+
+
+	Cons: 
+		The commission structure is the worst in the industry. The leadership needs to do a better job at explaining expectations during onboarding and within the first 90 days versus after 6-8 months from the start date. When deals are closed don't expect to receive any sort of congrats from leadership, however others within the organization will acknowledge the hard work it took to close the deal. You can expect to put in tons of hours and work during your vacation without acknowledgement from management.
+
+
+	Summary: 
+		Do your Due Diligence prior to accept a job with MPG
+
+
+Review 8:
+	Job Title: Operations
+	Location: Milwaukee, WI
+	Review Date: 2024-03-14T21:36:54.213
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		I don’t have pros to add.
+
+
+	Cons: 
+		They preach development but let a lot of knowledge and experience go and hire from outside.
+
+
+	Summary: 
+		Don’t practice what they preach
+
+
+Review 9:
+	Job Title: None
+	Location: New Haven, CT
+	Review Date: 2024-03-07T08:20:36.327
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		-Once you get an assignment it's good
+
+
+	Cons: 
+		-Once the assignment ends, you could be out of a job for a long time. Recruiters seem to not prioritize placing you even though you're a top performer
+
+
+	Summary: 
+		No Stability
+
+
+Review 10:
+	Job Title: Recruiter Specialist
+	Location: Milwaukee, WI
+	Review Date: 2024-03-16T06:37:53.607
+	Business Outlook: NEGATIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Paid holidays, career advancement, fun work environment
+
+
+	Cons: 
+		Health insurance, lower wages, no remote positions
+
+
+	Summary: 
+		Good company 
+
+
+Review 11:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-11T09:36:58.203
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good culture, encourages work life balance, remote working
+
+
+	Cons: 
+		Layoffs and lack of planning for future business
+
+
+	Summary: 
+		Good overall
+
+
+Review 12:
+	Job Title: IT Service Delivery Manager
+	Location: Falls Church, VA
+	Review Date: 2024-01-30T07:02:12.957
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		You are given quite a bit of freedom to succeed.
+
+
+	Cons: 
+		Management can't seem to figure out what success looks like, and how to get there. Driving to a mission is very hard when there are no real goals.
+
+
+	Summary: 
+		Great people, schizophrenic management 
+
+
+Review 13:
+	Job Title: Managing Director
+	Location: None
+	Review Date: 2024-01-25T10:52:26.407
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Best in class training resources with my path is game changer.
+
+
+	Cons: 
+		Like many large enterprises, lots of red tape and bureaucracy to get things done
+
+
+	Summary: 
+		Large Professional company with lots of support
+
+
+Review 14:
+	Job Title: Recruiter
+	Location: Boston, MA
+	Review Date: 2024-01-16T06:10:28.907
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Decent place to get started in HR/ Recruiting
+
+
+	Cons: 
+		No opportunity for growth, no annual raise, no bonuses, no incentive or employee appreciation.
+
+
+	Summary: 
+		It's Just Okay
+
+
+Review 15:
+	Job Title: Researcher
+	Location: Texas City, TX
+	Review Date: 2024-01-22T00:03:22.993
+	Business Outlook: NEUTRAL
+	Career Opportunities: 0
+	CEO: NO_OPINION
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good atmosphere, friendly working environment
+
+
+	Cons: 
+		Dont find any cons here
+
+
+	Summary: 
+		Good to start ur career
+
+
+Review 16:
+	Job Title: Technical Recruiter
+	Location: None
+	Review Date: 2023-12-17T13:21:43.537
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		hybrid schedule, easy tasks, flexibility
+
+
+	Cons: 
+		all this company cares about is money, money money, everything is transactional to them, some account managers discriminate against candidates and management turns the other cheek because of the "whatever it takes" sales mentality, it's icky. Lots of bias when it comes to candidates.
+
+
+	Summary: 
+		Meh
+
+
+Review 17:
+	Job Title: Resource Professional
+	Location: New York, NY
+	Review Date: 2024-01-12T00:09:08.520
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great leaders, work-life balance, fantastic culture.
+
+
+	Cons: 
+		Growth opportunities are difficult to find.
+
+
+	Summary: 
+		Great culture
+
+
+Review 18:
+	Job Title: Client Services Manager
+	Location: Israel, TX
+	Review Date: 2023-12-16T22:51:02.423
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Independent role. Very diverse. Get to see a lot of other companies and different way of doing things
+
+
+	Cons: 
+		Poor management, don't see the big picture and are focused on the here and now
+
+
+	Summary: 
+		Client service manager
+
+
+Review 19:
+	Job Title: Operations Professional
+	Location: Tempe, AZ
+	Review Date: 2023-05-10T18:24:06.500
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		I liked the people I worked with directly, and I could tell that there were some teams that were very happy and thriving. Immediate supervisors and managers were helpful. Benefits were okay, not amazing but not terrible. Started off with 15 days vacation per year.
+
+
+	Cons: 
+		Big disconnect between leadership and everyone else. It's a typical "you give an inch, they take a mile" corporation that will squeeze out as much as possible from employees. Many jobs were off-shored in my last year, which tanked morale, and made me realize I couldn't depend on a sustainable future with the company. Other turn-offs include: 1) They hired a terrible supervisor who is still with the company, though he should have been fired a long time ago; 2) They made it impossible for employees to receive referral bonuses by hiring everyone on initially as Experis "consultants" before allowing them to become permanent Manpower Group employees. So, I wasn't eligible for a referral bonus because the new hire I referred (we worked on the same team) was technically an employee of a different company (Experis) when she got hired on, even though she was later hired on permanently with Manpower Group. That's the kind of BS you can expect.
+
+
+	Summary: 
+		Job satisfaction will depend on your specific job
+
+
+Review 20:
+	Job Title: Sales Professional
+	Location: Chicago, IL
+	Review Date: 2023-12-22T17:39:48.200
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Solid support and great experience.
+
+
+	Cons: 
+		Pay is comparable and stress is high.
+
+
+	Summary: 
+		Good company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

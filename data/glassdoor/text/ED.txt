@@ -1,0 +1,629 @@
+
+Consolidated Edison is a Utilities: Gas and Electric company based in 10003 New York, New York. 
+The company has 14,319 employees and has a revenue of $15,670 according to Fortune 500.
+The company is valued at $33,967 and has a profit of $1,660. The CEO of the company is Timothy P. Cawley.
+
+The Company has the following ratings: 
+Average ratings for Consolidated Edison:
+Business Outlook: 0.76
+
+Career Opportunities: 4
+Distribution: 
+	1: 60 
+	2: 98 
+	3: 199 
+	4: 236 
+	5: 331 
+
+CEO: 1
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 29 
+	2: 73 
+	3: 199 
+	4: 341 
+	5: 281 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 94 
+	2: 108 
+	3: 191 
+	4: 220 
+	5: 241 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 13 
+	2: 20 
+	3: 69 
+	4: 98 
+	5: 200 
+
+Overall: 4
+Distribution: 
+	1: 59 
+	2: 88 
+	3: 227 
+	4: 413 
+	5: 370 
+
+Senior Management: 3.4
+Distribution: 
+	1: 117 
+	2: 135 
+	3: 232 
+	4: 229 
+	5: 186 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 89 
+	2: 102 
+	3: 240 
+	4: 236 
+	5: 244 
+
+Review Count: 1158
+
+Recommend to Friend: 
+	RECOMMEND: 621
+	WONT RECOMMEND: 167
+
+
+
+
+The company has 1465 reviews on Glassdoor. The last review was posted on 2024-04-15T05:39:36.703. 
+There are 20 Reviews for Consolidated Edison:
+
+Review 1:
+	Job Title: Administrative Clerk
+	Location: New York, NY
+	Review Date: 2024-03-09T10:43:56.153
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great benefits, wonderful union, fast progression, and company culture.
+
+
+	Cons: 
+		None that I can see yet.
+
+
+	Summary: 
+		Best Place to Work at
+
+
+Review 2:
+	Job Title: Electrical Technician
+	Location: New York, NY
+	Review Date: 2024-04-15T05:39:36.703
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Good training program for new hires
+
+
+	Cons: 
+		Very little starting pay compared to other utilities nearby.
+
+
+	Summary: 
+		Good Work Life Balance
+
+
+Review 3:
+	Job Title: Manager
+	Location: New York, NY
+	Review Date: 2024-04-10T20:38:20.633
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Excellent benefits. Opportunity for growth and development. Pay above industry standards.
+
+
+	Cons: 
+		Some practices are very outdated as some of the people in charge can stall change.
+
+
+	Summary: 
+		Salary
+
+
+Review 4:
+	Job Title: Sr Specialist
+	Location: New York, NY
+	Review Date: 2024-04-01T12:09:19.087
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Excellent company! Great benefits and retirement plans. The company invests in it's people...tons of training both classroom and hands on. They also offer tuition assistance, If you're eager to advance, there's ton of opportunities.
+
+
+	Cons: 
+		Compensation/Salary might be slightly lower than others but few companies are as secure as Con Ed.
+
+
+	Summary: 
+		Great Company!
+
+
+Review 5:
+	Job Title: Operating Mechanic A L1-2
+	Location: New York, NY
+	Review Date: 2024-04-03T21:17:23.800
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Flexible Schedule. Great people. Environment is relax.
+
+
+	Cons: 
+		Company is not like how its use to. Pension is based on 12 years of money accumulated, almost like an annuity plan.
+
+
+	Summary: 
+		Steam Operations review
+
+
+Review 6:
+	Job Title: A Mechanic
+	Location: Valhalla, NY
+	Review Date: 2024-01-09T06:42:35.500
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		In my opinion you are compensated fairly well in any position held union or management. Some departments can be great and you will learn vast knowledge in of the industry.
+
+
+	Cons: 
+		you will likely encounter narcissistic managers and supervisors some of which are racist and unfortunately you will have little or no recourse towards. The company and "fake union they employ" ultimately don't care. You will have zero work life balance if your told your staying for OT guess what even if you have other obligations your staying. If you try to say no you will be black balled so my best advice is to stay under the radar.
+
+
+	Summary: 
+		Emergency
+
+
+Review 7:
+	Job Title: Sr Procurement Specialist
+	Location: New York, NY
+	Review Date: 2024-03-25T06:36:03.660
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		There is stability and great opportunities to move around the company.
+
+
+	Cons: 
+		The workload can be heavy at times and health insurance options are very expensive.
+
+
+	Summary: 
+		Great place to work
+
+
+Review 8:
+	Job Title: None
+	Location: New York, NY
+	Review Date: 2024-03-28T05:26:06.490
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Good work ethic, great people
+
+
+	Cons: 
+		No sponsorship provided, HR department bad at their job
+
+
+	Summary: 
+		Good Place to Work
+
+
+Review 9:
+	Job Title: Engineering Planner
+	Location: New York, NY
+	Review Date: 2024-03-15T20:16:34.600
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		You know what the expect on the job and there's a lot of work so there's job security.
+
+
+	Cons: 
+		High stress level. At least in my position, there are other positions where the stress isn't as bad.
+
+
+	Summary: 
+		Good Place to Work
+
+
+Review 10:
+	Job Title: Customer Service Representative
+	Location: Staten Island, NY
+	Review Date: 2024-03-20T06:51:08.283
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Good pay and benefits overall
+
+
+	Cons: 
+		So many inconsistencies, most people don't communicate anything unless you ask
+
+
+	Summary: 
+		Undecided
+
+
+Review 11:
+	Job Title: Program Manager
+	Location: New York, NY
+	Review Date: 2023-12-15T09:06:18.033
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Important mission oriented work. Solid with that pays relatively well for what it is, but not enough to live in NYC unless you have no financial responsibilities.
+
+
+	Cons: 
+		Some leadership is stuck in the past. This is true across several divisions as well as support teams. If you're looking for opportunities for innovation with high performing teams, this isn't it.Leadership had limited experience with clean energy, doesn't understand customer needs, behind the ball in internal operations and best practices. More emphasis on earnings and minimum compliance than serving customers well.
+
+
+	Summary: 
+		Good mission, operationally struggling
+
+
+Review 12:
+	Job Title: Customer Service Representative (CSR)
+	Location: None
+	Review Date: 2023-11-27T13:27:42.620
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Benefits. The best thing about this company are the benefits from when I came into the company. I am part of a union also.
+
+
+	Cons: 
+		Expectations on productivity. 
+		Your capabilities are not considered. You are expected to take call after call after call with almost zero downtime to even go to the bathroom. You are expected to tolerate all kinds of verbal abuse as long as you take as many calls as you can.
+		Scheduling
+		You are at the mercy of the company. It's based on seniority so you almost never get what you wanted first pick.
+		The Union
+		The union was great when i first came in 6 years ago but everyone is burnt out and they just dont care about protecting the employee anymore with the company hr dept and lawyers breaking down their necks.
+
+
+	Summary: 
+		Blood Money
+
+
+Review 13:
+	Job Title: None
+	Location: White Plains, NY
+	Review Date: 2024-03-11T22:59:39.400
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Good Stock options good 401 returns and holiday pay
+
+
+	Cons: 
+		No inclusion or respect and you can be abused as a quiet employee or get retaliated against if you complain to HR
+
+
+	Summary: 
+		terrible company to work in if you dont know how to be fake
+
+
+Review 14:
+	Job Title: Project Manager
+	Location: New York, NY
+	Review Date: 2024-02-29T09:43:30.403
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good company pay could be better
+
+
+	Cons: 
+		Upward mobility and growth is lacking
+
+
+	Summary: 
+		Good company pay could be better
+
+
+Review 15:
+	Job Title: Gas Mechanic A
+	Location: New York, NY
+	Review Date: 2024-02-25T11:33:09.750
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay long hours lots ot
+
+
+	Cons: 
+		No life work balance too much ot
+
+
+	Summary: 
+		Good job
+
+
+Review 16:
+	Job Title: Engineering Aide
+	Location: East River, NY
+	Review Date: 2024-02-21T11:29:36.487
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		job security, good work environment
+
+
+	Cons: 
+		data entry mostly, day-to-day work may not be related to engineering major
+
+
+	Summary: 
+		Good entry level position.
+
+
+Review 17:
+	Job Title: Electrician
+	Location: None
+	Review Date: 2024-02-19T07:42:34.910
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Nice Environment, good training, great people.
+
+
+	Cons: 
+		The traffic in Manhattan is terrible.
+
+
+	Summary: 
+		Good company
+
+
+Review 18:
+	Job Title: Engineering Aide
+	Location: New York, NY
+	Review Date: 2024-02-04T23:00:09.610
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great mentorship for anyone that is looking to become a full time electrical engineer or get into utility management.
+
+
+	Cons: 
+		Location in the middle of the city can get hectic when traveling.
+
+
+	Summary: 
+		Excellent First Steps
+
+
+Review 19:
+	Job Title: Senior Analyst
+	Location: New York, NY
+	Review Date: 2024-02-13T17:54:39.883
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Exciting projects that affect many, many people.
+
+
+	Cons: 
+		Growing responsibilities with no end in sight.
+
+
+	Summary: 
+		Solid Company.
+
+
+Review 20:
+	Job Title: Designer
+	Location: New York, NY
+	Review Date: 2024-02-13T16:37:13.490
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Job safety
+		Room for growth
+
+
+	Cons: 
+		Sometimes old school
+		Slow pay increase
+
+
+	Summary: 
+		Opinions
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

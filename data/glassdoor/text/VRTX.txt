@@ -1,0 +1,648 @@
+
+Vertex Pharmaceuticals is a Pharmaceuticals company based in 02210 Boston, Massachusetts. 
+The company has 4,800 employees and has a revenue of $8,931 according to Fortune 500.
+The company is valued at $81,002 and has a profit of $3,322. The CEO of the company is Reshma Kewalramani.
+
+The Company has the following ratings: 
+Average ratings for Vertex Pharmaceuticals:
+Business Outlook: 0.89
+
+Career Opportunities: 3.9
+Distribution: 
+	1: 108 
+	2: 94 
+	3: 136 
+	4: 189 
+	5: 270 
+
+CEO: 0.88
+
+Compensation and Benefits: 4.4
+Distribution: 
+	1: 34 
+	2: 18 
+	3: 89 
+	4: 223 
+	5: 440 
+
+Culture and Values: 4.2
+Distribution: 
+	1: 103 
+	2: 73 
+	3: 74 
+	4: 139 
+	5: 378 
+
+Diversity and Inclusion: 4.3
+Distribution: 
+	1: 30 
+	2: 21 
+	3: 40 
+	4: 106 
+	5: 295 
+
+Overall: 4.2
+Distribution: 
+	1: 106 
+	2: 80 
+	3: 123 
+	4: 239 
+	5: 410 
+
+Senior Management: 3.9
+Distribution: 
+	1: 152 
+	2: 78 
+	3: 114 
+	4: 188 
+	5: 261 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 111 
+	2: 89 
+	3: 136 
+	4: 210 
+	5: 251 
+
+Review Count: 962
+
+Recommend to Friend: 
+	RECOMMEND: 514
+	WONT RECOMMEND: 201
+
+
+
+
+The company has 1209 reviews on Glassdoor. The last review was posted on 2024-04-11T07:27:15.447. 
+There are 20 Reviews for Vertex Pharmaceuticals:
+
+Review 1:
+	Job Title: Director
+	Location: None
+	Review Date: 2024-04-11T02:15:12
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Unique and aggressive approach to drug discovery and cure.
+
+
+	Cons: 
+		Hiring spree might get some bad apples.
+
+
+	Summary: 
+		The best
+
+
+Review 2:
+	Job Title: Executive Director
+	Location: Boston, MA
+	Review Date: 2024-04-03T05:24:30.983
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The only thing Vertex has going for it is its science. The company is successful despite itself. Unfortunately the EC can't get out of its own way, nor can the countless senior leaders who all waste time, resources and employees' sanity pandering to them. Longstanding Vertexians, and those who do well managing up to longstanding Vertexians, will do well. It's hands down survival of the fakest.
+
+
+	Cons: 
+		The performance review cycle is an absolute joke. Stakeholder feedback is completely anonymous, which is fantastic for a company that operates on talking secrets about its employees behind their backs, and then lets them go for "underperforming" when there was never a word uttered to that employee nor an opportunity to improve ever truly given. 
+		
+		Like that? You'll also love that in cases of a 'Building' rating, one where improvement is needed, you are also not guaranteed an actual written performance review that articulates the ways in which you didn't meet your primary work objectives. Even better when the company's own analytic tools provided demonstrate that you met and/or exceeded all but one. From what I have seen and experienced, HR can't even treat their own employees with respect or integrity through this process.
+
+
+	Summary: 
+		Survival of the Fakest
+
+
+Review 3:
+	Job Title: Research Scientist
+	Location: Boston, MA
+	Review Date: 2023-11-29T12:54:26.083
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Good benefits. Good work-life balance, as long as you’re not working directly on a high-priority program. Everybody is extremely smart, and some of them are legitimately brilliant. People are mostly very nice and easy to work/get along with; my issues there were mostly structural.
+
+
+	Cons: 
+		Quite toxic management culture, especially around career development. There is a cohort of golden children being fast-tracked up the org at the expense of everyone else. Admittedly all very bright, but an outstanding IC does not necessarily make a good leader. If you have a PhD from a non-elite university, or outside one of a few narrow fields, you will have a hard time being taken seriously at the start; if you have a lowly MS, people will look at you in astonishment and ask whose badge you stole to get in the building. Lots of empty talk about DEI while only considering candidates from the top R1 programs. Lots of silos. Lots of orgs who absolutely need to be talking to each other, who are instead talking past each other, if they’re even talking. Lots of institutional inertia and resistance to change. Management is very clear that compensation is at or below that of their peers, and use “great benefits” as justification.
+
+
+	Summary: 
+		Bureaucracy, institutional inertia, favoritism
+
+
+Review 4:
+	Job Title: Research Scientist
+	Location: Boston, MA
+	Review Date: 2024-01-22T07:17:56.280
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		The benefits are excellent. 4 weeks vacation plus 2 weeks of shut-down. I have a high outlook on the company future.
+
+
+	Cons: 
+		Little scientific discussion or collaboration if you are not at managerial level. Science Day has seemingly been cancelled, which was invaluable to learn about what is going on within the company, present your own work, and network with other researchers. As the company grows, roles become narrow and goals are based on efficiency rather than impact or personal growth.
+
+
+	Summary: 
+		Great Benefits
+
+
+Review 5:
+	Job Title: Communications Manager
+	Location: None
+	Review Date: 2024-04-09T11:44:30.433
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Management really cares about employees and takes the time to understand individual's goals.
+
+
+	Cons: 
+		None so far, excellent company with excellent people
+
+
+	Summary: 
+		Excellent company culture
+
+
+Review 6:
+	Job Title: Associate Director
+	Location: Boston, MA
+	Review Date: 2024-02-01T16:16:00.473
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		-Great colleagues- the people who actually do the work are top-notch and collaborative. Many willing to help if you are learning something new. 
+		-The company has some really good benefits.
+		-Boston location is in a vibrant area- easy to get to by public transportation.
+
+
+	Cons: 
+		-Leadership is bureaucratic- decision making is not done at the appropriate level. Everything needs to run up the flagpole to VP+ level for decisions that lower level employees should be able to make. No empowerment. 
+		-Hybrid employees are mandated to be on site 3 days per week. Not usually an issue but this means the hybrid employees are not really trusted to do their jobs. Example: 1. if you have no meetings and could focus and work with no distractions on projects at home, you still must commute in to sit at your desk to meet the 3 day requirement. 
+		2. If you aren’t feeling well enough to go into the office but ok to work at home, you will have to use sick time rather than work from home and be productive otherwise you risk losing your job for not meeting the 3 day requirement.
+		3. Commuting into work is more than the 2 hours average round trip- it’s organizing your family and getting yourself presentable for the office which eats into time that could be spent working. What could be a 10 hour workday at home becomes 8 hour workday when onsite coupled with the stress to get your family where they need to be and get yourself to work.
+		- Vertex is an environment that is probably better suited to people who don’t have children or any other commitments or interests outside of work. Work-life balance is a big challenge.
+
+
+	Summary: 
+		Great colleagues, bureaucracy in leadership
+
+
+Review 7:
+	Job Title: None
+	Location: Providence, RI
+	Review Date: 2024-04-08T06:29:23.170
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		overall compensation is reasonable
+		decent number of PTOs
+		good work- life balance
+
+
+	Cons: 
+		poor teamwork culture
+		high level of favoristism: Personal development and promotions are not marit-based
+
+
+	Summary: 
+		Mixed Culture
+
+
+Review 8:
+	Job Title: Scientist I
+	Location: Boston, MA
+	Review Date: 2024-04-04T18:40:34.997
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Good people
+		Very good science
+		Excellent Benefits
+		Company prospects seem very positive
+
+
+	Cons: 
+		Variable quality in managers
+		Slow promotion timelines
+		Tendency to require overwork
+
+
+	Summary: 
+		Excellent Benefits and Future Prospects
+
+
+Review 9:
+	Job Title: Recruiter
+	Location: Boston, MA
+	Review Date: 2024-03-28T12:14:33.533
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Tough but rewarding organization. Joined in a time with lots of turnover but rewarding organization with a strong mission and sense of value in the work I was performing.
+
+
+	Cons: 
+		Turnover, HR specifically turnover. Made it difficult to really get going in the role.
+
+
+	Summary: 
+		Good company
+
+
+Review 10:
+	Job Title: Sr Clinical Trial Associate
+	Location: Houston, TX
+	Review Date: 2024-02-16T08:35:31.687
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Cutting-edge Technology and Science: At Vertex, you would have the opportunity to work with some of the latest technologies and scientific methodologies in the field. This exposure can significantly enhance your professional skills and knowledge.
+		
+		Collaborative and Inclusive Culture: Vertex fosters a collaborative work environment that values diversity and inclusion. Working alongside a team of highly skilled professionals from various backgrounds can enrich your work experience and offer valuable learning opportunities.
+		
+		Professional Growth and Career Development: Vertex supports the professional growth of its employees through continuous learning opportunities, mentorship programs, and career development plans. This focus on personal and professional development can lead to a fulfilling and progressive career path.
+
+
+	Cons: 
+		High Expectations and Pressure: Given Vertex's reputation for pioneering research in the biotech and pharmaceutical industry, employees may face high expectations and pressure to deliver exceptional results. This environment might be challenging for some individuals.
+		
+		Fast-Paced and Demanding Work Environment: The nature of the pharmaceutical industry can be fast-paced and demanding. Employees may need to manage tight deadlines and quickly adapt to changes, which can be stressful.
+		
+		Work-Life Balance Challenges: With the high-pressure and fast-paced environment, achieving a healthy work-life balance might be challenging for some employees, especially during critical project phases or deadlines.
+
+
+	Summary: 
+		Sr CTA
+
+
+Review 11:
+	Job Title: Director
+	Location: Boston, MA
+	Review Date: 2024-03-27T22:24:17.023
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Great benefits and compensation, generous PTO, summer and winter shutdowns
+
+
+	Cons: 
+		Fast paced environment, fast growth.
+
+
+	Summary: 
+		Great benefits and compensation
+
+
+Review 12:
+	Job Title: Principal Research Associate
+	Location: Boston, MA
+	Review Date: 2024-03-29T07:41:41.247
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Benefits, culture and compensation is great
+
+
+	Cons: 
+		Location is difficult to get to in Seaport
+
+
+	Summary: 
+		Great company
+
+
+Review 13:
+	Job Title: Manager
+	Location: Boston, MA
+	Review Date: 2024-03-26T08:35:28.640
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		good location, great views and nice all around space
+
+
+	Cons: 
+		parking is costly, and hard to get in and out of seaport
+
+
+	Summary: 
+		Work space
+
+
+Review 14:
+	Job Title: Senior Clinical Pharmacologist
+	Location: Boston, MA
+	Review Date: 2024-03-26T18:59:33.483
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		good science, good teams, good drugs
+
+
+	Cons: 
+		timelines can be too tight
+
+
+	Summary: 
+		Great fast paced environment
+
+
+Review 15:
+	Job Title: Principal Scientist
+	Location: Boston, MA
+	Review Date: 2024-03-25T13:31:59.220
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Great company culture, good pay
+
+
+	Cons: 
+		Some office politics when the company is so big
+
+
+	Summary: 
+		Great company with great innovation
+
+
+Review 16:
+	Job Title: Senior Vendor Manager
+	Location: Austin, TX
+	Review Date: 2024-03-26T12:00:05.947
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Pay, culture, work-life balance, inclusion
+
+
+	Cons: 
+		no cons about working here
+
+
+	Summary: 
+		Excellent Company
+
+
+Review 17:
+	Job Title: Formulation Research Scientist
+	Location: Boston, MA
+	Review Date: 2024-02-06T13:12:21.023
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		As new hire I would say the culture so far as been very collaborative. People are willing to help you with anything. They also provide some really nice benefits. Everyone I work with has been here for 5-15 years so that says something about the culture.
+
+
+	Cons: 
+		I would say the base pay is a little lower than other biopharma companies in the area. Especially with the high housing costs around Boston.
+
+
+	Summary: 
+		Great first job
+
+
+Review 18:
+	Job Title: Senior Financial Analyst
+	Location: Boston, MA
+	Review Date: 2024-03-19T06:04:33.663
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great perks and benefits. Office is very nice
+
+
+	Cons: 
+		Access to the seaport for commuters
+
+
+	Summary: 
+		Finance at Vertex
+
+
+Review 19:
+	Job Title: HR BP
+	Location: Boston, MA
+	Review Date: 2024-04-02T12:45:52.260
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Benefits, coworkers, offices, Benefits, ect
+
+
+	Cons: 
+		Environment, people , salary , HR, bonus
+
+
+	Summary: 
+		It is ok
+
+
+Review 20:
+	Job Title: Specialist
+	Location: Boston, MA
+	Review Date: 2024-03-07T14:53:58.967
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Free breakfast
+		benefits are okay
+		salaries are not the best but not that bad
+
+
+	Cons: 
+		Location, hard to get in and out of the seaport area
+
+
+	Summary: 
+		pros and cons
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

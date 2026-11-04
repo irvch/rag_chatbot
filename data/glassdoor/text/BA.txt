@@ -1,0 +1,652 @@
+
+Boeing is a Aerospace & Defense company based in 22202 Arlington, Virginia. 
+The company has 156,000 employees and has a revenue of $66,608 according to Fortune 500.
+The company is valued at $127,283 and has a profit of -$4,935. The CEO of the company is David L. Calhoun.
+
+The Company has the following ratings: 
+Average ratings for Boeing:
+Business Outlook: 0.55
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 566 
+	2: 884 
+	3: 1868 
+	4: 2141 
+	5: 2407 
+
+CEO: 0.6
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 232 
+	2: 541 
+	3: 1722 
+	4: 2737 
+	5: 2614 
+
+Culture and Values: 3.4
+Distribution: 
+	1: 982 
+	2: 1130 
+	3: 1919 
+	4: 1986 
+	5: 1786 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 348 
+	2: 449 
+	3: 948 
+	4: 1431 
+	5: 1818 
+
+Overall: 3.8
+Distribution: 
+	1: 526 
+	2: 752 
+	3: 2376 
+	4: 3513 
+	5: 2808 
+
+Senior Management: 3.1
+Distribution: 
+	1: 1505 
+	2: 1328 
+	3: 2087 
+	4: 1633 
+	5: 1204 
+
+Work Life Balance: 3.9
+Distribution: 
+	1: 509 
+	2: 656 
+	3: 1580 
+	4: 2212 
+	5: 2863 
+
+Review Count: 14562
+
+Recommend to Friend: 
+	RECOMMEND: 4892
+	WONT RECOMMEND: 1956
+
+
+
+
+The company has 16373 reviews on Glassdoor. The last review was posted on 2024-04-17T12:56:39.687. 
+There are 20 Reviews for Boeing:
+
+Review 1:
+	Job Title: Production Coordinator
+	Location: Cape Canaveral, FL
+	Review Date: 2024-04-17T12:56:39.687
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Friendly work environment, great work life balance, best benefits
+
+
+	Cons: 
+		Pay can be lagging behind other major companies, the make up is great benefits those other companies don’t provide
+
+
+	Summary: 
+		Great Work-Life Balance
+
+
+Review 2:
+	Job Title: Human Resources
+	Location: Everett, WA
+	Review Date: 2024-03-21T14:04:45.333
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Boeing is a fairly steady company (current 737 issues aside) and they provide a lot of jobs, with decent pay and decent benefits. In my experience, those jobs are good for a large portion of people who just want to come in and punch a clock, individuals who seek to conform and do things the Boeing way, and perhaps for people who have high aspirations that just want to climb the ladder quickly. There are some pockets of truly dedicated and conscientious leaders there. The company is useful in seeing how long standing major corporations operate and function.
+
+
+	Cons: 
+		However, in my experience, wanting to feel my work was meaningful wasn't part of the deal, I was a cog in the machine and my opinion or experience didn't matter, It was all just about getting things done. This model likely accounts for the current problems with Boeing's production lines, they just want "yes people" who don't stir the pot or try to do things different way.
+
+
+	Summary: 
+		Bohemoth
+
+
+Review 3:
+	Job Title: Lead Manufacturing Technician
+	Location: Everett, WA
+	Review Date: 2024-04-02T06:05:18.627
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The work was great, I liked my team and loved the teams around me. I went home every day feeling accomplished.
+
+
+	Cons: 
+		I alone doubled my crews workload. I went searching to temp up in roles adjacent to mine, found a qa manager that agreed to temp me up from grade 4 to grade 9 and the 2nd level manager Asbell from an entirely different shift stepped on it. Then he proceeded to CAM me for working unauthorized overtime despite me being the sole reason our crew kicked butt. Also I worked there consistently 10-14 hours per day. Despite securing a mention from two floor managers on a floor "letter of retainage" during the mass covid layoffs, the company let me go despite keeping a 70 year old woman who could barely tuck life preservers in seats. Then the company had the balls to offer me a position in Victorville, CA babysitting all the grounded planes that South Carolina screwed up. I told my manager thanks, no thanks and I left and never looked back.
+
+
+	Summary: 
+		Love the work, hate the company
+
+
+Review 4:
+	Job Title: Electrical Bench Tester
+	Location: Everett, WA
+	Review Date: 2024-04-12T21:18:27.003
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		great benefits, decent pay, union job
+
+
+	Cons: 
+		long hours and you are treated like dogshit. you are treated like you are a perfect robot with 100% quality and that you are not to ever miss on a set deadline. if i could, i would give a zero-star rating.
+
+
+	Summary: 
+		Committe to Boeing at your own risk
+
+
+Review 5:
+	Job Title: Aerospace Technician
+	Location: New Orleans, LA
+	Review Date: 2024-04-12T21:50:21.930
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Boeing is a very woke company so if you have purple hair and different pronouns you will be accepted here like me
+
+
+	Cons: 
+		Some people are offended by my pronouns. It's very sad that in 2024 people can't get over that. I want to be called lampshade him her
+
+
+	Summary: 
+		Very  diverse
+
+
+Review 6:
+	Job Title: BCFP Program Participant
+	Location: Seattle, WA
+	Review Date: 2024-04-05T09:35:43.203
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 5
+
+	Pros: 
+		You get a ton of visibility of different sectors in the business. You will meet a ton of people and will learn the overall basic skills you will need for your career.
+
+
+	Cons: 
+		Not a lot of meaningful work was given out since you are only there for less than 6 months. If you are a woman, or latino, it is way harder to find a role after the program as opposed to your white male counterparts. You might not end up where you have been working at for the past 2 years and might end up somewhere totally random.
+
+
+	Summary: 
+		Great way to start your career
+
+
+Review 7:
+	Job Title: Structural Analysis Engineer
+	Location: Berkeley, MO
+	Review Date: 2024-04-07T08:24:07.810
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		The benefits are the standout feature to me – healthcare insurance and the 401k are very good. Also in the area of compensation, they pay for overtime, which isn’t typical for engineering jobs. 
+		
+		Opportunities to move around within the company can be a major plus and help you get promotions and bigger raises faster. Whether it’s projects, roles, or locations, there’s a lot of room to explore.
+		
+		I believe the compensation is fair for the broader engineering market. However I do question how competitive it is for the industry: I passed up an offer from a competitor that would have raised my pay by nearly 50%. I turned it down because, based on my experience at Boeing (especially the last year) I had no desire to stay in big aero no matter how much the pay.
+
+
+	Cons: 
+		If you're all about tradition, love following rules, and like to settle into a routine where you’re told what to do and how to do it, you might just fit in perfectly here. It’s all about sticking to the script here. It's like working on the production line in an engineering factory.
+		
+		But if you’re the type who likes to color outside the lines, thrives under creative chaos, and loves to innovate, think again. You’ll likely find yourself butting heads with the status quo and the ‘lifers’, especially the managers who aren't typically fans of shaking things up. It’s like being a square peg in a round hole, and let’s just say not everyone’s going to be thrilled about your groundbreaking ideas.
+		
+		Dreaming of cutting-edge aerospace work? You might need to adjust your expectations. Aerospace is incredible, but it’s also very cautious by nature and tends to move at a glacial pace when it comes to innovation. You’ll likely spend more time fine-tuning the old than inventing the new.
+		
+		And about those high-tech tools you were looking forward to? Think more vintage than cutting edge. Upgrading software can be like moving mountains, so don’t hold your breath unless the software is about to become unsupported by the manufacturer. It was a real eye-opener for me when I switched jobs and saw what modern engineering tools could do. It’s way beyond most structural analysis done at Boeing in its sophistication. There’s a whole world of tech out there that makes some of the old stuff still used at Boeing look like child’s play.
+		
+		Seeing new grad engineers get reduced to spreadsheet jockeys from day one was tough. I kept wanting to tell them, "You sure this is the dream job you were after?" It’s not just about the tools, though. It’s about getting to do real, hands-on engineering, something that’s pretty rare in big aero. Feeling like you’re tethered to a computer all day, every day, and never touching anything real gets old fast for some. Also, at other companies I’ve found a freedom to pursue new ideas I’m interested in, along with an appreciation of my drive for innovation. At Boeing, I found such ideas are typically not appreciated and normally get shut down: “We don’t have the budget”, “we don’t have the staffing”, “that’s not within our scope”.
+		
+		Sticking around for the steady paycheck and benefits is easy, but don’t let it turn into a trap. Some call it the ‘golden handcuffs’—comfortable, yet limiting. Keep in mind, unless you’re looking to make a career of big aero, working at Boeing probably won’t make you very marketable for the vast majority of employers, most of which don’t have such hyper-specialization in their engineering roles.
+		
+		Some might consider getting a role on a Phantom Works project to be the dream. Just keep in mind even PW isn’t all about groundbreaking work; most of it is heavily derivative in nature. For me, earning a few patents on a PW project was a highlight, showing that it’s not impossible to innovate.
+		
+		Looking back at my time with Boeing, it simply didn’t have the fun or happy atmosphere I've found elsewhere. A big reason, I think, is that a lot of people didn't seem all that excited about the work. And can you blame them? When you've been doing the same relatively narrow tasks day in, day out, for years—or even decades—it's no surprise when the job loses its shine. When the intrinsic rewards of the work don’t cut it anymore, people tend to get obsessed with extrinsic rewards, like raises, promotions, bonuses, or any perks that come their way (yes at Boeing there was an obsession compared to other places I’ve worked). The thing is, big extrinsic rewards like promotions and raises are few and far between, and their luster fades quickly as they become the ‘new normal’ .
+		
+		Finding my way to a job where my knack for innovation is actually celebrated was a game-changer. Now I feel like a valued, trusted, and important part of the whole; not just one of thousands of anonymous units of engineering labor. Also, I feel like a real salaried employee who has agency and is not constantly being ‘watched’. This is a stark contrast to Boeing where I felt salaried in classification only, and had to charge time to the 1/10th of an hour. It’s a reminder that there’s a perfect fit out there for everyone—you just gotta keep looking.
+		
+		Thinking about the future, with all the hype about AI and automation, there’s lots of potential for shaking things up in aerospace. There’s a lot of moving data from one place to another and doing standard work according to well-established rules and procedures, and we all know those types of things are ripe for disruption by automation. Just something to think about.
+		Even though this cons section is much longer than the pros section, I’m not trying to put down my old employer. However I do feel I owe prospective employees an honest assessment. Even though I stayed far too long, it was a chapter in my life that set me up for where I am now, working my dream job. Also, this is for you unconventional types who might be feeling a bit out of place wherever you are, wondering if there’s more to engineering than landing a job at a big company. I hope you find that place where your brilliance shines.
+
+
+	Summary: 
+		Might be ok for those who color within the lines
+
+
+Review 8:
+	Job Title: Manufacturing Engineer
+	Location: Everett, WA
+	Review Date: 2024-03-30T08:07:15.133
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Good coworkers, benefits, 401k, tuition reimbursement, and pilot incentive
+
+
+	Cons: 
+		Terrible management refuses to take accountability for poor communication, refuses to make improvements, and delays any real input until it's too late. The company will continue to suffer immensely and will likely go the way of GE unless massive reforms are made. I also strongly suspect management was discriminating against me for mental health issues, as coworkers told me they considered me "crazy" or "unstable" after learning I'm autistic.
+
+
+	Summary: 
+		Good people, terrible managers
+
+
+Review 9:
+	Job Title: Financial Analyst
+	Location: Saint Louis, MO
+	Review Date: 2024-03-25T06:12:41.287
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		People are typically good to work with, if you put in the effort and advocate for yourself you can enjoy a career here - challenging and rewarding with opportunities to grow (emphasis on advocating for yourself, though)
+
+
+	Cons: 
+		Comp increases have been very low compared to prior years; performance management feedback is inconsistent and manager transparency is horrible. For several years now most employees don’t really trust even their immediate supervisor and it is showing in how we work with one another. Many people are now going through the motions and due to manager treatment in my area morale is at an all time low.
+
+
+	Summary: 
+		OK job, frustrating leadership
+
+
+Review 10:
+	Job Title: Engineer
+	Location: Seattle, WA
+	Review Date: 2024-02-01T12:34:35.630
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Benefits are passable for the most part
+
+
+	Cons: 
+		Everything else. Listen, if you're a new Engineering student about to earn your degree, you can do much, much better than Boeing. This place has turned into an accounting firm. It's always schedule and cost over quality. Always. Don't believe the platitudes about how safety is the highest priority. It's rubbish. The Executives perform that song and dance to the media, but in the trenches, managers will nix any and everything that gets in the way of their precious metrics. It doesn't matter if it enhances safety for either manufacturing operations or the customer, if it adds time to the production flow, off to the bin it goes. Nothing currently in the news is a surprise to those of us on the inside. Absolutely nothing. The 1986 Space Shuttle Challenger disaster was a case of management overruling engineering, and the practice is alive and well at the big B, failing MCAS systems and random door plugs flying off and all. So again, to you budding, bright-eyed and hopeful engineering grads out there, might I suggest one of Elon Musk's companies. Or perhaps Airbus. Boeing is kaput.
+
+
+	Summary: 
+		Circling the drain
+
+
+Review 11:
+	Job Title: Financial Analyst II
+	Location: Fairfax, VA
+	Review Date: 2024-01-27T14:52:31.017
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Maybe brand name. Honestly, not much since this company has gone through so many scandals and irresponsible behaviors.
+
+
+	Cons: 
+		I was part of the Boeing rotational program for finance back then. I honestly did not tell this story during my time there for fear of retaliation. The co-workers that worked there were ex-military and extremely white male dominated. I was one of two minorities on that floor at the time. It was terrible. There was very little training and guidance and the systems were outdated. They even resorted to data entry and printing out documents at that time. I remember that one of the roles that I needed to do was highlight a stack of 200 pages of information and then report on them. When suggestions of optimizing the process came up, I was yelled out. If it wasnt done the way that that manager wanted, she would lash out and verbally harass me. To this day, I wish I spoken to HR on this toxic workplace. Avoid at all costs this location in Fairfax. I have countless other examples of this behavior as well. Another example was how the manager blocked my move into another division in which I had done and built good connections for. If you are not white and male, it is tough to survive in this toxic environment.
+
+
+	Summary: 
+		Terrible company for a minority
+
+
+Review 12:
+	Job Title: GNC Engineer
+	Location: Huntington Beach, CA
+	Review Date: 2024-04-14T08:56:38.010
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Flexibility, breadth of programs, ability to move around throughout company, less stress than many fast paced aerospace startupa
+
+
+	Cons: 
+		Lack of company culture, poor team work, old school hierarchical structure, slow moving departments, corporate office clearly not focusrd on employees but rather stock price
+
+
+	Summary: 
+		Secure, flexible role with decent pay for the area.
+
+
+Review 13:
+	Job Title: Systems Engineer
+	Location: Oklahoma City, OK
+	Review Date: 2024-03-20T17:42:31.523
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		There are some really good people who work at Boeing if you are lucky enough to be in a great group. Moving between groups is advised.
+		
+		They have some of the best benefits outside of Silicon Valley.
+
+
+	Cons: 
+		Much of the senior leadership is out of touch.
+		
+		They say they want you speak up, but when you do you are told to stay in your lane.
+		
+		Sometimes the bureaucracy can be frustrating and to fix it, they make more.
+
+
+	Summary: 
+		It's rough right now
+
+
+Review 14:
+	Job Title: Senior Test Technician
+	Location: El Segundo, CA
+	Review Date: 2024-04-14T16:12:07.407
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The Boeing Company is my favorite company I've worked for because of the workplace environment.
+
+
+	Cons: 
+		I do not have any Cons for this company.
+
+
+	Summary: 
+		Great work environment
+
+
+Review 15:
+	Job Title: FSR2 - Field Service Representative
+	Location: Fort Walton Beach, FL
+	Review Date: 2024-04-15T19:39:20.723
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		fantastic benefits Great maternity leave competitive 401(k) match
+
+
+	Cons: 
+		Not transparent and management very limited room for promotions in place
+
+
+	Summary: 
+		bowing
+
+
+Review 16:
+	Job Title: Senior Product Strategist
+	Location: Littleton, CO
+	Review Date: 2024-04-16T10:35:22.937
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Smart and empathetic coworkers - lots of opportunities to learn
+
+
+	Cons: 
+		Immature X-gen Leadership, lacking transparency or knowledge on how to create a phycological safe environment for innovation.
+
+
+	Summary: 
+		Digital Aviation Services,  Software
+
+
+Review 17:
+	Job Title: Principal Business Process Analyst
+	Location: Seal Beach, CA
+	Review Date: 2024-04-16T20:51:34.093
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Compensation and Benefits are good
+
+
+	Cons: 
+		Worklife balance was an issue; (Senior) Management transparency leaves much to be desired
+
+
+	Summary: 
+		Principal Business Process Analyst
+
+
+Review 18:
+	Job Title: Stress Engineer
+	Location: Long Beach, CA
+	Review Date: 2024-03-20T14:57:40.663
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Not many now. Still get a rise yearly and a bonus as a % of the unit i.e. BCA, BGS or defense.
+
+
+	Cons: 
+		too many managers w/o experience in general. advancing in career depends on your luck. company started to rely more on oversea talent while local hires are not interested much in actual work but more how to advance with minimum effort (management path mainly).
+
+
+	Summary: 
+		structural engineering
+
+
+Review 19:
+	Job Title: Senior Business Planning Analyst
+	Location: Everett, WA
+	Review Date: 2024-04-10T17:54:24.563
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Decent benefits, good people, comfortable facilities
+
+
+	Cons: 
+		Heavily bureacratic, weak leadership, inability to keep talent from leaving
+
+
+	Summary: 
+		Good benefits and work life balance, weak and ineffective senior management
+
+
+Review 20:
+	Job Title: Material Estimator
+	Location: Huntsville, AL
+	Review Date: 2024-04-16T07:39:09.280
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great benefits.
+		Very good work life balance
+
+
+	Cons: 
+		there is none that I can think of.
+
+
+	Summary: 
+		Good place to start a career
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

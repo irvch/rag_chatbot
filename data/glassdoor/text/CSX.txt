@@ -1,0 +1,627 @@
+
+CSX is a Railroads company based in 32202 Jacksonville, Florida. 
+The company has 22,542 employees and has a revenue of $14,853 according to Fortune 500.
+The company is valued at $61,330 and has a profit of $4,166. The CEO of the company is Joseph R. Hinrichs.
+
+The Company has the following ratings: 
+Average ratings for CSX:
+Business Outlook: 0.48
+
+Career Opportunities: 3.1
+Distribution: 
+	1: 240 
+	2: 224 
+	3: 283 
+	4: 219 
+	5: 178 
+
+CEO: 0.67
+
+Compensation and Benefits: 3.8
+Distribution: 
+	1: 62 
+	2: 69 
+	3: 247 
+	4: 417 
+	5: 348 
+
+Culture and Values: 2.6
+Distribution: 
+	1: 424 
+	2: 177 
+	3: 197 
+	4: 143 
+	5: 133 
+
+Diversity and Inclusion: 3.2
+Distribution: 
+	1: 98 
+	2: 44 
+	3: 105 
+	4: 79 
+	5: 77 
+
+Overall: 3
+Distribution: 
+	1: 283 
+	2: 254 
+	3: 332 
+	4: 266 
+	5: 198 
+
+Senior Management: 2.6
+Distribution: 
+	1: 495 
+	2: 193 
+	3: 197 
+	4: 136 
+	5: 112 
+
+Work Life Balance: 2.1
+Distribution: 
+	1: 542 
+	2: 194 
+	3: 194 
+	4: 115 
+	5: 94 
+
+Review Count: 1334
+
+Recommend to Friend: 
+	RECOMMEND: 433
+	WONT RECOMMEND: 581
+
+
+
+
+The company has 1409 reviews on Glassdoor. The last review was posted on 2024-04-17T06:14:09.280. 
+There are 20 Reviews for CSX:
+
+Review 1:
+	Job Title: Freight Conductor
+	Location: Selkirk, MO
+	Review Date: 2024-04-17T06:14:09.280
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Paid well for the time your there
+
+
+	Cons: 
+		Schedule varies from day to day nights weekends holidays
+
+
+	Summary: 
+		Good job good people
+
+
+Review 2:
+	Job Title: Senior Track Supervisor
+	Location: Jacksonville, FL
+	Review Date: 2024-04-12T18:09:42.097
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Great money without a degree
+
+
+	Cons: 
+		A lot of hours for managers
+
+
+	Summary: 
+		Senior Track supervisor
+
+
+Review 3:
+	Job Title: Rail Traffic Controller (Train Dispatcher)
+	Location: Jacksonville, FL
+	Review Date: 2024-03-23T13:55:48.647
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		at 20 years in, you have 9 total weeks of vacation.
+
+
+	Cons: 
+		The railroad is open 24/7/365, and your schedule can reflect that. the You start at 75/80% of the full rate and go up 5% a year until 100%
+
+
+	Summary: 
+		Best in the business
+
+
+Review 4:
+	Job Title: Procurement Director
+	Location: Jacksonville, FL
+	Review Date: 2024-04-04T06:36:16.007
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Flexibility, pay, maternity leave and culture
+
+
+	Cons: 
+		Nothing I can think of
+
+
+	Summary: 
+		Great Company to work for
+
+
+Review 5:
+	Job Title: Software Developer
+	Location: Jacksonville, FL
+	Review Date: 2024-04-04T08:01:58.050
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good salary and benefits and helpful team members
+
+
+	Cons: 
+		Railroad can be a bit boring
+
+
+	Summary: 
+		Good company
+
+
+Review 6:
+	Job Title: Technical Diector
+	Location: Jacksonville, FL
+	Review Date: 2024-04-01T04:05:15.563
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Great pay and industry
+		Good people
+
+
+	Cons: 
+		Old school culture
+		Layoffs every few years
+
+
+	Summary: 
+		Great pay
+
+
+Review 7:
+	Job Title: Freight Conductor
+	Location: Selkirk, NY
+	Review Date: 2024-03-21T13:35:20.863
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		lots of overtime so there is money to be made. They have retirement for your spouse, but you have to be able to keep a spouse with the overtime.
+
+
+	Cons: 
+		lots of overtime so you have no life. You get paid by trip rate but they expect you to work 9.5 hours. So the trip rate divided by the amount of hours you get your hourly wage.
+
+
+	Summary: 
+		cutthroat business
+
+
+Review 8:
+	Job Title: HVAC Technician
+	Location: Toledo, OH
+	Review Date: 2024-03-27T11:49:18.270
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		You have the opportunity to make a lot of money.
+
+
+	Cons: 
+		You never have a set schedule. you are on call 24/7 and have no time for family life.
+
+
+	Summary: 
+		No family life. 
+
+
+Review 9:
+	Job Title: Railroad Conductor
+	Location: Columbus, OH
+	Review Date: 2024-03-25T17:50:04.777
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The pay even though the taxes are OUTRAGEOUS
+
+
+	Cons: 
+		They follow you around if your new and try and fire you all day
+
+
+	Summary: 
+		I’d be careful
+
+
+Review 10:
+	Job Title: Freight Conductor
+	Location: None
+	Review Date: 2024-03-18T18:52:07.470
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Well paid. Great retirement package.
+
+
+	Cons: 
+		busy work life and work in all type of weather conditions
+
+
+	Summary: 
+		Great Company
+
+
+Review 11:
+	Job Title: Locomotive Engineer
+	Location: Marysville, OH
+	Review Date: 2024-02-23T17:30:19.997
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		We finally have a CEO that promotes appreciation and pushes "One-CSX". Conductors start out at 100% pay, no more step progression. Technology is advancing very quickly, which is making the job much safer and efficient.
+
+
+	Cons: 
+		On call schedule, Middle of the night calls, Hotel stays...
+
+
+	Summary: 
+		The Only Class 1 Railroad Heading in the Right Direction..
+
+
+Review 12:
+	Job Title: Locomotive Engineer
+	Location: Atlanta, GA
+	Review Date: 2024-02-06T20:48:44.430
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 1
+
+	Pros: 
+		Great pay and benefits with not much physical labor. Yearly bonuses and pay increases
+
+
+	Cons: 
+		Work/life balance needs improving. Substantial time away from home. Not ideal off days and work days without tons of seniority. Unpredictable schedule requiring work both days and nights in random order
+
+
+	Summary: 
+		Good pay and benefits. Bad work/personal life balance 
+
+
+Review 13:
+	Job Title: Community Support Specialist
+	Location: Jacksonville, FL
+	Review Date: 2024-03-04T19:23:19.933
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Salary and no limit on sick leave.
+
+
+	Cons: 
+		Management is not consistent or qualified.
+
+
+	Summary: 
+		Community affairs
+
+
+Review 14:
+	Job Title: Freight Conductor
+	Location: Louisville, KY
+	Review Date: 2024-03-01T18:25:56.077
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 5
+	Work Life Balance: 0
+
+	Pros: 
+		The benefits are good,and stuff.
+
+
+	Cons: 
+		You are away from home alot
+
+
+	Summary: 
+		Its ok if you like being away from home
+
+
+Review 15:
+	Job Title: Machine Operator
+	Location: None
+	Review Date: 2024-02-20T13:33:01.240
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Travel working in different states and cities learning to operate various machines 
+
+
+	Cons: 
+		Never home as much miss a lot of family time 
+
+
+	Summary: 
+		Great job 
+
+
+Review 16:
+	Job Title: Ops Manager
+	Location: Richmond, VA
+	Review Date: 2024-02-25T19:58:32.700
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Benefits and pay were great
+
+
+	Cons: 
+		Don’t care about people - constant job cuts
+
+
+	Summary: 
+		Good pay
+
+
+Review 17:
+	Job Title: Freight Conductor
+	Location: Avon, IN
+	Review Date: 2024-02-16T17:27:26.530
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Pay/Benefits
+		Great Coworkers for the most part
+
+
+	Cons: 
+		Company could care less about their employees
+		
+		Always wanting to layoff or write up employees
+
+
+	Summary: 
+		Don’t sell your soul
+
+
+Review 18:
+	Job Title: Machine Operator
+	Location: Jacksonville, FL
+	Review Date: 2024-02-16T01:57:00.507
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Good pay and excellent benefits
+
+
+	Cons: 
+		On call and working holidays
+
+
+	Summary: 
+		Good Pay and Benefits - Horrible Management
+
+
+Review 19:
+	Job Title: Electronics Technician
+	Location: Langhorne, PA
+	Review Date: 2024-02-10T09:38:19.197
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great pay with great benefits and railroad retirement
+
+
+	Cons: 
+		Environment at times can be difficult
+
+
+	Summary: 
+		Great pay
+
+
+Review 20:
+	Job Title: Freight Conductor
+	Location: Evansville, IN
+	Review Date: 2024-01-18T08:32:51.613
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Pay is great, benefits are good
+
+
+	Cons: 
+		No family life, managers are out to get you, you’ll be at work more than you are at home. Job sucks because you have legit no family life.
+
+
+	Summary: 
+		Csx needs to fix their management
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

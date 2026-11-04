@@ -1,0 +1,635 @@
+
+Steel Dynamics is a Metals company based in 46804 Fort Wayne, Indiana. 
+The company has 12,060 employees and has a revenue of $22,261 according to Fortune 500.
+The company is valued at $19,286 and has a profit of $3,863. The CEO of the company is Mark D. Millett.
+
+The Company has the following ratings: 
+Average ratings for Steel Dynamics:
+Business Outlook: 0.94
+
+Career Opportunities: 4.2
+Distribution: 
+	1: 9 
+	2: 12 
+	3: 23 
+	4: 31 
+	5: 55 
+
+CEO: 0.95
+
+Compensation and Benefits: 4.7
+Distribution: 
+	1: 0 
+	2: 5 
+	3: 10 
+	4: 30 
+	5: 85 
+
+Culture and Values: 4.2
+Distribution: 
+	1: 11 
+	2: 5 
+	3: 25 
+	4: 28 
+	5: 57 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 5 
+	2: 6 
+	3: 9 
+	4: 21 
+	5: 32 
+
+Overall: 4.5
+Distribution: 
+	1: 5 
+	2: 9 
+	3: 20 
+	4: 41 
+	5: 81 
+
+Senior Management: 4.1
+Distribution: 
+	1: 12 
+	2: 13 
+	3: 25 
+	4: 35 
+	5: 42 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 8 
+	2: 20 
+	3: 46 
+	4: 26 
+	5: 30 
+
+Review Count: 158
+
+Recommend to Friend: 
+	RECOMMEND: 102
+	WONT RECOMMEND: 16
+
+
+
+
+The company has 184 reviews on Glassdoor. The last review was posted on 2024-04-09T19:26:36.163. 
+There are 20 Reviews for Steel Dynamics:
+
+Review 1:
+	Job Title: IT Helpdesk Technician
+	Location: Sinton, TX
+	Review Date: 2024-04-09T19:26:36.163
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Great working environment , Great learning opportunities
+
+
+	Cons: 
+		On call 24/7 not too many calls though
+
+
+	Summary: 
+		Best job I have had
+
+
+Review 2:
+	Job Title: Production Operator
+	Location: None
+	Review Date: 2024-04-09T00:21:03.470
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		-Pay
+		-Benefits
+		-Co-workers
+		-Appreciation
+		-Facility
+		-Overtime availability
+		-Parties, picnics
+		-Safe work environment
+
+
+	Cons: 
+		-Schedule
+		-Vacation policy
+		- Lack of Communication 
+		-Insurance cost
+		-Too many layers of management creating a lack of accountability
+
+
+	Summary: 
+		Rewarding Occupation
+
+
+Review 3:
+	Job Title: General Laborer
+	Location: New Haven, IN
+	Review Date: 2024-03-11T09:49:06.533
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		everything is positive about the job aspect
+
+
+	Cons: 
+		rotating shifts in the enviroment cause lack of sleep
+
+
+	Summary: 
+		great place to work and grow
+
+
+Review 4:
+	Job Title: Programmer
+	Location: New Haven, IN
+	Review Date: 2023-12-07T07:34:18.833
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		The company supports you in continuing education and gives you the resources you would need to improve your skills.
+		
+		Culture is good.
+
+
+	Cons: 
+		No hybrid/remote work model even though it could work. I did work everyday that I could have done at home instead of coming into the office. Management is very much against WFH even when it makes sense for someone like a programmer to be able to do so.
+
+
+	Summary: 
+		Good company
+
+
+Review 5:
+	Job Title: Regional Sales Manager
+	Location: Indianapolis, IN
+	Review Date: 2024-01-21T20:14:41.700
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Steel Dynamics is a World Class metals producer.
+
+
+	Cons: 
+		The only con I can think of is that I should have started with Steel Dynamics 10 years earlier than my hire in date.
+
+
+	Summary: 
+		Best Metals Team
+
+
+Review 6:
+	Job Title: TCM Utility
+	Location: Sinton, TX
+	Review Date: 2023-09-16T07:39:00.530
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Pay is decent hours are good great 401k and stock options.
+
+
+	Cons: 
+		Never worked at a place were they demote people that management hired for a job they thought they were experienced enough to handle probably because it’s based off favoritism. You can have 10 years of experience and they’ll pass you over for any good jobs and give it to a crane operator that’s been there for 6 months. At the Sinton facility they hired a Shift supervisor on the cold mill rolling side who has no experience in the industry at all or experience learning any of the jobs In the mill over guys with 10ths plus. Maintenance is led by sorry excuse for supervisors on both Coldmill sides. Nothing ever gets fixed the blame just get passed around. Like I said lack of experience leads to a culture of ignorance.
+
+
+	Summary: 
+		Favoritism over experience?
+
+
+Review 7:
+	Job Title: Mill  Worker
+	Location: Columbia City, IN
+	Review Date: 2024-02-01T21:33:16.093
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great benefits, pay is good
+
+
+	Cons: 
+		Very hot and dirty depending
+
+
+	Summary: 
+		Great place to work
+
+
+Review 8:
+	Job Title: None
+	Location: None
+	Review Date: 2024-01-15T22:25:02.223
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		I feel like an individual instead of a number. Great benefits, bonuses and atmosphere!
+
+
+	Cons: 
+		Career improvement can be difficult if your not willing to move.
+
+
+	Summary: 
+		Great company to work for!
+
+
+Review 9:
+	Job Title: Maintenance Planner
+	Location: Columbus, MS
+	Review Date: 2023-12-16T13:20:07.887
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Pay is excellent. Benefits are great. Culture is best of any company ever.
+
+
+	Cons: 
+		Having to work shift work is the only downfall
+
+
+	Summary: 
+		Best emplyer
+
+
+Review 10:
+	Job Title: Supervisor
+	Location: Fort Wayne, IN
+	Review Date: 2023-11-30T07:02:06.520
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Company really cares about their employees. They put safety first and have a great compensation plan.
+
+
+	Cons: 
+		It is difficult to obtain a position.
+
+
+	Summary: 
+		Awesome Place to Work
+
+
+Review 11:
+	Job Title: Electrician
+	Location: None
+	Review Date: 2023-11-13T09:39:03.743
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Great pay, decent benefits. I like the rotating shift schedule
+
+
+	Cons: 
+		Getting harder to transfer within the company now that I have reached a higher skilled position.
+
+
+	Summary: 
+		Great Company
+
+
+Review 12:
+	Job Title: None
+	Location: Fort Wayne, IN
+	Review Date: 2023-08-07T10:45:23.557
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		-Pay is about impossible to beat -Freedom to make changes and improvements on your own -Really great people
+
+
+	Cons: 
+		-24/7 operation so technically you are always on call to support production -Paid vacation amount is probably below industry standards
+
+
+	Summary: 
+		Unbeatable Pay &amp; Decent Work Life Balance
+
+
+Review 13:
+	Job Title: Mechanical Engineer
+	Location: None
+	Review Date: 2023-09-13T18:10:33.170
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Good people Willing to spend money to make improvements Great 401k match Lots of talk about safety
+
+
+	Cons: 
+		Vacation policy is very difficult for experienced professionals to transfer into and is not market competitive. Will not hold underperformers accountable. Benefits too geared towards long term which makes it difficult to have enough cashflow.
+
+
+	Summary: 
+		Overall Good Company
+
+
+Review 14:
+	Job Title: Safety Coordinator
+	Location: Pelham, AL
+	Review Date: 2023-09-15T17:39:30.753
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Excellent benefits. Good people working in the plants.
+
+
+	Cons: 
+		Management in the plant is duplicitous. Management at corporate does not support the people not in Management. Pelham has particular toxic environment for anyone in administration.
+
+
+	Summary: 
+		Looks Good From the Outside
+
+
+Review 15:
+	Job Title: Metallurgist
+	Location: Columbus, MS
+	Review Date: 2023-09-06T12:23:32.570
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		-Safe work environment - Excellent Pay -Great managerment - Cares about the employees -Great Benefits -Great Wokr/life balance
+
+
+	Cons: 
+		-No work from home -No hybrid work
+
+
+	Summary: 
+		Dynamic Work Environment
+
+
+Review 16:
+	Job Title: Estimator
+	Location: Pelham, AL
+	Review Date: 2023-08-21T09:35:50.080
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The benefits and bonus structure is the best I have ever had.
+
+
+	Cons: 
+		I don't have anything bad to say.
+
+
+	Summary: 
+		Great Atmosphere and People
+
+
+Review 17:
+	Job Title: Industrial Electrician/Technician
+	Location: None
+	Review Date: 2023-08-11T19:52:02.237
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Hard work, hot, and extremely high pressure at times
+
+
+	Cons: 
+		Great Pay and decent company culture
+
+
+	Summary: 
+		Great Job and Pay
+
+
+Review 18:
+	Job Title: Watertreatment/Service Technician
+	Location: Indianapolis, IN
+	Review Date: 2023-09-01T15:08:56.777
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great company to work for.
+
+
+	Cons: 
+		There are no cons to this job.
+
+
+	Summary: 
+		.
+
+
+Review 19:
+	Job Title: Crew Member
+	Location: None
+	Review Date: 2023-08-29T12:49:47.893
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		good money and real easy
+
+
+	Cons: 
+		very hot especially in the summer
+
+
+	Summary: 
+		hard work
+
+
+Review 20:
+	Job Title: Operator
+	Location: Terre Haute, IN
+	Review Date: 2023-07-27T17:29:23.910
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great place to work with good benefits and 401k plan
+
+
+	Cons: 
+		Gets hot during the summer
+
+
+	Summary: 
+		Great benefits, great place to work
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

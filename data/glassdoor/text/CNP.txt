@@ -1,0 +1,639 @@
+
+CenterPoint Energy is a Utilities: Gas and Electric company based in 77002 Houston, Texas. 
+The company has 8,986 employees and has a revenue of $9,321 according to Fortune 500.
+The company is valued at $18,589 and has a profit of $1,057. The CEO of the company is David J. Lesar.
+
+The Company has the following ratings: 
+Average ratings for CenterPoint Energy:
+Business Outlook: 0.58
+
+Career Opportunities: 3.4
+Distribution: 
+	1: 83 
+	2: 75 
+	3: 156 
+	4: 119 
+	5: 162 
+
+CEO: 0.88
+
+Compensation and Benefits: 3.8
+Distribution: 
+	1: 37 
+	2: 38 
+	3: 134 
+	4: 177 
+	5: 208 
+
+Culture and Values: 3.5
+Distribution: 
+	1: 77 
+	2: 66 
+	3: 105 
+	4: 119 
+	5: 199 
+
+Diversity and Inclusion: 3.8
+Distribution: 
+	1: 38 
+	2: 24 
+	3: 52 
+	4: 73 
+	5: 133 
+
+Overall: 3.6
+Distribution: 
+	1: 62 
+	2: 67 
+	3: 146 
+	4: 240 
+	5: 207 
+
+Senior Management: 3.2
+Distribution: 
+	1: 104 
+	2: 95 
+	3: 123 
+	4: 138 
+	5: 128 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 86 
+	2: 60 
+	3: 102 
+	4: 138 
+	5: 207 
+
+Review Count: 723
+
+Recommend to Friend: 
+	RECOMMEND: 359
+	WONT RECOMMEND: 136
+
+
+
+
+The company has 838 reviews on Glassdoor. The last review was posted on 2024-04-16T09:42:36.413. 
+There are 20 Reviews for CenterPoint Energy:
+
+Review 1:
+	Job Title: Data scientist level 2
+	Location: Houston, TX
+	Review Date: 2024-04-16T09:42:36.413
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 1
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		hybrid schedule
+		amazing managers
+		good work
+
+
+	Cons: 
+		Not much to share for cons
+
+
+	Summary: 
+		Amazing Team
+
+
+Review 2:
+	Job Title: Measurement Analyst
+	Location: Houston, TX
+	Review Date: 2024-04-09T15:29:47.233
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Benefits, diversity, environment, training, mentorship
+
+
+	Cons: 
+		No real cons come to mind
+
+
+	Summary: 
+		Excellent Company
+
+
+Review 3:
+	Job Title: System Analyst
+	Location: Houston, TX
+	Review Date: 2024-04-04T20:42:49.147
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		No layoffs, continuous growth in the company
+
+
+	Cons: 
+		Long commuting time in Houston
+
+
+	Summary: 
+		Solid company
+
+
+Review 4:
+	Job Title: None
+	Location: Evansville, IN
+	Review Date: 2024-03-27T16:13:18.033
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		You do a terrible job.
+
+
+	Cons: 
+		I spent multiple years working for CenterPoint. The pay pas below average. Management was terrible at best. If you want to move up the ladder, you better have lots of chapstick for the (you know what I mean).
+
+
+	Summary: 
+		Stay Away
+
+
+Review 5:
+	Job Title: Systems Administrator
+	Location: None
+	Review Date: 2024-02-27T18:29:05.580
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		You can be completely crap at your job, but if someone hire up likes you over your manager you can get a nice pay bump and bonus.
+		Some managers just don’t care no micro managing. But on the flip side you can get a worthless manager.
+
+
+	Cons: 
+		Don’t take care of long term employees. 
+		Don’t be a hero doesn’t always pay out in the end.
+		Crap management
+		Crap pay
+		Technology they use is old
+
+
+	Summary: 
+		Could be better
+
+
+Review 6:
+	Job Title: Service Consultant
+	Location: Houston, TX
+	Review Date: 2024-03-18T10:06:09.700
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great company culture, all employees work together well and always willing to help others out across the organization
+
+
+	Cons: 
+		Large size of company does lead to support groups over multiple locations
+
+
+	Summary: 
+		Great Work Environment
+
+
+Review 7:
+	Job Title: Associate Representative
+	Location: Houston, TX
+	Review Date: 2024-03-24T07:14:18.520
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Savings Plan, Vacation time, Sick time, Personal Holiday time, Remote
+
+
+	Cons: 
+		Micromanaging, Sales aspect, KPI,Chargeable Hours
+
+
+	Summary: 
+		CNP
+
+
+Review 8:
+	Job Title: Statistician
+	Location: Houston, TX
+	Review Date: 2024-03-14T13:50:36.527
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Solid work life balance and great benefits
+
+
+	Cons: 
+		No onsite gym or restaurants
+
+
+	Summary: 
+		Great gig
+
+
+Review 9:
+	Job Title: Quality Control
+	Location: Houston, TX
+	Review Date: 2024-03-15T12:01:00.143
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Consistent, doable, manageable, 40hrs, simple
+
+
+	Cons: 
+		Consistent, training, culture, raises, promotions
+
+
+	Summary: 
+		Very ideal and substantial
+
+
+Review 10:
+	Job Title: Business Analyst
+	Location: Houston, TX
+	Review Date: 2024-03-14T20:09:11.160
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Benefits, working from home, job opportunities
+
+
+	Cons: 
+		Turnover, management, movement within, changing industry
+
+
+	Summary: 
+		Business Analyst
+
+
+Review 11:
+	Job Title: Business Analyst
+	Location: Houston, TX
+	Review Date: 2024-03-12T10:43:30.853
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Flexibility
+		Work-life balance
+		Good culture
+
+
+	Cons: 
+		pay is below average. Inconsistent promotion standards.
+
+
+	Summary: 
+		OK
+
+
+Review 12:
+	Job Title: Business Process Representative
+	Location: None
+	Review Date: 2024-03-04T10:37:50.997
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		*Low Stress
+		*Work isn't that difficult
+		*Company rewards loyalty
+		*Decent Pay
+
+
+	Cons: 
+		*The work is so repetitive
+		*Less growth opportunities for ambitious people
+
+
+	Summary: 
+		Steady Work, but a bit repetitive
+
+
+Review 13:
+	Job Title: Staff En
+	Location: None
+	Review Date: 2024-02-25T16:19:25.023
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Flexible work schedule
+		Remote work capabilities
+		Friendly People/environmental
+
+
+	Cons: 
+		none at this time - thx
+
+
+	Summary: 
+		Gas Engineering
+
+
+Review 14:
+	Job Title: Electrical Engineer
+	Location: Houston, TX
+	Review Date: 2024-02-17T20:30:49.023
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Work/life balance and great benefits
+
+
+	Cons: 
+		Lots of turnover between departments
+
+
+	Summary: 
+		Great place to work
+
+
+Review 15:
+	Job Title: Sales
+	Location: Houston, TX
+	Review Date: 2024-02-06T18:04:02.203
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 1
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Salary is fair depending on department
+
+
+	Cons: 
+		Not much exposure if you aren't a good ole boy
+
+
+	Summary: 
+		Great Place to work
+
+
+Review 16:
+	Job Title: Electrical Engineering Intern
+	Location: Houston, TX
+	Review Date: 2024-02-01T14:36:07.730
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Plenty of opportunity to grow.
+
+
+	Cons: 
+		Lack of exposure to other facets of the business
+
+
+	Summary: 
+		Great Company
+
+
+Review 17:
+	Job Title: Customer Service Consultant - Intern 
+	Location: Houston, TX
+	Review Date: 2024-01-03T15:00:08.433
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great Position to expose yourself to real world work. 
+		Position is dynamic, you will not be in the office all day. 50% office 50% field and other. 
+		The Internship is fun, balanced between work and social activities.
+
+
+	Cons: 
+		Minor-Delay, as an intern your equipment and badge may take a week or two to arrive.
+
+
+	Summary: 
+		Feedback as an intern
+
+
+Review 18:
+	Job Title: Analyst
+	Location: None
+	Review Date: 2024-02-03T16:00:38.657
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great culture and work life balance
+
+
+	Cons: 
+		Called in during a storm sucks
+
+
+	Summary: 
+		Worth it
+
+
+Review 19:
+	Job Title: Service Consultant
+	Location: None
+	Review Date: 2024-01-31T18:30:31.643
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Alot of pros in the job.
+
+
+	Cons: 
+		No cons at all in any way.
+
+
+	Summary: 
+		Loved it
+
+
+Review 20:
+	Job Title: Project Manager
+	Location: Houston, TX
+	Review Date: 2024-01-26T10:08:41.747
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Work/Life Balance is great here (Hybrid work)
+
+
+	Cons: 
+		Uncertain strategy (New changes and reorgs happening)
+
+
+	Summary: 
+		Great
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

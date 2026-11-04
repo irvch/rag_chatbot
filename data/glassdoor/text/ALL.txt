@@ -1,0 +1,674 @@
+
+Allstate is a Insurance: Property and Casualty (Stock) company based in 60062 Northbrook, Illinois. 
+The company has 54,250 employees and has a revenue of $51,412 according to Fortune 500.
+The company is valued at $29,180 and has a profit of -$1,311. The CEO of the company is Tom Wilson.
+
+The Company has the following ratings: 
+Average ratings for Allstate:
+Business Outlook: 0.48
+
+Career Opportunities: 3.2
+Distribution: 
+	1: 1242 
+	2: 1294 
+	3: 2058 
+	4: 1736 
+	5: 1674 
+
+CEO: 0.6
+
+Compensation and Benefits: 3.3
+Distribution: 
+	1: 970 
+	2: 1284 
+	3: 2274 
+	4: 1988 
+	5: 1466 
+
+Culture and Values: 3.4
+Distribution: 
+	1: 1156 
+	2: 853 
+	3: 1557 
+	4: 1738 
+	5: 2182 
+
+Diversity and Inclusion: 3.8
+Distribution: 
+	1: 360 
+	2: 244 
+	3: 621 
+	4: 823 
+	5: 1398 
+
+Overall: 3.4
+Distribution: 
+	1: 1112 
+	2: 1268 
+	3: 2603 
+	4: 2699 
+	5: 2307 
+
+Senior Management: 3.1
+Distribution: 
+	1: 1797 
+	2: 1219 
+	3: 1826 
+	4: 1536 
+	5: 1487 
+
+Work Life Balance: 3.4
+Distribution: 
+	1: 1142 
+	2: 903 
+	3: 1692 
+	4: 1823 
+	5: 2413 
+
+Review Count: 10022
+
+Recommend to Friend: 
+	RECOMMEND: 3828
+	WONT RECOMMEND: 2924
+
+
+
+
+The company has 10599 reviews on Glassdoor. The last review was posted on 2024-04-17T18:39:37.457. 
+There are 20 Reviews for Allstate:
+
+Review 1:
+	Job Title: Manager
+	Location: Northbrook, IL
+	Review Date: 2024-02-06T15:16:17.533
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Enjoyed working with amazing talented colleagues.
+
+
+	Cons: 
+		Had some demanding projects which required many long days at the office.
+
+
+	Summary: 
+		Great colleagues
+
+
+Review 2:
+	Job Title: Claims Adjuster
+	Location: None
+	Review Date: 2024-04-17T12:09:21.680
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		You can work from home and they send you monitors and laptop you need to do the job.
+
+
+	Cons: 
+		Pay is below industry standards, every possible metric they could monitor they do. If you aren’t on the phone talking to a customer, contractor, or mitigation company, you should be ready and available to take random customer service calls that have nothing to do with the claims your already struggling to adjust and will add more work to your already enormously bloated list of daily tasks. Managers will berate you publicly in unit meetings if your numbers aren’t where they want them. There is so much turnover in this position, they expect that they will lose at least 50% of each training cohort that comes through and they’re always hiring more and onboarding more because they know people will quit. Out of my training cohort, all but two people quit out of at least 20. 
+		There is an expectation of working past your shift if you don’t finish everything even though there is no possible way to finish everything because your job is contingent on other people like contractors and mitigation companies doing their jobs on time and customers being available for work to be done. They offer you increased pay if you take on more claims. The only way to make more money is to take on so much work and work outside of your shift to complete what you can. It’s a miserable job. Steer clear.
+
+
+	Summary: 
+		Do not work here if you value yourself. 
+
+
+Review 3:
+	Job Title: Insurance Sales Agent
+	Location: Sunrise, FL
+	Review Date: 2024-04-04T22:44:31.267
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		college dropout, made ~60k a year just by dialing a phone, I was a bit above average in sales, some other made ~80k.
+
+
+	Cons: 
+		Job is convincing people to buy insurance, in a game where insurance companies rake in billions. You're incentivized to toe the legal line and squeeze more money out of a sale, but that's every sales job, this one just felt wrong. Dial 300 people that did not know they were selling their information online, sell 1-3 a day, repeat. Car insurance is mandatory, you have no choice but to pay it (FL), and with it being law there is no essential difference in products. "But I get free towingr", you're getting played.
+
+
+	Summary: 
+		Soul-sucking job, ok money
+
+
+Review 4:
+	Job Title: Insurance Sales Agent
+	Location: Canton, OH
+	Review Date: 2024-04-06T13:09:01.570
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Hourly pay, commission, leads, receptionist.
+
+
+	Cons: 
+		Poor management, accusing new employees of lying, micromanaging, talks negatively to trainees, talks down to employees, only care about a sale not the customers, harass and belittle employees, office gossip, speaking to other employees about the performance of trainees in a negative way pinning them against each other. Constantly being spied on, no positive attitudes
+
+
+	Summary: 
+		Run!!
+
+
+Review 5:
+	Job Title: Claim Manager
+	Location: None
+	Review Date: 2024-03-23T09:38:31.477
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		None that come to mind
+
+
+	Cons: 
+		Micro management at its finest. Extremely ineffective upper management without a clue how to treat people, let alone employees. The company is extremely disorganized and lacks a coherent strategy or direction. The only way to advance in your career is through brown nosing. Work performance is not accurately gauged. Part of the issue is that senior leadership is all of the brown nosers who never learned the technical aspects of claims. This company has an HR policy in place that dictates an immediate termination if you try to give two weeks notice and they do not pay you for those two weeks. As soon as you are done with them, they act like you have betrayed them. I worked with this company for many years, and learned the hard way that they do not care about their employees. There is no bonus program even if the stock is through the roof. There is no bonus even for participating in extra committees and projects. They are beholden only to the board of directors, and no one else. As an employee, you quite simply do not matter.
+
+
+	Summary: 
+		Atrocious
+
+
+Review 6:
+	Job Title: Licensed Sales Producer
+	Location: None
+	Review Date: 2024-04-04T11:28:49.517
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Friendly co-workers.
+		Decent salary and commission structure
+		Well known agency.
+
+
+	Cons: 
+		Lack of autonomy in sales approach.
+		Absentee manager - out of office chronically
+		Overreliance on outdated leads.
+		Abysmal - or lack thereof - training program.
+		Outdated technology and processes.
+		Inadequate support from management.
+		Micromanagement.
+		Too many open tabs on your window to complete one task.
+
+
+	Summary: 
+		A Disheartening Experience
+
+
+Review 7:
+	Job Title: None
+	Location: Ogden, UT
+	Review Date: 2023-11-22T04:53:53.483
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Esurance under Allstate, IN Ogden UT, has great management and company culture. We incorporated fun classroom games in training (I was a training assistant) and while that may not be everyone's cup of tea, it was something I valued greatly and saw new agents value as well. We had fantastic company volunteer programs in exchange for PTO as well as frequent lunches provided by the company, and bonus opportunities for product referrals in roles that were not commissioned. So, that was a nice incentive on top of an already great base for the area. Insurance work is rather intense and maybe not for everyone, but those who can look at things in a "black and white" view will thrive in Insurance, and Esurance by Allstate is a wonderful place to do so.
+
+
+	Cons: 
+		I felt that when I worked remotely (from home) and my management was changed from my home office to an out of state manager who didn't actually know me, I was left behind in a sense. This is more of. Reflection of 1 individual though and not the whole company, but I would recommend the company keep WAH agents managed by someone in their area so they can have the opportunity to meet in person when necessary.
+
+
+	Summary: 
+		Esurance is a great employer
+
+
+Review 8:
+	Job Title: Data Consultant
+	Location: Washington, DC
+	Review Date: 2024-04-17T16:45:06.480
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Only the people are good to work with, SOMETIMES.
+
+
+	Cons: 
+		Got this position 2 years ago, was offered 40K annually (bump from 36) This position starts at 70k apparently, but I was unaware. Got it up to 60k. This year I got my pay raise and it said I was getting paid 15k under market value.
+
+
+	Summary: 
+		Will LowBall SEVERELY, until you negotiate higher salary
+
+
+Review 9:
+	Job Title: Licensed Sales Producer
+	Location: Bronx, NY
+	Review Date: 2024-04-17T18:39:37.457
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		- commission 
+		- community 
+		- returning customers, relationship strengthening 
+		- opportunities for advancement and growth as a financial service provider
+
+
+	Cons: 
+		- low pay (to start)
+
+
+	Summary: 
+		Excellent if you love selling 
+
+
+Review 10:
+	Job Title: Business Analyst Consultant
+	Location: Chicago, IL
+	Review Date: 2024-04-09T18:18:58.457
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Allstate is generally a good and stable company. They take inclusive diversity seriously and have many employee resource groups for various identities.
+
+
+	Cons: 
+		It is however very mercurial. The company is undergoing “transformative growth” which means your department, role, or work may be reduced, eliminated, or changed with little explanation or notice.
+
+
+	Summary: 
+		Buckle Up
+
+
+Review 11:
+	Job Title: Total Loss Claims Adjuster
+	Location: Irving, TX
+	Review Date: 2024-02-25T18:44:59.723
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Paid adjuster training. You get to take some of your licenses with you when you leave. Onsite medical clinic.
+
+
+	Cons: 
+		Pay is less than the industry standard. Overworked staff with an atrocious workload, and no overtime. Zero work-life balance. You take your stress home and are afraid to take time off because you have to deal with the same unhappy customers on your log before you left. The claims handling system was much like Lucille Ball in the candy factory! Many employees leave there sick or dying (cancer) due to the stress. You are not allowed to discuss salaries amongst peers since whites were paid much higher salaries and promoted much more often compared to non-whites for the same position. People of color are still saying they were the "first Black" to be in this or that position. Many more instances of racism too numerous to count. I would not go back there even if my salary was doubled.
+
+
+	Summary: 
+		RUN!
+
+
+Review 12:
+	Job Title: Systems Administrator
+	Location: Northbrook, IL
+	Review Date: 2024-02-23T16:05:52.427
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good starter company out of college if you want to gain a lot of good benefits and get an understanding of the real work life world.
+
+
+	Cons: 
+		You will have to exceed working over 40 hours without paid overtime to get work done since its always done wrong by others.
+		Working with other countries is difficult as the knowledge is different and you will always have to fix what they work on because there solutions are only temporary or completely wrong.
+		You have to develop yourself with no training.
+		Your manager will never know your job or how to do it and you will end up losing your job.
+		Working from home does not work and it will keep you working longer hours especially when you cant find people whom appear away for long periods of time.
+
+
+	Summary: 
+		Good Starter Job out of College
+
+
+Review 13:
+	Job Title: Senior Auto Damage Adjuster
+	Location: None
+	Review Date: 2024-03-24T18:31:20.433
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Great time off that starts from day 1… room to grow with company and move around to different departments… I started as an hourly employee in 2014 making 12 an hour and was a salaried employee making just over 70k when I left in 2023 with out a college degree
+
+
+	Cons: 
+		Pay is lacking… Allstate does not do any kind of profit sharing or annual bonus… If your great at your job you might get a 5% raise but most years as long as your not a terrible employee u get 3%… which really just accounts for inflation… 
+
+
+	Summary: 
+		Good company for work life balance… pay is lacking 
+
+
+Review 14:
+	Job Title: Senior Trial Attorney - Staff Counsel
+	Location: Houston, TX
+	Review Date: 2024-01-05T13:02:16.033
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good benefits that amounts to nothing when you quit
+
+
+	Cons: 
+		There is a massive turnover where only one out of 23 attorneys from a few years ago still work there 
+		-you will have 4-8 trials on your calendar each month
+		-they say there will be big haul to change structure and attorneys will have 80 cases each but in REALITY, attorneys each have 150-200 cases 
+		-so many turn overs so you need to constantly cover depositions for someone 
+		-never know who your boss will be in a few months
+		-extreme disorganization and you will inherit cases that have been rotting in hell for at least 8 months to 2 years (leading every attorney to have to do the infamous pilgrimage to the court house to beg for forgiveness) 
+		-due to lack of attorneys, everyone that dealt with Allstate will hate you and have zero patience 
+		-your personal reputation will be destroyed to nothing even though much is not your fault but the lack of attorneys
+		-you will never have rapport with any colleagues because they are all miserable and 90% leave 6-8 months max
+		-they can’t seem to hire competent attorneys so you work with people that have no civil trial experience 
+		-the amount of tasks assigned to you by the system will be around 100-120 per day leading you to feel like constant failure and waking up to the same grave
+		-you will feel like an ever sinking boat with no
+
+
+	Summary: 
+		Horrific-don’t believe good reviews! 
+
+
+Review 15:
+	Job Title: Corporate Counsel
+	Location: Northbrook, IL
+	Review Date: 2024-04-17T08:20:08.810
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		great colleagues. interesting work. wide variety of experiences.
+
+
+	Cons: 
+		dysfunctional environment. Very political. too much busy work
+
+
+	Summary: 
+		Allstate work life
+
+
+Review 16:
+	Job Title: Executive Team Leader
+	Location: Virginia Beach, VA
+	Review Date: 2024-04-15T19:27:49.783
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good pay, good benefits, good PTO
+
+
+	Cons: 
+		Limited advancement, micro manage at times.
+
+
+	Summary: 
+		Good Place to Work 
+
+
+Review 17:
+	Job Title: Insurence Agent
+	Location: New York, NY
+	Review Date: 2024-01-20T17:23:11.663
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		its a paycheck 
+		paid training
+		licensing support
+
+
+	Cons: 
+		the trainers where atrocious you can tell they were on a power trip. They try to micromanage everything constantly reminding people that they can see their screens and sometimes when you would ask a question they would say things like weren't you listening seemed very high school.
+		
+		They advertise that you can make somewhere between 60 K to 100 K a year but that's just not true out of training they are going to Deprioritize you so you get less calls you prob make 40,000 your 1st year which is not enough to survive 
+		
+		They had an amazing sells year in 2023 they turned around in 2024 and made it harder to bonus cut protected PTO days from 8 to 2. In most states they said if they could, they would cut everybody's down but state laws prevented them from doing so.
+		
+		The reason you see so many job listings is because they have a high turnover rate now that they are cutting cost out what seems at the employee is expense
+		
+		seem like there are congratulating NO ONE but these stockholders for the amazing job sales agents did in 2023 and picked the lowest benefit package possible for 2024. what a clown show
+
+
+	Summary: 
+		Run for the hills !!!!!!!!!!
+
+
+Review 18:
+	Job Title: Insurance Ajuster
+	Location: Houston, TX
+	Review Date: 2024-04-04T00:03:37.397
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Decent salary, work from home, they definitely keep you busy.
+
+
+	Cons: 
+		They just shovel more work on you. The more you the more they pile on. They talk of work/life balance but expect you to constantly work overtime to attempt to achieve unobtainable metrics. If you achieve the metrics they raise them.
+
+
+	Summary: 
+		PIP Adjuster job at Allstate
+
+
+Review 19:
+	Job Title: Business Insurance Specialist
+	Location: Charlotte, NC
+	Review Date: 2024-03-16T11:31:23.153
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		-Remote work
+		
+		-Lets you speak up and will listen on a consistent basis
+		
+		- Excellent direct management
+
+
+	Cons: 
+		-Changes Implemented weekly by upper management with no thoughts of affects 
+		
+		-poor commission Structure
+		
+		-Will withhold commissions when leaving Since you aren’t "employed" at the time pay regardless of if you made the sales
+		
+		- Extremely sloppy operations with everything coming down to the wire or not thought out
+		
+		- consistently adds new things for you to complete daily but doesn’t remove work
+		
+		-offers programs only to certain groups based on immutable characteristics
+
+
+	Summary: 
+		Great Direct Managment, Terrible Operations and senior leadership
+
+
+Review 20:
+	Job Title: Sales Associate
+	Location: Columbia, SC
+	Review Date: 2024-04-15T15:57:16.940
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		I love my specific agency. Honest, hardworking individuals!
+
+
+	Cons: 
+		Not to many paid holidays
+
+
+	Summary: 
+		Good place to work
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,622 @@
+
+Autoliv is a Motor Vehicles & Parts company based in 48326 Auburn Hills, Michigan. 
+The company has 65,300 employees and has a revenue of $8,842 according to Fortune 500.
+The company is valued at $8,013 and has a profit of $423. The CEO of the company is Mikael Bratt.
+
+The Company has the following ratings: 
+Average ratings for Autoliv:
+Business Outlook: 0.61
+
+Career Opportunities: 3.3
+Distribution: 
+	1: 80 
+	2: 149 
+	3: 255 
+	4: 291 
+	5: 180 
+
+CEO: 0.67
+
+Compensation and Benefits: 3.4
+Distribution: 
+	1: 40 
+	2: 105 
+	3: 295 
+	4: 330 
+	5: 183 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 84 
+	2: 97 
+	3: 191 
+	4: 273 
+	5: 288 
+
+Diversity and Inclusion: 3.6
+Distribution: 
+	1: 38 
+	2: 50 
+	3: 91 
+	4: 155 
+	5: 150 
+
+Overall: 3.7
+Distribution: 
+	1: 62 
+	2: 107 
+	3: 214 
+	4: 439 
+	5: 280 
+
+Senior Management: 3.1
+Distribution: 
+	1: 134 
+	2: 134 
+	3: 235 
+	4: 234 
+	5: 144 
+
+Work Life Balance: 3.5
+Distribution: 
+	1: 103 
+	2: 112 
+	3: 251 
+	4: 281 
+	5: 205 
+
+Review Count: 1102
+
+Recommend to Friend: 
+	RECOMMEND: 646
+	WONT RECOMMEND: 222
+
+
+
+
+The company has 1245 reviews on Glassdoor. The last review was posted on 2024-04-16T22:57:33.013. 
+There are 20 Reviews for Autoliv:
+
+Review 1:
+	Job Title: Test Technician
+	Location: Brigham City, UT
+	Review Date: 2024-03-29T07:37:41.700
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Organized efficient but feels robotic
+
+
+	Cons: 
+		Long days and ot but not that bad
+
+
+	Summary: 
+		Fine company
+
+
+Review 2:
+	Job Title: Production Operator
+	Location: Brigham City, UT
+	Review Date: 2024-03-18T11:23:32.847
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		The pay is good. Definitely something we need more of in today's economy. Most employees are really great to
+
+
+	Cons: 
+		Used to have flex days and get to go home when end of weeks build is complete. Not any more. Now us operators are sent to other areas (with or without training for Saud areas) all because those areas "need" the help. I was told that is was solely happening because they didn't want to pay those areas overtime. Thwy only give you 3 shifts worth of personal time that needs to last an entire year before it resets. But you can purchase more personal time at the beginning of each year.
+
+
+	Summary: 
+		Love most employees, rest of the plant us not so great 
+
+
+Review 3:
+	Job Title: Production Control
+	Location: Ogden, UT
+	Review Date: 2024-03-20T07:37:29.083
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Lots of hours. Good benefits
+
+
+	Cons: 
+		6-7 days a week every week
+
+
+	Summary: 
+		Typical forklift job
+
+
+Review 4:
+	Job Title: Engineer
+	Location: Ogden, UT
+	Review Date: 2023-07-14T18:29:47.477
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Many good people outside of management work there. I learned a lot while I worked there. My pay and benefits were pretty good.
+
+
+	Cons: 
+		The companies first money saving tactic is to lay people off. They let good talented people go all of the time. This is the first company I have ever worked for the that placed so little value on the knowledge and skills of there people. They are currently at the front end of a 6,000 person RIF that will last into 2025. This is just one of many layoffs they have done over the years. So think twice if you value job security. The Ogden plant is struggling because they have let go so much of there talent and knowledge base they have gone backwards in quality and efficiency. For the good hard working people that are left I hope management figures out the value of people. Also the HR department is slow to get any request complete. Most of the time I had to make requests many times and wait for weeks or even months.
+
+
+	Summary: 
+		Beware of Regular Layoffs Not Stable
+
+
+Review 5:
+	Job Title: Mechanical Designer
+	Location: Ogden, UT
+	Review Date: 2024-02-14T08:17:50.653
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Fascinating work. Diverse tasks. Always busy. Good people. Satisfying. I always had superior performance reviews and corresponding compensation increases.
+
+
+	Cons: 
+		If you don't submit to the global depopulation protocols you get fired, like me.
+
+
+	Summary: 
+		Saving Lives
+
+
+Review 6:
+	Job Title: Process Engineer
+	Location: None
+	Review Date: 2024-02-24T09:03:20.677
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Working to improve employee retention so they are getting better
+
+
+	Cons: 
+		Struggled with employee retention due to slow wage increases
+
+
+	Summary: 
+		Becoming Great
+
+
+Review 7:
+	Job Title: Engineer
+	Location: Ogden, UT
+	Review Date: 2024-01-29T10:09:03.480
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The work has an impact in the world around us.
+
+
+	Cons: 
+		Highly politicized work force, very difficult for individuals with diverse backgrounds to succeed. Need to be a political player with inside knowledge to succeed. Company is struggling to maintain positive culture, most employees come into work concerned that by the end of the day they won't have a job.
+
+
+	Summary: 
+		Protect your Career - Stay Away
+
+
+Review 8:
+	Job Title: IT Project Manager
+	Location: Detroit, MI
+	Review Date: 2023-12-16T16:50:45.853
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Was a great place to work for a long time. Manager was flexible and provided feedback.
+
+
+	Cons: 
+		During the last few years, something changed. The way this years cost cutting was executed was pretty rough for many people. Over 20 years dedicated to the company and they lay you off with 3 months severance. I don't think that is how you should treat employees who have dedicated so much to a company.
+
+
+	Summary: 
+		Work culture on decline
+
+
+Review 9:
+	Job Title: Production Associate
+	Location: Brigham City, UT
+	Review Date: 2024-01-30T12:18:55.677
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Potential to further your education/career, paid vacation days,
+
+
+	Cons: 
+		It can get stuffy inside; demand is sometimes challenging; machines are older and prone to break down
+
+
+	Summary: 
+		Overall solid company to work for
+
+
+Review 10:
+	Job Title: Administrative Assistant III
+	Location: Ogden, UT
+	Review Date: 2023-10-10T22:07:47.300
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Great people. The work that is being completed by the engineers is literally livesaving.
+
+
+	Cons: 
+		Lack of communication from upper-echelon management caused many questionable behaviors to trickle down to the plants. No one in my location feels secure in their future role. Many fear, a complete shutdown of our site is imminent as it seems to be happening little by little
+
+
+	Summary: 
+		Questionable Future
+
+
+Review 11:
+	Job Title: Associate
+	Location: Utahn, UT
+	Review Date: 2024-01-29T01:45:12.207
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		They pay you a lot
+
+
+	Cons: 
+		They suck and don't listen to you
+
+
+	Summary: 
+		Ok place to work
+
+
+Review 12:
+	Job Title: Senior Software Engineer
+	Location: Salt Lake City, UT
+	Review Date: 2024-01-22T20:00:56.303
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Retirement, money, convenient, busy, meaningful
+
+
+	Cons: 
+		Pay, people, managers, company, benefits
+
+
+	Summary: 
+		Sucks
+
+
+Review 13:
+	Job Title: Warehouse Worker
+	Location: Ogden, UT
+	Review Date: 2023-10-02T07:38:39.163
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Overtime, quick to hire, better than retail pay.
+
+
+	Cons: 
+		Probably one of the most boring jobs I've worked. I've been in quality control, worked at amazon, worked construction. All had their own downsides (routine, exceedingly fast paced, lifting heavy materials) but this one seems to have them all. Somewhat fast paced, though you are restricted by timing so you can't get ahead. Very routine, but no coworkers to talk to. Though the packages aren't too heavy. Luckily, you can listen to music after your first three weeks which is my saving grace (have to buy bone conducting earphones though).
+
+
+	Summary: 
+		Boring and Monotonous, but quick to hire and lots of work
+
+
+Review 14:
+	Job Title: Director
+	Location: Auburn Hills, MI
+	Review Date: 2024-01-13T08:46:19.247
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Organized and a good place to work
+
+
+	Cons: 
+		Unstable management and employees are not motivated
+
+
+	Summary: 
+		Good company
+
+
+Review 15:
+	Job Title: Machine Operator
+	Location: Brigham City, UT
+	Review Date: 2023-04-12T16:15:12.383
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good benefits, profit sharing, nice lunchroom and locker rooms, good security.
+
+
+	Cons: 
+		Extreme lack of work life balance, rotating schedules so they can work you 7 days in a row without paying you overtime, high demand and high stress depending on the area you end up in, HR cant answer a phone or respond to messages so you better hope you have time to wait around for them when they're actually in the office, you have to wait a year for small couple cent raise thats not based on performance, people who have worked there for 15+ years dont make much more than new employees.
+
+
+	Summary: 
+		Good job if your down bad for money
+
+
+Review 16:
+	Job Title: Engineer
+	Location: Auburn Hills, MI
+	Review Date: 2024-01-07T20:49:11.700
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good co-workers and good environment
+
+
+	Cons: 
+		Very Slow career growth and not very job security anymore
+
+
+	Summary: 
+		Fair place to work
+
+
+Review 17:
+	Job Title: Production Trainer
+	Location: None
+	Review Date: 2024-01-25T17:18:57.267
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Lots of overtime cafeteria on site. 
+
+
+	Cons: 
+		Lots of overtime very little concern for employees. 
+
+
+	Summary: 
+		Na
+
+
+Review 18:
+	Job Title: Assistant IT Engineer
+	Location: Ogden, UT
+	Review Date: 2023-12-28T13:09:54.417
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Easy going job with straightforward expectations.
+
+
+	Cons: 
+		Underpaid and undervalued. Room for growth within the company is limited.
+
+
+	Summary: 
+		Easy going job but undervalues employees.
+
+
+Review 19:
+	Job Title: Intern
+	Location: Ogden, UT
+	Review Date: 2023-12-12T14:28:32.897
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Awesome HR to work with
+
+
+	Cons: 
+		None. I loved it there
+
+
+	Summary: 
+		Loved it
+
+
+Review 20:
+	Job Title: ERP Supervisor
+	Location: Ogden, UT
+	Review Date: 2023-10-19T05:03:49.390
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Good local culture of team work and continuous improvement, good managers and team members, Autoliv products save lives.
+
+
+	Cons: 
+		Frustrating corporate culture, top down management, promotes a culture of thoughtless followers over creative problem solvers.
+
+
+	Summary: 
+		Good place to learn and grow
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

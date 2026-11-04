@@ -1,0 +1,632 @@
+
+Nike is a Apparel company based in 97005 Beaverton, Oregon. 
+The company has 79,100 employees and has a revenue of $46,710 according to Fortune 500.
+The company is valued at $190,161 and has a profit of $6,046. The CEO of the company is John Donahoe.
+
+The Company has the following ratings: 
+Average ratings for Nike:
+Business Outlook: 0.66
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 600 
+	2: 803 
+	3: 1853 
+	4: 1795 
+	5: 2106 
+
+CEO: 0.78
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 306 
+	2: 591 
+	3: 1661 
+	4: 2117 
+	5: 2397 
+
+Culture and Values: 4.1
+Distribution: 
+	1: 383 
+	2: 421 
+	3: 983 
+	4: 1707 
+	5: 3542 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 191 
+	2: 250 
+	3: 618 
+	4: 1023 
+	5: 2554 
+
+Overall: 4.1
+Distribution: 
+	1: 342 
+	2: 452 
+	3: 1694 
+	4: 3244 
+	5: 4246 
+
+Senior Management: 3.5
+Distribution: 
+	1: 804 
+	2: 799 
+	3: 1668 
+	4: 1773 
+	5: 1837 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 485 
+	2: 688 
+	3: 1581 
+	4: 1825 
+	5: 2460 
+
+Review Count: 12475
+
+Recommend to Friend: 
+	RECOMMEND: 4874
+	WONT RECOMMEND: 1157
+
+
+
+
+The company has 14616 reviews on Glassdoor. The last review was posted on 2024-04-18T00:18:45.373. 
+There are 20 Reviews for Nike:
+
+Review 1:
+	Job Title: Operations Manager
+	Location: Los Angeles, CA
+	Review Date: 2024-04-17T20:20:35.800
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Discount. Trainings. Upward mobility. Flexible schedule.
+
+
+	Cons: 
+		Hourly pay. Rapid changes. Launch Days.
+
+
+	Summary: 
+		Great Experience
+
+
+Review 2:
+	Job Title: Director, Business Architecture
+	Location: San Francisco, CA
+	Review Date: 2024-04-17T10:53:27.723
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		* Great corporate culture with amazing people who are nice and kind. * The employee benefits are amazing.
+		* You can make a career out of working there.
+
+
+	Cons: 
+		* The company is going through a significant transition period. Expect a lot of changes.
+		* It takes a long time to implement any changes.
+		* Some people are suffering from nostalgia syndrome and are not focusing on innovation; others stopped performing once they joined the company because they thought they "made it."
+
+
+	Summary: 
+		Great Company Culture Going Through Tough Transition Period
+
+
+Review 3:
+	Job Title: Legal Employee
+	Location: Beaverton, OR
+	Review Date: 2024-01-31T13:14:02.393
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Fantastic teammates, good benefits and decent pay, the ESPP can be lucrative, potentially lots of "perks" like travel and fun events (although now not as much as in previous years), cool brand to work for.
+
+
+	Cons: 
+		Promotions and advancement can be tough to achieve and can be somewhat political, the reward for doing good work is often just getting more work, if you stay long enough without regular promotions your pay will start to lag the market, there are definitely "cool kids" and "others" and if you are an "other" career advancement can be difficult, layoffs used to be uncommon but are now a constant worry, with many corporate roles work/life balance can be difficult to achieve as there's an unspoken expectation that you're checking email and available pretty much 24/7, Nike's DE&amp;I program emphasizes having the 'correct' physical attributes (skin color, gender, etc.) over actual merit and qualifications, with predictable consequences, and morale has definitely sunk in recent years compared to the past. Many people stay not because they necessarily like it but because they are comfortable &amp; complacent; they know that finding similar pay and benefits somewhere else in the area would be difficult.
+
+
+	Summary: 
+		Overall Great, With Some Important Pitfalls
+
+
+Review 4:
+	Job Title: Sales Associate
+	Location: None
+	Review Date: 2024-04-01T13:53:02.187
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		1. chill environment 
+		2. well known brand
+
+
+	Cons: 
+		1. the technology is horrible (glitchy and slow) and it creates a lot of friction and confusion, especially during the checkout process but we have to use it every day.
+		2. nike gives customers a lot of reasons to be upset at me for a variety of things that are out of my control (clearance being full price, returns from exchanges being charged to gift cards instead of original payment method, no “point system” for having a rewards account, etc) you’ll have to have a thick skin :/
+
+
+	Summary: 
+		definitely not the best at brick and mortar retail
+
+
+Review 5:
+	Job Title: Retail Sales Associate
+	Location: Bellevue, WA
+	Review Date: 2024-04-16T21:49:34.027
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Culture, people and flexibility were great at this location.
+
+
+	Cons: 
+		Some customers would stay past closing time which made it hard to close the store
+
+
+	Summary: 
+		Awesome place for a first job
+
+
+Review 6:
+	Job Title: Data Scientist
+	Location: Beaverton, OR
+	Review Date: 2024-04-15T18:22:33.947
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Very nice, clever colleagues. Some of the smarter people I've ever worked with!
+
+
+	Cons: 
+		Worst managerial staff I've experienced in nearly 20 years of cross-industry, multi-national work. Vengeful, self-serving, and deceitful.
+
+
+	Summary: 
+		Data Scientist at Nike
+
+
+Review 7:
+	Job Title: Sales Associate
+	Location: Dallas, TX
+	Review Date: 2024-04-17T19:03:56.093
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great discount and easy job.
+
+
+	Cons: 
+		Overworked and horrible management, does not abide with your requests offs.
+
+
+	Summary: 
+		Nike Sales Associate 
+
+
+Review 8:
+	Job Title: Lead Product Developer
+	Location: Beaverton, OR
+	Review Date: 2024-04-16T21:00:05.610
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		lovely campus, great benefits, deep friendships
+
+
+	Cons: 
+		autonomy in how to work but not where to work, layoffs and re-orgs are brutal
+
+
+	Summary: 
+		Must have thick skin
+
+
+Review 9:
+	Job Title: Operations Manager
+	Location: Yorkdale, LA
+	Review Date: 2024-04-15T04:52:05.410
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Excellent benefits with employee discount and events.
+
+
+	Cons: 
+		Work/life balance
+		Unprofessional CEO 
+		Not directly NIKE, the company I worked for was for FOX who owned entitlement to Nike establishments
+
+
+	Summary: 
+		Operations 
+
+
+Review 10:
+	Job Title: Operations Manager
+	Location: Portland, OR
+	Review Date: 2024-04-09T17:37:40.337
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Flexible work schedule, some really cool experience opportunities (meeting athletes, etc) product discount, career growth
+
+
+	Cons: 
+		Company politics, frequent reorganizations &amp; hiring freezes, can feel so big at times that projects have to go through many teams before anything can get done.
+
+
+	Summary: 
+		Can be a great place to work, right now not so much
+
+
+Review 11:
+	Job Title: Retail Associate
+	Location: Michigan City, IN
+	Review Date: 2024-04-14T21:01:25.363
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay, good environment. There is a lot of room for autonomy depending on the manager.
+
+
+	Cons: 
+		The work can get repetitive.
+
+
+	Summary: 
+		Good Seasonal Job For Teens
+
+
+Review 12:
+	Job Title: Administrative Assistant
+	Location: Beaverton, OR
+	Review Date: 2024-04-15T16:48:42.223
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Cool campus, good employee discount
+
+
+	Cons: 
+		Hiring process is slow, hard to negotiate higher salary, terrible management, ER and HR is a disaster
+
+
+	Summary: 
+		Messy 
+
+
+Review 13:
+	Job Title: Specialist
+	Location: San Francisco, CA
+	Review Date: 2024-04-11T19:18:17.557
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Discount, work environment, product testing and stretch positions
+
+
+	Cons: 
+		Career mobility is a challenge. Not much movement in the organzation due to lack of growth.
+
+
+	Summary: 
+		Work place 
+
+
+Review 14:
+	Job Title: Senior Engineering Technician
+	Location: Beaverton, OR
+	Review Date: 2024-04-15T19:18:55.627
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great culture and many networking opportunities
+
+
+	Cons: 
+		Management loses the touch with the worker and the tasks they preform
+
+
+	Summary: 
+		Slight feedback
+
+
+Review 15:
+	Job Title: HR
+	Location: Beaverton, OR
+	Review Date: 2024-03-04T15:19:05.650
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Discount, pretty good benefits, and kind and hardworking employees. In the past, there were a lot of opportunities for career growth, but it has been a few years now since that has felt true.
+
+
+	Cons: 
+		It is evident that for the most part, the highest rungs of leadership do not care about their employees. They make poorly-planned, control-based decisions (for example, return-to-office mandates that lack thorough or evidence-based explanations). Tech departments leave a lot to be desired and devices/internet/VPN truly do not work as well as they should for such a successful company. Leaders do not have a solid grasp on what the orgs beneath them actually do day-to-day, and this shows in the way layoffs have shaken out.
+
+
+	Summary: 
+		Good place to work, but declining fast
+
+
+Review 16:
+	Job Title: Sales Associate
+	Location: Seattle, WA
+	Review Date: 2024-04-14T23:12:35.817
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Nice staff, great ppl! Great discount
+
+
+	Cons: 
+		Pay low, work weekends, deal with customers
+
+
+	Summary: 
+		Great Company
+
+
+Review 17:
+	Job Title: Color Designer
+	Location: Portland, OR
+	Review Date: 2024-04-15T09:22:09.760
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Fun, Inclusive, Engaging, Benefits, Interactions
+
+
+	Cons: 
+		Can end up being a lot of work
+
+
+	Summary: 
+		Review
+
+
+Review 18:
+	Job Title: Supervisor
+	Location: New York, NY
+	Review Date: 2024-04-12T07:50:59.780
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Flexible time, good payed hours, benefits
+
+
+	Cons: 
+		Challenging customers, stress, burn outs
+
+
+	Summary: 
+		Benefits
+
+
+Review 19:
+	Job Title: Planning Director
+	Location: Beaverton, OR
+	Review Date: 2024-04-08T14:42:46.557
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		great colleagues. good work life balance.
+
+
+	Cons: 
+		big company with slow to change processes. you see the competition winning and can't do anything about it.
+
+
+	Summary: 
+		isn't what it was
+
+
+Review 20:
+	Job Title: Marketing Specialist
+	Location: None
+	Review Date: 2024-04-09T19:05:10.680
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great people to work with 
+		Great perks that come with the job
+		Fun projects to work on
+
+
+	Cons: 
+		Ways of working can be messy
+		Tons of miscommunication
+
+
+	Summary: 
+		Company culture
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

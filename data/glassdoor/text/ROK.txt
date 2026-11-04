@@ -1,0 +1,661 @@
+
+Rockwell Automation is a Electronics, Electrical Equip. company based in 53204 Milwaukee, Wisconsin. 
+The company has 26,000 employees and has a revenue of $7,760 according to Fortune 500.
+The company is valued at $33,683 and has a profit of $932. The CEO of the company is Blake D. Moret.
+
+The Company has the following ratings: 
+Average ratings for Rockwell Automation:
+Business Outlook: 0.68
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 233 
+	2: 335 
+	3: 701 
+	4: 767 
+	5: 652 
+
+CEO: 0.89
+
+Compensation and Benefits: 3.7
+Distribution: 
+	1: 110 
+	2: 281 
+	3: 809 
+	4: 953 
+	5: 534 
+
+Culture and Values: 4
+Distribution: 
+	1: 212 
+	2: 184 
+	3: 434 
+	4: 665 
+	5: 1068 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 85 
+	2: 73 
+	3: 218 
+	4: 359 
+	5: 659 
+
+Overall: 4
+Distribution: 
+	1: 178 
+	2: 217 
+	3: 653 
+	4: 1153 
+	5: 978 
+
+Senior Management: 3.5
+Distribution: 
+	1: 317 
+	2: 335 
+	3: 622 
+	4: 756 
+	5: 566 
+
+Work Life Balance: 4
+Distribution: 
+	1: 180 
+	2: 255 
+	3: 585 
+	4: 798 
+	5: 862 
+
+Review Count: 3185
+
+Recommend to Friend: 
+	RECOMMEND: 1856
+	WONT RECOMMEND: 549
+
+
+
+
+The company has 3639 reviews on Glassdoor. The last review was posted on 2024-04-15T11:25:41.243. 
+There are 20 Reviews for Rockwell Automation:
+
+Review 1:
+	Job Title: Associate Field Engineer
+	Location: Detroit, MI
+	Review Date: 2024-03-20T10:03:35.867
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		I started in the EIT program and they trained me for 6 months on as much Rockwell equipment as they could in that time, all while paying me. I will be going back for more advanced training soon. In terms of setting yourself up for success, you couldn't ask for a better tart than Rockwell Automation!
+
+
+	Cons: 
+		Depending on your position, you may not know where you will end up after the training. Engineers from my class were assigned to many places around the Midwest USA, but many got to pick as well.
+
+
+	Summary: 
+		Amazing onboarding, education, and opportunites
+
+
+Review 2:
+	Job Title: Director
+	Location: Milwaukee, WI
+	Review Date: 2024-01-25T14:21:10.580
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Stock price remains high and they pay relatively well compared to peers.
+
+
+	Cons: 
+		50% of the company has been there less than 5 years. Let that sink in.
+		
+		The people on top do not like company - yet they are under pressure to innovate so they wipe out teams and rebuild them with outside talent. The result is the middle layer of people with working knowledge can be completely neutralized in the course of a meeting. Lots of new people showing up at the middle top - mostly cast offs from failed peers. These newbies struggle for several months, make broad changes (layoffs) without even getting to know their people, then hire their buddies/vendors from the previous company. 
+		
+		It's a tired old cycle, one that plagued Johnson Controls, Honeywell, and even GE. They lack a way to create leaders and are constantly looking to Free Agents to fix them. Consultants are having a field day here...we are talking 7 figures in each division because the leaders are simply political survivors with eyes on their own board seats elsewhere and retirement...they can't actually make leadership decisions.
+
+
+	Summary: 
+		25yr vets and 2 year newbies
+
+
+Review 3:
+	Job Title: Digital Business Leader
+	Location: Seattle, WA
+	Review Date: 2024-04-04T10:30:37.980
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		People centric culture, High levels of integrity and culture of doing the right thing. Even in hard times, the executive leadership took pains to be thoughtful people centered in its approach to layoffs. 
+		Strong sense of purpose and mission. A portfolio of capabilities that puts you at the heart of global manufacturing. If you want to understand how to make "things" at scale, this is a great company to work for.
+
+
+	Cons: 
+		Slow to change and evolve, though new leadership has been making some aggressive moves to change that culture.
+
+
+	Summary: 
+		A Great place to start and build a career
+
+
+Review 4:
+	Job Title: Software Engineer
+	Location: Mayfield, OH
+	Review Date: 2024-04-07T08:40:49.497
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		People are very nice and it’s easy to move to different departments if you want to try something different. The campus is nice and features a pretty outdoor area. The flexible hours in the summer is nice and most people just work 4 days then.
+
+
+	Cons: 
+		The pay is not competitive and the culture isn’t really the best. Engineering requirements are often unclear and there’s way too much bureaucracy.
+
+
+	Summary: 
+		Good place to start
+
+
+Review 5:
+	Job Title: Technology Manager
+	Location: None
+	Review Date: 2024-04-07T17:33:52.037
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Organization values hard work. Colleagues that go the distance become like family and treat you like family.
+
+
+	Cons: 
+		Leadership is not the strongest set of visionaries that can execute.
+
+
+	Summary: 
+		Public company with a touch of the old family feeling still
+
+
+Review 6:
+	Job Title: Sr Program Manager
+	Location: Milwaukee, WI
+	Review Date: 2024-04-15T11:25:41.243
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Great work life balance and fair compensation
+
+
+	Cons: 
+		Major C-lever leadership changes that are still rippling down. Causing instability and job cuts
+
+
+	Summary: 
+		In-group vs Out-group Culture
+
+
+Review 7:
+	Job Title: Associate Project Manager
+	Location: Herndon, VA
+	Review Date: 2024-03-04T10:35:01.337
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Management is always open, supportive, communicative, and patient especially with new employees. They truly want you to succeed and will have your back with clients and will graciously turn your mistakes into learning opportunities. If you need help, you need to ask for it, because they won't hold your hand, but this in turn creates very self-sufficient employees with an overwhelming amount of mutual respect.
+
+
+	Cons: 
+		Since my job is completely remote (which is a huge PRO), the onboarding process is a little more challenging since it's done virtually, but they work with you through the pains of virtual learning and are understanding.
+
+
+	Summary: 
+		Best People I've Worked With In a Long Time
+
+
+Review 8:
+	Job Title: Engineer
+	Location: Union, NJ
+	Review Date: 2024-04-09T06:29:15.767
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great training, work-life balance and growth potential
+
+
+	Cons: 
+		Salary not commensurate to experience
+
+
+	Summary: 
+		Great place to work
+
+
+Review 9:
+	Job Title: Senior Technical Support Engineer
+	Location: None
+	Review Date: 2024-01-08T06:55:55.193
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Interesting new technologies*
+		Low level of difficulty and stress (usually)
+		Pleasant coworkers
+		Many opportunities for learning and growth
+		Management mostly came up through the ranks so are pretty knowledgeable and understanding
+		Somewhat flexible on hours, mostly remote now
+
+
+	Cons: 
+		*Also a ton of obsolete tech that is somehow still used and supported, and many projects get started but go nowhere. Can also lead to being spread too thin across many products
+		The work itself can be draining and unsatisfactory - solve one problem, on to the next
+		Weekend and holiday on-call duties are required
+
+
+	Summary: 
+		Solid
+
+
+Review 10:
+	Job Title: Project Manager
+	Location: Chicago, IL
+	Review Date: 2024-04-04T13:08:59
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		The benefits are excellent, and the people are great.
+
+
+	Cons: 
+		There is a lot of bureaucracy, and often slow processes keep you from doing your job effectively.
+
+
+	Summary: 
+		Great Place to Work
+
+
+Review 11:
+	Job Title: Assembly Line Worker
+	Location: Mequon, WI
+	Review Date: 2024-03-25T09:40:02.517
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Over time = more money and coworkers are nice
+
+
+	Cons: 
+		50-60 hours a week you’ll have no life management doesn’t not care about you and it’s hard to move up as they care about whose their the longest
+
+
+	Summary: 
+		Management sucks and long hours 
+
+
+Review 12:
+	Job Title: Associate
+	Location: Mequon, WI
+	Review Date: 2024-03-31T20:53:54.717
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good company values and culture.
+
+
+	Cons: 
+		Very fast working pace. Also needs more cooperation and understanding within teams.
+
+
+	Summary: 
+		Great place to work
+
+
+Review 13:
+	Job Title: Industry Account Manager
+	Location: None
+	Review Date: 2024-03-17T17:21:19.667
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Good products. Plenty of support. And work life balance is truly amazing and flexible whenever needed.
+
+
+	Cons: 
+		Can't realistically hit a home run with a large commission project, but commission is pretty consistent and what they told me I could expect to make.
+
+
+	Summary: 
+		Great place to work
+
+
+Review 14:
+	Job Title: Senior Engineer
+	Location: None
+	Review Date: 2024-03-19T06:39:44.210
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Sterling reputation, good benefits, strong business model.
+
+
+	Cons: 
+		This was a remote position, so the opinion could be atypical, but remote employees were not always included in the innerworkings of daily activities.
+
+
+	Summary: 
+		Solid Company with good benefits
+
+
+Review 15:
+	Job Title: Customer Success Manager
+	Location: New York, NY
+	Review Date: 2024-03-20T07:45:10.357
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Supportive Managers, Good team environment, benefits.
+
+
+	Cons: 
+		The company changes process and procedures often resulting in confusion to employees and customers.
+
+
+	Summary: 
+		Great Company, good teams.
+
+
+Review 16:
+	Job Title: Systems Engineer
+	Location: Chicago, IL
+	Review Date: 2024-04-03T15:50:32.813
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		401(K)
+		Health Benefit
+		Stability
+		Learning
+		Experiance
+
+
+	Cons: 
+		salary
+		work life balance
+		corporate politics
+		long working hours
+		Relocations
+
+
+	Summary: 
+		Good company to get experiance
+
+
+Review 17:
+	Job Title: UX Designer
+	Location: None
+	Review Date: 2024-03-21T15:03:45.883
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great culture and work life balance
+
+
+	Cons: 
+		Salaries are lower than market
+
+
+	Summary: 
+		Great environment
+
+
+Review 18:
+	Job Title: Power Electronics Engineer
+	Location: Mequon, WI
+	Review Date: 2024-03-18T20:09:27.287
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Work-life balance, exciting projects, innovation
+
+
+	Cons: 
+		Older technology, no cons other than this
+
+
+	Summary: 
+		Great place to work
+
+
+Review 19:
+	Job Title: Associate Technical Sales Consultant
+	Location: Boston, MA
+	Review Date: 2024-01-19T07:29:43.183
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		-Work from home, or really work from anywhere
+		-Very flexible work schedule- very easy to make appointments, run errands, or work out for an hour during the day
+		-Company car- all car related expenses (gas, insurance, maintenance) paid for by RA if you are in sales or qualify for a fleet vehicle
+		-Travel time counts as work time
+		-Very friendly company, people always willing to help. You just have to know what to ask for.
+		-Light workload. On a busy week I maybe work 30hrs
+		-Create your own schedule
+		-Good commission split- 80/20
+		
+		Great job if you are a parent with kids and need lots of flexibility, or if you have lots of hobbies and a very active lifestyle outside of work. Workload is cyclic, there are very busy and very slow times, but overall the role is not that demanding. Quite flexible and laid back
+
+
+	Cons: 
+		-Ambition not rewarded, actively discouraged even. I am often told "take it easy" or "don't stress yourself out" when I ask for more responsibility/opportunities
+		-Remote work can be isolating, especially as an early career person. Hard to build a social network or maintain mentor relationships
+		-Not many young people. Early career folks typically leave after 2yrs
+		-Inconsistent work flow. Weeks can go by with nothing to do- no one seems to think this is an issue
+		-Vague job descriptions. Lots of ambiguity when it comes to determining tasks and responsibilities. Lack of on the job training. Expectations not always clear or defined
+		-Professional relationships between internal resources and external sales/distribution partners can be complicated to learn
+		-Very slow learning pace. Promotion timelines can be quite long. Early career training programs can last 1-2yrs before you even begin performing the role you were hired for
+		-Constant re-organizations and change that results in inefficiencies
+		-Not a lot of women
+		
+		As an early career professional, I've found this role extremely challenging due to the isolating nature of remote work. The ambiguity of the role makes it difficult to create a schedule and identify productive ways to spend the considerable amount of downtime. You must be very self motivated to learn because you could very easily get away with doing nothing, which is a bad habit to develop. Early career training/development moves at a very slow pace- takes several months/years even to feel "busy" and begin contributing and seeing results. I don't feel I have developed as much professionally as I could've had I been in a faster-paced, higher pressure work environment with more regular interaction with coworkers and mentors
+
+
+	Summary: 
+		Laid back. Great if you have a busy life outside of work. Not so great for early career folks.
+
+
+Review 20:
+	Job Title: Account Manager
+	Location: None
+	Review Date: 2023-10-20T09:31:08.633
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Pay is generally on par or above par Local teams tend to work well together and have a good culture
+
+
+	Cons: 
+		There has been a ridiculous amount of changes occurring over the past few years and its done all the wrong way. A random day in October might come and they'll drop on you that you no longer have any of the accounts you had doing 10mil a year in sales, your job is completely different, your pay is less, a bunch of people are fired, local management isn't aware or involved, now go sell to accounts in Arizona that currently do zero business with us even though you live in ohio. It's really great if you want to be set up for failure. They essentially blew up a structure because they had an idea and then put zero thought into what to do with the people involved in the blow up. They just decided to throw them wherever without any of their consideration. Some people got the long end of the stick and some got the short end.
+
+
+	Summary: 
+		Great local teams, structural changes pushed from the top have been abysmal
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

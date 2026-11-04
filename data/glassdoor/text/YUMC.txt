@@ -1,0 +1,246 @@
+
+Yum China Holdings is a Food Services company based in 75074 Plano, Texas. 
+The company has 275,500 employees and has a revenue of $9,569 according to Fortune 500.
+The company is valued at $26,517 and has a profit of $442. The CEO of the company is Joey Wat.
+
+The Company has the following ratings: 
+Average ratings for Yum China Holdings:
+Business Outlook: 0.62
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 0 
+	2: 1 
+	3: 1 
+	4: 3 
+	5: 1 
+
+CEO: -1
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 0 
+	2: 0 
+	3: 1 
+	4: 4 
+	5: 1 
+
+Culture and Values: 4.1
+Distribution: 
+	1: 0 
+	2: 0 
+	3: 2 
+	4: 2 
+	5: 2 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 0 
+	2: 0 
+	3: 1 
+	4: 3 
+	5: 2 
+
+Overall: 4.1
+Distribution: 
+	1: 0 
+	2: 1 
+	3: 0 
+	4: 3 
+	5: 2 
+
+Senior Management: 4.1
+Distribution: 
+	1: 0 
+	2: 1 
+	3: 0 
+	4: 3 
+	5: 2 
+
+Work Life Balance: 3.9
+Distribution: 
+	1: 0 
+	2: 0 
+	3: 3 
+	4: 1 
+	5: 2 
+
+Review Count: 6
+
+Recommend to Friend: 
+	RECOMMEND: 3
+	WONT RECOMMEND: 2
+
+
+
+
+The company has 6 reviews on Glassdoor. The last review was posted on 2023-12-03T14:39:12.523. 
+There are 6 Reviews for Yum China Holdings:
+
+Review 1:
+	Job Title: Marketing Internship
+	Location: Shanghai, Shanghai
+	Review Date: 2023-12-03T14:39:12.523
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		- Coffee, Kichen
+		- work life balance
+		- high tolarance on work
+
+
+	Cons: 
+		- no full time transferred from internship
+
+
+	Summary: 
+		Impressive Experience
+
+
+Review 2:
+	Job Title: Brand Engagement Specialist
+	Location: Shanghai, Shanghai
+	Review Date: 2023-03-11T19:43:59.750
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Free coffee. Big company, big platform.
+
+
+	Cons: 
+		Minimal training and guiding. No office cubicle for interns. Interns had to work in the pantry.
+
+
+	Summary: 
+		Not the best employer for an intern
+
+
+Review 3:
+	Job Title: Associate Director
+	Location: Shanghai, Shanghai
+	Review Date: 2023-02-28T12:53:37.727
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		One of the best career options at Shanghai, China. Great learning experience and best-in-class team
+
+
+	Cons: 
+		Subject to the mainland China market economy conditions
+
+
+	Summary: 
+		Best-in-class / One of the best career options in Shanghai
+
+
+Review 4:
+	Job Title: Marketing Intern
+	Location: Shanghai, Shanghai
+	Review Date: 2022-02-24T10:54:16.777
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Big name, Great experience to see how marketing works, get hands-on experience with vendors and stakeholders, Create and brainstorm ideas with the team
+
+
+	Cons: 
+		The process of doing one decision is complex and take a long to time to get used to it.
+
+
+	Summary: 
+		Great experience in YumChina
+
+
+Review 5:
+	Job Title: None
+	Location: None
+	Review Date: 2022-02-12T07:26:49.190
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		superior employees, good work life balance
+
+
+	Cons: 
+		lots of paper work, inefficient sometimes
+
+
+	Summary: 
+		Work life balance
+
+
+Review 6:
+	Job Title: None
+	Location: Shanghai, Shanghai
+	Review Date: 2021-06-26T08:50:38.920
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		fast paced， quick response， a place to work down to earth
+
+
+	Cons: 
+		too stable with limited grow opportunity
+
+
+	Summary: 
+		innovative and practical
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,649 @@
+
+Caterpillar is a Construction and Farm Machinery company based in 75039 Irving, Texas. 
+The company has 109,100 employees and has a revenue of $59,427 according to Fortune 500.
+The company is valued at $118,161 and has a profit of $6,705. The CEO of the company is Jim Umpleby.
+
+The Company has the following ratings: 
+Average ratings for Caterpillar:
+Business Outlook: 0.77
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 583 
+	2: 778 
+	3: 1495 
+	4: 1619 
+	5: 1393 
+
+CEO: 0.87
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 207 
+	2: 365 
+	3: 1335 
+	4: 2253 
+	5: 1691 
+
+Culture and Values: 4
+Distribution: 
+	1: 561 
+	2: 644 
+	3: 1074 
+	4: 1485 
+	5: 1777 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 173 
+	2: 178 
+	3: 390 
+	4: 626 
+	5: 975 
+
+Overall: 4.1
+Distribution: 
+	1: 419 
+	2: 607 
+	3: 1514 
+	4: 2407 
+	5: 2064 
+
+Senior Management: 3.6
+Distribution: 
+	1: 988 
+	2: 864 
+	3: 1390 
+	4: 1337 
+	5: 1025 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 485 
+	2: 611 
+	3: 1400 
+	4: 1711 
+	5: 1628 
+
+Review Count: 7019
+
+Recommend to Friend: 
+	RECOMMEND: 3689
+	WONT RECOMMEND: 1528
+
+
+
+
+The company has 8419 reviews on Glassdoor. The last review was posted on 2024-04-17T21:04:19.503. 
+There are 20 Reviews for Caterpillar:
+
+Review 1:
+	Job Title: Software Engineer
+	Location: Chicago, IL
+	Review Date: 2024-04-17T21:04:19.503
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		People
+		Pay
+		Cutting edge Tech
+
+
+	Cons: 
+		Some teams can be a pain to deal with. Especially the older gents
+
+
+	Summary: 
+		Always working on the cutting edge Tech
+
+
+Review 2:
+	Job Title: Warehouse Associate
+	Location: North Little Rock, AR
+	Review Date: 2024-01-10T15:27:41.137
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Pay raise evaluation every year. There used to be gainshare. (But that ends this quarter.) offers health insurance, dental, vision, you have to sign up in first 90 days or wait until annual enrollment period, its deducted from paycheck. They train you on equipment needed to do the job. They will close down for massive snow storms. They ice the walkways when there is supposed to be ice. You do get some paid vacation days off. And christmas week is the holiday shutdown also paid for 8hr shift 5 days.
+
+
+	Cons: 
+		Raises don't always go through right away. The miscommunication between departments is crazy. Training is two weeks but they take soo long to decide where you are going you dont get the proper equipment training before your training weeks are over so you are waiting weeks to months to get trained in equipment. Logistics gets blamed for everything. Departments will have outings and parties, not logistics cause they always need them. Mandatory overtime almost every weeekend, hours posted are 8hrs, but they will send you home early, without pay for the hours they said you where obligated to be there. They have all employee meetings every month or so and they get upset or rude when people ask questions, during Q&amp;A time. If you are required to work 10 hr shifts, every shift, your vacation does not pay 10 hrs. Just 8.
+
+
+	Summary: 
+		Eh
+
+
+Review 3:
+	Job Title: Material Handler
+	Location: Decatur, IL
+	Review Date: 2024-04-15T23:13:43.363
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Very easy work simple routine everyday is pretty much the same at least for b bulding
+
+
+	Cons: 
+		Until you get converted you can't really win any bids. Oh and favoritism even blossoms there but that's another story
+
+
+	Summary: 
+		Favoritism blossoms
+
+
+Review 4:
+	Job Title: Assembly Worker
+	Location: Little Rock, AR
+	Review Date: 2024-04-01T18:16:49.327
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		CAT has a decent work/life balance and they recognize when you are doing good. Promote within the company most of the time.
+
+
+	Cons: 
+		Limited time off and a little hectic when it comes to working on saturdays. Strict start times for the beginning of shift.
+
+
+	Summary: 
+		Good Workplace
+
+
+Review 5:
+	Job Title: Welder
+	Location: Decatur, IL
+	Review Date: 2024-04-15T12:25:51.877
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Great place to work, they even pay you while you attend their schooling
+
+
+	Cons: 
+		Hours can be tough on 3rds
+
+
+	Summary: 
+		Great place
+
+
+Review 6:
+	Job Title: Accounting Manager
+	Location: East Peoria, IL
+	Review Date: 2024-04-08T06:46:30.693
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Good flexibility in work-life balance. Pay is good compared to many other options. Coworkers are almost always fun to work with in each group.
+
+
+	Cons: 
+		Always seem to be behind the times. Lots of red tape involved in decision making which causes slow responses to industry changes.
+
+
+	Summary: 
+		More pros than cons
+
+
+Review 7:
+	Job Title: Procurement Manager
+	Location: None
+	Review Date: 2024-04-13T10:49:30.983
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Solid Company
+		Great Products and services
+		Pays well and offers good benefits
+
+
+	Cons: 
+		Micro-Managing Leaders
+		Difficult to move to other Business Units
+
+
+	Summary: 
+		Caterpillar Management Jobs
+
+
+Review 8:
+	Job Title: Engineer
+	Location: None
+	Review Date: 2024-04-11T15:04:13.477
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The salary and work life balance is great.
+
+
+	Cons: 
+		The locations are far from major cities.
+
+
+	Summary: 
+		Great company
+
+
+Review 9:
+	Job Title: Embedded Software Engineer
+	Location: Mossville, IL
+	Review Date: 2024-03-01T15:59:31.763
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Some teams can be good, mixed bag.
+		Opportunity to work on some cool projects.
+		Flexible 9/80 schedule and decent holidays.
+		Pay is above average for area, but below across industry.
+
+
+	Cons: 
+		Intra-company politics make for rigid processes and stifle productive work.
+		Regularly encourage overtime to meet unrealistic goals.
+		No care for employees from upper management. You are a pawn and treated like one.
+		As a SWE, I was made to train for a factory line position in the event of a union strike. Company is willing to pit engineers against other employees for upper management and shareholder benefit.
+		Constant offshoring of engineering jobs to keep wages low at the expense of quality. Most new hires are non-US positions.
+
+
+	Summary: 
+		Massive, Impersonal, Infelxible Company
+
+
+Review 10:
+	Job Title: Sales Representative
+	Location: Peoria, IL
+	Review Date: 2024-04-07T13:51:58.480
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Benefits are excellent (PTO, Healthcare, Christmas to NYE off)
+
+
+	Cons: 
+		Terrible work-life balance across all levels of management
+
+
+	Summary: 
+		Starting pays is questionable
+
+
+Review 11:
+	Job Title: Mechanical Design Engineer
+	Location: None
+	Review Date: 2024-01-22T12:11:16.240
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Always willing to help you become successful
+		Company was very understanding of medical problems and was very nice with time off as well as working from home.
+		Good way to get experience in a variety of roles
+		My teammates are awesome
+		Great benefits; health insurance is amazing
+
+
+	Cons: 
+		Underpaid by a lot; also bonuses were taken away for all of covid. 
+		High workload and high velocity.
+		Can be very stressful and heated at times.
+		Hasn't increased pay with the cost of living at all.
+		Don't always feel recognized for achievements.
+		Favoritism occurs (major pay differences, some employees can slack off because who they are).
+		Company mandated that employees return to office 3 days a week when COVID levels were at their highest.
+		I was held in an intro position for way too long while all my collogues go to move up.  I feel this hurt my career and wasn't given the same opportunities as others.  Other employers wanted to see more high level experience.
+
+
+	Summary: 
+		Great Experience and was very understanding of medical problems
+
+
+Review 12:
+	Job Title: Aftermarket Services Representative
+	Location: Peoria, IL
+	Review Date: 2024-02-20T10:57:25.740
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		None I can think of.
+
+
+	Cons: 
+		No support from management, top level leadership only cares about the shareholders, not the customers and forces you into the middle of it. The expect you to travel constantly, they expect you to be a slave to the company. They will gladly screw you over when it comes to pay. I was asking for a raise for 3 years, and when I finally escalated it to the department head I was belittled for it. I was training new hires with no experience after they were hired on and making $30k a year more than me.
+
+
+	Summary: 
+		Take, take, take
+
+
+Review 13:
+	Job Title: Global Senior Strategy Manager
+	Location: Houston, TX
+	Review Date: 2024-04-01T15:08:59.680
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		For fresh college graduates, it's an excellent place to learn and grow.
+
+
+	Cons: 
+		It's not a place for experienced professionals from outside to join Caterpillar.
+
+
+	Summary: 
+		Good and Bad
+
+
+Review 14:
+	Job Title: Sales
+	Location: Midland, TX
+	Review Date: 2024-03-21T06:45:10.893
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Autonomous environment, Treated professionally, Tools are available to ensure success. Make you feel like a valued contributing member
+
+
+	Cons: 
+		As with any company, sometimes you work for people who consider themselves the success of the company. As a whole the organization is a great place to work.
+
+
+	Summary: 
+		Great Company
+
+
+Review 15:
+	Job Title: Category Buyer
+	Location: None
+	Review Date: 2024-02-06T16:40:09.037
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Atmosphere is focused equal parts focused on results and employee experience. 
+		
+		Leadership is excellent and clearly selected on merit based performance. There's always going to be a few exceptions, but I've genuinely been impressed by the overall calibers of leaders.
+		
+		It's refreshing to have a role that allows me to contribute effectively, provides autonomy, and with leadership that actually inspires me to contribute.
+
+
+	Cons: 
+		Only con is general difficulty with bureaucratic navigation of certain processes that exists in all large companies. Not really a con, more of an accepted reality that could be improved and inhibits speed of action.
+
+
+	Summary: 
+		Great Experience
+
+
+Review 16:
+	Job Title: Sr Staff Accountant
+	Location: Deerfield, IL
+	Review Date: 2024-04-02T07:58:48.230
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Caterpillar pays well for the locations.
+
+
+	Cons: 
+		Highly dysfunctional organization and doesn't support its employees well.
+
+
+	Summary: 
+		Dysfunctional 
+
+
+Review 17:
+	Job Title: Manufacturing Engineer
+	Location: San Antonio, TX
+	Review Date: 2024-04-01T07:32:48.787
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Rewarding work and lots of opportunity
+
+
+	Cons: 
+		Long hours at times but usually pretty consistent
+
+
+	Summary: 
+		Challanging
+
+
+Review 18:
+	Job Title: Finance
+	Location: Chicago, IL
+	Review Date: 2024-03-16T19:34:49.617
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Great BOD. Easy work. The bar is very low. My manager was driving Uber and walking other people dogs during actual work hours. This is how stupid easy it was.
+
+
+	Cons: 
+		Loooots of politics. Father employs manager and he in return promotes his son. Sausage fest. All Peoria people. Zero diversity. Nobody cares they just playing politics. Very limited pool of employees as they hire men from Peoria.
+
+
+	Summary: 
+		Dumb and dumber 
+
+
+Review 19:
+	Job Title: Human Resources Specialist
+	Location: Peoria, IL
+	Review Date: 2024-03-04T08:32:33.253
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Unlimited growth opportunities and the ability to experience things in many states and countries. Great salary for management.
+
+
+	Cons: 
+		They layoff factory workers during the 3rd quarter so that the number are good and the stock holders are happy...and senior mgmt can get their bonuses. Then they hire new workers in Jan and Feb of the following year so that production can be completed.
+
+
+	Summary: 
+		Good for some, not good for others
+
+
+Review 20:
+	Job Title: Machinist
+	Location: Lafayette, IN
+	Review Date: 2024-03-19T17:27:08.927
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		This is a solid, long standing company. There's always a need for large engines. As an employee there's opportunity for overtime, bonuses, and they recently gave cost of living raises.
+
+
+	Cons: 
+		Hard to get on dayshift
+
+
+	Summary: 
+		Long standing company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

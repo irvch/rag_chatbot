@@ -1,0 +1,625 @@
+
+Quanta Services is a Engineering & Construction company based in 77008 Houston, Texas. 
+The company has 47,300 employees and has a revenue of $17,074 according to Fortune 500.
+The company is valued at $23,996 and has a profit of $491. The CEO of the company is Earl C. "Duke" Austin.
+
+The Company has the following ratings: 
+Average ratings for Quanta Services:
+Business Outlook: 0.78
+
+Career Opportunities: 3.9
+Distribution: 
+	1: 34 
+	2: 27 
+	3: 24 
+	4: 28 
+	5: 51 
+
+CEO: 0.87
+
+Compensation and Benefits: 4.3
+Distribution: 
+	1: 10 
+	2: 16 
+	3: 37 
+	4: 44 
+	5: 59 
+
+Culture and Values: 3.9
+Distribution: 
+	1: 43 
+	2: 14 
+	3: 23 
+	4: 25 
+	5: 55 
+
+Diversity and Inclusion: 3.8
+Distribution: 
+	1: 12 
+	2: 6 
+	3: 9 
+	4: 13 
+	5: 37 
+
+Overall: 4
+Distribution: 
+	1: 31 
+	2: 30 
+	3: 30 
+	4: 44 
+	5: 61 
+
+Senior Management: 3.7
+Distribution: 
+	1: 42 
+	2: 21 
+	3: 24 
+	4: 27 
+	5: 47 
+
+Work Life Balance: 3.7
+Distribution: 
+	1: 38 
+	2: 18 
+	3: 33 
+	4: 33 
+	5: 42 
+
+Review Count: 197
+
+Recommend to Friend: 
+	RECOMMEND: 77
+	WONT RECOMMEND: 64
+
+
+
+
+The company has 219 reviews on Glassdoor. The last review was posted on 2024-04-17T13:23:51.237. 
+There are 20 Reviews for Quanta Services:
+
+Review 1:
+	Job Title: Product Manager
+	Location: California, MD
+	Review Date: 2024-04-01T20:12:23.943
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		good company, good employee and team
+
+
+	Cons: 
+		bad food, bad env, bad
+
+
+	Summary: 
+		good
+
+
+Review 2:
+	Job Title: None
+	Location: Houston, TX
+	Review Date: 2024-03-26T10:11:15.473
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The company cares about the safety of its line workers and strives to improve safety within both the company and the industry.
+		Quanta also pays well and offers good long term incentives.
+
+
+	Cons: 
+		The cons are related to the corporate office, specifically IT services. There's a lack of leadership here at the executive level, and so all sorts of behavior is tolerated from IT leaders. I've seen bullying, a manager openly disparaging their team, name calling, threats, etc. I've seen adults cry here. 
+		
+		That said, there are some good leaders here, too. There's just no real oversight or accountability for the bad actors. So, for those interviewing, I wouldn't necessarily avoid Quanta, but I'd take a serious gut check of your potential manager, don't dismiss any red flags, and don't get hung up on the pay. Once hired, you'll be working under someone who has virtually no checks on their behavior, while you'll have very little recourse in return.
+
+
+	Summary: 
+		Good Pay, Good Frontline Culture, Lack of Corporate Leadership
+
+
+Review 3:
+	Job Title: Intercompany Accountant
+	Location: Overland Park, KS
+	Review Date: 2024-04-17T13:23:51.237
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		It is good place to work for some experience. The work environment is good. Quanta has good benefits and insurance .
+
+
+	Cons: 
+		The salary is not that competitive. The pay hikes are not much every year. Work can be stressful and heavy . Quanta has to work on improving processes with the heavy growth.
+
+
+	Summary: 
+		Good place to work
+
+
+Review 4:
+	Job Title: HR Generalist
+	Location: Houston, TX
+	Review Date: 2024-03-28T15:38:17.367
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		free lunch and good people
+
+
+	Cons: 
+		busy days and hefty workloads
+
+
+	Summary: 
+		Good Company
+
+
+Review 5:
+	Job Title: Project Manager
+	Location: Texas City, TX
+	Review Date: 2024-02-14T21:49:22.950
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 1
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Very great atmosphere to learn new things
+
+
+	Cons: 
+		Sometimes too much meetings and many softwares that you might not use
+
+
+	Summary: 
+		Good company to grow
+
+
+Review 6:
+	Job Title: Internal Audit Manager
+	Location: Houston, TX
+	Review Date: 2024-02-12T13:37:41.177
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Good culture, encourages professional development,
+
+
+	Cons: 
+		Ability to gain experience in various functional areas of the company.
+
+
+	Summary: 
+		Quanta Services Internal Audit
+
+
+Review 7:
+	Job Title: HR Resources Coordinator
+	Location: Houston, TX
+	Review Date: 2024-01-10T14:07:11.313
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Safety is the culture here and it is lived everyday. They put there employees first.
+
+
+	Cons: 
+		Well I can't seem to find any.
+
+
+	Summary: 
+		People Orientated Company
+
+
+Review 8:
+	Job Title: Staff Accountant
+	Location: Houston, TX
+	Review Date: 2024-01-17T15:16:54.057
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Support of employees, a lot of benefits
+
+
+	Cons: 
+		not a lot of cons
+
+
+	Summary: 
+		Staff Accountant
+
+
+Review 9:
+	Job Title: Marketing Coordinator
+	Location: Houston, TX
+	Review Date: 2024-01-05T19:34:35.023
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Nice offices good perks and health insurance fun party at Halloween
+
+
+	Cons: 
+		Very traditional corporate culture can be a bit of a boys club but it’s construction.
+
+
+	Summary: 
+		Old school
+
+
+Review 10:
+	Job Title: IT Internship
+	Location: Houston, TX
+	Review Date: 2023-12-23T16:37:10.853
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Pays for lunch and a lot learning sessions
+
+
+	Cons: 
+		Traffic on the way back home
+
+
+	Summary: 
+		Great Company
+
+
+Review 11:
+	Job Title: None
+	Location: None
+	Review Date: 2023-12-28T17:55:22.463
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		There are no pros here
+
+
+	Cons: 
+		Everyone here is power hungry. They do not treat their employees fairly. In certain positions one gets paid one thing and one gets paid another with very similar experience
+
+
+	Summary: 
+		Work
+
+
+Review 12:
+	Job Title: None
+	Location: None
+	Review Date: 2023-12-06T06:38:54.130
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Nice people and a good culture
+
+
+	Cons: 
+		Less competitive pay. Some top management levels are old-fashioned
+
+
+	Summary: 
+		Nice Company
+
+
+Review 13:
+	Job Title: Engineer
+	Location: Charlotte, NC
+	Review Date: 2023-12-04T12:22:42.430
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Decent health insurance and dental
+
+
+	Cons: 
+		Mico-management style, horrible PTO, work is monotonous, special treatment towards certain co-workers
+
+
+	Summary: 
+		Engineer
+
+
+Review 14:
+	Job Title: Quality Engineer
+	Location: Nashville, TN
+	Review Date: 2023-10-16T17:24:46.617
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Decent pay and benefits for QE position
+
+
+	Cons: 
+		No training, not hiring indirect employees as business grows leading to mostly firefighting issues.
+
+
+	Summary: 
+		Good pay but not so good on the training and available resources side.
+
+
+Review 15:
+	Job Title: Project Manager
+	Location: Pensacola, FL
+	Review Date: 2023-10-26T05:36:44.820
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Competitive pay. Great leadership. Unlimited PTO
+
+
+	Cons: 
+		There were no cons for me.
+
+
+	Summary: 
+		Awesome company to work for
+
+
+Review 16:
+	Job Title: Senior Project Manager
+	Location: Houston, TX
+	Review Date: 2023-10-05T18:31:06.917
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Competitive pay and great benefits.
+
+
+	Cons: 
+		Not much comes to mind
+
+
+	Summary: 
+		Good place to work
+
+
+Review 17:
+	Job Title: Analyst
+	Location: Houston, TX
+	Review Date: 2023-08-25T14:06:40.660
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great company to grow in your career with!
+
+
+	Cons: 
+		None that I can think of at this time.
+
+
+	Summary: 
+		Quanta- Analyst
+
+
+Review 18:
+	Job Title: Laborer
+	Location: San Francisco, CA
+	Review Date: 2023-08-17T12:24:48.313
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Great culture to work at
+
+
+	Cons: 
+		Long hours but fun and good people
+
+
+	Summary: 
+		Great company
+
+
+Review 19:
+	Job Title: None
+	Location: None
+	Review Date: 2023-08-21T04:55:56.047
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		There are some nice people there. Most are stuck due to visa situations or they would move on too.
+
+
+	Cons: 
+		Extremely toxic work environment. Good old boy network. Upper management seems to delight in rudeness. An overall lousy place to work.
+
+
+	Summary: 
+		Toxic environment
+
+
+Review 20:
+	Job Title: Software Developer
+	Location: None
+	Review Date: 2023-08-06T05:41:11.960
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Everything is Good for me
+
+
+	Cons: 
+		There are no cons here
+
+
+	Summary: 
+		Good
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

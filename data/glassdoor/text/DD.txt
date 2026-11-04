@@ -1,0 +1,640 @@
+
+DuPont is a Chemicals company based in 19805 Wilmington, Delaware. 
+The company has 23,000 employees and has a revenue of $16,549 according to Fortune 500.
+The company is valued at $32,895 and has a profit of $5,868. The CEO of the company is Edward D. Breen.
+
+The Company has the following ratings: 
+Average ratings for DuPont:
+Business Outlook: 0.56
+
+Career Opportunities: 3.5
+Distribution: 
+	1: 307 
+	2: 480 
+	3: 838 
+	4: 759 
+	5: 492 
+
+CEO: 0.71
+
+Compensation and Benefits: 3.8
+Distribution: 
+	1: 80 
+	2: 232 
+	3: 825 
+	4: 1095 
+	5: 645 
+
+Culture and Values: 3.9
+Distribution: 
+	1: 205 
+	2: 264 
+	3: 485 
+	4: 727 
+	5: 1043 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 46 
+	2: 67 
+	3: 136 
+	4: 268 
+	5: 439 
+
+Overall: 3.9
+Distribution: 
+	1: 169 
+	2: 297 
+	3: 855 
+	4: 1231 
+	5: 834 
+
+Senior Management: 3.4
+Distribution: 
+	1: 459 
+	2: 461 
+	3: 694 
+	4: 615 
+	5: 380 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 171 
+	2: 238 
+	3: 621 
+	4: 925 
+	5: 914 
+
+Review Count: 3388
+
+Recommend to Friend: 
+	RECOMMEND: 1739
+	WONT RECOMMEND: 777
+
+
+
+
+The company has 3825 reviews on Glassdoor. The last review was posted on 2024-04-13T02:53:25.807. 
+There are 20 Reviews for DuPont:
+
+Review 1:
+	Job Title: Manufacturing Engineer
+	Location: None
+	Review Date: 2024-03-22T18:15:52.877
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Nice place, friendly people, great environment
+
+
+	Cons: 
+		not very flexible work hours and not enough time off
+
+
+	Summary: 
+		Good
+
+
+Review 2:
+	Job Title: Engineer
+	Location: Circleville, OH
+	Review Date: 2024-03-27T17:31:50.787
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		401k match is the only pro I can think of at the moment.
+
+
+	Cons: 
+		Toxic management leads by fear and is running out everyone that has any knowledge of the site. DuPont is their own worst enemy, adding corporate red tape just to give people something to do and slowing down those at the site level getting things done. The team environment of DuPont is so far gone! Also merit increases/promotions are minimal.
+
+
+	Summary: 
+		Toxic leadership
+
+
+Review 3:
+	Job Title: Business Process Consultant
+	Location: None
+	Review Date: 2024-04-03T14:17:47.943
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Great work life balance
+		Family environment
+		Respectful workplace
+		Good for working parents
+		Variety of processes across the company
+
+
+	Cons: 
+		Old company, resistant to new technologies
+		Low retention for employees seeking a more fun environment
+		Things take a long time to implement; slow
+
+
+	Summary: 
+		Opportunity to move around
+
+
+Review 4:
+	Job Title: Digital Marketing Leader
+	Location: Wilmington, DE
+	Review Date: 2024-03-22T12:45:08.590
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		- decent pay
+		- great benefits and 401k
+		-flexible / hybrid work
+		- excellent colleagues who are supportive and work as a true "team" across the organization
+
+
+	Cons: 
+		- lots of turnover in the Executive- Director levels in the company so the vision is continuously evolving
+		- CEO is known as the "corporate breakup artist" and has sold two of the most profitable BU's in less than 2 years, every business is wondering if they are for sale
+
+
+	Summary: 
+		Great people &amp; culture in an evolving organization
+
+
+Review 5:
+	Job Title: Chemical Process Operator
+	Location: Pennsville, NJ
+	Review Date: 2024-01-18T08:47:45.597
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Free work uniforms are provided. There is also a fan in the break room during the summer. During the hottest days, bottled water is provided.
+
+
+	Cons: 
+		Pennsauken management is very toxic. She encourages backstabbing at every opportunity among the rank and file. 
+		Pay raises are granted on the basis of race. There is no dedicated HR presence at the plant. Professional standards are nonexistant among management. The plant didn't follow its own pay policy. The plant doesn't have an attendance policy at all. The heathcare is more expensive than at other places. 
+		The product made there is trash. Thew new 'green environmently friendly' non halogenated product was unworkable and was a failure. It was also a very expensive product. Product wasn't delivered on time. DuPont's sales force was decimated. The customer base has completely deserted DuPont because they made promises and didn't deliver. There is no innovation at DuPont. The production process is slow and outdated. DuPont hasn't invented anything since the late 60s.
+
+
+	Summary: 
+		Corrosive Culture
+
+
+Review 6:
+	Job Title: None
+	Location: None
+	Review Date: 2024-04-02T15:27:52.280
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Customers and Employees were innovative and collaborative
+
+
+	Cons: 
+		Much smaller today and that limits opportunities
+
+
+	Summary: 
+		Good company with long history
+
+
+Review 7:
+	Job Title: Statistician
+	Location: Madison, WI
+	Review Date: 2024-04-01T22:32:23.023
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Coworkers are friendly, manager is nice, project is great!
+
+
+	Cons: 
+		There is no downside at all
+
+
+	Summary: 
+		Great company
+
+
+Review 8:
+	Job Title: Senior Data Scientist
+	Location: Sunnyvale, CA
+	Review Date: 2024-03-27T19:20:29.833
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great company cultures and great work-life balance.
+
+
+	Cons: 
+		It's a large company with numerous business units, so it can be challenging to get to know everyone.
+
+
+	Summary: 
+		Senior Data Scientist at DuPont
+
+
+Review 9:
+	Job Title: Research Scientist
+	Location: Wilmington, DE
+	Review Date: 2024-03-21T13:52:42.787
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Culture, benefits, instruments and people
+
+
+	Cons: 
+		Slow pace, career development, etc.
+
+
+	Summary: 
+		Good company
+
+
+Review 10:
+	Job Title: Senior Research Investigator
+	Location: Midland, MI
+	Review Date: 2024-02-26T20:18:31.743
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Fellow colleagues, interesting projects, good work/life balance
+
+
+	Cons: 
+		below average pay, do not adjust salary based on inflation
+
+
+	Summary: 
+		Good colleagues terrible senior leadership and VPs
+
+
+Review 11:
+	Job Title: Applications Engineer
+	Location: Indiana, PA
+	Review Date: 2024-03-14T17:26:26.603
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good nothing were job best
+
+
+	Cons: 
+		great enthusiastic wonderfull apply and
+
+
+	Summary: 
+		the application engineer
+
+
+Review 12:
+	Job Title: Driver
+	Location: Chicago, IL
+	Review Date: 2024-03-14T19:12:00.590
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		All the above at this point
+
+
+	Cons: 
+		None so far at the moment
+
+
+	Summary: 
+		Great
+
+
+Review 13:
+	Job Title: Procurement
+	Location: Wilmington, DE
+	Review Date: 2024-03-15T12:41:08.603
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Manufacturing sites are lucrative investments
+
+
+	Cons: 
+		Corporate DuPont lacking leadership overall
+
+
+	Summary: 
+		n/a
+
+
+Review 14:
+	Job Title: Automation Engineer
+	Location: New York, NY
+	Review Date: 2024-03-12T08:50:29.383
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		this is a good employer struggling company
+
+
+	Cons: 
+		Seems that the company has no long term vision
+
+
+	Summary: 
+		good
+
+
+Review 15:
+	Job Title: Chemist
+	Location: Buffalo, NY
+	Review Date: 2024-02-26T06:49:22.233
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Everyone must be in a union for job security
+
+
+	Cons: 
+		Not eligible for raises because of union negotiations, everyone hired at the same time gets the same pay.
+
+
+	Summary: 
+		Union
+
+
+Review 16:
+	Job Title: IT Analyst
+	Location: Wilmington, DE
+	Review Date: 2024-03-01T11:58:54.277
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Everyone here is super nice...like so nice it's odd.
+
+
+	Cons: 
+		The company's long term strategic plan is to buy and sell companies which is stressful on employees and creates anxiety.
+
+
+	Summary: 
+		Great company to work for.
+
+
+Review 17:
+	Job Title: Engineer
+	Location: Richmond, VA
+	Review Date: 2024-02-28T12:11:08.507
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		You have the resources to get things done
+
+
+	Cons: 
+		sometimes things are disorganized despite lots of procedures
+
+
+	Summary: 
+		Great Place
+
+
+Review 18:
+	Job Title: None
+	Location: None
+	Review Date: 2024-02-14T07:48:19.603
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		- Good line manager and colleagues
+		- Base pay is fine
+		- Benefits are fair
+		- Reasonable flexibility
+
+
+	Cons: 
+		- this is NOT a science company, it's a BUSINESS-driven company
+		- If you check SEC proxy statement, CTO is not listed as executives
+		- A lot of restructuring
+		- Bad direction and strategy from SLT
+
+
+	Summary: 
+		SLT is the worst
+
+
+Review 19:
+	Job Title: Statistician
+	Location: Wilmington, DE
+	Review Date: 2024-02-15T11:17:09.910
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		provides access to diverse projects, cutting-edge resources, collaborative environments, opportunities for innovation, and robust career development.
+
+
+	Cons: 
+		may entail navigating high expectations, complex projects, regulatory compliance, a competitive environment, challenges in maintaining work-life balance, and keeping up with technological advancements.Statistician
+
+
+	Summary: 
+		Statistician
+
+
+Review 20:
+	Job Title: Machine Operator
+	Location: Edina, MN
+	Review Date: 2023-11-22T08:31:27.050
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Friendly and helpful staff! Long-term employees are great and are ready to help when you need it. Advancement is easy if you put in the actual effort. Strong attention to ergonomics and rotations to prevent injury. A robust training program that's second to none.
+
+
+	Cons: 
+		Most, if not all, of the good things were formed under Dow and much of it has been taken away after DuPont took our site over. Sub-par insurance options, having to work holidays (or not work them) at their whim, smaller bonuses, less sick time. It's a shell of itself and a lot of the long-term employees are apathetic and a few have already left.
+
+
+	Summary: 
+		It used to be the best place to work
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

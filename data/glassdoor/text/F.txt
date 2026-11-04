@@ -1,0 +1,666 @@
+
+Ford Motor is a Motor Vehicles & Parts company based in 48126 Dearborn, Michigan. 
+The company has 173,000 employees and has a revenue of $158,057 according to Fortune 500.
+The company is valued at $50,400 and has a profit of -$1,981. The CEO of the company is Jim Farley.
+
+The Company has the following ratings: 
+Average ratings for Ford Motor:
+Business Outlook: 0.62
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 550 
+	2: 755 
+	3: 1933 
+	4: 2279 
+	5: 2253 
+
+CEO: 0.79
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 220 
+	2: 445 
+	3: 1538 
+	4: 2736 
+	5: 2797 
+
+Culture and Values: 3.9
+Distribution: 
+	1: 496 
+	2: 625 
+	3: 1311 
+	4: 2092 
+	5: 3181 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 252 
+	2: 265 
+	3: 758 
+	4: 1340 
+	5: 2512 
+
+Overall: 4
+Distribution: 
+	1: 350 
+	2: 507 
+	3: 1762 
+	4: 3394 
+	5: 3953 
+
+Senior Management: 3.4
+Distribution: 
+	1: 826 
+	2: 874 
+	3: 1750 
+	4: 1982 
+	5: 1772 
+
+Work Life Balance: 3.9
+Distribution: 
+	1: 578 
+	2: 571 
+	3: 1389 
+	4: 1995 
+	5: 3164 
+
+Review Count: 11928
+
+Recommend to Friend: 
+	RECOMMEND: 5467
+	WONT RECOMMEND: 1373
+
+
+
+
+The company has 14351 reviews on Glassdoor. The last review was posted on 2024-04-18T02:34:41.533. 
+There are 20 Reviews for Ford Motor:
+
+Review 1:
+	Job Title: Safety Engineer
+	Location: None
+	Review Date: 2024-01-30T18:25:03.480
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Honestly it was a fast paced environment that always kept me on my toes, in a good way. Everyone is a problem solver, though some people can be hot heads.
+
+
+	Cons: 
+		The culture could use some work, so it’s best to have a thick skin. It came a long way even in the 5 years I was here
+
+
+	Summary: 
+		Loved it
+
+
+Review 2:
+	Job Title: ADAS Engineer
+	Location: Dearborn, MI
+	Review Date: 2024-04-17T07:39:59.307
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		No crunching for the production
+
+
+	Cons: 
+		No learn for programming skills
+
+
+	Summary: 
+		Good place to work
+
+
+Review 3:
+	Job Title: Supervisor
+	Location: Brownstown, MI
+	Review Date: 2024-02-28T12:51:05.803
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good pay, overtime opportunities, fast pace environment
+
+
+	Cons: 
+		The overall Plant Management, Superintendents and Supervisors as a whole are cliquish (Good ole' boys club), Supervisors lack people and leadership skill, no work-life balance, Plant manager comes off very "hands off" but like to delegate, delegate, delegate!
+
+
+	Summary: 
+		Joke
+
+
+Review 4:
+	Job Title: Corporate Strategy Analyst
+	Location: None
+	Review Date: 2024-03-20T12:21:24.583
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Ability to work on problems that will determine the company's direction.
+		
+		Decent WLB compared to management consulting.
+		
+		Remote work (for now, team has started to come back into the office)
+
+
+	Cons: 
+		The team is essentially structured as a management consulting practice, with analyst, consultant (manager), associate director (engagement manager), director roles. It has become increasingly staffed with former MBB consultants, which seems to have increased the demands / expectations of the role.
+		
+		Issues include:
+		
+		Low pay / benefits compared to management consulting roles.
+		
+		Less responsibility compared to management consulting roles. 
+		
+		Limited operating partner (internal client) interaction. 
+		
+		Lack of tangible strategy work. Provide back office or analytical / slide creation support to engagement managers and directors.
+		
+		Similar unpredictability of assignments to management consulting. "Fire drill" work to be expected on a daily / weekly basis.
+		
+		Longer hours than other jobs at this pay grade at Ford.
+		
+		Unclear career progression / path to promotion.
+		
+		Lack of psychological safety.
+
+
+	Summary: 
+		Management consulting without the pay, benefits, or career progression
+
+
+Review 5:
+	Job Title: Manufacturing Engineer
+	Location: Dearborn, MI
+	Review Date: 2024-04-17T17:18:38.037
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Easy interview, 4 behavioral questions and pretty easy job. Don't really need alot of experience as long as you aren't completely lazy.
+
+
+	Cons: 
+		Job can get boring once you get to know everyone in your team and the position itself. Mainly a Project management positions where you have to babysit suppliers, maintenance, production and pretty much everyone at the plant if you need their help.
+
+
+	Summary: 
+		4 Question Interview, 1 hour long
+
+
+Review 6:
+	Job Title: Test Planner
+	Location: Dearborn, MI
+	Review Date: 2024-04-17T21:40:47.907
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Process oriented. Lots of internal sources of training and information.
+
+
+	Cons: 
+		Extremely beurocratic. They value more your ability to play politics and networking over results.
+
+
+	Summary: 
+		Good company, very burocratic
+
+
+Review 7:
+	Job Title: Field Service Engineer
+	Location: Detroit, MI
+	Review Date: 2024-04-17T19:30:47.443
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		I dont know what the pros are, they give you money?
+
+
+	Cons: 
+		Everything. Shipping jobs to Mexico and India! They are terrible.
+
+
+	Summary: 
+		It now sucks
+
+
+Review 8:
+	Job Title: Core Engineer
+	Location: None
+	Review Date: 2024-04-13T06:59:25.960
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Love the job, and the people - exciting project
+
+
+	Cons: 
+		Upper management decisions often make things worse for general employees, but managers and chiefs ameliorate it as they can
+
+
+	Summary: 
+		Great work life balance, odd decisions at the top
+
+
+Review 9:
+	Job Title: Project Manager/TVM Engineer
+	Location: None
+	Review Date: 2024-04-13T15:18:25.543
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great pay and benefits
+		Hybrid work arrangement 
+		Treated with respect 
+		Fulfilling work
+
+
+	Cons: 
+		Mandatory job cuts happen too often which adds to stress
+
+
+	Summary: 
+		I felt like I was part of a family
+
+
+Review 10:
+	Job Title: Cashier
+	Location: Los Angeles, CA
+	Review Date: 2024-04-09T19:45:06.263
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Accounting Knowledge, Service advisor and tech knowledge.
+
+
+	Cons: 
+		Not worth the pay. Get asked for too much and have to fix others mistakes when they get bonuses and you dont.
+
+
+	Summary: 
+		It's a good job if you are trying to get a sense of the Automotive Business
+
+
+Review 11:
+	Job Title: Project Manager
+	Location: None
+	Review Date: 2024-04-04T14:01:01.817
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		The people are generally nice and helpful
+
+
+	Cons: 
+		archaic systems, processes, lack of trust from upper management in some areas
+
+
+	Summary: 
+		Trying to break the old ways of Ford
+
+
+Review 12:
+	Job Title: Data Scientist
+	Location: Detroit, MI
+	Review Date: 2024-04-09T06:05:36.813
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		- Excellent balance between work and personal life with flexible schedules.
+		- Managers actively encourage and support new ideas.
+		- Fostered culture of collaboration and knowledge sharing enhances teamwork.
+
+
+	Cons: 
+		- Limited influx of new projects.
+		- Occasional reliance on outdated tools.
+
+
+	Summary: 
+		Great work-life balance and working environment
+
+
+Review 13:
+	Job Title: Senior Product Designer
+	Location: San Diego, CA
+	Review Date: 2024-04-11T12:59:43.093
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Most colleagues and leaders are very polite, supportive and pleasant to work with.
+
+
+	Cons: 
+		Layoff sneaks up on you, and it affects the morale.
+
+
+	Summary: 
+		Great until layoff!
+
+
+Review 14:
+	Job Title: Car Detailer
+	Location: West Chester, PA
+	Review Date: 2024-04-13T12:03:58.697
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		good people, was a consistent high school job
+
+
+	Cons: 
+		took a lot of hard work and effort
+
+
+	Summary: 
+		detailing
+
+
+Review 15:
+	Job Title: Product Design and Release Engineer
+	Location: Dearborn, MI
+	Review Date: 2024-04-10T05:28:45.083
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		High level of responsibility by owning so many parts
+
+
+	Cons: 
+		there is a lack of knowlege for formal processes until you find the right group to ask
+
+
+	Summary: 
+		Product Design and Release Engineer
+
+
+Review 16:
+	Job Title: Feature Systems Engineer
+	Location: Dearborn, MI
+	Review Date: 2023-11-29T17:26:55.777
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Ford is undergoing a vast transformation at the moment. New performance process seems to more fairly differentiate between "High Performers" and average/low performers. 
+		
+		There are so many different pockets and disciplines within the company that there is always something to do. If you join and don't feel you're in the exact right spot, chances are there is something Ford offers that is for you.
+		
+		Generally feel that the company cares about your well-being. Most of my superiors generally seem interested in how I feel about my work.
+		
+		The company seems very competitive when it comes to benefits (PTO, new parent days, health care, etc...)
+
+
+	Cons: 
+		Right now, the company is somewhat disorganized. After several re-orgs and new talent coming in, there's a lot of confusion about who is doing what and what everyone's role is. With all of the changes going on in the auto industry, Ford seems somewhat lost about what it wants to be and what direction it needs to go in.
+		
+		Like a lot of big companies, you can definitely feel like you are just a number. Not every organization or leader cares about you or will go out of your way to help you.
+
+
+	Summary: 
+		Solid Company - Not Perfect
+
+
+Review 17:
+	Job Title: Supply Chain Manager
+	Location: None
+	Review Date: 2024-02-29T04:42:42.380
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Management lease program and great staff
+
+
+	Cons: 
+		Leadership is fear based and reactive to whatever the top of the house says without thinking through. CEO loves to blame employees and departments when he has been here four years and won’t take ownership himself. PR and bonus process was atrocious this year and focus on punishing employees for standards that changed in Q4
+
+
+	Summary: 
+		Employees are not valued
+
+
+Review 18:
+	Job Title: Registered Nurse
+	Location: Dearborn, MI
+	Review Date: 2024-04-13T04:28:20.467
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Benefits were actually pretty good
+
+
+	Cons: 
+		Hours were capped for a long time
+
+
+	Summary: 
+		Not an ideal situation
+
+
+Review 19:
+	Job Title: Battery Research Engineer
+	Location: Dearborn, MI
+	Review Date: 2024-04-01T08:08:51.520
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Co-workers are great
+		Interesting and challenging work
+		Good work-life balance
+		Direct connection between real-world application and value
+
+
+	Cons: 
+		Transparency from Upper Management
+		Pivots in management priorities can be disruptive
+
+
+	Summary: 
+		Happy at Ford
+
+
+Review 20:
+	Job Title: Data Scientist
+	Location: None
+	Review Date: 2024-03-28T18:09:40.220
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Decent work-life balance in some (not all) cases
+		Some people are willing to help
+
+
+	Cons: 
+		Almost no opportunity for mobility
+		Not the best place to work for women
+		Really inefficient systems and processes
+		Felt really isolated most of the time - not very innovative or engaging
+
+
+	Summary: 
+		Not great experience overall
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

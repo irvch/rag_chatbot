@@ -1,0 +1,643 @@
+
+Ebay is a Internet Services and Retailing company based in 95125 San Jose, California. 
+The company has 11,600 employees and has a revenue of $9,795 according to Fortune 500.
+The company is valued at $23,821 and has a profit of -$1,269. The CEO of the company is Jamie Iannone.
+
+The Company has the following ratings: 
+Average ratings for Ebay:
+Business Outlook: 0.54
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 442 
+	2: 536 
+	3: 1171 
+	4: 1167 
+	5: 971 
+
+CEO: 0.71
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 140 
+	2: 289 
+	3: 964 
+	4: 1564 
+	5: 1336 
+
+Culture and Values: 4.1
+Distribution: 
+	1: 299 
+	2: 289 
+	3: 635 
+	4: 1031 
+	5: 1474 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 81 
+	2: 61 
+	3: 197 
+	4: 364 
+	5: 833 
+
+Overall: 4
+Distribution: 
+	1: 360 
+	2: 410 
+	3: 1031 
+	4: 1645 
+	5: 1550 
+
+Senior Management: 3.5
+Distribution: 
+	1: 691 
+	2: 674 
+	3: 1069 
+	4: 978 
+	5: 839 
+
+Work Life Balance: 4.1
+Distribution: 
+	1: 340 
+	2: 323 
+	3: 853 
+	4: 1209 
+	5: 1558 
+
+Review Count: 5005
+
+Recommend to Friend: 
+	RECOMMEND: 2697
+	WONT RECOMMEND: 1068
+
+
+
+
+The company has 6016 reviews on Glassdoor. The last review was posted on 2024-04-17T13:36:11.270. 
+There are 20 Reviews for Ebay:
+
+Review 1:
+	Job Title: Senior Program Manager
+	Location: San Jose, CA
+	Review Date: 2023-11-05T08:43:00.947
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		I work in eBay's Advertising business. Biggest pro for me joining this company has been the amazing culture across the company and in this business organization. People are very committed to collaboration and partnership, helping each other succeed in our mission to delivering great experiences to our buyers and sellers. Management has been great. Compensation is very competitive. The work environment if you live close to an office is hybrid. There is a very good vibe coming into the office, seeing coworkers and making unexpected connections. I personally see a really good effort toward hiring a diverse workforce and am super proud of being part of such a company.
+
+
+	Cons: 
+		The hiring process took a bit longer than I had hoped. At the same time, I understand that the business wanted to take the care to make sure that they are hiring the right people. I appreciate and respect that. For me, the rationale for this was shared with me and I really appreciated the transparency.
+
+
+	Summary: 
+		Outstanding Experience Joining eBay in 2023
+
+
+Review 2:
+	Job Title: Senior Data Engineer Manager
+	Location: None
+	Review Date: 2024-02-25T19:14:34.387
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Its great to work with cross functional teams and people are respective of your opinion. We get to learn and contribute.
+
+
+	Cons: 
+		Nothing I can think of
+
+
+	Summary: 
+		Collaborative Teams
+
+
+Review 3:
+	Job Title: Operations Specialist
+	Location: None
+	Review Date: 2024-02-02T21:54:02.660
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		-The compensation when first starting is great. Possibly slightly lower pay than other companies, but great benefits.
+		-Great work life/home life balance depending on team.
+		-Incredibly smart and talented people to learn from and work with.
+		-Dependent on team, but many managers lead with empathy and understanding. You are treated like an adult and expected to be able to self motivate.
+
+
+	Cons: 
+		-Compensation goes downhill the longer you stay.
+		-Making any headway on new projects is near impossible. A lot of meetings with zero progress made, and unless you're working on something flashy, you'll be given zero resources and encounter active roadblocks to progress and change.
+		-Lack of ownership and accountability. If internal systems exist for specific vertical information, it's outdated. More often than not, it doesn't exist.
+		-Appearance is more important than actual performance. Office politics are intense and it's not what you know, it's who you know.
+		-ELT lacks transparency and clear communication. The strategy is always working, even when it's not. 
+		-Regular layoffs that are not performance based. The only warning you may receive will be a company wide email at the end of business the day before anyone knows if they're impacted or not.
+		-The company has lost sight of what made it great.
+
+
+	Summary: 
+		The Slow Death of a Giant
+
+
+Review 4:
+	Job Title: Senior Manager
+	Location: San Jose, CA
+	Review Date: 2024-04-17T13:36:11.270
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		People are great! Most of the employees (not the management) are very smart, friendly and respectful.
+
+
+	Cons: 
+		1. Working across 3 times zones everyday (EU, US and China), +13 hours/day is very normal (and expected if you want to keep your job)
+		2. CEO is completely clueless and lost
+		3. ELT members are too busy playing politics and backstab each other
+		4. Leadership (Directors and above) are too busy playing politics
+		5. Non-existant HR
+		6. Toxic culture
+		7. Horrible work life balance
+		8. Very frequent layoffs
+		9. Extremely high burnout rate and churn
+
+
+	Summary: 
+		Stay away from eBay if you care about your mental (and physical) health!
+
+
+Review 5:
+	Job Title: Software Engineer 3
+	Location: San Jose, CA
+	Review Date: 2024-04-15T01:14:48.553
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good Team but politics in the org.
+
+
+	Cons: 
+		Projects I worked on had tighter deadlines. 
+		Stakeholders always comes up with projects in the last min with tighter deadlines
+
+
+	Summary: 
+		Avg pay in Bay Area
+
+
+Review 6:
+	Job Title: Manager
+	Location: San Jose, CA
+	Review Date: 2024-04-14T16:29:32.370
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great people and team culture
+
+
+	Cons: 
+		Comparatively less compensation. Poor decision making.
+
+
+	Summary: 
+		Great culture
+
+
+Review 7:
+	Job Title: Sr. Manager, Operations
+	Location: Draper, UT
+	Review Date: 2024-03-19T07:03:02.437
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		eBay is a great company with tremendous benefits. They are a people centric company who truly tries to do the right thing. The size of the company makes change slow, but thats not abnormal for large companies. The mission and vision are clear and it provides a lot of direction.
+
+
+	Cons: 
+		Size of the company leads to slow change. Likewise it can sometimes feel behind the curve from a technology standpoint which is strange for a tech company.
+
+
+	Summary: 
+		Great company
+
+
+Review 8:
+	Job Title: Product Manager
+	Location: San Jose, CA
+	Review Date: 2024-04-12T12:47:18.740
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great people and the stuff that we work on is very inspiring
+
+
+	Cons: 
+		Lack of clarity on goals
+
+
+	Summary: 
+		Great place to work
+
+
+Review 9:
+	Job Title: Senior Instructional Designer
+	Location: Salt Lake City, UT
+	Review Date: 2024-03-04T08:10:04.750
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		eBay provides a lot of intangible benefits for employees and the people who work for the company really want eBay to succeed.
+
+
+	Cons: 
+		eBay is too top-heavy which clogs up the decision making process. Too many leaders need to have their fingers in every pie and justify their continued role at eBay. Projects drag out as leaders go around and around on decisions that have already been made.
+
+
+	Summary: 
+		Good company but needs to focus better
+
+
+Review 10:
+	Job Title: Network Engineer
+	Location: San Jose, CA
+	Review Date: 2024-04-09T17:26:25.707
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Great place to learn cutting edge tech
+
+
+	Cons: 
+		None that i can think of.
+
+
+	Summary: 
+		Great place to learn cutting edge tech
+
+
+Review 11:
+	Job Title: Authentication Center Generalist
+	Location: Syracuse, NY
+	Review Date: 2023-10-30T18:41:05.490
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Since eBay's acquisition of my employer, TCGplayer, a lot has changed, but there are still things about my job that I enjoy. I have many years of experience specializing in many different parts of the work we do, and enjoy the ability to do work I excel at, that adds a lot of value. Additionally, I have a lot of great coworkers that make the work environment fun and enjoyable to spend 40 hours a week at.
+
+
+	Cons: 
+		Regrettably, eBay has made a mess of their acquisition of TCGplayer in many ways. For a large company with a long history of purchasing other companies, the transition from to eBay's systems, pay structure, and benefits were very poor, despite having a dedicated transition team meant to facilitate these processes. Additionally, eBay was eager to continue TCGplayer's stance of poor cooperation with their democratically elected union, from running a highly aggressive anti-union campaign during the union election process, to delaying the bargaining processes with baseless legal appeals. Beyond this, our pay has been stagnant for the last 3 years, does not account for the cost of living or rising inflation. Additionally, we have seen a reduction in available paid time off since the eBay acquisition.
+
+
+	Summary: 
+		A step in the wrong direction
+
+
+Review 12:
+	Job Title: Senior Product Manager
+	Location: Portland, OR
+	Review Date: 2024-03-25T12:08:01.330
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		I love building products for such a passionate user base. I appreciate that eBay enables people to make a living off the platform.
+
+
+	Cons: 
+		Leadership is slow to make decisions. Progress is often hampered by organizational complexity and politics. PMs are too often recognized by output rather than outcomes. Nepotism can make it hard to advance your career
+
+
+	Summary: 
+		Good pay/benefits, hard to get things done
+
+
+Review 13:
+	Job Title: Senior Product Manager
+	Location: San Jose, CA
+	Review Date: 2024-04-08T00:04:48.733
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good food and good people to work with.
+
+
+	Cons: 
+		Leadership is not great and the long term vision is not clear.
+
+
+	Summary: 
+		Could be better
+
+
+Review 14:
+	Job Title: Software Engineer
+	Location: None
+	Review Date: 2024-04-08T12:33:29.327
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		good people, tech and culture if in a good team.
+
+
+	Cons: 
+		the experience varies a lot from team to team
+
+
+	Summary: 
+		good place
+
+
+Review 15:
+	Job Title: Applied Science Intern
+	Location: San Jose, CA
+	Review Date: 2024-04-04T10:00:09.173
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Positive and helpful work environment, good work life balance
+
+
+	Cons: 
+		nothing in particular, project was not very well defined, but not a huge problem
+
+
+	Summary: 
+		Applied Science Intern experience
+
+
+Review 16:
+	Job Title: Software Engineer III
+	Location: San Jose, CA
+	Review Date: 2024-04-08T10:49:59.817
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Healthcare 
+		ESPP
+		Decent pay
+		HSA contribution
+
+
+	Cons: 
+		Not a big fan of RTO.
+
+
+	Summary: 
+		Standard for industry
+
+
+Review 17:
+	Job Title: Seller
+	Location: Connecticut Park
+	Review Date: 2024-04-04T13:55:29.360
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Best place to sell used goods
+
+
+	Cons: 
+		Fees for sellers can be high
+
+
+	Summary: 
+		Good place to sell
+
+
+Review 18:
+	Job Title: Senior Manager
+	Location: None
+	Review Date: 2024-03-19T09:39:54.207
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		An excellent place to work, I really enjoyed my time there.  Overall it is a positive and collaborative work environment.
+
+
+	Cons: 
+		eBay is a large company with many talented employees, so if you work there even at a senior level be prepared to be a small fish in a big pond.
+
+
+	Summary: 
+		Good Place to Build A Career
+
+
+Review 19:
+	Job Title: Lead Technical Recruiter
+	Location: None
+	Review Date: 2024-04-03T23:27:16.947
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good people, great products, wonderful culture
+
+
+	Cons: 
+		Got laid off after 20 years
+
+
+	Summary: 
+		Great company
+
+
+Review 20:
+	Job Title: Consultant
+	Location: San Jose, CA
+	Review Date: 2024-03-12T12:55:21.317
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The people and the company culture is Warm. Lots of opportunities to learn and grow in your field. Love working here. :) Plus, eBay offers a great work-life balance as well.
+
+
+	Cons: 
+		The company is very old fashioned and the projects take a long time and are processed in a less dynamic manner. However, other than that, it is a great company to be at.
+
+
+	Summary: 
+		Good Company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

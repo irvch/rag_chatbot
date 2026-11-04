@@ -1,0 +1,628 @@
+
+Danaher is a Medical Products and Equipment company based in 20037 Washington, District of Columbia. 
+The company has 80,000 employees and has a revenue of $31,471 according to Fortune 500.
+The company is valued at $183,764 and has a profit of $7,209. The CEO of the company is Rainer M. Blair.
+
+The Company has the following ratings: 
+Average ratings for Danaher:
+Business Outlook: 0.73
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 75 
+	2: 88 
+	3: 113 
+	4: 161 
+	5: 183 
+
+CEO: 0.71
+
+Compensation and Benefits: 3.7
+Distribution: 
+	1: 34 
+	2: 78 
+	3: 154 
+	4: 231 
+	5: 120 
+
+Culture and Values: 3.5
+Distribution: 
+	1: 87 
+	2: 73 
+	3: 104 
+	4: 123 
+	5: 180 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 23 
+	2: 13 
+	3: 51 
+	4: 73 
+	5: 117 
+
+Overall: 3.7
+Distribution: 
+	1: 90 
+	2: 90 
+	3: 136 
+	4: 186 
+	5: 224 
+
+Senior Management: 3.2
+Distribution: 
+	1: 134 
+	2: 80 
+	3: 136 
+	4: 129 
+	5: 134 
+
+Work Life Balance: 3.5
+Distribution: 
+	1: 110 
+	2: 112 
+	3: 155 
+	4: 125 
+	5: 114 
+
+Review Count: 727
+
+Recommend to Friend: 
+	RECOMMEND: 341
+	WONT RECOMMEND: 217
+
+
+
+
+The company has 810 reviews on Glassdoor. The last review was posted on 2024-04-17T12:18:48.580. 
+There are 20 Reviews for Danaher:
+
+Review 1:
+	Job Title: Distribution Manager
+	Location: Irvine, CA
+	Review Date: 2024-04-17T11:00:21.887
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Had the opportunity to work with a global team and grow with the DBS system of strategy planning.
+
+
+	Cons: 
+		Company divested my division, which was a disappointment.
+
+
+	Summary: 
+		Nice Opprotunity
+
+
+Review 2:
+	Job Title: Senior Financial Analyst
+	Location: San Diego, CA
+	Review Date: 2024-04-17T12:18:48.580
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good, value company, wlb, recognition,
+
+
+	Cons: 
+		old, legacy systems, legacy process, old people
+
+
+	Summary: 
+		.
+
+
+Review 3:
+	Job Title: Principal Architect - Global Network
+	Location: None
+	Review Date: 2024-04-14T08:23:03.420
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Provides many opportunities and remote working
+
+
+	Cons: 
+		Need to increase salary to meet qualifications
+
+
+	Summary: 
+		Director Network Architecture
+
+
+Review 4:
+	Job Title: Manager
+	Location: Brea, CA
+	Review Date: 2024-03-30T22:05:45.313
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good Leadership, Very focused on healthcare
+
+
+	Cons: 
+		None to report at the moment.
+
+
+	Summary: 
+		Good Company
+
+
+Review 5:
+	Job Title: Senior Director HRBP
+	Location: Washington, DC
+	Review Date: 2024-03-26T14:16:32.060
+	Business Outlook: NEGATIVE
+	Career Opportunities: 0
+	CEO: DISAPPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Flexibility, good pay, Corporate HQ located in DC
+
+
+	Cons: 
+		Company is going through a multi-year transformation
+
+
+	Summary: 
+		Transformation In Progress
+
+
+Review 6:
+	Job Title: None
+	Location: None
+	Review Date: 2024-02-23T18:27:53.790
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Lots of opportunities
+		Competitive pay 
+		Very good benefits 
+		Work with smart people
+
+
+	Cons: 
+		New set of leaders has eroded the culture and they aren’t receptive to feedback 
+		Layoffs are accompanied by pathetic severance offers
+		Structural inequity but management isn’t interested
+		Too much change simultaneously without a measured approach
+
+
+	Summary: 
+		A culture in decline
+
+
+Review 7:
+	Job Title: Mechanical Engineer
+	Location: Camarillo, CA
+	Review Date: 2024-03-23T05:16:33.757
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great company - sound vision, good leadership
+
+
+	Cons: 
+		Need to make sure you are always on your game
+
+
+	Summary: 
+		Great company
+
+
+Review 8:
+	Job Title: Director of Operations
+	Location: Charlotte, NC
+	Review Date: 2024-03-15T11:50:15.723
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Team that is driven to be the best.
+
+
+	Cons: 
+		Fast pace environment sometimes leads to rush decisions.
+
+
+	Summary: 
+		Great operation
+
+
+Review 9:
+	Job Title: General Technician
+	Location: Torrance, CA
+	Review Date: 2024-03-14T01:15:37.577
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		They have benefits in the lunch break rooms and other outside of job benefits only
+
+
+	Cons: 
+		Life threatening and hostility plus also verbal abuse and harassment plus micromanaging
+
+
+	Summary: 
+		The most exploitative job in the planet
+
+
+Review 10:
+	Job Title: Human Resources
+	Location: Washington, DC
+	Review Date: 2024-02-06T06:38:38.090
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Compensation and benefits, ability to work remotely
+
+
+	Cons: 
+		Awful behavior at leadership level is rewarded, toxic culture, you need to be a follower to survive (I.e., do not express an opinion that is different from leadership)
+
+
+	Summary: 
+		Run!
+
+
+Review 11:
+	Job Title: None
+	Location: None
+	Review Date: 2024-01-12T10:02:44.470
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		It was good during Covid. Stable.
+
+
+	Cons: 
+		Lots and lots of layers to sort through - Danaher, Platform, OpCo... where are the decisions made, who's making them, etc. They tout their "Danaher-GO" program (internal movement opportunities among the various OpCos) but it's harder to move internally than it should be. (I was not alone in my opinion and experience.)
+
+
+	Summary: 
+		Lots of 'Managing Through Ambiguity' Here
+
+
+Review 12:
+	Job Title: Human Resource Coordinator
+	Location: San Diego, CA
+	Review Date: 2024-02-09T08:19:49.800
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		great company goals/ mission and people
+
+
+	Cons: 
+		decentralized Operating companies that operate very different
+
+
+	Summary: 
+		Good work place
+
+
+Review 13:
+	Job Title: Human Resources
+	Location: None
+	Review Date: 2024-02-01T13:41:58.987
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		great place with strong communication
+
+
+	Cons: 
+		lots of leadership changes due to moving between operating companies
+
+
+	Summary: 
+		Great place to work
+
+
+Review 14:
+	Job Title: President
+	Location: New York, NY
+	Review Date: 2024-02-02T05:37:06.427
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Vision, focus on enabling healthcare
+
+
+	Cons: 
+		The Danaher Corporation Washington DC
+
+
+	Summary: 
+		Excellent place to work
+
+
+Review 15:
+	Job Title: Manager
+	Location: Santa Clara, CA
+	Review Date: 2024-02-03T13:45:27.333
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Success, shareholder driven, great people
+
+
+	Cons: 
+		DBS system, efficiency over everything else
+
+
+	Summary: 
+		Great company
+
+
+Review 16:
+	Job Title: Corporate Executive
+	Location: None
+	Review Date: 2023-10-26T15:58:19.810
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Depends on what you want Fantastic place for those in STEM - Develop life saving innovations that really matter! Great for process driven people who need formulaic, repeatable steps. If you love production or manufacturing, it's a dream house. Able to change jobs indefinitely within the company and its subsidiaries. Could work here entire life. Pays well. People seem generally "good" natured and fun-loving. No evil vibes. Great place for assembly line and lower management workers who want repeatable jobs and process improvement Work life balance is not bad compared to other high performing companies
+
+
+	Cons: 
+		Overly process driven - Feels like you cannot cross the street without jumping through a dozen hoops. Feels like process &gt; best answer. Progress is SLOW! Risk averse - Being empirical based is great, but being overly analytical stifles innovation. Allergic to outside expertise - Focus on hiring from within + Internal methodology is strong in some areas, but it's treated like the gospel and external expertise is devalued and underappreciated. Creates lack of trust and confidence. Hierarchal - Employees seem hesitant to speak out of line to challenge senior leadership. Many people seem in it for the long run (protect jobs &gt; best result). Bad Decision Making - Constant feeling that senior executives don't really know what their doing (excluding delivering production related results), but won't trust those who do to steer the ship, Make short term decisions despite functional best practices. Diversity and Inclusion - Old fashioned and slow moving; Good intentioned white men who were great at sales still run the company - they try their best but unclear of the best steps to take; hesitant to make bold moves or trust those who know. Unknown and disconnected - Working here won't scratch your ego around big brand names. Decentralized nature is wasting tons of resources and synergies. Sparks of change beginning to shine but issues above will slow and stifle.
+
+
+	Summary: 
+		Danahelp! Danaheroes, Danahims, Or Danahell? (Corporate/HQ review only)
+
+
+Review 17:
+	Job Title: None
+	Location: None
+	Review Date: 2023-11-10T11:39:48.073
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		The employees at the lower level of the company are great.
+
+
+	Cons: 
+		Danaher bought out a small company and it was like being a boiling frog with all the changes they made. What was once a family feel turned into a company ran on numbers and metrics with no disregard to the story behind the numbers. Multiple re-organizations within a few year timeframe where they cut the fat each time. Their severance agreements are a joke and despite being a billion dollar company - will do anything to save a buck and do not care for their employees.
+
+
+	Summary: 
+		Typical Corporate America
+
+
+Review 18:
+	Job Title: Application Scientist
+	Location: Iowa City, IA
+	Review Date: 2023-12-05T14:36:16.393
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		It was a great team to work with, a very boutique team (with IDT), and everyone seemed to do their job best.
+
+
+	Cons: 
+		Working remote during COVID was a little bit challenging.
+
+
+	Summary: 
+		Great company and Team to work with
+
+
+Review 19:
+	Job Title: Sales Manager
+	Location: Indiana, PA
+	Review Date: 2023-12-20T07:28:02.157
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		HR , Systems and Hybrid working
+
+
+	Cons: 
+		None that I can think of
+
+
+	Summary: 
+		Great Systems
+
+
+Review 20:
+	Job Title: Manager
+	Location: Miamisburg, OH
+	Review Date: 2023-09-24T16:48:45.443
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Big corporation seems stable ..
+
+
+	Cons: 
+		Big corporation that’s not really stable. Danaher has tons of processes and some of them might be good if properly implemented. However, upper management seems to care more about following processes than modifying processes to meet actual need. There has been no positive movement as far as helping customers in the last 5ish years.
+
+
+	Summary: 
+		If you like bad processes over taking care of customers Danaher might be right for you.
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

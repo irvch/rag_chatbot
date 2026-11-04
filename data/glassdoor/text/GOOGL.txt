@@ -1,0 +1,756 @@
+
+Alphabet is a Internet Services and Retailing company based in 94043 Mountain View, California. 
+The company has 190,234 employees and has a revenue of $282,836 according to Fortune 500.
+The company is valued at $1,330,201 and has a profit of $59,972. The CEO of the company is Sundar Pichai.
+
+The Company has the following ratings: 
+Average ratings for Alphabet:
+Business Outlook: 0.72
+
+Career Opportunities: 4.1
+Distribution: 
+	1: 509 
+	2: 600 
+	3: 1700 
+	4: 3378 
+	5: 7349 
+
+CEO: 0.75
+
+Compensation and Benefits: 4.4
+Distribution: 
+	1: 320 
+	2: 279 
+	3: 1096 
+	4: 3188 
+	5: 8323 
+
+Culture and Values: 4.2
+Distribution: 
+	1: 509 
+	2: 501 
+	3: 1408 
+	4: 3033 
+	5: 7613 
+
+Diversity and Inclusion: 4.3
+Distribution: 
+	1: 457 
+	2: 416 
+	3: 1349 
+	4: 2916 
+	5: 7810 
+
+Overall: 4.4
+Distribution: 
+	1: 593 
+	2: 478 
+	3: 2043 
+	4: 5713 
+	5: 14454 
+
+Senior Management: 3.8
+Distribution: 
+	1: 823 
+	2: 792 
+	3: 2067 
+	4: 3370 
+	5: 5851 
+
+Work Life Balance: 4.2
+Distribution: 
+	1: 520 
+	2: 593 
+	3: 1683 
+	4: 3063 
+	5: 7102 
+
+Review Count: 38752
+
+Recommend to Friend: 
+	RECOMMEND: 9741
+	WONT RECOMMEND: 1368
+
+
+
+
+The company has 52393 reviews on Glassdoor. The last review was posted on 2024-04-18T00:45:57.970. 
+There are 20 Reviews for Alphabet:
+
+Review 1:
+	Job Title: Technical Program Manager III
+	Location: Bengaluru
+	Review Date: 2023-08-25T09:51:35.337
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Awesome Food, great talented coworkers,
+
+
+	Cons: 
+		i can not find any yet.
+
+
+	Summary: 
+		Good employee caring company
+
+
+Review 2:
+	Job Title: PythonEngineer
+	Location: United States Coast Guard - Air Station Sacramento
+	Review Date: 2024-04-18T00:45:57.970
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Working at Google is very nice, working there is comfortable and fun
+
+
+	Cons: 
+		There are no negatives except that I live outside my country
+
+
+	Summary: 
+		My experience working with Google
+
+
+Review 3:
+	Job Title: Program Manager
+	Location: Mountain View, CA
+	Review Date: 2013-06-21T12:42:33.137
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		1) Food, food, food.  15+ cafes on main campus (MTV) alone.  Mini-kitchens, snacks, drinks, free breakfast/lunch/dinner, all day, errr'day.
+		
+		2) Benefits/perks.  Free 24:7 gym access (on MTV campus).  Free (self service) laundry (washer/dryer) available.  Bowling alley.  Volley ball pit.  Custom-built and exclusive employee use only outdoor sport park (MTV).  Free health/fitness assessments.  Dog-friendly.  Etc. etc. etc.
+		
+		3) Compensation.  In ~2010 or 2011, Google updated its compensation packages so that they were more competitive.  
+		
+		4) For the size of the organization (30K+), it has remained relatively innovative, nimble, and fast-paced and open with communication but, that is definitely changing (for the worse).
+		
+		5) With so many departments, focus areas, and products, *in theory*, you should have plenty of opportunity to grow your career (horizontally or vertically).  In practice, not true.  
+		
+		6)  You get to work with some of the brightest, most innovative and hard-working/diligent minds in the industry.  There's a "con" to that, too (see below).
+
+
+	Cons: 
+		1) Work/life balance.  What balance?  All those perks and benefits are an illusion.  They keep you at work and they help you to be more productive.  I've never met anybody at Google who actually time off on weekends or on vacations.  You may not hear management say, "You have to work on weekends/vacations" but, they set the culture by doing so - and it inevitably trickles down.  I don't know if Google inadvertently hires the work-a-holics or if they create work-a-holics in us.  Regardless, I have seen way too many of the following: marriages fall apart, colleagues choosing work and projects over family, colleagues getting physically sick and ill because of stress, colleagues crying while at work because of the stress, colleagues shooting out emails at midnight, 1am, 2am, 3am.  It is absolutely ridiculous and something needs to change.
+		
+		2) Poor management.  I think the issue is that, a majority of people love Google because they get to work on interesting technical problems - and these are the people that see little value in learning how to develop emotional intelligence.  Perhaps they enjoy technical problems because people are too "difficult."  People are promoted into management positions - not because they actually know how to lead/manage, but because they happen to be smart or because there is no other path to grow into.  So there is a layer of intelligent individuals who are horrible managers and leaders.  Yet, there is no value system to actually do anything about that because "emotional intelligence" or "adaptive leadership" are not taken seriously.
+		
+		3) Jerks.  Sure, there are a lot of brilliant people - but, sadly, there are also a lot of jerks (and, many times, they are one and the same).  Years ago, that wasn't the case.  I don't know if the pool of candidates is getting smaller, or maybe all the folks with great personalities cashed out and left, or maybe people are getting burned out and it's wearing on their personality and patience.  I've heard stories of managers straight-up cussing out their employees and intimidating/scaring their employees into compliance.
+		
+		4) It's a giant company now and, inevitably, it has become slower moving and is now layered with process and bureaucracy.  So many political battles, empire building, territory grabbing.  Google says, "Don't be evil."  But, that practice doesn't seem to be put into place when it comes to internal practices.  :(
+
+
+	Summary: 
+		Moving at the speed of light, burn out is inevitable
+
+
+Review 4:
+	Job Title: Software Engineer III
+	Location: New York, NY
+	Review Date: 2014-05-10T14:46:38.187
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		* If you're a software engineer, you're among the kings of the hill at Google. It's an engineer-driven company without a doubt (that *is* changing, but it's still very engineer-focused).
+		* The perks are amazing. Yes, free breakfast, lunch, an dinner every weekday. Aaaaaamazing holiday parties (at Waldorf Astoria, NY Public Library, MoMA, etc.); overnight ski trips to Vermont; overnight nature trips to the Poconos in the summer; summer picnics at Chelsea piers; and on and on and on. I don't see this going away unless the company starts hurting financially.
+		* Speaking of which, the company is doing quite well, which reflects in bonuses and equity grants.
+		* There a huge diversity of work ranging from defending independent journalism worldwide (Google Project Shield) to crisis response during disasters (see Maps during Hurricane Sandy or Tsunamis), to the best machine learning experts and projects in the world, to more mundane revenue-driving projects in advertising, there's really something for everybody.
+		* It's easy to move around within the company as long as you're in good standing (the vast majority of engineers are).
+		* The company is amazingly open: every week Larry Page and Sergey Brin host what's called TGIF where food, beer, wine, etc. is served, a new project is presented, and afterward there's an open forum to ask the executives anything you want. It's truly fair game to ask anything, no matter how controversial, and frequently the executives will be responsive.
+		* No, nobody cares if you use an iPhone, Facebook, shop with Amazon, stream using Spotify, or refuse to use Google+. The company is amazingly open and flexible.
+		
+		Neither pro nor con, but general information on work-life balance, promotions, and advancement.
+		* Work life balance can be what you want it to be on most teams. (Some teams are in more competitive sectors and require more crazy hours all the time - but very few of them). If you do what's expected, you'll be fine at least for a handful of years. Working a roughly 40 hour work week is possible, and many people do it. There are also people who are hyper-motived and work like crazy just because they love it, or because they're competitive, or they want to get a promotion. If you work 40 hour weeks without putting in anything extra, you'll fall behind them as they advance and you stand still - and maybe that doesn't matter, so it works out for everybody. But at least know where you would realistically stand.
+		* If you excel and work your butt off, you'll be compensated and promoted. If you let yourself be a code monkey, and just sit coding with your head down all day, you'll be fine but won't advance. A big complaint from some Googlers is about not being able to advance "even at Google" with pure coding. Sure, if you're the uber genius who created MapReduce and Bigtable, you're going to advance like a rocket without having to do anything but coding; but if you're like most engineers at Google -- smarter than average, but just average compared to other Googlers -- you're just a good coder and not revolutionary. Code monkeys are important to actually get stuff done, and to be sure you absolutely need to be a good coder as a software engineer (it's the minimum requirement), but code monkeys won't advance because they're not leaders and they're easy to replace. To get promoted you need to lead and do more than just code. There are plenty of ways to lead other than being an official tech lead, so this isn't actually _that_ hard, so the real point is just that you can't just sit there coding what other people tell you to code all day and expect to advance.
+
+
+	Cons: 
+		* It *is* becoming larger, and with it comes growing pains: bureaucracy, slow to respond to market threats, bloated teams, cross-divisional tension (though nothing remotely approaching that of Microsoft's internal tension).
+		* The quality of the engineers is possibly dropping, but possibly not. It's hard to get real metrics, because as the absolute number of people grows, naturally the number of bad apples grows; as a percentage it's supposedly the same as it ever was, but with larger numbers of poorer quality engineers it just _feels_ like things might be changing for the worse.
+		* Also with growth means more internal-confidential data leaks (again, because of the raw numbers of people) -- product announcements being ruined, etc. That means the company has to be tighter-lipped internally to avoid leaks, which makes things less open. It's still an amazingly open place, but less so than it was even a couple years ago. The good thing is they recognize it and actively look to improve things because they know how important it is to keep the good culture.
+
+
+	Summary: 
+		Great balance between big-company security and fun, fast-moving projects
+
+
+Review 5:
+	Job Title: None
+	Location: Mountain View, CA
+	Review Date: 2015-02-08T00:41:18.030
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 2
+
+	Pros: 
+		You can't find a more well-regarded company that actually deserves the hype it gets.
+		
+		You'll work on cutting edge projects / solve important issues that impact your community and the world
+		
+		You'll meet interesting people who are your colleagues, managers, and senior management.
+		
+		You'll open the paper and see your company in the news almost every day, and read about projects you're working on, which is a cool thing
+		
+		You'll see Larry and Sergey at TGIF and you'll admire how they lead the company. They are brilliant, goofy, low key but intense, and likeable. 
+		
+		There are 22 cafes (more or less), the food is excellent, and it's free.
+		
+		Your pay will typically be competitive, though it needs to be tweaked up a bit since the economy has improved.
+		
+		Google cares about how it treats its employees.
+		
+		The campus is like an academic campus in many ways.
+		
+		There are tons of activities on campus, like authors speaking about their books, films after work, and gyms where you can work out - but you'll need to make sure to carve out time to do these things.
+		
+		You'll get plenty of external validation from people who suddenly think you're smart and rich because you work there, even if you're not rich and you're as smart when you didn't work at Google.
+		
+		If and when you leave, you'll never regret having that company on your resume. It opens doors. 
+		
+		The company is flexible - if you're lucky, you won't have a micromanager boss and you can be somewhat flexible in how you work - but don't get me wrong - you'll work a LOT. But you don't have to do all of it chained to your desk.
+
+
+	Cons: 
+		I live in SF so the commute can take between 1.5 hours to 1.75 hours each way on the shuttle - sometimes 2 hours each way on a busy day or rainy day. That means being on the bus for 3-4 hours PER DAY. It's a wired bus though which means you can work on the way to Mountain View. But it can feel brutal.
+		
+		Your first year or two are really important in terms of your career at Google and they affect how you're viewed, and your ability to be promoted. You should always ask to work on high profile projects. If you don't get them, don't expect to get high ratings or get promoted. Always volunteer for cross functional group work for maximum exposure, and then work hard at those things.
+		
+		You'll likely work on something that no one will explain to you and it will take you at least a year to be comfortable doing what you're working on, even if you're super quick at learning.  No one has time to train you or teach you what you're doing - which is kind of hard.
+		
+		After two or three years, people you started out with at Google start to get promoted. If you're not one of them, you'll wonder why and how it happened, and that process is somewhat political and not always clear. 
+		
+		It's a big company now. And super political. So don't be naive. Expect some people to be catty, some people to be territorial, and be prepared to be mentally tough. Don't let people see your vulnerableness. It's a Darwinistic culture with a huge dose of 30-something idealism on top which can fool you into thinking that people are easygoing - they're not. They're driven. If you're not driven, you're not going to fit in.
+		
+		When you start at Google, it seems like peer reviews are super important - they are, but they are the sprinkles on the fro yo. The important thing is that your direct manager knows your work, likes your work and likes you, and then you can get promoted. If your boss doesn't like you, all the positive peer reviews in the world won't help you.  Make sure you know what your boss wants, and give it to them. You will have weekly one on ones, and make sure you are addressing your performance at each one, asking if they have questions, how you can improve, can you work on cross functional projects, etc.
+		
+		It's really hard to find work life balance at Google. The workload is huge.   I hardly have time to work out. The commute is brutal. My family sometimes needs more from me and I can't give it. I'm still trying to find the balance. I think I need more down time than most people so I have a hard time being structured every day to fit all the things I want into my day, so a lot of things slip, like working out.
+
+
+	Summary: 
+		The best place I've worked and also the most demanding.
+
+
+Review 6:
+	Job Title: Software Engineer
+	Location: Palo Alto, CA
+	Review Date: 2024-02-06T13:26:58.907
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		I have had the privilege of working as a Software Engineer at Google for over three years now, and I can confidently say that it has been an extraordinary journey filled with continuous growth, innovation, and collaboration.
+		
+		One of the most striking aspects of Google's culture is its unwavering commitment to fostering creativity and pushing boundaries. From day one, I was encouraged to think outside the box, experiment with new technologies, and challenge the status quo. The emphasis on innovation is palpable in every project and team meeting, creating an environment where groundbreaking ideas flourish.
+		
+		Moreover, the level of talent and expertise among my colleagues is unparalleled. Working alongside some of the brightest minds in the industry has not only accelerated my professional development but has also inspired me to strive for excellence in everything I do. The collaborative spirit at Google is truly remarkable, with teams coming together seamlessly to tackle complex problems and deliver world-class solutions.
+		
+		In addition to the stimulating work environment, Google places a strong emphasis on employee well-being and work-life balance. The company offers a plethora of perks and benefits, including competitive compensation, comprehensive healthcare coverage, and ample opportunities for career advancement. Furthermore, the flexibility to work remotely has been invaluable, allowing me to maintain a healthy balance between my professional and personal life.
+
+
+	Cons: 
+		However, it's worth noting that Google's fast-paced environment may not be suitable for everyone. The pace of work can be demanding at times, requiring adaptability and resilience to thrive in such an environment. Nonetheless, for those who are passionate about technology and eager to make a meaningful impact, Google provides an unparalleled platform to unleash your full potential.
+
+
+	Summary: 
+		Exceptional Experience as a Software Engineer at Google
+
+
+Review 7:
+	Job Title: Software Engineer
+	Location: Cambridge, MA
+	Review Date: 2024-02-10T11:56:07.700
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		- Benefits/Perks (while they last)
+		- Compensation (they aim for top 10% so there are definitely other options)
+
+
+	Cons: 
+		- Run by ex-McKinsey and 2008 financial crisis big-bank veterans
+		- The worst treatment of employees I have ever seen during their layoffs. Cutting off corp access abruptly, not disclosing to teams and employees who was let go from their teams. In many cases, blatantly lying to employees when justifying these actions 
+		- Employees on visas were severely mistreated and disadvantaged on their ability to collect severance during "extended notice layoffs"
+		- Perks are being constantly removed and teams/projects cut
+		- Management seemingly has 0 control of their organizations
+		- Management of entire product areas are upward-failing and seemingly have no passion for their organizations. They lead organizations the size of normal companies and treat it like just a line item on a resume
+		- Once a leader in diversity/inclusion they have proven that they do not care about these efforts at all since they were the first thing on the chopping block. Even their diverse employees that are on visas were especially mistreated at the first sign of a market down turn
+		- Severely senior-skewing engineering. You will likely have no opportunities for career advancement
+
+
+	Summary: 
+		Glory Days Long Gone
+
+
+Review 8:
+	Job Title: Software Engineer
+	Location: Mountain View, CA
+	Review Date: 2024-04-16T05:45:15.507
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Excellent perks, smart coworkers. Good pay. Great place to gain experience and grow if you take advantage of it. Access to lots of cool design docs
+
+
+	Cons: 
+		A particularly memorable part of my 6-year stay at Google were the 3 years at Daydream, the former VR department. Leadership cancelled every single project I worked on, except the least promising one, which they kept because they didn’t want to back out on a collaboration with a partner company and hurt Google’s image. They went on to sell about 5000 units and then cancel the project. Too user-oriented for innovation. As ChatGPT showed us, unless its search, ads, or software infrastructure, the only innovation Google does will be despite it’s leadership, not because of it.
+
+
+	Summary: 
+		Excellent perks &amp; Infrastructure, so-so leadership 
+
+
+Review 9:
+	Job Title: Junior Devops Engineer
+	Location: Budapest, MO
+	Review Date: 2024-01-25T05:41:25.907
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Working at Google has been an immensely rewarding experience over the past two years. The company's commitment to fostering a positive and inclusive work environment has created a culture of collaboration and mutual respect that I truly value. Google's dedication to employee growth, with ongoing training and development opportunities, has not only enhanced my skills but also provided a clear path for career progression.
+		
+		Google's emphasis on work-life balance, reflected in flexible arrangements and comprehensive wellness programs, has contributed to a positive and thriving work atmosphere. Transparent communication from leadership fosters a sense of trust and unity, making Google not just a workplace but a community. In summary, Google stands out as an outstanding place to work, offering a supportive culture, ample growth opportunities, and a healthy work-life balance. I highly recommend Google to those seeking a fulfilling and rewarding career.
+
+
+	Cons: 
+		While Google is undoubtedly a remarkable company to work for, like any workplace, it's essential to consider potential challenges. Here are some cons to be aware of:
+		
+		Intense Work Environment: Google is known for its fast-paced and dynamic work environment. For some individuals, the pressure and pace may be challenging to manage, leading to potential stress or burnout.
+		
+		Large Organization Challenges: Being a massive multinational corporation, Google's sheer size can sometimes result in bureaucracy and slower decision-making processes. Navigating through the organizational hierarchy may require patience and persistence.
+		
+		High Expectations: Google sets high expectations for its employees, aiming for innovation and excellence. While this can be motivating, it may also create a demanding atmosphere where meeting and exceeding expectations becomes the norm.
+
+
+	Summary: 
+		A Fulfilling Experience at Google
+
+
+Review 10:
+	Job Title: UX Design Manager
+	Location: Venice, CA
+	Review Date: 2024-03-24T21:45:54.620
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great pay, work-life balance, benefits, challenging work, as well as professional, creative, and inspiring peers. Lots of talented folks working on cutting-edge software AND hardware. Lots of locations to work from, with a number of teams very open to you working from any of the main offices, or even in some cases remotely.
+
+
+	Cons: 
+		After 25 years of the company only hiring and never having to rapidly reduce its workforce, the lay offs over the last year have certainly shifted baseline trust around job security. The company is navigating uncertainty of the economy and the evolution of the technological landscape as gracefully as it can, and on the positive note, employees have a way to ask leadership difficult questions about ongoing challenges in a public setting across multiple forums. This promotes a culture of openness and establishes some psychological safety. Further, while the pay is really good for the industry, Google is beginning to take a more cautious and deliberate approach to raises and promotions.
+
+
+	Summary: 
+		Innovative with incredible work-life balance
+
+
+Review 11:
+	Job Title: Analytical Linguist
+	Location: None
+	Review Date: 2024-04-16T08:15:25.347
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Very smart coworkers, some nice internal tools, great benefits and perks, the opportunity to work on some potentially cool projects. 
+
+
+	Cons: 
+		The company's enormous size and all the cons that go along with that - a hugely bloated bureaucracy and company-protective HR (no action is ever taken on legitimate complaints, they end up referring you, whatever your issue, to their "mental health" services), inertia and unwillingness to take risks on projects and to be truly innovative, work duplicated across hundreds of teams and people. The company is also very political. There's no chance of just doing your work there apolitically - you are bombarded with their ideology and forced to go along. 
+
+
+	Summary: 
+		Smart people but bloated bureaucracy and politics
+
+
+Review 12:
+	Job Title: Head of Innovation
+	Location: New York, NY
+	Review Date: 2024-04-12T12:12:27.170
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Google fosters a culture of innovation and intreprenuerism, which is great for generating new ideas and ways of working. There's also a high tolerance for experimentation, and a genuine commitment to "failures" as learning opportunities.
+
+
+	Cons: 
+		The bottoms-up nature of the culture can be chaotic and result in people bumping into each other and duplicating efforts. To thrive here, you have to be able to lean into a lack of programmatic oversight and make the most of it. Those looking for more disciplined frameworks and hierarchies will have a rough go here. If you like the Wild West, however, you'll find your spot.
+
+
+	Summary: 
+		Chaotic Intrepreneurism
+
+
+Review 13:
+	Job Title: Software Engineer
+	Location: San Francisco, CA
+	Review Date: 2024-03-25T21:45:59.427
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Innovative Environment: Working at Google as a software engineer is a dream come true for anyone passionate about technology and innovation. The company constantly pushes the boundaries, encouraging creativity and out-of-the-box thinking. It's thrilling to be part of projects that can potentially impact millions of users worldwide.
+		Learning Opportunities: Google provides unparalleled learning resources and opportunities. Whether it's through internal workshops, access to cutting-edge technologies, or the chance to collaborate with some of the brightest minds in the industry, the learning curve is steep but incredibly rewarding.
+		Great Benefits and Compensation: Google truly values its employees, which is evident in their generous compensation packages, health benefits, and perks like on-site meals, wellness programs, and flexible work schedules.
+
+
+	Cons: 
+		High Work Pressure: The expectations at Google are exceptionally high. Projects often come with tight deadlines and high standards, which can be stressful at times.
+		Competitive Atmosphere: While collaboration is encouraged, the environment can be quite competitive. This can be motivating for some, but it might also create a high-pressure situation for others.
+
+
+	Summary: 
+		Review of Google's Software Engineer Position
+
+
+Review 14:
+	Job Title: CS Operations Manager
+	Location: Mountain View, CA
+	Review Date: 2024-03-09T12:11:38.077
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Innovative Work Environment:
+		Exposure to cutting-edge technologies and projects, fostering a culture of innovation.
+		Opportunities to work on groundbreaking initiatives that can have a global impact.
+		
+		Global Reach and Network:
+		Collaboration with talented professionals from diverse backgrounds and expertise.
+		Access to a vast network of professionals, both within and outside the company, enhancing professional growth.
+		
+		Employee Benefits and Perks:
+		Competitive salary and comprehensive benefits package.
+		Generous perks, including on-site amenities, wellness programs, and financial incentives.
+		
+		Professional Development Opportunities:
+		Continuous learning through training programs, workshops, and conferences.
+		Career growth opportunities within the company due to its size and various business segments.
+		
+		Inclusive Culture:
+		Emphasis on diversity and inclusion, creating a supportive and welcoming work environment.
+		Commitment to work-life balance and employee well-being.
+
+
+	Cons: 
+		High Expectations and Pressure:
+		The fast-paced and high-performance culture may lead to increased stress and pressure.
+		Expectations for quick results and constant adaptation to changing priorities.
+		
+		Bureaucracy and Size:
+		Large organizational structure may result in bureaucratic processes that can slow decision-making.
+		Challenges in navigating the complex organizational hierarchy to implement changes.
+		
+		Intense Competition:
+		Intense competition among employees may create a demanding and sometimes competitive work atmosphere.
+		The need to consistently prove oneself in a dynamic environment.
+		
+		Limited Autonomy in Decision-Making:
+		
+		Decisions may sometimes be influenced or constrained by the hierarchical structure.
+		Limited autonomy in implementing certain strategies without approval from higher levels.
+
+
+	Summary: 
+		Great Company for First Career
+
+
+Review 15:
+	Job Title: SWE L3
+	Location: San Francisco, CA
+	Review Date: 2024-01-31T01:55:56.030
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Innovative Environment: Working at Google as an L4 SWE is a unique experience that immerses you in one of the most innovative tech environments in the world. The company is at the forefront of technology, offering an opportunity to work on cutting-edge projects that can impact millions of users.
+		
+		Learning and Growth: Google provides ample opportunities for professional development and learning. As an L4, I found myself constantly challenged and learning new things. The company supports attending conferences, taking courses, and even has its own internal platforms for continued learning.
+		
+		Talented Peers: One of the most enriching aspects of working at Google is the chance to collaborate with some of the brightest minds in the industry. The level of talent and expertise among colleagues is exceptional, fostering a culture of excellence and innovation.
+		
+		Work-Life Balance: Google is known for its employee-friendly policies. The company offers flexible working hours, and there is a genuine respect for personal time and work-life balance. This aspect is especially appreciated in the tech industry, where burnout can be common.
+
+
+	Cons: 
+		Large Company Bureaucracy: Being a part of such a large company can sometimes mean navigating through layers of bureaucracy. Decision-making processes can be slow, and there can be a significant amount of red tape in getting things done.
+		
+		Competitive Environment: While working with talented peers is a pro, it can also lead to a highly competitive environment. There can be pressure to constantly perform at your best, which might be overwhelming for some.
+
+
+	Summary: 
+		Its good
+
+
+Review 16:
+	Job Title: Director
+	Location: San Francisco, CA
+	Review Date: 2024-03-10T21:20:50.313
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		More often than not you get to work with smart, good people on hard, interesting problems. People are united by a purposeful and enduring mission - to make the world's information universally accessible and useful.
+
+
+	Cons: 
+		All the bureaucracy of a large company but with none of the tops down guidance. A formerly bottoms up culture of empowerment has devolved into every decision being clouded by a near paralyzing fear of failure. Internal politics are at an all time high and the culture is in rapid decline.
+
+
+	Summary: 
+		The shiny past can no longer break through the stormy clouds above
+
+
+Review 17:
+	Job Title: Software Engineer
+	Location: Chicago, IL
+	Review Date: 2024-02-12T18:45:16.497
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Google has a rich history of engineering excellence and brilliance. Even many years removed from the height of the company's innovation, some of this is still evident through a strongly ingrained engineering culture where things are mostly done in an engineering first mindset. Engineering excellence is obvious across the organization and the products/infrastructure built at Google are a testament to this.
+		
+		Work life balance is, for the most part, extremely good and good work life balance is ingrained in the culture. I have never experienced pressure from managers to work more than 40 hours a week, and the vacation + holidays are decent (though maybe not the absolute best).
+
+
+	Cons: 
+		There is a clear lack of vision from top management as many of Google's recent "big" initiatives seem to be reactive to other tech companies (instead of proactive). When compared to top executives at similar large companies, the current management falls quite short.
+		
+		A complicated performance/promotion process exists at Google in an effort to measure employees fairly across the large company, however this comes at the cost of wasted cycles and the gamification of the system. This, along with the large variation in teams results in non-uniform opportunities for promotion/career advancement.
+
+
+	Summary: 
+		A company with a strong engineering culture that is slowly stagnating from management
+
+
+Review 18:
+	Job Title: Software Engineer
+	Location: Mountain View, CA
+	Review Date: 2024-04-14T07:17:18.633
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		No doubt about it—Google's where it's at! The pay's solid, and they totally get the importance of work-life balance. It's the perfect mix of professional growth and personal time.
+
+
+	Cons: 
+		At Google, you'll face tough competition, high expectations, and some office politics. Balancing work and life can be tricky, and advancement isn't always easy. Plus, the tech world moves fast. But hey, it's Google—weighing the cons against the perks is key!
+
+
+	Summary: 
+		Good company
+
+
+Review 19:
+	Job Title: Administrative Assitant
+	Location: Sunnyvale, CA
+	Review Date: 2024-04-17T16:42:18.827
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Overall, community is encouraged and team work is highly important.
+
+
+	Cons: 
+		The company has switched its focus from a company who treats their employees so well to a company who is mainly focused on numbers.
+
+
+	Summary: 
+		ABP
+
+
+Review 20:
+	Job Title: Senior Software Engineer
+	Location: San Francisco, CA
+	Review Date: 2024-02-18T18:58:38.823
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Working at Google offers a unique opportunity to be at the forefront of technological innovation, surrounded by some of the brightest minds in the industry. The company provides its employees with exceptional benefits, including comprehensive healthcare, generous parental leave, and flexible work schedules, promoting a healthy work-life balance. Google's open culture encourages creativity and collaboration, allowing ideas to flourish and employees to grow their careers in diverse directions. Access to cutting-edge technology and resources enables individuals to work on projects that impact millions of users worldwide, making their work incredibly fulfilling and impactful.
+
+
+	Cons: 
+		Despite the many advantages, working at Google comes with its set of challenges. The highly competitive environment can be stressful, with high expectations and performance metrics to meet, leading to work-life balance issues for some. The company's size can sometimes result in bureaucratic hurdles, making it difficult to push new initiatives forward quickly. Additionally, the intense focus on innovation and constant change may not suit everyone, as it requires adaptability and a continuous learning mindset. For some, the culture of being always "on" and the pressure to excel can be overwhelming, overshadowing the benefits.
+
+
+	Summary: 
+		Challenging Yet Rewarding Tech Frontier
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

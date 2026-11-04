@@ -1,0 +1,631 @@
+
+Viatris is a Pharmaceuticals company based in 15317 Canonsburg, Pennsylvania. 
+The company has 37,000 employees and has a revenue of $16,263 according to Fortune 500.
+The company is valued at $11,513 and has a profit of $2,079. The CEO of the company is Scott A. Smith.
+
+The Company has the following ratings: 
+Average ratings for Viatris:
+Business Outlook: 0.69
+
+Career Opportunities: 3.5
+Distribution: 
+	1: 117 
+	2: 106 
+	3: 216 
+	4: 224 
+	5: 186 
+
+CEO: 0.84
+
+Compensation and Benefits: 3.8
+Distribution: 
+	1: 47 
+	2: 74 
+	3: 192 
+	4: 296 
+	5: 239 
+
+Culture and Values: 3.5
+Distribution: 
+	1: 148 
+	2: 106 
+	3: 199 
+	4: 195 
+	5: 199 
+
+Diversity and Inclusion: 3.7
+Distribution: 
+	1: 100 
+	2: 76 
+	3: 196 
+	4: 217 
+	5: 251 
+
+Overall: 3.8
+Distribution: 
+	1: 86 
+	2: 119 
+	3: 221 
+	4: 331 
+	5: 282 
+
+Senior Management: 3.3
+Distribution: 
+	1: 191 
+	2: 103 
+	3: 190 
+	4: 183 
+	5: 177 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 113 
+	2: 104 
+	3: 200 
+	4: 221 
+	5: 208 
+
+Review Count: 1047
+
+Recommend to Friend: 
+	RECOMMEND: 446
+	WONT RECOMMEND: 265
+
+
+
+
+The company has 1164 reviews on Glassdoor. The last review was posted on 2024-04-17T01:32:25.363. 
+There are 20 Reviews for Viatris:
+
+Review 1:
+	Job Title: Scientist
+	Location: Morgantown, WV
+	Review Date: 2024-04-09T12:18:29.110
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Engaging work, supportive management, opportunities for development
+
+
+	Cons: 
+		Location can be less than ideal considering personal preferences
+
+
+	Summary: 
+		Fulfilling work with good professional development and great management
+
+
+Review 2:
+	Job Title: Financial Analyst
+	Location: Pittsburgh, PA
+	Review Date: 2024-04-10T07:11:15.910
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Job security, large manufacturing, lots of life groups.
+
+
+	Cons: 
+		Horrible culture on the team I was with.
+
+
+	Summary: 
+		Good company - Horrible culture.
+
+
+Review 3:
+	Job Title: Chemist
+	Location: Morgantown, WV
+	Review Date: 2024-04-10T18:42:43.010
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Nice coworkers and parking is good.
+
+
+	Cons: 
+		Management lacks sympathy and understanding. They are demanding.
+
+
+	Summary: 
+		chemist
+
+
+Review 4:
+	Job Title: Senior District Sales Manager
+	Location: Dallas, TX
+	Review Date: 2024-03-10T08:04:45.823
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Great culture and recent senior leadership changes seem to be very positive for long term growth and sustainability. Outstanding benefits
+
+
+	Cons: 
+		Currently experiencing high turnover at rep level. Losing sales people due to expansions in the same space that we are in at other well respected companies due to much higher salaries
+
+
+	Summary: 
+		Great outlook
+
+
+Review 5:
+	Job Title: Director
+	Location: None
+	Review Date: 2024-03-01T10:32:15.063
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		They are fully global, so there is opportunity to get experience in any and all markets.
+		Remote is an option, but then expect to work all hours of the day to cover every region.
+
+
+	Cons: 
+		Processes are over burdensome and flawed. 
+		Pay and equity share very low.
+		Health insurance only really available if spouse does not have.
+		No extra benefits like fitness or internet
+		Absolutely no culture, just pushing people to work as much as they can.
+
+
+	Summary: 
+		No culture
+
+
+Review 6:
+	Job Title: Brand Supply Leader
+	Location: Canonsburg, PA
+	Review Date: 2024-03-20T07:30:01.023
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		* Flexibility to work remotely
+
+
+	Cons: 
+		* Limited strategic view from supply chain perspective
+		* Roles and responsibilities are a bit blurred
+		* ERP
+
+
+	Summary: 
+		Middle of the road
+
+
+Review 7:
+	Job Title: Senior Manager
+	Location: None
+	Review Date: 2024-03-15T19:57:15.823
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Awesome benefits including perks to stay fit!
+
+
+	Cons: 
+		Depending on manager, you may or may not like your job.
+
+
+	Summary: 
+		Awesome benefits
+
+
+Review 8:
+	Job Title: None
+	Location: Morgantown, WV
+	Review Date: 2024-03-19T07:31:53.303
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Work was easy no office drama
+
+
+	Cons: 
+		Pay could have been better
+
+
+	Summary: 
+		Good job
+
+
+Review 9:
+	Job Title: Sales Professional
+	Location: Ohio City, OH
+	Review Date: 2024-02-23T05:59:57.333
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Benefits and retirement are great.
+
+
+	Cons: 
+		No diversity. Salary is below industry standards. No current pipeline. No real commitment to keep employees from leaving.
+
+
+	Summary: 
+		Viatris
+
+
+Review 10:
+	Job Title: Manager
+	Location: New York, NY
+	Review Date: 2024-03-14T10:56:11.037
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		good brands, broad reach, healthcare creates value
+
+
+	Cons: 
+		financially driven not customer or marketing driven
+
+
+	Summary: 
+		not a great experience
+
+
+Review 11:
+	Job Title: Sales Representative
+	Location: None
+	Review Date: 2024-03-19T11:32:10.440
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Honestly, I couldn't say. There's nothing that stands out compared to other pharma companies.
+
+
+	Cons: 
+		Management. Poor direction. LACK of direction. Poor product. LACK of diversity.
+
+
+	Summary: 
+		Find something else
+
+
+Review 12:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-12T04:56:39.907
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		They have good Healthcare benefits.
+
+
+	Cons: 
+		Toxic environment and leadership, problematic culture and lack of values, silos, not competitive pay, no opportunity to grow longterm, very slow and rigid processes, lack of innovation and no diversity.
+
+
+	Summary: 
+		Toxic environment
+
+
+Review 13:
+	Job Title: Senior Specialist
+	Location: Morgantown, WV
+	Review Date: 2024-02-29T15:50:05.953
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Flexible time off, good benefits, great bonus
+
+
+	Cons: 
+		Low pay for industry standards. Hard to advance
+
+
+	Summary: 
+		Good place to work with low pay
+
+
+Review 14:
+	Job Title: Analyst
+	Location: Morgantown, WV
+	Review Date: 2024-02-22T13:29:35.377
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Flexibility, pay, and benefits are all a plus
+
+
+	Cons: 
+		Micromanaging, slow at times, people aren't easy to work with
+
+
+	Summary: 
+		Love the job
+
+
+Review 15:
+	Job Title: Chemist
+	Location: Sugar Land, TX
+	Review Date: 2024-02-16T01:09:57.517
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		good for entry level to learn the basics
+
+
+	Cons: 
+		favoritism by QC management, toxic environment is lab
+
+
+	Summary: 
+		Toxic Environment
+
+
+Review 16:
+	Job Title: Validation Manager
+	Location: San Antonio, TX
+	Review Date: 2024-02-07T13:57:46.973
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Fair salary
+		Competitive Salaries 
+		Opportunities for advancement
+
+
+	Cons: 
+		Leadership not aligned on priorities
+
+
+	Summary: 
+		Career Advancement Opportunities
+
+
+Review 17:
+	Job Title: Sales Development Representative (SDR)
+	Location: None
+	Review Date: 2024-01-20T11:37:03.213
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Seemed to be a place where many good people came together for a common band aid job until they found something more substantial.
+
+
+	Cons: 
+		Management is not strong, New England, Florida and a few others are comically awful. To be fair the branded division of this company has no idea what it wants to be, if anything.
+
+
+	Summary: 
+		Viatris Respiratory/Two managers getting canned after Puerto Rico for turnover, alcoholism at meetings.
+
+
+Review 18:
+	Job Title: Associate Manager
+	Location: Morgantown, WV
+	Review Date: 2024-02-02T13:07:14.890
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		excellent health benefits for low employee cost
+
+
+	Cons: 
+		culture is poor, lots of favoritism, scape goating
+
+
+	Summary: 
+		great benefits, poor culture
+
+
+Review 19:
+	Job Title: National Account Manager
+	Location: Washington, DC
+	Review Date: 2024-01-21T10:09:53.420
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The culture is warm and helpful
+
+
+	Cons: 
+		Working from home can be challenging for some
+
+
+	Summary: 
+		Great Company
+
+
+Review 20:
+	Job Title: Quality Control Associate Scientist
+	Location: San Antonio, TX
+	Review Date: 2023-12-23T16:23:02.690
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Most days are steady work with few interruptions. Work is consistent and assays are improving. Coworkers are great and my managers are understanding. Learning and experience is the primary goal for each individual.
+
+
+	Cons: 
+		Can have a sour day ruin the weeks experiences. Pay could be better.
+
+
+	Summary: 
+		Great experience
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,690 @@
+
+Oracle is a Computer Software company based in 78741 Austin, Texas. 
+The company has 143,000 employees and has a revenue of $42,440 according to Fortune 500.
+The company is valued at $250,866 and has a profit of $6,717. The CEO of the company is Safra A. Catz.
+
+The Company has the following ratings: 
+Average ratings for Oracle:
+Business Outlook: 0.7
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 959 
+	2: 1417 
+	3: 3611 
+	4: 4706 
+	5: 4204 
+
+CEO: 0.81
+
+Compensation and Benefits: 3.5
+Distribution: 
+	1: 1030 
+	2: 1777 
+	3: 4239 
+	4: 4465 
+	5: 3296 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 1127 
+	2: 1330 
+	3: 2883 
+	4: 4459 
+	5: 4917 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 743 
+	2: 916 
+	3: 2340 
+	4: 4363 
+	5: 6212 
+
+Overall: 3.8
+Distribution: 
+	1: 820 
+	2: 1315 
+	3: 4506 
+	4: 7245 
+	5: 5801 
+
+Senior Management: 3.5
+Distribution: 
+	1: 1599 
+	2: 1682 
+	3: 3328 
+	4: 4260 
+	5: 3722 
+
+Work Life Balance: 4
+Distribution: 
+	1: 773 
+	2: 1035 
+	3: 2495 
+	4: 4124 
+	5: 6245 
+
+Review Count: 51649
+
+Recommend to Friend: 
+	RECOMMEND: 8873
+	WONT RECOMMEND: 2914
+
+
+
+
+The company has 53832 reviews on Glassdoor. The last review was posted on 2024-04-18T03:11:54.773. 
+There are 20 Reviews for Oracle:
+
+Review 1:
+	Job Title: Sr. Project Manager
+	Location: None
+	Review Date: 2023-10-12T14:08:48.740
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Team autonomy was great. Had a great ability to work in my own bubble to provide value.
+
+
+	Cons: 
+		The work was not all encompassing and some aspects between customers were not consistent which lead to knowledge gaps. Training was always ongoing to make sure nothing was missed between accounts. There was no central place to understand all aspects unless you were to read every SOP for the department and even then some were out of date.
+
+
+	Summary: 
+		Excellent Experience at Oracle
+
+
+Review 2:
+	Job Title: Technical Analyst III (Support)
+	Location: Denver, CO
+	Review Date: 2014-10-21T16:15:55.177
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Every group/division can be different in how they treat their employees, but I'd say overall there is very good atmosphere of trust and fairness. There is a strong focus on education, and they reimburse for outside classes taken (Up to 5k/year I think). Benefits are good, and I'd say quite competitive in the market. Good 401K matching (they'll contribute a max of 3% of your 6% or greater). Free drinks in the breakroom. Flexibility to work from home at times. (If you live 50+ miles away from an office you can work full-time from home...policy).
+
+
+	Cons: 
+		They don't try to make the workplace anything special (maybe a pool table and arcade game are cliche or gimmicky?). In the 10 years I've worked there, they've given 2 measly %1 cost of living raises (this is the same with most everyone I've spoken to, some don't get any raises). You will not get a substantial raise ever, unless you leave then get rehired on (they will not match offers, better to leave). New employees that you train will make 10 - 20K more than you several years after you hire on (not just me, they do this to all tenured employees). They will give these untrained, less experienced people higher titles (again this is done to everyone not just me). You learn pretty quickly that you're dispensable. The company has billions in cash and they don't re-invest in their employees, just in acquiring new companies and hiring new people that know nothing that you get to train.
+
+
+	Summary: 
+		Great benefits, good people, slow innovation, no raises
+
+
+Review 3:
+	Job Title: Cloud Sales Specialist
+	Location: None
+	Review Date: 2024-03-24T14:53:13.533
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Compensation: Oracle typically offers competitive salaries and benefits, including commissions and bonuses for sales roles. High performers can earn significant income.
+		
+		Training and Development: Oracle invests in training and development programs for its employees, especially those in sales roles. You may have access to resources and opportunities to enhance your skills and knowledge in sales techniques, technology, and products.
+		
+		Career Growth: With its size and global presence, Oracle offers opportunities for career advancement. Successful sales professionals may have the chance to move up the ranks, take on leadership roles, or transition into other areas within the company.
+		
+		Brand Reputation: Oracle is a well-established and respected company in the technology industry. Working for a reputable brand like Oracle can enhance your credibility and open doors for future career opportunities.
+
+
+	Cons: 
+		High Pressure: Sales roles at Oracle can be high-pressure environments, with aggressive sales targets and quotas to meet. This pressure to perform can lead to stress and burnout for some individuals.
+		
+		Complex Sales Process: Selling Oracle products and services often involves navigating complex sales cycles and dealing with various stakeholders within client organizations. This complexity can make the sales process challenging and time-consuming.
+		
+		Market Saturation: Oracle faces stiff competition in the technology market from other major players like Microsoft, AWS, Salesforce, SAP, &amp; GCP. Competing in a saturated market can make it difficult to stand out and win new business, which in turn leads up to getting let go.
+
+
+	Summary: 
+		Big Tech Sales
+
+
+Review 4:
+	Job Title: Business Development Consultant
+	Location: Burlington, MA
+	Review Date: 2024-04-16T07:29:18.353
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		- Hybrid Schedule
+		- Some people are nice
+		- Good benefits
+
+
+	Cons: 
+		- The role was completely different from what they said it would be. Gave false promises. 
+		- Management blocks any opportunity for promotion.
+		- Vague about requirements to be allowed to interview/network for the next role. Seem to be stalling employees after the numerous layoffs.
+		- Bad management. They don't care about their employees despite how much work they put in unless they hit the numbers (which are inflated)
+		- Unrealistic expectations
+		- Poor comp structure 
+		- Poor development &amp; growth
+		- Promotes an unhealthy competitive atmosphere to the point of people lying about their quota/attainment
+		- You have to lie to get ahead!!
+		- Unorganized overall, they are quick to toss you in the trash if you aren't lying to get ahead.
+
+
+	Summary: 
+		Don't work here!
+
+
+Review 5:
+	Job Title: Business Development Representative (BDR)
+	Location: Austin, TX
+	Review Date: 2024-04-01T07:36:24.427
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		If you are right out of college with little to no sales experience, a BDR role is a decent way to start. The pay is good to the low barrier of entry, and you can get paid well if you do above average work
+
+
+	Cons: 
+		Management is in disarray constantly. Turnover is constant with ever increasing quotas, irresponsible and undertrained managers result in underutilized talent that is consistently underappreciated. you are the bottom of the totem pole, don't forget it. When things go well they're fine, but as soon as momentum shifts, you are the one to blame
+
+
+	Summary: 
+		Good first sales job
+
+
+Review 6:
+	Job Title: Sales Executive
+	Location: Reston, VA
+	Review Date: 2024-01-04T19:37:46.753
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Known brand 
+		Insurance 
+		Good for bio IF customers and companies admire Oracle product and culture 
+		OCI and Apps
+
+
+	Cons: 
+		Old guard is the weakest link if they have never left to experience other companies’ culture, management styles, and returned to Oracle. 
+		
+		HR empowers and protects short-sighted, insecure, transactional Toxic Management at the cost of sales flight risk and long term customer satisfaction 
+		
+		Senior Management P &amp; P are inconsistent and transactional. They are not monitored by Sales Excellence for consistency in Oracle culture, communication, and team KPIs. 
+		
+		Constant layoffs and reorgs
+		
+		Quarter close is transactional; steamroll 
+		
+		Customers are valued as a transaction not as a strategic investment 
+		
+		ASMs are constantly rotated through accounts 
+		
+		Tenured employees are intentionally paid low base salaries unless they leave Oracle and return 
+		
+		Cutthroat culture: no trust among multiple product lines, Cloud, ASMs, BDRs, and cross product leadership
+		
+		Club is held in Vegas immediately before Vegas-based Users Conference. Many multi -year club winner ASMs and many Sales leaders are boycotting it, since Oracle post COVID is refusing to properly invest in a Tier 1 Club nor to pay for “significant others” to attend. 
+		
+		Quotas don’t take into consideration that in some industries, Customers are fed up with siloed cutthroat Oracle go-to-market. Many legacy customers are instructed by procurement to go out to bid for lower cost options, supported by customer-friendly account management and value-based commercial terms.
+
+
+	Summary: 
+		Underpaid base salaries. Politics, Old Oracle, Apps incomplete
+
+
+Review 7:
+	Job Title: Implementation Project Manager
+	Location: None
+	Review Date: 2024-04-10T17:01:09.293
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Work from home remote. Offers Good benefits.
+
+
+	Cons: 
+		No annual increases, despite it being brought up every year in the employee surveys. No room for growth or even lateral promotions. Leadership does not care when you need assistance. Leadership would rather stay quiet and watch you struggle than to get involved themselves. Hotel Consulting needs new leadership. No one knows what the long term plans are for the organization, we have no idea what’s going on.
+
+
+	Summary: 
+		Team is great. That’s it.
+
+
+Review 8:
+	Job Title: System Support Analyst
+	Location: Kansas City, MO
+	Review Date: 2024-04-13T13:23:40.737
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		good health benefits and 401k perks are pretty decent. ability to work remotely is common still.
+
+
+	Cons: 
+		The lack of support from top heavy management is consistently increasing. Clients keep leaving due to frustration with unstable services. Oracle Cerner employees haven't gotten raises since the acquisition in 2022.
+
+
+	Summary: 
+		Very Disorganized management. low hourly wage and low morale in the work environment
+
+
+Review 9:
+	Job Title: Technology Consultant
+	Location: Atlanta, GA
+	Review Date: 2024-03-11T16:14:22.180
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 5
+	Work Life Balance: 2
+
+	Pros: 
+		The people on your team are probably going to have great communication skills, I encountered many genuine people at this company who were upper management. ( I moved from Cerner to Oracle, so that may have something to do it with though) I also joined the black organization that they have and the people were very genuine, so I would say they have pretty good culture and inclusion.
+
+
+	Cons: 
+		The pay was the downside and feeling like you have to overwork and always stay busy. Towards the end of my joinery at the company they did a lot of layoffs and then let us know that there wouldn't be any pay raises for a year and then they told us that overtime would be appreciated but still clocking our time very closely, so it didn't make sense for me to stay in an environment where they want you to be busy, but not giving you enough hours or projects but also asking you to work overtime if you have to, but also watching how many hours you work overtime very closely.
+
+
+	Summary: 
+		Good and Bad
+
+
+Review 10:
+	Job Title: Business Development Executive
+	Location: Austin, TX
+	Review Date: 2024-02-09T07:29:15.527
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Do well get treated well, like the favorite child. Make sure your managers love you and you will be loved back. When the stress from upper mgt trickles down to you, just say "you're right and thank you for pointing that out". it's that kinda org...
+
+
+	Cons: 
+		Mess up? prepare for hell and daily threats of getting fired with reminders of how useless you are. Their training programs are ineffective, you only learn from yourself or your peers, you have to pave your own way. 
+		It doesn't get any more traditional in terms of climbing up the ladder here, You have to keep a bragging report of your achievements, and network your way in. And people have to like you to get promoted, your numbers are not enough.. people with less achievements have gotten early promos that don't make sense. Stress is insane here.. you can see fear in your manager's eyes and tone... Your managers will tell you one thing and deny it the second their upper manager tells them otherwise because everyone is THAT afraid to make a mistake here. Employee Morale is continuously surprising us how low it can go, Goooooooooooood luck :)
+		Also forget bout taking holidays because you'll need the numbers to prove it &amp; even if you're fine.. you'll be terrified about how to compensate the days 'wasted' on rest.
+
+
+	Summary: 
+		You Get Treated based on Performance
+
+
+Review 11:
+	Job Title: Business Development Consultant
+	Location: Austin, TX
+	Review Date: 2024-04-10T07:04:29.680
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 2
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Excellent place for an introduction to sales and consulting for a recent grad.
+		So much knowledge is shared in so many industries.
+		The culture is college 2.0
+		If you are in the market for a mentor, this is your place.
+
+
+	Cons: 
+		It's a sales position, if you are not looking into a sales career then maybe don't go into this position. 
+		They want you to stay within the sales career growth route.
+		ASMs have been proven to not be as helpful in sales cycles.
+
+
+	Summary: 
+		Great Learning opportunity
+
+
+Review 12:
+	Job Title: Site Reliability Engineer
+	Location: Virginia Beach, VA
+	Review Date: 2024-04-04T07:50:33.453
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		remote friendly. Hours usually reasonable. easy to transfer. I transferred twice and finally got on a team I wanted.
+
+
+	Cons: 
+		Few if any raises ever in a lot of teams. I know people who go 5 years and no raises. Lack of RSU refreshers. There are good SRE jobs where you do real work, but many are tier 2 support runbook bunnies with no raises. Ask when interview
+		
+		Lots of smaller layoffs. You see them on blind all the time. Almost monthly. Oracle has always been like this.
+
+
+	Summary: 
+		Remote available, but few raises
+
+
+Review 13:
+	Job Title: Business Analyst
+	Location: Austin, TX
+	Review Date: 2024-01-30T11:07:35.790
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay, many of our support teams are remote, and you don't need much tech knowledge. Aside from Excel, most of our tools are built and developed in-house, so you don't need a degree in IT or coding knowledge to work as a business analyst with finance and sales data
+
+
+	Cons: 
+		It's a well known "secret" that the only way to get a pay increase is to leave the company, then get rehired for the same role as an "outside hire." This is mind-boggling and leads to a massive brain drain throughout the year. One reason for this is because bonuses and raises are not a thing; you do not have a performance review and there are no career milestones to work towards (leading to, effectively, a dead-end job). Finally, most operation teams are seriously overworked. This is caused by people leaving (probably to seek more pay) and management "temporarily" giving their workload to someone else on the team while they "find a replacement." This never happens; I know some teams that shrank from 10 to 6 analysts and stayed like that for years. And no, we do not get more pay with these increased workloads (trust me, I've asked)
+
+
+	Summary: 
+		This company will slowly take advantage of you as your career stalls and workload increases
+
+
+Review 14:
+	Job Title: Instructor/Sr. Manager Training Development
+	Location: None
+	Review Date: 2023-11-22T08:03:39.763
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Smart, interesting colleagues. Opportunity to learn about excellent but very complex products. Great resume entry. Good insurance and stock buys options. Oracle used to have the philosophy, “Find all your smartest friends and get them to come work here.”, but I haven’t heard anyone say that in more than a decade.
+
+
+	Cons: 
+		In the 15+ years I was there, most of the time we had headcount and salary freezes. I started as a trainee, but despite more than qualifying was never given promised non-trainee status and $25k raise because of constant freezes. Getting re-hired for an open position took eight months because of freezes. To get a promotion I had to leave the company for a few years. The team I came back to never saw raises, not even COLA, and our team was paid noticeably under professional averages. I had some great managers, very admirable, who also weren’t getting raises. Constant posturing and direction changes for Wall Street but not much substance support. Frequent layoffs so no one felt secure. Toward the end of my tenure they removed support for a large percentage of paying customers who didn’t want to move to the Cloud (often for very good reasons). Oracle will take all of your time if you let it - it’s up to you to draw life boundaries and hope your manager will support you. It used to be a much more diverse place, but once the post-1990’s layoffs started it’s become whiter and more male.
+
+
+	Summary: 
+		Instructor/Sr. Manager Training Development
+
+
+Review 15:
+	Job Title: Application Sales Executive
+	Location: Houston, TX
+	Review Date: 2024-04-17T21:31:37.750
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Work from home. Good commission.
+
+
+	Cons: 
+		Makes sure you get the right patch. You are a number on a piece of paper vs your quota. Base was mediocre
+
+
+	Summary: 
+		Sales Job
+
+
+Review 16:
+	Job Title: Software Engineer III
+	Location: Seattle, WA
+	Review Date: 2024-04-12T15:04:20.963
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		- People are friendly, helpful, and hardworking
+		- Work is challenging and engaging
+		- Opportunity for growth and promotion
+
+
+	Cons: 
+		- Really poor work/life balance, even outside of on-call rotations there is an expectation of working late nights and on weekends
+		- Management can be poor, excessive operational tasks leads to randomization
+
+
+	Summary: 
+		Good people - bad work/life balance
+
+
+Review 17:
+	Job Title: Director of IT
+	Location: Redwood Shores, CA
+	Review Date: 2024-04-17T14:27:22.753
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		flexibility in work hours
+		company cares about employees
+		provides excellent support system
+
+
+	Cons: 
+		Some orgs are not good culture wise such as OCI
+
+
+	Summary: 
+		Good company to work for
+
+
+Review 18:
+	Job Title: Industry Sales Executive
+	Location: Chicago, IL
+	Review Date: 2024-04-02T05:18:37.013
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Excellent products, great resources, tons of online training, great partnerships
+
+
+	Cons: 
+		Awful Leadership- not strategic
+		Gentlemen Club
+		Consistently change Sales Executive’s territory yearly making it difficult to build strong relationships or make commissions 
+		Customer Service is poor 
+		My way or the highway mindset
+		Bullying tactics 
+		Only 20-30% hit quota or above 
+		Most Sales Executives hit only 30% to plan causing an unhappy and unmotivated 
+		sales team.
+		President Club is a secret club and not based on merit since there is no criteria for hitting plan.
+		Too many cons to share!
+
+
+	Summary: 
+		Sales Leadership Lack Vision &amp; Strategy 
+
+
+Review 19:
+	Job Title: Academy Consultant
+	Location: Austin, TX
+	Review Date: 2024-04-17T05:23:23.900
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Very good pay, lots of resources, good travel.
+
+
+	Cons: 
+		Management can be very hands-off, and leave you to figure things out on your own.
+
+
+	Summary: 
+		Working As an Academy Consultant
+
+
+Review 20:
+	Job Title: Contracts Manager
+	Location: Austin, TX
+	Review Date: 2024-04-17T19:39:56.313
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Work-life balance is great and there is unlimited PTO.
+
+
+	Cons: 
+		Lack of raise, bonus, or promotion
+
+
+	Summary: 
+		Great place to work
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,645 @@
+
+Stryker is a Medical Products and Equipment company based in 49002 Kalamazoo, Michigan. 
+The company has 51,000 employees and has a revenue of $18,449 according to Fortune 500.
+The company is valued at $108,228 and has a profit of $2,358. The CEO of the company is Kevin A. Lobo.
+
+The Company has the following ratings: 
+Average ratings for Stryker:
+Business Outlook: 0.78
+
+Career Opportunities: 4
+Distribution: 
+	1: 370 
+	2: 440 
+	3: 845 
+	4: 1319 
+	5: 2073 
+
+CEO: 0.93
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 217 
+	2: 392 
+	3: 1046 
+	4: 1660 
+	5: 1728 
+
+Culture and Values: 4.1
+Distribution: 
+	1: 386 
+	2: 342 
+	3: 590 
+	4: 1039 
+	5: 2498 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 200 
+	2: 162 
+	3: 341 
+	4: 606 
+	5: 1415 
+
+Overall: 4.1
+Distribution: 
+	1: 359 
+	2: 420 
+	3: 928 
+	4: 1756 
+	5: 2700 
+
+Senior Management: 3.8
+Distribution: 
+	1: 604 
+	2: 513 
+	3: 892 
+	4: 1249 
+	5: 1740 
+
+Work Life Balance: 3.7
+Distribution: 
+	1: 536 
+	2: 541 
+	3: 1022 
+	4: 1283 
+	5: 1647 
+
+Review Count: 6177
+
+Recommend to Friend: 
+	RECOMMEND: 3563
+	WONT RECOMMEND: 948
+
+
+
+
+The company has 7005 reviews on Glassdoor. The last review was posted on 2024-04-18T00:19:26.677. 
+There are 20 Reviews for Stryker:
+
+Review 1:
+	Job Title: On Site Specialist
+	Location: Chicago, IL
+	Review Date: 2024-04-16T10:55:44.630
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Amazing benefits, friendly people, good time off
+
+
+	Cons: 
+		2nd shift was understaffed but changed soon which made it better
+
+
+	Summary: 
+		Good company
+
+
+Review 2:
+	Job Title: Senior Staff Engineer
+	Location: Kalamazoo, MI
+	Review Date: 2024-04-10T14:26:29.930
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 1
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Cost for healthcare is only mildly high (~$5k/year family premium), awesome 11% total 401k contribution (50% match on the first 8% plus 7% annual discretionary contribution), generally a very friendly environment with good resources provided.
+
+
+	Cons: 
+		Raises have been less than inflation for the last 3 years. Everyone is a part of the inclusion drive except for white men, but that's the way of the world now. It'd be nice if they'd at least throw us a bone like some of my prior employers by creating a "volunteering" ERG or something to that effect -- anything that we could join to meet their DEI goals, which are a big deal here. As it is, I feel very marginalized at the corporate level, although the local management is great.
+
+
+	Summary: 
+		Better than other places in a lot of ways, but big on DEI and small raises
+
+
+Review 3:
+	Job Title: Mechanical Design Engineer
+	Location: Portage, MI
+	Review Date: 2024-04-15T16:20:34.620
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great culture, pretty good perks, would not mind coming back after having been at other companies.
+
+
+	Cons: 
+		Can be a little bureaucratic due to its size. Not a whole lot of flexibility in responsibilities for your role, also due to its size.
+
+
+	Summary: 
+		Good company, middle of market pay
+
+
+Review 4:
+	Job Title: Senior Segmentation Representative
+	Location: Weston, FL
+	Review Date: 2024-01-09T11:49:38.077
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		-Ok pay, depending on where you are and your financial responsibilities
+		
+		-Great co-workers will make the day go fast
+		
+		-Lots of work
+		
+		-Great for a very short period, if you're in college and planning on moving on to something else.
+
+
+	Cons: 
+		-No time/life balance, if you have a life, or family, you need not apply.
+		
+		-Management has good intentions, however, mainly practices favoritism
+		
+		-Not remote, even though the work is totally capable of being done remotely. You can literally plug your laptop into any desk and be up and running in a few minutes. 
+		
+		-Constant micromanaging
+		
+		-No chance of moving up in the company, unless, refer to above, you're the favorite. 
+		
+		-The work itself doesn't lead to other opportunities, both within the company, nor, externally, as it's very specialized, unless you're working on something else entirely on your free time, which there isn't much of. The experience gained doing the work, in and of itself, doesn't lead to any other career opportunities based off anything similar. Which is why they encourage management skills, while those practicing said managerial skills aren't actually doing as much work as everyone else. However, because they're giving the managers a hand, they become the favorite, and they are first in line for every opportunity.
+
+
+	Summary: 
+		Don't Do It
+
+
+Review 5:
+	Job Title: Sr. Principal Engineer
+	Location: San Francisco, CA
+	Review Date: 2024-04-17T12:29:30.750
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Wonderful people to work and understand
+
+
+	Cons: 
+		Not great new technology opportunites as this is Medical industry
+
+
+	Summary: 
+		Great place to work
+
+
+Review 6:
+	Job Title: Demand Planner
+	Location: Leesburg, VA
+	Review Date: 2024-04-02T14:00:46.253
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Rewarding environment, good 401k match, 7% yearly 401k bonus, yearly performance cash bonus, great health plan, tuition reimbursement, stock purchase plan, established yearly raise cycle.
+
+
+	Cons: 
+		Compensation can varry highly based on the cannidate negotiating. Promotion opportunties can be limited, and internal promotion opportuntites are highly-competive.
+		
+		5 year vest to receive full 401k match, 1 year tenure to start receiving tuition reimbursement
+		
+		Some managers are inexpereinced
+
+
+	Summary: 
+		Good Pros vs Cons
+
+
+Review 7:
+	Job Title: Trauma Sales Representative
+	Location: Washington, DC
+	Review Date: 2024-04-12T14:11:39.830
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 2
+
+	Pros: 
+		Benefits are great, company puts a lot of time and effort into their reps.
+
+
+	Cons: 
+		Work life balance is hard, but the Stryker name means a lot to surgeons.
+
+
+	Summary: 
+		Great benefits
+
+
+Review 8:
+	Job Title: None
+	Location: None
+	Review Date: 2018-08-06T18:08:13.383
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Stryker has one of the best working atmospheres I have ever been a part of. They know how to hire the right people and the people mesh together easily and well. They understand innovation and are great at identifying upcoming medical technology to help them continue to grow on a positive direction every year. Unlimited growth potential within any of its divisions once you are in.
+
+
+	Cons: 
+		Competitive to get into and the entry level positions can be tough.
+		
+		Attracts a lot of people who are competitive and sales oriented which is great to a point. Also due to the quick nature of the business, many people are trained "trial by fire" style which can be stressful. Finally with the competitive nature comes a lot of people who work outside normal hours for better or for worse.
+
+
+	Summary: 
+		Operations Associate
+
+
+Review 9:
+	Job Title: Senior Buyer
+	Location: Crystal Lake, IL
+	Review Date: 2024-04-15T19:57:53.437
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		It has a great culture.
+
+
+	Cons: 
+		There were not any negatives.
+
+
+	Summary: 
+		Great place to work
+
+
+Review 10:
+	Job Title: Senior Document Specialist
+	Location: Cary, IL
+	Review Date: 2024-04-09T20:04:19.523
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great culture and health benefits.
+
+
+	Cons: 
+		Can feel like a small company
+
+
+	Summary: 
+		Good Company to work for
+
+
+Review 11:
+	Job Title: Onsite Specialist
+	Location: Bellevue, WA
+	Review Date: 2024-02-15T09:03:04.880
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		If you're looking to get into surgical sales or just want to be part of helping a hospital without a medical degree, this position would be great for you. Stryker does seem to care about advancing their employees, if the employees are interested in it. There's a lot of training and career growth you can do within this job. Even though I only had an associates degree and no experience in this field, I was still able to get the job with a referral.
+
+
+	Cons: 
+		Would not recommend doing this work if you get faint at blood and gore, or if you have a weak stomach. If you get easily stressed, it might also be difficult as there are times we need to rush to get something into an ongoing surgery. This more so happens to you when you have more experience, but it is something to be aware of.
+
+
+	Summary: 
+		Good Starting Opportunity
+
+
+Review 12:
+	Job Title: Onsite Specialist
+	Location: Houston, TX
+	Review Date: 2024-04-12T09:27:10.537
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 3
+
+	Pros: 
+		Great insurance and benefits normal PTO and holiday
+
+
+	Cons: 
+		Management can be ify at times, schedule changes and on-call
+
+
+	Summary: 
+		Onsite
+
+
+Review 13:
+	Job Title: Sales
+	Location: None
+	Review Date: 2024-04-12T12:29:54.553
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great Culture, Great Products, Great Strategy, Great Benefits
+
+
+	Cons: 
+		Nothing comes to mind as a con
+
+
+	Summary: 
+		Great Company
+
+
+Review 14:
+	Job Title: Data Analyst
+	Location: None
+	Review Date: 2024-04-08T19:27:05.537
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		great team work, lots of project for you to grow
+
+
+	Cons: 
+		too busy sometimes, need to have call with offshore team everyday
+
+
+	Summary: 
+		good team work 
+
+
+Review 15:
+	Job Title: Onsite Specialist
+	Location: Fairfax, VA
+	Review Date: 2024-04-04T14:22:36.667
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		if you network well you can move to just about any position you want if you put in the work to attain those skills
+
+
+	Cons: 
+		entry level positions does not get enough support 
+		overtime is default depending on account
+
+
+	Summary: 
+		stryker
+
+
+Review 16:
+	Job Title: IT Rotation Program
+	Location: Portage, MI
+	Review Date: 2024-04-07T18:41:41.427
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Surrounded by friendly, honest, and hardworking people.
+
+
+	Cons: 
+		Breakfast and lunch is cheaper but not free like in other companies
+
+
+	Summary: 
+		Great place to work, strong community
+
+
+Review 17:
+	Job Title: None
+	Location: None
+	Review Date: 2024-04-06T18:12:07.207
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		This company is organized and to pay well.
+
+
+	Cons: 
+		Developed a front-end with a modular dashboard interface using React, TypeScript, and Jest
+
+
+	Summary: 
+		COOL COMPANY
+
+
+Review 18:
+	Job Title: Senior Staff Engineer
+	Location: Salt Lake City, UT
+	Review Date: 2024-04-08T13:10:52.263
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Pays well and products are great
+
+
+	Cons: 
+		Very political environment and can be very busy yet boring
+
+
+	Summary: 
+		Decent
+
+
+Review 19:
+	Job Title: Staff Regulatory Affairs Specialist
+	Location: None
+	Review Date: 2024-01-20T13:51:55.587
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Stryker values their employees and patients. Expect a stable, inclusive work environment with competent colleagues who prioritize quality over cutting corners. Make sure to be accountable for your work at all times. Come to work fully prepared to do your best for your colleagues and patients.
+
+
+	Cons: 
+		Working with colleagues who are highly competent and driven can create a toxic environment for those who are not motivated by competition. At Stryker, the salary is not competitive. I have been with the company for nine years and would only consider leaving for a higher salary.
+
+
+	Summary: 
+		Career Growth and Work/Life Balance Abound
+
+
+Review 20:
+	Job Title: Sales Representative
+	Location: New York, NY
+	Review Date: 2024-04-02T12:12:58.907
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		They have a solid implant portfolio that will give you an edge with your surgeons.
+
+
+	Cons: 
+		They are overly dependent on expensive technology. (Robots)
+
+
+	Summary: 
+		Great products to fill your bag
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

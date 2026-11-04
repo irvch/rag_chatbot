@@ -1,0 +1,637 @@
+
+Coca-Cola is a Beverages company based in 30313 Atlanta, Georgia. 
+The company has 82,500 employees and has a revenue of $43,004 according to Fortune 500.
+The company is valued at $268,361 and has a profit of $9,542. The CEO of the company is James R. Quincey.
+
+The Company has the following ratings: 
+Average ratings for Coca-Cola:
+Business Outlook: 0.71
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 558 
+	2: 860 
+	3: 1547 
+	4: 1519 
+	5: 1556 
+
+CEO: 0.87
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 271 
+	2: 573 
+	3: 1403 
+	4: 1943 
+	5: 1789 
+
+Culture and Values: 4
+Distribution: 
+	1: 551 
+	2: 629 
+	3: 1113 
+	4: 1491 
+	5: 1836 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 170 
+	2: 164 
+	3: 480 
+	4: 641 
+	5: 1200 
+
+Overall: 4.1
+Distribution: 
+	1: 448 
+	2: 685 
+	3: 1637 
+	4: 2393 
+	5: 2579 
+
+Senior Management: 3.7
+Distribution: 
+	1: 896 
+	2: 837 
+	3: 1437 
+	4: 1375 
+	5: 1226 
+
+Work Life Balance: 3.7
+Distribution: 
+	1: 669 
+	2: 827 
+	3: 1448 
+	4: 1453 
+	5: 1550 
+
+Review Count: 7753
+
+Recommend to Friend: 
+	RECOMMEND: 3780
+	WONT RECOMMEND: 1476
+
+
+
+
+The company has 9373 reviews on Glassdoor. The last review was posted on 2024-04-18T01:03:39.623. 
+There are 20 Reviews for Coca-Cola:
+
+Review 1:
+	Job Title: Senior Manager
+	Location: Atlanta, GA
+	Review Date: 2023-12-30T23:00:26.353
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Growth opportunities, positive culture, competitive compensation, amazing bonus potential
+
+
+	Cons: 
+		No real cons working here.
+
+
+	Summary: 
+		Great place to work
+
+
+Review 2:
+	Job Title: Senior Analyst
+	Location: Atlanta, GA
+	Review Date: 2024-04-18T01:03:39.623
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great company culture. Competitive salary and benefits.
+
+
+	Cons: 
+		Continuous restructuring/reorganization and so job security can be a concern
+
+
+	Summary: 
+		One of the best employers
+
+
+Review 3:
+	Job Title: Merchandiser
+	Location: Oklahoma City, OK
+	Review Date: 2024-04-16T08:14:33.767
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good working hours, good benifits, decent pay, good bonuses
+
+
+	Cons: 
+		No family time, all about their money, putting thousands on miles on your car for their benefit.
+
+
+	Summary: 
+		Trash company 
+
+
+Review 4:
+	Job Title: Office Assistant
+	Location: None
+	Review Date: 2024-04-16T13:16:07.890
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		stable work environment, great co workers
+
+
+	Cons: 
+		Low pay, fast pace, apathetic mgmt
+
+
+	Summary: 
+		coca cola office
+
+
+Review 5:
+	Job Title: Customer Account Analyst
+	Location: Atlanta, GA
+	Review Date: 2024-02-22T14:53:42.783
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		I have a good work life balance, access awesome benefits and "work perks" such as discounts, event tickets, health rewards, ect.. There is a lot of room for growth and development, which is encouraged from executive, functional and direct leadership. There is a role/position for almost any career aspiration as the company is very large. Overall is its a great company to work for and the pros definitely outweigh the cons.
+
+
+	Cons: 
+		There can be a lot a changes happening at once, from organizational changes to process changes which can be hard to keep track. There is also a significant learning curve when joining the company, as the business model and it's processes are quite complex; people tend to speak in speak in acronyms which can be confusing for a new hire. As with any large organization , politics can be an issue for some.
+
+
+	Summary: 
+		Good Company, Good Benefits, Lots of Opportunity
+
+
+Review 6:
+	Job Title: Sales
+	Location: New York, NY
+	Review Date: 2024-04-17T08:30:54.050
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		I like the coke products
+
+
+	Cons: 
+		there was of heavy lifting involved
+
+
+	Summary: 
+		-
+
+
+Review 7:
+	Job Title: None
+	Location: None
+	Review Date: 2024-02-22T20:39:36.323
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Below the vice president levels people are extremely friendly and their just to do what is best for the company and work well together 
+		
+		The bonuses at higher levels are amazing.
+
+
+	Cons: 
+		Very conservative company
+		
+		Slow and more focused on operational efficiency than innovation and true top tier growth. 
+		
+		Everyone seems super friendly but they are cut throat at the top and extremely political. If you aren’t savvy enough you won’t see it coming.
+
+
+	Summary: 
+		Excellent place to work but very conservative and political company 
+
+
+Review 8:
+	Job Title: Manager, Data Steward
+	Location: Atlanta, GA
+	Review Date: 2024-03-22T06:34:42.607
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Intentionally inclusive culture*, decent pay, decent benefits
+
+
+	Cons: 
+		*Sometimes the culture seems exceptionally forced &amp; some actions to push the culture seem counterintuitive. Mandatory 3 days in office policy started 2024. Annual compensation decisions lack transparency, &amp; the company doesn't seem to be engaging in raise guidelines/practices that their documentation says they will.
+
+
+	Summary: 
+		It Could Be Better
+
+
+Review 9:
+	Job Title: Senior Manager
+	Location: Atlanta, GA
+	Review Date: 2024-04-11T20:23:05.060
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Benefits
+		Flexibility 
+		Pay
+		Work life balance
+
+
+	Cons: 
+		There are none that I can think of at this time
+
+
+	Summary: 
+		Great Company
+
+
+Review 10:
+	Job Title: Sales Manager
+	Location: Somerset, KY
+	Review Date: 2024-04-15T08:19:00.593
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		Good PTO time
+		Company car offered
+
+
+	Cons: 
+		work/home balance
+		no company supplied phone
+
+
+	Summary: 
+		job
+
+
+Review 11:
+	Job Title: Modern Trade - Sales
+	Location: None
+	Review Date: 2024-04-11T14:14:56.790
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Good compensation in terms of health insurance
+
+
+	Cons: 
+		They have slim type of manning or minimal employees
+
+
+	Summary: 
+		Above average compensated
+
+
+Review 12:
+	Job Title: Contract - Archivist
+	Location: Atlanta, GA
+	Review Date: 2024-03-14T10:42:54.337
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The archive here is fantastic. It's a very comfortable environment and you'll get to work with all sorts of cool artifacts and records. They have a good asset management system and state-of-the-art shelving to protect their amazing collections. I was spoiled for this to be one of my first jobs.
+
+
+	Cons: 
+		The employment wasn't very stable. I was under contract for one year, but let go two months early because I did the job too quickly, despite the archive still having use for me beyond the initial project I was working on.
+
+
+	Summary: 
+		Great environment, unstable employment
+
+
+Review 13:
+	Job Title: None
+	Location: Atlanta, GA
+	Review Date: 2024-03-10T13:25:25.450
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		If you like change, learning, growth - The Coca-Cola Company could be a good place for you! It's a big organization so there's variation on this, but it's generally a very positive, friendly, engaging group of people to work with. I found the work to be challenging, innovative and highly collaborative. I loved working with colleagues all over the world.
+
+
+	Cons: 
+		Work/life balance was always an issue for me, partly due to workload, partly because of my own standards and partly because I worked with an international team which required working early and late a fair amount.
+
+
+	Summary: 
+		Dynamic place to work!
+
+
+Review 14:
+	Job Title: Senior Manager
+	Location: Atlanta, GA
+	Review Date: 2024-02-26T10:59:32.767
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Very nice campus, decent salary (bonus heavy focus), good benefits, Liberal company policies.
+
+
+	Cons: 
+		Very results driven, Potential for very long hours, high pressure, poor work life balance structure once you move up past a certain level. Coke prides itself on the reputation they have in the public eye; however, it has been my experience that this reputation is far from day to day treatment and expectations of the full-time associates in most departments.
+
+
+	Summary: 
+		A Peek behind the Curtain
+
+
+Review 15:
+	Job Title: Mechanical Engineer
+	Location: Atlanta, GA
+	Review Date: 2024-03-12T20:18:27.620
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		It was a very social work environment with great people. There were happy hours, events, and giveaways quite often. Work life balance was manageable
+
+
+	Cons: 
+		There was a reorg every 2-3 years so your job could be at stake. There were way too many meetings and technical roles hit a ceiling pretty quickly. The pay was ok for the amount of time you worked but you can make more at other companies with a little more work.
+
+
+	Summary: 
+		Coke has great benefits and the people are great
+
+
+Review 16:
+	Job Title: Sr. Market Research Manager
+	Location: Atlanta, GA
+	Review Date: 2024-04-01T11:27:28.803
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good benefits and decent pay, at least while I was there.
+		Office environment is nice and updated.
+		On-site covered and free parking.
+
+
+	Cons: 
+		Office politics, downsizing, 
+		Company workforce reductions, 
+		Slow soda sales growth
+
+
+	Summary: 
+		Beverage Marketing Company
+
+
+Review 17:
+	Job Title: Stocker
+	Location: Geismar, LA
+	Review Date: 2024-04-03T15:07:42.023
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good soda that I was able to drink
+
+
+	Cons: 
+		I couldnt really take any for myself
+
+
+	Summary: 
+		IDk
+
+
+Review 18:
+	Job Title: Merchandiser
+	Location: Tontitown, AR
+	Review Date: 2024-04-05T12:26:12.900
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Independent work environment and satisfying work.
+
+
+	Cons: 
+		Slightly lower pay than other companies.
+
+
+	Summary: 
+		Merchandising 
+
+
+Review 19:
+	Job Title: Production Technician
+	Location: Atlanta, GA
+	Review Date: 2024-04-02T06:00:06.253
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The pension plan is alright
+
+
+	Cons: 
+		They work you to death and don’t want to compensate you well.
+
+
+	Summary: 
+		Overall not a bad place to work.
+
+
+Review 20:
+	Job Title: Analyst
+	Location: Africa, MO
+	Review Date: 2024-04-04T15:52:26.180
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great benefits, team and workplace
+
+
+	Cons: 
+		I do not have any
+
+
+	Summary: 
+		Nice
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

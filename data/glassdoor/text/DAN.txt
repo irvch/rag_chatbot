@@ -1,0 +1,638 @@
+
+Dana is a Motor Vehicles & Parts company based in 43537 Maumee, Ohio. 
+The company has 41,800 employees and has a revenue of $10,156 according to Fortune 500.
+The company is valued at $2,172 and has a profit of -$242. The CEO of the company is James K. Kamsickas.
+
+The Company has the following ratings: 
+Average ratings for Dana:
+Business Outlook: 0.54
+
+Career Opportunities: 3.3
+Distribution: 
+	1: 132 
+	2: 160 
+	3: 252 
+	4: 205 
+	5: 151 
+
+CEO: 0.71
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 58 
+	2: 112 
+	3: 234 
+	4: 296 
+	5: 196 
+
+Culture and Values: 3.2
+Distribution: 
+	1: 162 
+	2: 125 
+	3: 187 
+	4: 216 
+	5: 172 
+
+Diversity and Inclusion: 3.6
+Distribution: 
+	1: 60 
+	2: 54 
+	3: 97 
+	4: 128 
+	5: 164 
+
+Overall: 3.6
+Distribution: 
+	1: 118 
+	2: 120 
+	3: 262 
+	4: 309 
+	5: 244 
+
+Senior Management: 3
+Distribution: 
+	1: 215 
+	2: 138 
+	3: 180 
+	4: 166 
+	5: 128 
+
+Work Life Balance: 3.1
+Distribution: 
+	1: 182 
+	2: 128 
+	3: 231 
+	4: 202 
+	5: 153 
+
+Review Count: 1055
+
+Recommend to Friend: 
+	RECOMMEND: 522
+	WONT RECOMMEND: 286
+
+
+
+
+The company has 1240 reviews on Glassdoor. The last review was posted on 2024-04-16T06:36:09.580. 
+There are 20 Reviews for Dana:
+
+Review 1:
+	Job Title: Accountant
+	Location: Toledo, OH
+	Review Date: 2024-04-15T09:26:07.307
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The people you work with really matter. Fun and focus group making the work life more enjoyable at the office.
+
+
+	Cons: 
+		Job must be done in office.
+
+
+	Summary: 
+		Great place to work!
+
+
+Review 2:
+	Job Title: Junior Analyst
+	Location: Ohio, IL
+	Review Date: 2024-04-15T17:03:34.760
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		I've thoroughly enjoyed my experience working with everyone here. There is a family culture and people really help each other out. The company's leadership has also been fairly stable .
+
+
+	Cons: 
+		Hours can get long sometimes. You could be doing 70 hour weeks, specially if you're in ops
+
+
+	Summary: 
+		Great company
+
+
+Review 3:
+	Job Title: Controls Engineer
+	Location: Fort Wayne, IN
+	Review Date: 2024-04-16T06:36:09.580
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Great place to learn just about anything you want.
+
+
+	Cons: 
+		Hot in the summer
+		Union operators
+
+
+	Summary: 
+		Educational Environment
+
+
+Review 4:
+	Job Title: CNC Machine Operator
+	Location: Fort Wayne, IN
+	Review Date: 2024-03-04T12:27:58.840
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Decent pay, overtime available. Week off for Christmas Holidays. Medical Insurance is top notch.
+
+
+	Cons: 
+		Filthy facility. High school drama atmosphere. management is partial &amp; HR lacks in communication &amp; compassion. The Union is weak,
+
+
+	Summary: 
+		Dana 2024
+
+
+Review 5:
+	Job Title: Production Supervisor
+	Location: None
+	Review Date: 2024-04-09T11:52:18.457
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Hourly employees make doubletime on Sunday
+
+
+	Cons: 
+		Mangement are self serving and micromanagers
+
+
+	Summary: 
+		Dana 
+
+
+Review 6:
+	Job Title: None
+	Location: None
+	Review Date: 2024-04-02T11:22:46.827
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Lots of ability to move forward in career
+
+
+	Cons: 
+		Sometimes work is pushed to be provided and then not needed.
+
+
+	Summary: 
+		Good place
+
+
+Review 7:
+	Job Title: None
+	Location: None
+	Review Date: 2023-12-08T10:45:02.800
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Exposure to a lot of avenues in the automotive industry, decent pay and benefits.
+
+
+	Cons: 
+		Potentially a locational/business unit issue, but there is a profound manage up culture with very little reciprocation. 
+		Management takes care of management, and Dana has become very management heavy. Reports in the trenches are simply a means to their end and are the bearers of the sweeping headcount reductions when financial times get tough. Very slow to rehire (if at all) when business picks up, leaving all dealing with unrealistic workloads and extremely high stress levels which leads to poor engagement and job satisfaction. This seemed to become the new management strategy that still prevails following bankruptcy in 2007 regardless of how many engagement surveys are sent out.
+		No longer any regard for faithful employees. You are simply a $ next to an employee number on a spreadsheet and are treated as such when times get hard, regardless of tenure or what you have done for the company.
+
+
+	Summary: 
+		Useful for automotive career development
+
+
+Review 8:
+	Job Title: Assembly Technician
+	Location: None
+	Review Date: 2024-01-05T11:59:19.037
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		good pay and benefits, good selection of food and refreshments in the break room
+
+
+	Cons: 
+		i was lucky if i got 1 day off a week and didnt have a life outside of work, they wait till thursday to post the overtime for the weekend, management is a joke, none of the people in any of the office positions have any idea how production actually works yet they constantly complain about how things are done, far too much micromanagement to things that dont matter and nothing gets done about issues that do matter, leaving the production workers to suffer needlessly which leads to being perpetually behind in schedule, factory floor employees are barely treated as human beings
+
+
+	Summary: 
+		a joke
+
+
+Review 9:
+	Job Title: Manufacturing Process Engineer
+	Location: Toledo, OH
+	Review Date: 2024-03-26T11:26:23.320
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Stable industry and good customers
+
+
+	Cons: 
+		Slow growth in salary. If you want to move up, you need to move on as is so true across industries.
+
+
+	Summary: 
+		Not a bad place
+
+
+Review 10:
+	Job Title: Lease Analyst
+	Location: Maumee, OH
+	Review Date: 2024-03-07T12:28:31.167
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Benefits are great, pay is good, flexibility in hours/work from home if needed, co-workers were friendly and helpful, lots of employee incentives
+
+
+	Cons: 
+		Management could care less about their employees and only seemed to be worried about their own role and promotions.
+
+
+	Summary: 
+		Job itself was ok, Management could care less
+
+
+Review 11:
+	Job Title: Controls Software Engineer
+	Location: Novi, MI
+	Review Date: 2024-03-19T17:02:28.507
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Work life balance
+		Good mentoring
+
+
+	Cons: 
+		No employee development plan established
+
+
+	Summary: 
+		American work culture 
+
+
+Review 12:
+	Job Title: AR Analyst
+	Location: Novi, MI
+	Review Date: 2024-03-13T09:11:25.990
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Hybrid
+		Salary
+		Benefits
+		Flexible
+		Laid back
+
+
+	Cons: 
+		Understaffed
+		Stressful
+		Layoffs common
+		No advancement
+
+
+	Summary: 
+		Great til Layoff
+
+
+Review 13:
+	Job Title: Shipping And Receiving Clerk
+	Location: Warren, MI
+	Review Date: 2024-03-04T13:16:30.513
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Always opportunities to get overtime.
+
+
+	Cons: 
+		Quality of parts is down, losing a tier 1 flag is never a good thing
+
+
+	Summary: 
+		Poor leadership
+
+
+Review 14:
+	Job Title: Co-Op Purchasing
+	Location: None
+	Review Date: 2023-12-12T12:55:39.450
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		A lot of Bureaucracy to navigate. A lot of newer people that oversee CO-OP interns. Doesn't work well.
+
+
+	Cons: 
+		The Dana co-op program is very poor. Seems that many of the mentors actually don't have time to actually mentor. Interns are often left to flounder and if they ask question, the get blamed for not taking enough initiative. Poor direction, lack of instruction.
+
+
+	Summary: 
+		Not as advertised
+
+
+Review 15:
+	Job Title: Import Coordinator
+	Location: Suffolk, VA
+	Review Date: 2024-02-15T16:07:16.200
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The people are very nice.
+
+
+	Cons: 
+		Repetitive work tasks, and problems are typically not addressed head on or in a timely manner.
+
+
+	Summary: 
+		Import Coordinator Salary
+
+
+Review 16:
+	Job Title: Control System Engineer
+	Location: Novi, MI
+	Review Date: 2024-02-17T12:26:22.267
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good exposure to the projects and product lifecycle.
+
+
+	Cons: 
+		normal pace of career progression for engineers.
+
+
+	Summary: 
+		Good Senior manager and projects
+
+
+Review 17:
+	Job Title: Supervisor
+	Location: Pottstown, PA
+	Review Date: 2024-01-30T12:33:18.973
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		good pay for the area. Mostly good crew working the floor.
+
+
+	Cons: 
+		too many cliques all the way to the top with regard to safety or quality.
+		only worry about the target of the day.
+
+
+	Summary: 
+		lack of professionalism
+
+
+Review 18:
+	Job Title: Engineer
+	Location: Maumee, OH
+	Review Date: 2024-02-06T06:38:55.273
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Steady work, good work-life balance, good people.
+
+
+	Cons: 
+		Bureaucracy can get in the way of getting things done.
+
+
+	Summary: 
+		Good place to work
+
+
+Review 19:
+	Job Title: Machine Operator
+	Location: Paris, TN
+	Review Date: 2023-12-22T09:31:24.087
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Dana pays well 18.00 hourly at the Paris, Tn location. Easy work mostly
+		Turkey or ham for Christmas!!!
+
+
+	Cons: 
+		Intelligence level not high all through the management. Low moral among employees. He and management would fire someone over checking the time on there phone than a person who can't meet numbers and makes bad parts
+
+
+	Summary: 
+		Working there
+
+
+Review 20:
+	Job Title: Materials Engineering Co-op
+	Location: Maumee, OH
+	Review Date: 2024-02-03T12:45:09.603
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Fast paced but supportive
+		Decent pay for area
+		Good cafeteria
+
+
+	Cons: 
+		Fast paced
+		Not many openings
+
+
+	Summary: 
+		Great Experience
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

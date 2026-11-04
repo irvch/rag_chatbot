@@ -1,0 +1,625 @@
+
+BorgWarner is a Motor Vehicles & Parts company based in 48326 Auburn Hills, Michigan. 
+The company has 52,700 employees and has a revenue of $15,801 according to Fortune 500.
+The company is valued at $11,481 and has a profit of $944. The CEO of the company is Frederic B. Lissalde.
+
+The Company has the following ratings: 
+Average ratings for BorgWarner:
+Business Outlook: 0.61
+
+Career Opportunities: 3.5
+Distribution: 
+	1: 111 
+	2: 158 
+	3: 307 
+	4: 324 
+	5: 257 
+
+CEO: 0.79
+
+Compensation and Benefits: 3.7
+Distribution: 
+	1: 50 
+	2: 106 
+	3: 303 
+	4: 408 
+	5: 293 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 114 
+	2: 124 
+	3: 249 
+	4: 282 
+	5: 348 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 53 
+	2: 51 
+	3: 147 
+	4: 221 
+	5: 277 
+
+Overall: 3.8
+Distribution: 
+	1: 89 
+	2: 93 
+	3: 304 
+	4: 490 
+	5: 426 
+
+Senior Management: 3.3
+Distribution: 
+	1: 180 
+	2: 149 
+	3: 276 
+	4: 285 
+	5: 214 
+
+Work Life Balance: 3.5
+Distribution: 
+	1: 97 
+	2: 131 
+	3: 290 
+	4: 327 
+	5: 314 
+
+Review Count: 1406
+
+Recommend to Friend: 
+	RECOMMEND: 757
+	WONT RECOMMEND: 256
+
+
+
+
+The company has 1767 reviews on Glassdoor. The last review was posted on 2024-04-15T05:06:52.487. 
+There are 20 Reviews for BorgWarner:
+
+Review 1:
+	Job Title: Lead Cost Engineer
+	Location: Oroszlány
+	Review Date: 2023-08-13T05:36:46.263
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Inclusion, flexibility, great technologies, green
+
+
+	Cons: 
+		No cons could be listed
+
+
+	Summary: 
+		Great company
+
+
+Review 2:
+	Job Title: Electronics Technician
+	Location: Kokomo, IN
+	Review Date: 2024-04-04T02:11:55.083
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		My job is right centered in electrification.
+
+
+	Cons: 
+		Leaders have lost touch with reality. According to a fishbowl response, one of the directors doesn't know what a "dream job" is...
+
+
+	Summary: 
+		The working people are great.  The leaders no so much.
+
+
+Review 3:
+	Job Title: Manufacturing Engineer
+	Location: Auburn Hills, MI
+	Review Date: 2024-04-15T05:06:52.487
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Good learning system, and good relationship
+
+
+	Cons: 
+		Aggressive work time, low package increase
+
+
+	Summary: 
+		Perfect hiring
+
+
+Review 4:
+	Job Title: Manufacturing and Quality Technician 
+	Location: Viana do Castelo
+	Review Date: 2024-04-10T17:08:01.950
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Room to grow and develop, great work environment, good benefits, employees are heard.
+
+
+	Cons: 
+		Not the highest salary, high pressure, many tasks.
+
+
+	Summary: 
+		Great environment, high pressure
+
+
+Review 5:
+	Job Title: Engineering Assistant
+	Location: Ang Mo Kio New Town, 
+	Review Date: 2024-03-20T01:40:08.597
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Everything is good when company is doing well
+
+
+	Cons: 
+		When business is bad, company tried to cut costs but not in a very effective way
+
+
+	Summary: 
+		Good for entry to mid levels
+
+
+Review 6:
+	Job Title: Meritor Heavy Vehicle Systems - Manufacturing Engineering Technician
+	Location: None
+	Review Date: 2024-04-11T06:20:46.717
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Management is good great promotional opportunities
+
+
+	Cons: 
+		Work life balance needs attention
+
+
+	Summary: 
+		Good company to work for
+
+
+Review 7:
+	Job Title: Senior Engineer
+	Location: Bengaluru
+	Review Date: 2024-04-05T00:05:08.980
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		You get to work on latest technologies in automotive domain
+
+
+	Cons: 
+		Gets a bit hectic at times
+
+
+	Summary: 
+		Senior Systems Engineer
+
+
+Review 8:
+	Job Title: Senior Software Engineer
+	Location: Bengaluru
+	Review Date: 2024-04-01T08:33:46.850
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Work life balance
+		Very good learning opportunity and the company is growing fast.
+		Good Compensation
+
+
+	Cons: 
+		Needs Process improvements. 
+		No Cab facilities as of now.
+
+
+	Summary: 
+		Good Work culture
+
+
+Review 9:
+	Job Title: Senior Engineer
+	Location: Ithaca, NY
+	Review Date: 2024-04-02T19:23:00.570
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great place to work. Good autonomy and work culture
+
+
+	Cons: 
+		Nothing significant comes to mind
+
+
+	Summary: 
+		Good place to work
+
+
+Review 10:
+	Job Title: Magazinier
+	Location: Rzeszów
+	Review Date: 2024-03-24T20:24:18.497
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Easy to get a job, minimal salary but for that type of job it's enough
+
+
+	Cons: 
+		Demanding, boring, no flexible hours, mostly night shift, different position than I applied for
+
+
+	Summary: 
+		Short holiday job
+
+
+Review 11:
+	Job Title: Software Engineer
+	Location: Bangalore Rural
+	Review Date: 2024-04-01T04:21:29.320
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Work life balance is there
+
+
+	Cons: 
+		No canteen is available there
+
+
+	Summary: 
+		Ok
+
+
+Review 12:
+	Job Title: Assistant Manager
+	Location: Chennai
+	Review Date: 2024-03-25T08:21:03.440
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Work life balance, depend on dept
+
+
+	Cons: 
+		Career growth for mid lever and senior person
+
+
+	Summary: 
+		Good based on Dept
+
+
+Review 13:
+	Job Title: Finance Intern
+	Location: Kokomo, IN
+	Review Date: 2024-03-19T16:10:17.263
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great work environment, with great people!
+
+
+	Cons: 
+		I have no cons, this was a great expereince!
+
+
+	Summary: 
+		Finance Intern
+
+
+Review 14:
+	Job Title: CNC Machine Operator
+	Location: Seneca, SC
+	Review Date: 2024-03-19T10:16:32.950
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Pay benefits time off and bonus
+
+
+	Cons: 
+		7 days a week got old
+
+
+	Summary: 
+		Was a good place 
+
+
+Review 15:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-19T15:04:52.043
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Enjoyable people and experience throughout.
+
+
+	Cons: 
+		No pay increases unless promotion.
+
+
+	Summary: 
+		Enjoyable Place
+
+
+Review 16:
+	Job Title: Senior Electrical Engineer
+	Location: Noblesville, IN
+	Review Date: 2024-03-17T18:09:53.763
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good people for the most part.
+
+
+	Cons: 
+		Nothing stands out at the moment.
+
+
+	Summary: 
+		Ok
+
+
+Review 17:
+	Job Title: None
+	Location: Singapore
+	Review Date: 2024-03-14T18:18:02.367
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Direct manager provided good support
+
+
+	Cons: 
+		Some team member from other function is hard to work with
+
+
+	Summary: 
+		Culture
+
+
+Review 18:
+	Job Title: Program Manager
+	Location: Shanghai, Shanghai
+	Review Date: 2024-03-02T00:12:20.263
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		good to learn the industry and help me a lot in tech and management
+
+
+	Cons: 
+		the procedures are basically too long to apply and people who made those procedures have no idea what they are dealing with
+
+
+	Summary: 
+		The company's future is vague.
+
+
+Review 19:
+	Job Title: Software Engineer II
+	Location: Gateshead, England
+	Review Date: 2024-03-07T19:47:31.917
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Job was interesting and got to work on something very practical
+
+
+	Cons: 
+		Poor middle management and high expectations meant high pressure and toxic environment
+
+
+	Summary: 
+		Not much room for work life balance
+
+
+Review 20:
+	Job Title: Machine Operator
+	Location: Fletcher, NC
+	Review Date: 2024-02-23T06:36:55.523
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Most of the time the management was understanding.
+
+
+	Cons: 
+		24/7/365 a year in extreme heat small breaks and hardly ever had any real time off without having to ask a month in advance and even then, if you are not one of the first two to ask for that time you didn't get it no matter what the circumstances were.
+
+
+	Summary: 
+		If you like heat and working 24/7/365 this is the place for you.
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

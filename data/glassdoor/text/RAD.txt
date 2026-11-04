@@ -1,0 +1,638 @@
+
+Rite Aid is a Food and Drug Stores company based in 19112 Philadelphia, Pennsylvania. 
+The company has 53,000 employees and has a revenue of $24,568 according to Fortune 500.
+The company is valued at $127 and has a profit of -$539. The CEO of the company is None.
+
+The Company has the following ratings: 
+Average ratings for Rite Aid:
+Business Outlook: 0.29
+
+Career Opportunities: 2.8
+Distribution: 
+	1: 1218 
+	2: 1162 
+	3: 1509 
+	4: 829 
+	5: 659 
+
+CEO: 0.41
+
+Compensation and Benefits: 2.7
+Distribution: 
+	1: 1227 
+	2: 1191 
+	3: 1505 
+	4: 888 
+	5: 541 
+
+Culture and Values: 3
+Distribution: 
+	1: 1121 
+	2: 847 
+	3: 1245 
+	4: 935 
+	5: 839 
+
+Diversity and Inclusion: 3.5
+Distribution: 
+	1: 234 
+	2: 180 
+	3: 360 
+	4: 403 
+	5: 562 
+
+Overall: 3.1
+Distribution: 
+	1: 1042 
+	2: 1216 
+	3: 2163 
+	4: 1519 
+	5: 913 
+
+Senior Management: 2.7
+Distribution: 
+	1: 1581 
+	2: 970 
+	3: 1198 
+	4: 827 
+	5: 664 
+
+Work Life Balance: 2.8
+Distribution: 
+	1: 1183 
+	2: 922 
+	3: 1477 
+	4: 967 
+	5: 788 
+
+Review Count: 6862
+
+Recommend to Friend: 
+	RECOMMEND: 1972
+	WONT RECOMMEND: 2715
+
+
+
+
+The company has 7029 reviews on Glassdoor. The last review was posted on 2024-04-17T22:07:21.883. 
+There are 20 Reviews for Rite Aid:
+
+Review 1:
+	Job Title: Sales Associate
+	Location: Port Washington, NY
+	Review Date: 2023-09-21T17:07:32.873
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great environment and supportive place
+
+
+	Cons: 
+		There are no Cons for Rite Aid
+
+
+	Summary: 
+		First Job
+
+
+Review 2:
+	Job Title: Project Manager
+	Location: Huntingdon Valley, PA
+	Review Date: 2024-04-10T10:09:39.900
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Pay was reasonable for the workload, however things became worse towards the end. As they closed up shop, things were tough for anyone who was still left behind.
+
+
+	Cons: 
+		Corporate greed killed this company. 
+		It seems the poor decisions made by a few undid all the progress that we made.
+
+
+	Summary: 
+		Fair 
+
+
+Review 3:
+	Job Title: Shipping
+	Location: None
+	Review Date: 2024-04-17T22:07:21.883
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good people, good job, and good pay.
+
+
+	Cons: 
+		That Rite Aid is closing a lot of stores with massive layoffs.
+
+
+	Summary: 
+		Great place to work
+
+
+Review 4:
+	Job Title: Assistant Manager
+	Location: Hagerstown, MD
+	Review Date: 2024-04-17T20:25:13.160
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Easy, fun co-workers and good management
+
+
+	Cons: 
+		Low pay and the store needed repairs the company refused to fix.
+
+
+	Summary: 
+		Pay sucked but company was decent 
+
+
+Review 5:
+	Job Title: Sales Associate/Cashier
+	Location: Bridgewater, NJ
+	Review Date: 2024-04-17T16:17:46.043
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Good management
+		Easy work
+		Flexable Schedule
+
+
+	Cons: 
+		Sometimes understaffed
+		Average salary
+		Not enough workers
+
+
+	Summary: 
+		Good Company
+
+
+Review 6:
+	Job Title: Certified Pharmacy Technician
+	Location: None
+	Review Date: 2024-04-16T17:58:15.673
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Coworkers are like my 2nd family
+
+
+	Cons: 
+		The company does not seem to care about the employees
+
+
+	Summary: 
+		Na
+
+
+Review 7:
+	Job Title: Pharmacy Technician
+	Location: None
+	Review Date: 2024-04-16T22:11:34.307
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good work experience for those in the field.
+
+
+	Cons: 
+		It is known that retail is particularly self-explanatory.
+
+
+	Summary: 
+		Good.
+
+
+Review 8:
+	Job Title: Cashier
+	Location: North Wales, PA
+	Review Date: 2024-04-16T11:51:16.773
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Store manager was encouraging and supportive
+
+
+	Cons: 
+		Upper management can be rude
+
+
+	Summary: 
+		Cashier
+
+
+Review 9:
+	Job Title: Store Associate
+	Location: Logan Township, NJ
+	Review Date: 2024-04-17T08:57:47.603
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Flexable hours
+		Low Stress
+		Local
+
+
+	Cons: 
+		Little Say in your work
+
+
+	Summary: 
+		Great for Students
+
+
+Review 10:
+	Job Title: Supervisor
+	Location: Salem, OR
+	Review Date: 2024-04-12T14:56:49.330
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		good workmates, i really enjoyed working here
+
+
+	Cons: 
+		no fair scheduling, as a full time employee, i was promised 40 hours but not from the same store, have to cover different stores
+
+
+	Summary: 
+		good company
+
+
+Review 11:
+	Job Title: Cashier
+	Location: North Wales, PA
+	Review Date: 2024-04-16T11:51:16.773
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Store manager was encouraging and supportive
+
+
+	Cons: 
+		Upper management can be rude
+
+
+	Summary: 
+		Cashier
+
+
+Review 12:
+	Job Title: Store Manager
+	Location: Philadelphia, PA
+	Review Date: 2024-04-09T10:14:57.117
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Training new employees to meet Rite Aid standards
+
+
+	Cons: 
+		Coming in early for deliveries 
+		Long days
+
+
+	Summary: 
+		Laborer-Manager
+
+
+Review 13:
+	Job Title: Assistant Manager
+	Location: Palm Springs, CA
+	Review Date: 2024-04-10T21:56:52.973
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		easy day pretty much. Just follow the workboard
+
+
+	Cons: 
+		customers can be very cruel.
+
+
+	Summary: 
+		5
+
+
+Review 14:
+	Job Title: Associate
+	Location: Olympia, WA
+	Review Date: 2024-04-09T17:04:52.227
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good coworkers and flexible environment
+
+
+	Cons: 
+		Little in the way of promotions or pay raises
+
+
+	Summary: 
+		Pretty Good; Depends on People
+
+
+Review 15:
+	Job Title: Customers Service
+	Location: None
+	Review Date: 2024-04-09T09:08:16.277
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Assisting customers in attaining their needs.
+
+
+	Cons: 
+		Interacting with mood or personality disorders.
+
+
+	Summary: 
+		Customer Service
+
+
+Review 16:
+	Job Title: Pharmacy Technician
+	Location: Toms River, NJ
+	Review Date: 2024-03-31T02:47:50.560
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		I love *most* of my coworkers and we finally have good staff pharmacists.
+
+
+	Cons: 
+		It's corporate, if you look up what the CEO and the few people say under that person made last year or the year before, it's pathetic what they get.
+
+
+	Summary: 
+		It's a losing battle
+
+
+Review 17:
+	Job Title: Sales Associate
+	Location: North Bergen, NJ
+	Review Date: 2023-12-23T07:10:56.093
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Dynamic Customer Interaction: Engaging with diverse customers daily enhanced my communication and customer service skills significantly.
+		Valuable Retail Experience: Working at Rite Aid provided me with foundational experience in the retail industry, which proved to be valuable for my career development.
+		Employee Discounts: The employee discount offered at Rite Aid allowed me to save on personal purchases, which was a nice perk.
+		Flexible Scheduling: The job offered a degree of flexibility in scheduling, making it easier to balance work with personal commitments and responsibilities.
+		Team Collaboration: The team-oriented environment fostered a sense of collaboration and support among colleagues.
+
+
+	Cons: 
+		Fast-Paced Environment: The retail setting at Rite Aid can be fast-paced, especially during peak hours or certain seasons, leading to an increased workload and pressure.
+		Entry-Level Pay: The pay for entry-level positions, such as Sales Associate, is relatively lower compared to some other industries.
+		Irregular Hours: The job often required working evenings, weekends, and holidays, which may not be suitable for those seeking a more regular schedule.
+		Customer Challenges: Dealing with challenging or irate customers was occasionally demanding and required a high level of patience and problem-solving skills.
+		Limited Advancement Opportunities: Advancement opportunities within the company appeared limited for entry-level positions, and career growth might necessitate transitioning to different roles or companies.
+
+
+	Summary: 
+		Just a JOB
+
+
+Review 18:
+	Job Title: Retail Sales Associate
+	Location: Pittsburgh, PA
+	Review Date: 2024-04-10T06:11:09.987
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Air conditioned, easy-going tasks, flexible
+
+
+	Cons: 
+		Getting yelled at by entitled elders and homeless people
+
+
+	Summary: 
+		Depends on location
+
+
+Review 19:
+	Job Title: Regulatory affairs phamacist
+	Location: Agoura, CA
+	Review Date: 2024-04-02T14:04:22.290
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Salary was fair for the position and working environment was great with flexible hours.
+
+
+	Cons: 
+		There were not many downsides to this job at all
+
+
+	Summary: 
+		Amazing Coworkers and Management
+
+
+Review 20:
+	Job Title: Shift Leader
+	Location: Brunswick, ME
+	Review Date: 2024-04-08T15:40:55.497
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The coworkers can be really fun
+
+
+	Cons: 
+		The pay is not the best
+
+
+	Summary: 
+		Acting manager on duty
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

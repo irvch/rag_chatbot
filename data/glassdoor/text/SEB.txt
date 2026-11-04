@@ -1,0 +1,633 @@
+
+Seaboard is a Food Production company based in 66202 Merriam, Kansas. 
+The company has 12,614 employees and has a revenue of $11,243 according to Fortune 500.
+The company is valued at $4,376 and has a profit of $580. The CEO of the company is Robert L. Steer.
+
+The Company has the following ratings: 
+Average ratings for Seaboard:
+Business Outlook: 0.73
+
+Career Opportunities: 3.4
+Distribution: 
+	1: 3 
+	2: 3 
+	3: 11 
+	4: 11 
+	5: 4 
+
+CEO: 0.82
+
+Compensation and Benefits: 3.4
+Distribution: 
+	1: 1 
+	2: 1 
+	3: 11 
+	4: 14 
+	5: 4 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 2 
+	2: 4 
+	3: 6 
+	4: 10 
+	5: 9 
+
+Diversity and Inclusion: 3.6
+Distribution: 
+	1: 2 
+	2: 2 
+	3: 2 
+	4: 4 
+	5: 7 
+
+Overall: 4.2
+Distribution: 
+	1: 0 
+	2: 2 
+	3: 10 
+	4: 15 
+	5: 15 
+
+Senior Management: 3.4
+Distribution: 
+	1: 4 
+	2: 3 
+	3: 5 
+	4: 13 
+	5: 6 
+
+Work Life Balance: 3
+Distribution: 
+	1: 4 
+	2: 2 
+	3: 9 
+	4: 11 
+	5: 6 
+
+Review Count: 42
+
+Recommend to Friend: 
+	RECOMMEND: 27
+	WONT RECOMMEND: 5
+
+
+
+
+The company has 48 reviews on Glassdoor. The last review was posted on 2024-03-25T13:05:26.697. 
+There are 20 Reviews for Seaboard:
+
+Review 1:
+	Job Title: Accounting Intern
+	Location: Kansas City, KS
+	Review Date: 2022-09-15T19:45:08.030
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 5
+
+	Pros: 
+		Diverse skills. family-environment. You'll love it.
+
+
+	Cons: 
+		some slow moments, but you can pick new projects from others so it's fine.
+
+
+	Summary: 
+		LOVE IT
+
+
+Review 2:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-25T13:05:26.697
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Excellent executive leadership, Great coworkers. Newly implemented flex schedules a plus.
+
+
+	Cons: 
+		Some departments are lacking strong rising leaders. Work/life balance is not always superb but that depends what group you are working under.
+
+
+	Summary: 
+		Great company!
+
+
+Review 3:
+	Job Title: Logistics Coordinator
+	Location: Merriam, KS
+	Review Date: 2024-02-07T06:17:55.783
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Benefits, facilities, company events and perks
+
+
+	Cons: 
+		Work/life balance, outdated practices coming from senior leadership
+
+
+	Summary: 
+		Stressful at times but a good job
+
+
+Review 4:
+	Job Title: Finance
+	Location: Merriam, KS
+	Review Date: 2023-07-17T10:53:11.557
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		- room for growth - career opportunities - diverse enterprise structure - multinational - vertically integrated - close-knit environment (can also be viewed as a con)
+
+
+	Cons: 
+		- close-knit environment (can also be viewed as a pro) - pay rate low compared to market - lack of work-life balance - lack of racial diversity at the corp level - lack of continual training/development - not the best benefits for young employees - limited maternity and paternity leave - lack of IT strategic planning - resistance to change - lack of communication from executives - family-politic heavy
+
+
+	Summary: 
+		Great for growth with prevailing family politics
+
+
+Review 5:
+	Job Title: HR-Intern
+	Location: Merriam, KS
+	Review Date: 2022-08-26T16:28:23.420
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Overall great internship, especially for my first internship I was really lucky to be working here in the HR department. My work was good experience for me and taught me many lessons I wouldn't have gotten in school. I hope I can work there again someday.
+
+
+	Cons: 
+		Has an HR intern some days were definitely slower than others, and while some of my work wasn't always the most fascinating I still felt like I was involved with the company's day-to-day.
+
+
+	Summary: 
+		Summer '22 intern
+
+
+Review 6:
+	Job Title: Senior Manager - Information Technology
+	Location: None
+	Review Date: 2022-08-07T15:16:27.710
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Strong, resilient company.  IT strategic planning and daily operations improving each year.
+
+
+	Cons: 
+		Not all departments progress evenly.  Advancement could depend on participation within a certain circle.
+
+
+	Summary: 
+		Solid company
+
+
+Review 7:
+	Job Title: Packaging
+	Location: None
+	Review Date: 2022-08-20T12:37:46.817
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good hours, Great Insurance and Good People
+
+
+	Cons: 
+		Long hours standing, body aches
+
+
+	Summary: 
+		Seaboard
+
+
+Review 8:
+	Job Title: Group Finance Manager
+	Location: Merriam, KS
+	Review Date: 2021-09-14T06:56:07.583
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Management truly cares for employees
+		Relaxed but professional environment
+		Management culture motivates staff to be empowered and learn from their experiences.
+		Great benefits
+		Very diverse and inclusive group of people
+		Great experience to work in a Fortune 500 company.
+
+
+	Cons: 
+		Due to cyber security the lack of understanding from the Corp IT dept to provide support and meet the needs of some employees.
+
+
+	Summary: 
+		23 yrs career working for a company that cares for it's employees, the multiple cultures and many people was an amazing
+
+
+Review 9:
+	Job Title: None
+	Location: Merriam, KS
+	Review Date: 2022-03-10T08:28:24.117
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Close-knit, laid back and friendly culture. No nonsense style without a lot of bureaucracy.
+
+
+	Cons: 
+		Some resistance to change but getting better!
+
+
+	Summary: 
+		Fantastic place to work!
+
+
+Review 10:
+	Job Title: None
+	Location: Miami, FL
+	Review Date: 2021-08-08T13:40:27.847
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Decission taking is not a slow motion process. Employees empowered to propose, decide and excecute under a constant teamwork environment.
+
+
+	Cons: 
+		Small Corp gives it some handycap salarywise
+
+
+	Summary: 
+		Great Place to Work
+
+
+Review 11:
+	Job Title: None
+	Location: Merriam, KS
+	Review Date: 2009-01-08T08:10:42.717
+	Business Outlook: None
+	Career Opportunities: 4.5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Seaboard is a publicly traded company still run like a family business in many regards.  Management cares about the employees at all levels and is very effective in evaluating business opportunities in various sectors.  The company extends very attrative benefits to the employees including company provided pension, 401k plan and ample leave time.   Steve Bresky is very visable and approachable.   The management structure throughout the company is very flat and most executives have several direct reports which allows the executives to be well informed on all fronts.  Company also supports the community in many areas and invites employees to particiapte as well.
+
+
+	Cons: 
+		Sometimes lack of communication on vision for the company.
+
+
+	Summary: 
+		Great long term career company
+
+
+Review 12:
+	Job Title: None
+	Location: Shawnee Mission, KS
+	Review Date: 2014-10-21T16:32:59.933
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Benefits are not the greatest but they are okay. Work loads always seem to expand, however, compensation makes up for it; your job expands then your pay does as well. The assistant positions are for the higher executives only and the pay is above average for executive administrative positions in the Johnson County area. 
+		When I worked there, what I loved most was that you have a guideline to your job description but they let you make the work your own and no-one was standing over your shoulder. 
+		The executives are down to earth and you would have no clue you were standing next to billionaires. They are absolutely wonderful. 
+		Lots of activities, team happy hours, Royals games, sponsored runs, habitat for humanity, etc. There is a gym in the building and you also get a discounted rate at a nearby gym.
+
+
+	Cons: 
+		Not much room for growth in the KC office, which is the headquarters. Most people have been there for YEARS and don't plan to go anywhere anytime soon (thats saying allot right there). There are overseas positions and positions with some of the subsidiaries like Butterball, Seaboard Marine, Seaboard Foods, and PS, International. 
+		Although its nice to not have anyone over your shoulder all the time, it is also nice to get feedback and reviews but unless you are high-level executive you don't receive reviews and you don't get feedback unless you ask for it. You have to branch out to expand your job or no-one seems to know what you really do. 
+		Allot of the employees workout which you think would be good BUT then you find that if you don't workout, you don't belong. There are actually cliques for those that workout, those that smoke, and the younger crowd that forgets to get fully clothed before going to work. If you don't workout over lunch with the majority of the building you can feel really looney because they will outcast you quickly. 
+		Senior-level management is often heard joking about other employees, their personal lives, and how provocative they dress, etc. The majority of Senior execs are men and the HR department is all women and one man. The man will always share your personal business, nothing confidential is actually confidential.
+
+
+	Summary: 
+		Great place to work, family environment, decent benefits, 'healthy environment', and room to grown.
+
+
+Review 13:
+	Job Title: None
+	Location: Shawnee Mission, KS
+	Review Date: 2017-03-20T11:00:02.797
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Stable; very low turnover; friendly employees; lots of employee events and activities; great benefits; employees are treated well.
+
+
+	Cons: 
+		Sometimes less progressive than they could be; resistant to change at times. Hopeful that this will begin to change soon.
+
+
+	Summary: 
+		Great company!
+
+
+Review 14:
+	Job Title: None
+	Location: None
+	Review Date: 2017-09-14T11:08:32.210
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Compensation and benefits, interesting business footprint around the world.
+
+
+	Cons: 
+		Lackluster managers care more about their own titles than being willing to answer questions, train, and support new staff.  Small staff.  Poor culture and low level of professionalism exhibited by managers.
+
+
+	Summary: 
+		Pretty Blah
+
+
+Review 15:
+	Job Title: None
+	Location: None
+	Review Date: 2017-12-09T17:41:46.777
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Open and laid back environment. Professional and fun at the same time. Working here feels like having a second family. Very happy here.
+
+
+	Cons: 
+		Parking could use improvement. They don't seem to have enough for all us. Some days are better then others.
+
+
+	Summary: 
+		Great people oriented company
+
+
+Review 16:
+	Job Title: Mule Driver Heavy Equipment Operator CDL Class A
+	Location: Miami, FL
+	Review Date: 2019-07-29T07:47:05.593
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Ocean  view , uniforms
+
+
+	Cons: 
+		Cutting hours , equipment in badly shape
+
+
+	Summary: 
+		Interesting
+
+
+Review 17:
+	Job Title: None
+	Location: None
+	Review Date: 2016-10-26T14:31:31.897
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Nice place to work at
+
+
+	Cons: 
+		i have nothing negative to say
+
+
+	Summary: 
+		Nice
+
+
+Review 18:
+	Job Title: Accounts Manager
+	Location: None
+	Review Date: 2023-12-21T20:29:19.333
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good working culture in this company
+
+
+	Cons: 
+		No cons in this company
+
+
+	Summary: 
+		Good
+
+
+Review 19:
+	Job Title: Operador Eléctrico
+	Location: Santo Domingo
+	Review Date: 2023-08-27T07:43:45.460
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 1
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good salary Good benefits .
+
+
+	Cons: 
+		Bad schedule no professional growth
+
+
+	Summary: 
+		Seaboard transcontinental capital corporation
+
+
+Review 20:
+	Job Title: Supply Chain and Logistics Professional
+	Location: None
+	Review Date: 2023-06-29T17:02:19.750
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		its a great company to learn and work
+
+
+	Cons: 
+		i work full time, not allowed hybrid work
+
+
+	Summary: 
+		Great company
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

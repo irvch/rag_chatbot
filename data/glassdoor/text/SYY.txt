@@ -1,0 +1,632 @@
+
+Sysco is a Wholesalers: Food and Grocery company based in 77077 Houston, Texas. 
+The company has 70,510 employees and has a revenue of $68,636 according to Fortune 500.
+The company is valued at $39,202 and has a profit of $1,359. The CEO of the company is Kevin P. Hourican.
+
+The Company has the following ratings: 
+Average ratings for Sysco:
+Business Outlook: 0.53
+
+Career Opportunities: 3.3
+Distribution: 
+	1: 545 
+	2: 558 
+	3: 894 
+	4: 770 
+	5: 644 
+
+CEO: 0.6
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 288 
+	2: 430 
+	3: 932 
+	4: 960 
+	5: 796 
+
+Culture and Values: 3.1
+Distribution: 
+	1: 720 
+	2: 521 
+	3: 769 
+	4: 686 
+	5: 572 
+
+Diversity and Inclusion: 3.5
+Distribution: 
+	1: 234 
+	2: 176 
+	3: 300 
+	4: 369 
+	5: 478 
+
+Overall: 3.3
+Distribution: 
+	1: 542 
+	2: 613 
+	3: 1125 
+	4: 1040 
+	5: 761 
+
+Senior Management: 2.9
+Distribution: 
+	1: 923 
+	2: 576 
+	3: 760 
+	4: 637 
+	5: 480 
+
+Work Life Balance: 2.8
+Distribution: 
+	1: 921 
+	2: 642 
+	3: 800 
+	4: 582 
+	5: 448 
+
+Review Count: 4092
+
+Recommend to Friend: 
+	RECOMMEND: 1578
+	WONT RECOMMEND: 1406
+
+
+
+
+The company has 4226 reviews on Glassdoor. The last review was posted on 2024-04-15T23:37:07.230. 
+There are 20 Reviews for Sysco:
+
+Review 1:
+	Job Title: Sales Associate
+	Location: Salt Lake City, UT
+	Review Date: 2024-02-27T09:51:40.107
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great Leadership and team work. All are willing to help find solutions and create new opportunities.
+
+
+	Cons: 
+		Working on the weekends! Setting aside time on the weekends to complete orders, but its part of the job.
+
+
+	Summary: 
+		Great Company
+
+
+Review 2:
+	Job Title: Order Selector
+	Location: Ocoee, FL
+	Review Date: 2024-04-11T02:31:06.520
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 2
+
+	Pros: 
+		Great supervisors and managers. They know how to respect and appreciate their employees and they let you know. They are closed Saturdays. All of your equipment is only used by you, you’re allowed to lock it with key. And your other equipment can stay in your locker. They always have fresh fruit and drinks for you in the break room. They try to give you free food as much as they can for special occasions, events, or for appreciation.
+
+
+	Cons: 
+		You have to wait almost two months for your benefits to be available. You have to pay wait 90 days for any days off. The orders are extremely big compared to other companies and not enough time given. The schedule is not set and you won’t know your days off till the current week ends. A lot of back pain due to the intensity of the work compared to other warehouse's.
+
+
+	Summary: 
+		Hard job but great supervisors and managers.
+
+
+Review 3:
+	Job Title: Delivery Driver
+	Location: Pleasant Grove, CA
+	Review Date: 2024-04-15T19:25:18.513
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Union position and ancillary benefits are great. Kaiser was 100%, same with dental and vision. Included a pension plan that was vested after 5 years. Plenty of OT can equate to some large checks.
+
+
+	Cons: 
+		OT comes at a cost to your body and time outside of work. Start time of 4:00am means you're up AT LEAST at 3am for every shift depending on how close you live. Schedule was okay because it was 4 10's, but you rarely work less than 12 hours in a day when you're starting out and on days off you just want to rest.
+
+
+	Summary: 
+		Great pay, benefits, hard labor, difficult schedule
+
+
+Review 4:
+	Job Title: Class A CDL Delivery Driver
+	Location: Sacramento, CA
+	Review Date: 2024-04-15T10:19:03.073
+	Business Outlook: NEUTRAL
+	Career Opportunities: 0
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 1
+
+	Pros: 
+		Union benefits, willingness to give you “experience”.
+		Management is good most days.
+		Transportation supervisors understand
+
+
+	Cons: 
+		Everything else sucks. Equipment is +10 years old, tractors, trailers, pallet jacks. Finding the delivery location, digging through the pallets to look for a case. 
+		Pay is alright, OT is basically mandatory, you will spend 14 hours working a day. Don’t plan to see your family much. Days off are spent recovering from touching 600-900 cases each route, weighing around 15,000 pounds daily. I don’t believe there’s much career advancement, for CDL anyway.
+
+
+	Summary: 
+		It’s no picnic
+
+
+Review 5:
+	Job Title: Truck Driver
+	Location: Olathe, KS
+	Review Date: 2024-03-17T14:06:44.870
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		None. Absolutely none. At all.
+
+
+	Cons: 
+		HR lies. Mgmnt lies. “Incentive pay” never matches the minimum rate which is several dollars and hour below the competition. You’ll be routed 14hrs per day, everyday, and if you finish sooner your reward is more stops the next week. They refuse to reinvest in the Company, to the point that the vehicles don’t meet DOT standards, the building is falling apart, they won’t even buy 2 wheelers. Mgmnt has zero accountability, it’s commonplace for employees to have their pay shorted every week, in one case a driver had 20hrs of overtime, approved by a supervisor as part of the payroll process, “accidentally” not be paid. Mgmnt is super, super slimy and resorts to personal threats if cornered. In one case the Transportation MGR threatened to throw a driver out of a two story window. I spent 24yrs, most of them good, working at this location but finally had no choice but to quit after the clowns they brought in absolutely destroyed the work environment. Don’t believe them! Dont trust them! Do yourself a favor and stay far, far away! You’ll make more money elsewhere and still be able to live your life!
+
+
+	Summary: 
+		Don’t do it!
+
+
+Review 6:
+	Job Title: Loader/Unloader
+	Location: None
+	Review Date: 2024-04-15T08:58:08.630
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		The pay is good.
+		The job is easy. 
+
+
+	Cons: 
+		Sexual harassment towards women
+		Favoritism
+		Retaliation if you report the harassment
+		Rules change constantly with little notice
+		Knowledge between management if huge. No one is on the same page. 
+
+
+	Summary: 
+		Not worth the trouble. 
+
+
+Review 7:
+	Job Title: Warehouse Associate
+	Location: Tolleson, AZ
+	Review Date: 2024-04-15T23:37:07.230
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		They offer Great Pay and Benefits
+
+
+	Cons: 
+		No work/life balance. They don't have employee loyalty and they treat you as if you are replaceable.
+
+
+	Summary: 
+		Big corporation
+
+
+Review 8:
+	Job Title: Director
+	Location: Houston, TX
+	Review Date: 2024-04-12T10:10:34.937
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		salary and bonus are competitive.
+
+
+	Cons: 
+		company culture is abysmal. The old guard executive leaders need to go. Employees are routinely laid off. Employees are overworked.
+
+
+	Summary: 
+		Says one thing, does another
+
+
+Review 9:
+	Job Title: Sales Consultant
+	Location: Miami, FL
+	Review Date: 2024-03-17T19:24:17.100
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Pay and benefits are very good. The consulting aspect of the job is nice, and customers/prospects really value your good ideas and expertise. Good hybrid work and schedule flexibility. Technology for the sales reps and customers is pretty good.
+
+
+	Cons: 
+		Operations, management, and teamwork vary greatly depending on your location. Corporate keeps changing demands from the sales consultants that don’t seem to be paying off to equate to more sales and exceeding customer expectations for an ideal broadliner delivery partner. Work-life balance can be tough.
+
+
+	Summary: 
+		Outside Sales
+
+
+Review 10:
+	Job Title: Delivery Route Driver
+	Location: None
+	Review Date: 2024-04-08T11:23:16.513
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Great coworkers and amazing benefits.
+
+
+	Cons: 
+		Treat you like a machine. You're only as good as what you did today. Not what you did yesterday. Always about you helping them not how they can help you.
+
+
+	Summary: 
+		Was once a great company.
+
+
+Review 11:
+	Job Title: Delivery Route Driver
+	Location: None
+	Review Date: 2024-04-08T11:23:16.513
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Great coworkers and amazing benefits.
+
+
+	Cons: 
+		Treat you like a machine. You're only as good as what you did today. Not what you did yesterday. Always about you helping them not how they can help you.
+
+
+	Summary: 
+		Was once a great company.
+
+
+Review 12:
+	Job Title: Sales Consultant
+	Location: Houston, TX
+	Review Date: 2024-04-15T22:15:56.980
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Work life balance is good
+
+
+	Cons: 
+		The Salary should be higher,
+
+
+	Summary: 
+		Sales
+
+
+Review 13:
+	Job Title: Human Resources Manager
+	Location: Houston, TX
+	Review Date: 2024-04-09T18:32:03.777
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Large company with many different segments that can potentially allow you to try different career opportunities.
+
+
+	Cons: 
+		Leaders attempting to meet stockholders demands, rather than focusing on the business being delivered.
+
+
+	Summary: 
+		Laid off by Sysco
+
+
+Review 14:
+	Job Title: Sales Consultant
+	Location: Phoenix, AZ
+	Review Date: 2024-04-11T12:34:52.837
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Uncapped Bonus potential paid monthly
+
+
+	Cons: 
+		Building your own pipeline/book of business, positive for some, but cold calling can be daunting for others.
+
+
+	Summary: 
+		Opportunity to Make $ if you put in the work
+
+
+Review 15:
+	Job Title: Sales Consultant
+	Location: Los Angeles, CA
+	Review Date: 2024-03-01T06:28:22.337
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		The job is good if you've never had a sales job, or are looking to get out of the kitchen. Good job if your fresh out of college.
+
+
+	Cons: 
+		Job is a waste of time if you have sales experience, as your doing more tasks to please local management, then actually selling. You will spend hours inputting information, and burdening your customers about trying to get information that corporate wants. Horrific way of selling, which explains why they continue to lose market share. I would not work at Sysco again if given the chance.
+
+
+	Summary: 
+		Below average Immature sales job
+
+
+Review 16:
+	Job Title: Finance Supervisor
+	Location: Houston, TX
+	Review Date: 2024-04-05T19:30:36.740
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Lots of learning and opportunity and immediate teams and supervisors were great.
+
+
+	Cons: 
+		Becoming too big and employees are just numbers to executive leadership. Some jobs moving out of US.
+
+
+	Summary: 
+		Loved my job but became a number
+
+
+Review 17:
+	Job Title: Sales Associate
+	Location: Los Angeles, CA
+	Review Date: 2024-04-09T17:18:03.477
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Work flexibility and commission pay
+
+
+	Cons: 
+		You'll never be off the clock. Never ending calls from customers. Hard sell when product is too expensive, delivered late and poor quality.
+
+
+	Summary: 
+		Too Big to Care
+
+
+Review 18:
+	Job Title: Analyst
+	Location: Syracuse, NY
+	Review Date: 2024-04-03T06:18:53.107
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		I sincerly enjoyed working at the Syracuse office. The boss I had was wonderful, the benefits were okay, pay was fine, and the work was interesting
+
+
+	Cons: 
+		It did not seem like there was a lot of room for growth
+
+
+	Summary: 
+		Nice place to work
+
+
+Review 19:
+	Job Title: Sales Consultant
+	Location: Atlanta, GA
+	Review Date: 2024-04-10T17:28:04.617
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Great Culture
+		Flexible
+		Tons of networking
+
+
+	Cons: 
+		To many tasks and contradictories goals
+
+
+	Summary: 
+		Great culture and people
+
+
+Review 20:
+	Job Title: Training Facilitator
+	Location: Nashville, TN
+	Review Date: 2024-03-29T10:08:27.467
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 1
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 0
+
+	Pros: 
+		Very rewarding experience, ridiculous pay for what you do, tons of room to grow
+
+
+	Cons: 
+		Unfortunately, the leadership needs some dramatic improvement
+
+
+	Summary: 
+		Excellent Pay and Opportunity
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

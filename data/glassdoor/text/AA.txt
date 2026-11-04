@@ -1,0 +1,622 @@
+
+Alcoa is a Metals company based in 15212 Pittsburgh, Pennsylvania. 
+The company has 13,100 employees and has a revenue of $12,451 according to Fortune 500.
+The company is valued at $7,591 and has a profit of -$123. The CEO of the company is Roy C. Harvey.
+
+The Company has the following ratings: 
+Average ratings for Alcoa:
+Business Outlook: 0.54
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 95 
+	2: 189 
+	3: 299 
+	4: 262 
+	5: 194 
+
+CEO: 1
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 43 
+	2: 75 
+	3: 289 
+	4: 392 
+	5: 238 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 109 
+	2: 115 
+	3: 212 
+	4: 233 
+	5: 294 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 13 
+	2: 17 
+	3: 50 
+	4: 65 
+	5: 131 
+
+Overall: 4.1
+Distribution: 
+	1: 85 
+	2: 133 
+	3: 330 
+	4: 373 
+	5: 272 
+
+Senior Management: 3.6
+Distribution: 
+	1: 191 
+	2: 161 
+	3: 226 
+	4: 183 
+	5: 125 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 133 
+	2: 153 
+	3: 282 
+	4: 242 
+	5: 227 
+
+Review Count: 1193
+
+Recommend to Friend: 
+	RECOMMEND: 654
+	WONT RECOMMEND: 305
+
+
+
+
+The company has 1361 reviews on Glassdoor. The last review was posted on 2024-04-04T22:37:40.847. 
+There are 20 Reviews for Alcoa:
+
+Review 1:
+	Job Title: EProcurement Specialist
+	Location: Pittsburgh, PA
+	Review Date: 2024-04-04T22:37:40.847
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good work life balance, cared for employees.
+
+
+	Cons: 
+		Limited direction by management and leadership.
+
+
+	Summary: 
+		Enjoyed time there
+
+
+Review 2:
+	Job Title: Maintenance
+	Location: Fullerton, CA
+	Review Date: 2024-03-14T13:06:57.687
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Loved it here, good pay and managers were awesome
+
+
+	Cons: 
+		It's a Warehouse so it gets really hot in the summer, have to where ear plugs because it's loud
+
+
+	Summary: 
+		Great place to work 
+
+
+Review 3:
+	Job Title: Director of Marketing and Communications
+	Location: Des Moines, IA
+	Review Date: 2024-03-21T04:11:56.650
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Fun culture, good pay, career growth
+
+
+	Cons: 
+		long hours, too much travel required
+
+
+	Summary: 
+		Great Place to work
+
+
+Review 4:
+	Job Title: Quality Assurance
+	Location: Denton, TX
+	Review Date: 2024-03-04T06:30:56.513
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		They give you a lot of hours if needed. There is always work to do.
+
+
+	Cons: 
+		The warehouse was relatively warm.
+
+
+	Summary: 
+		Solid Company
+
+
+Review 5:
+	Job Title: Paralegal
+	Location: Pittsburgh, PA
+	Review Date: 2024-02-28T20:22:47.837
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Interesting, work from home, good goals of company
+
+
+	Cons: 
+		ups and downs of a commodity company
+
+
+	Summary: 
+		Great opportunities
+
+
+Review 6:
+	Job Title: Payroll Support Specialist
+	Location: Pittsburgh, PA
+	Review Date: 2024-02-23T07:48:10.857
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		I work for great leaders, They really care about their employees and try to make sure they are happy.
+
+
+	Cons: 
+		Pay is a bit on the low side.
+
+
+	Summary: 
+		Great Leadership
+
+
+Review 7:
+	Job Title: Assistant Accountant
+	Location: New York, NY
+	Review Date: 2024-02-28T21:24:16.007
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Pleasant work environment always helps
+
+
+	Cons: 
+		I did not like my job
+
+
+	Summary: 
+		Good days
+
+
+Review 8:
+	Job Title: Maintenance Technician
+	Location: Lancaster, PA
+	Review Date: 2024-02-07T13:33:00.817
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Some of the best reasons to work at Alcoa are the culture and pay.
+
+
+	Cons: 
+		Some of the downsides to working at Alcoa are the commute and location.
+
+
+	Summary: 
+		Good place to work
+
+
+Review 9:
+	Job Title: Human Resources Specialist (HR Specialist)
+	Location: None
+	Review Date: 2024-02-04T15:02:20.817
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Solid company, great pay packages and benefits. Solid global leadership.
+
+
+	Cons: 
+		Work life balance(at times), layers of management
+
+
+	Summary: 
+		Great Company! Can retire from here!
+
+
+Review 10:
+	Job Title: Engineer
+	Location: Badin, NC
+	Review Date: 2024-02-14T10:51:36.257
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		It was Nice place to work
+
+
+	Cons: 
+		Location has been curtailed for several years
+
+
+	Summary: 
+		Good company 
+
+
+Review 11:
+	Job Title: Metal Finishing
+	Location: Chandler, AZ
+	Review Date: 2023-12-29T20:33:25.623
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good for unskilled labor job
+
+
+	Cons: 
+		Non to speak of closed
+
+
+	Summary: 
+		Closed now
+
+
+Review 12:
+	Job Title: Strategy Manager
+	Location: Pittsburgh, PA
+	Review Date: 2023-11-27T16:34:37.353
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Strong safety culture built in the 80's and 90's
+
+
+	Cons: 
+		Poor management with lack of ambition.
+
+
+	Summary: 
+		Poor management
+
+
+Review 13:
+	Job Title: Finance Analyst
+	Location: Pittsburgh, PA
+	Review Date: 2023-11-22T09:26:16.287
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Smart and experienced coworkers in all areas of the company.
+
+
+	Cons: 
+		Topics and projects can be bland, but focus on big picture purpose,
+
+
+	Summary: 
+		Great Company
+
+
+Review 14:
+	Job Title: Senior Site Acquisition Specialist
+	Location: Louisville, KY
+	Review Date: 2023-09-04T15:35:48.710
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Flexible work schedule with managers that were focused on performance goals
+
+
+	Cons: 
+		We had to be in the office and since were on the phone most of the day we very rarely interacted with anyone in our office, so there wasn’t a good reason why we couldn’t work remotely.
+
+
+	Summary: 
+		Previous Position - No longer in Wireless Industry
+
+
+Review 15:
+	Job Title: Lab Technician
+	Location: New Kensington, PA
+	Review Date: 2023-08-27T22:25:13.430
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		The Aluminum ingots they let you take home.
+
+
+	Cons: 
+		There's a significant amount of gambling that goes on during the day.
+
+
+	Summary: 
+		I guess thats why they call it Wall Street
+
+
+Review 16:
+	Job Title: Stores
+	Location: Willowdale, NJ
+	Review Date: 2023-10-01T21:50:08.083
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Support, good staff, good salary and i get to go home everynight
+
+
+	Cons: 
+		None cannot complain about the company
+
+
+	Summary: 
+		Great company
+
+
+Review 17:
+	Job Title: Production Operator
+	Location: Massena, NY
+	Review Date: 2023-10-16T14:05:02.410
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Fun pay experience people safety
+
+
+	Cons: 
+		Weather labor confusion repetitive hard .
+
+
+	Summary: 
+		Great
+
+
+Review 18:
+	Job Title: Labor Relations Specialist
+	Location: Ferndale, WA
+	Review Date: 2023-03-04T10:13:56.973
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		They pay pretty well, decent medical benefits and 401k match, Union employer depending on which plant you work for.
+
+
+	Cons: 
+		Mandatory Overtime, Upper management protects supervisors who bully employees, medical claims aren’t handled correctly - they will close out your claim while you are still injured and tell you that you are “fine”. Dodgy incident investigations where they will pin unmaintained equipment failures on employees even though it’s because the company wouldn’t shell out the cash to fix the equipment properly instead of putting a bandaid on it.
+
+
+	Summary: 
+		Strong Culture - the Culture is that management bullies employees
+
+
+Review 19:
+	Job Title: Warehouse Supervisor
+	Location: None
+	Review Date: 2023-07-26T09:00:49.060
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		The pay and the benefits
+
+
+	Cons: 
+		Pool leadership at the local level.
+
+
+	Summary: 
+		Its not the company you work for its who you work for
+
+
+Review 20:
+	Job Title: Accounting
+	Location: Pittsburgh, PA
+	Review Date: 2023-07-26T04:26:02.827
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Motivated, ambitious and supportive team with opportunity for development
+
+
+	Cons: 
+		Tight deadlines, heavy workload and very fast paced work environment
+
+
+	Summary: 
+		Motivated and ambitious team
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

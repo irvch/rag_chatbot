@@ -1,0 +1,406 @@
+
+Thor Industries is a Motor Vehicles & Parts company based in 46514 Elkhart, Indiana. 
+The company has 32,000 employees and has a revenue of $16,313 according to Fortune 500.
+The company is valued at $4,262 and has a profit of $1,138. The CEO of the company is None.
+
+The Company has the following ratings: 
+Average ratings for Thor Industries:
+Business Outlook: 0.42
+
+Career Opportunities: 2.7
+Distribution: 
+	1: 2 
+	2: 5 
+	3: 1 
+	4: 4 
+	5: 0 
+
+CEO: 1
+
+Compensation and Benefits: 3.4
+Distribution: 
+	1: 1 
+	2: 2 
+	3: 1 
+	4: 7 
+	5: 1 
+
+Culture and Values: 2.7
+Distribution: 
+	1: 4 
+	2: 2 
+	3: 2 
+	4: 2 
+	5: 2 
+
+Diversity and Inclusion: 3.4
+Distribution: 
+	1: 2 
+	2: 0 
+	3: 3 
+	4: 3 
+	5: 2 
+
+Overall: 3.2
+Distribution: 
+	1: 1 
+	2: 3 
+	3: 4 
+	4: 2 
+	5: 2 
+
+Senior Management: 3.1
+Distribution: 
+	1: 2 
+	2: 2 
+	3: 3 
+	4: 4 
+	5: 1 
+
+Work Life Balance: 3.5
+Distribution: 
+	1: 1 
+	2: 3 
+	3: 1 
+	4: 4 
+	5: 3 
+
+Review Count: 12
+
+Recommend to Friend: 
+	RECOMMEND: 5
+	WONT RECOMMEND: 6
+
+
+
+
+The company has 12 reviews on Glassdoor. The last review was posted on 2023-08-17T07:02:09.267. 
+There are 12 Reviews for Thor Industries:
+
+Review 1:
+	Job Title: Quality Control Analyst
+	Location: Elkhart, IN
+	Review Date: 2023-08-17T07:02:09.267
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Group leads take quality seriously, 1 of the best RV factories to work at
+
+
+	Cons: 
+		R. v industry itself taking a turn for the worse
+
+
+	Summary: 
+		proud member of plant 150
+
+
+Review 2:
+	Job Title: Yard Inventory Clerk
+	Location: Elkhart, IN
+	Review Date: 2023-07-20T22:07:02.217
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		They have Good pay and benefits.
+
+
+	Cons: 
+		There was lots of nepotism in this department.
+
+
+	Summary: 
+		True Nepotism
+
+
+Review 3:
+	Job Title: None
+	Location: None
+	Review Date: 2023-06-16T17:22:01.700
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		They pay well every week.
+
+
+	Cons: 
+		They lay off a lot
+
+
+	Summary: 
+		Thor makes RVs
+
+
+Review 4:
+	Job Title: Production
+	Location: Elkhart, IN
+	Review Date: 2022-10-15T16:00:33.570
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Good pay. 4 days a week, less than 8 hours a day
+
+
+	Cons: 
+		Disorganized. Lots of moving prices. Everyone is only concerned about their own jobs and may be disrespectful when it comes to what you are doing..
+
+
+	Summary: 
+		Chaotic
+
+
+Review 5:
+	Job Title: None
+	Location: None
+	Review Date: 2022-08-25T05:59:33.537
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Pay seems competitive, health insurance is great.
+
+
+	Cons: 
+		401k match is laughable at best, no bonuses for non-managerial level positions
+
+
+	Summary: 
+		Good company
+
+
+Review 6:
+	Job Title: Tooling Engineer
+	Location: None
+	Review Date: 2022-07-28T02:58:54.757
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		So disorganized you can skate by doing the minimum
+
+
+	Cons: 
+		Everything is in disrepair. It is shocking the company can function.
+
+
+	Summary: 
+		Bunch of fools
+
+
+Review 7:
+	Job Title: Intern
+	Location: Elkhart, IN
+	Review Date: 2021-09-30T13:20:16.870
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Awesome people here, friendliest team I've been on.
+
+
+	Cons: 
+		Pay was less than standard, even for internships
+
+
+	Summary: 
+		Great Company
+
+
+Review 8:
+	Job Title: Customer Service/Parts Department
+	Location: Shipshewana, IN
+	Review Date: 2020-12-17T22:17:06.753
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Great employees to work with, fast pace &amp; fun.
+
+
+	Cons: 
+		Dedication and layalty doesn't play a role when downsizing. Hiring people at a lower rate of pay is more cost effective for this company.
+
+
+	Summary: 
+		KZ-RV  Great Customer Svc.. just no employee service.
+
+
+Review 9:
+	Job Title: Plumber
+	Location: Goshen, IN
+	Review Date: 2018-02-23T02:56:27.350
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Quality products. Knowledge. Co-worker attitude response to defective materials
+
+
+	Cons: 
+		Management. Quality of materials, employee placement, dwindling shop unity.
+
+
+	Summary: 
+		Plumbing
+
+
+Review 10:
+	Job Title: Production Worker
+	Location: Kimmell, IN
+	Review Date: 2018-10-29T08:59:12.390
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Initiative investment yields productive returns
+
+
+	Cons: 
+		Small base cap for advancement
+
+
+	Summary: 
+		Fast passed exciting motivating production environment
+
+
+Review 11:
+	Job Title: Design Engineer
+	Location: Red Bay, AL
+	Review Date: 2021-05-11T10:40:08.387
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Hours can be a pro
+
+
+	Cons: 
+		Management and time off can be a con
+
+
+	Summary: 
+		Management  sucks
+
+
+Review 12:
+	Job Title: Assembly Line Worker
+	Location: Columbia City, IN
+	Review Date: 2021-03-03T12:46:52.957
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 1
+
+	Pros: 
+		$1500 a week, not much else
+
+
+	Cons: 
+		Updates to the facility are needed. Extra stress on back
+
+
+	Summary: 
+		Tough
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

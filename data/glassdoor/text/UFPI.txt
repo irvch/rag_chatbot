@@ -1,0 +1,630 @@
+
+UFP Industries is a Building Materials, Glass company based in 49525 Grand Rapids, Michigan. 
+The company has 15,500 employees and has a revenue of $9,627 according to Fortune 500.
+The company is valued at $4,964 and has a profit of $693. The CEO of the company is Matthew J. Missad.
+
+The Company has the following ratings: 
+Average ratings for UFP Industries:
+Business Outlook: 0.65
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 40 
+	2: 30 
+	3: 65 
+	4: 30 
+	5: 65 
+
+CEO: 0.85
+
+Compensation and Benefits: 3.5
+Distribution: 
+	1: 34 
+	2: 31 
+	3: 62 
+	4: 54 
+	5: 48 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 39 
+	2: 28 
+	3: 41 
+	4: 51 
+	5: 62 
+
+Diversity and Inclusion: 3.6
+Distribution: 
+	1: 20 
+	2: 11 
+	3: 20 
+	4: 22 
+	5: 41 
+
+Overall: 3.8
+Distribution: 
+	1: 39 
+	2: 38 
+	3: 49 
+	4: 62 
+	5: 80 
+
+Senior Management: 3.5
+Distribution: 
+	1: 51 
+	2: 31 
+	3: 50 
+	4: 44 
+	5: 50 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 43 
+	2: 32 
+	3: 53 
+	4: 49 
+	5: 51 
+
+Review Count: 268
+
+Recommend to Friend: 
+	RECOMMEND: 125
+	WONT RECOMMEND: 83
+
+
+
+
+The company has 277 reviews on Glassdoor. The last review was posted on 2024-03-15T21:20:38.707. 
+There are 20 Reviews for UFP Industries:
+
+Review 1:
+	Job Title: IT Analyst
+	Location: Grand Rapids, MI
+	Review Date: 2024-02-27T19:32:03.977
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great pay
+		Great teammates
+		Good culture
+
+
+	Cons: 
+		Long work hours 
+		After hours supporf
+
+
+	Summary: 
+		Great Company to start It career
+
+
+Review 2:
+	Job Title: Estimating Administrator
+	Location: Schertz, TX
+	Review Date: 2024-03-15T21:20:38.707
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		- Bonuses every quarter
+		- They’re are several opportunities for growth
+
+
+	Cons: 
+		- Communication between management and employees could be improved
+		- You are required to work over time
+		- They justify paying lower due to bonuses, they definitely could &amp; should pay 18 for this position, if interviewing just stand your ground on pay
+
+
+	Summary: 
+		Work environment is great, but workload can get overwelming
+
+
+Review 3:
+	Job Title: IT Support Center Manager
+	Location: None
+	Review Date: 2024-02-16T04:19:17.123
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Most employees are awesome to work with, very smart, good people. Ability to work remotely is awesome. Company does so many nice things for employees and also for the community.
+
+
+	Cons: 
+		Aging tech infrastructure makes IT hard to fix
+
+
+	Summary: 
+		Great Company, Great People
+
+
+Review 4:
+	Job Title: Production Supervisor
+	Location: Granger, IN
+	Review Date: 2024-02-28T04:52:52.740
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good benefits, fair pay, overtime opportunities, advancement potential
+
+
+	Cons: 
+		Hectic work environment, lack of clear direction from leadership
+
+
+	Summary: 
+		Good place to work
+
+
+Review 5:
+	Job Title: General Laborer
+	Location: White Pigeon, MI
+	Review Date: 2024-02-04T16:59:23.717
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		cannot think of 1 pro to say
+
+
+	Cons: 
+		Horrible Management unless you are friends with the management you do not matter. Managers talk a big game, but you rarely see them on the floor unless it's to tell you what you are doing wrong. Corporate comes in and tells you they want to hear what's going on but nothing changes. Shipping manager and production manager are horrible. They only care about themselves
+
+
+	Summary: 
+		White Pigeon MI plant needs all new management
+
+
+Review 6:
+	Job Title: Account Manager
+	Location: Ranson, WV
+	Review Date: 2024-02-24T07:38:44.460
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		100% independent and flexible position.
+
+
+	Cons: 
+		Lumber market 100% commodity price driven product.
+
+
+	Summary: 
+		Tough selling
+
+
+Review 7:
+	Job Title: Lawyer
+	Location: Gordon, PA
+	Review Date: 2024-02-19T02:17:30.783
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Company gives a  profit share at the end of the year.
+
+
+	Cons: 
+		It truly is a "who you know" environment, employees are not treated equal. Scheduling work is always done last minute.
+
+
+	Summary: 
+		Very disappointed
+
+
+Review 8:
+	Job Title: None
+	Location: None
+	Review Date: 2024-02-02T17:45:59.890
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Decent benefits, good bonuses, focus on internal promotions.
+
+
+	Cons: 
+		Depending on industry, high probability of overtime.
+
+
+	Summary: 
+		Great Company, With Great Values
+
+
+Review 9:
+	Job Title: Production/Manager Trainee
+	Location: Boston, MA
+	Review Date: 2024-02-03T03:04:41.593
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Teamwork. Skills development. Experience. Career growth.
+
+
+	Cons: 
+		Long hours. Staff is very friendly.
+
+
+	Summary: 
+		Amazing work environment. Truly hands on experience and the benefits are great.
+
+
+Review 10:
+	Job Title: Accounts Payable
+	Location: Dallas, TX
+	Review Date: 2024-01-15T12:45:36.393
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The culture here is outstanding, great company to work for
+
+
+	Cons: 
+		Nothing bad to say about the company
+
+
+	Summary: 
+		Great Company
+
+
+Review 11:
+	Job Title: Content Marketer
+	Location: None
+	Review Date: 2024-01-10T15:57:28.677
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		work flexibility and office space
+
+
+	Cons: 
+		doesn't have adequate number of staff members
+
+
+	Summary: 
+		Review
+
+
+Review 12:
+	Job Title: Packaging Engineer
+	Location: Grand Rapids, MI
+	Review Date: 2024-01-03T14:59
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Training opportunities are in abundance.
+
+
+	Cons: 
+		Poor management, benefits, and pay. No bonus transparency. Bonuses aren’t
+		 consistent between like positions. Fire people left and right without any warning. Promotion based on popularity rather than performance. Good ol’ boys network. No consistency when it comes to remote work.
+
+
+	Summary: 
+		Avoid
+
+
+Review 13:
+	Job Title: International Supply Chain Analyst
+	Location: Oklahoma City, OK
+	Review Date: 2023-12-07T12:13:32.387
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great opportunities to grow and learn. 
+		Great management that knows how to do the business and drive a department and is also encouraging and nice.
+
+
+	Cons: 
+		PTO could need a review!
+
+
+	Summary: 
+		Great Team and Managers who actually care
+
+
+Review 14:
+	Job Title: None
+	Location: None
+	Review Date: 2023-11-08T13:44:37.057
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Outstanding organization with tons of room to grow.
+
+
+	Cons: 
+		It is a large organization.
+
+
+	Summary: 
+		Great Place to Be
+
+
+Review 15:
+	Job Title: None
+	Location: Grand Rapids, MI
+	Review Date: 2023-08-07T16:48:02.137
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		If you are a white heterosexual right-leaning male, you will do well and have lots of opportunities. Most people I have worked with are talented and hardworking, but there is a huge lack of diversity and it seems to be getting worse.
+
+
+	Cons: 
+		Constant reorganization, increasingly political messages from the CEO, no clear direction at the leadership level.
+
+
+	Summary: 
+		Good people, questionable leadership
+
+
+Review 16:
+	Job Title: Forklift
+	Location: None
+	Review Date: 2023-11-01T23:33:39.083
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good money for hard workers
+
+
+	Cons: 
+		I have nothing bad to say
+
+
+	Summary: 
+		Good
+
+
+Review 17:
+	Job Title: UFP
+	Location: None
+	Review Date: 2023-07-28T16:32:21.427
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Were all loyal hard working people. There's been a lot of people quitting and getting fired. So including myself we have been moved around and not doing what we was hired to do but to be honest if we want to keep our shift we need to pull together and get through this together
+
+
+	Cons: 
+		I have no complaints now
+
+
+	Summary: 
+		Calling out to plant 309 3rd shift
+
+
+Review 18:
+	Job Title: Custodial Worker/machine operator
+	Location: None
+	Review Date: 2023-10-19T16:43:24.503
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 0
+
+	Pros: 
+		friendly place to work, nice people...
+
+
+	Cons: 
+		machines were old and needed constant repair
+
+
+	Summary: 
+		good
+
+
+Review 19:
+	Job Title: Manager
+	Location: San Antonio, TX
+	Review Date: 2023-08-26T13:20:14.750
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Coworkers are considered and treated family, if you take care of the company the company takes care of you. If willing to put the extra effort, lots of opportunities are presented thru you career.
+
+
+	Cons: 
+		No cons during my time working for UFP
+
+
+	Summary: 
+		Great Company to build a ling term career
+
+
+Review 20:
+	Job Title: Account Manager
+	Location: Rancho Cucamonga, CA
+	Review Date: 2023-09-25T16:41:25.660
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		They have numerous opportunities for growth and the culture is FANTASTIC
+
+
+	Cons: 
+		long hours at times but well worth the grind
+
+
+	Summary: 
+		Great Place to Work
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

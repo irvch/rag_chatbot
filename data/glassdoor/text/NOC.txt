@@ -1,0 +1,664 @@
+
+Northrop Grumman is a Aerospace & Defense company based in 22042 Falls Church, Virginia. 
+The company has 95,000 employees and has a revenue of $36,602 according to Fortune 500.
+The company is valued at $70,203 and has a profit of $4,896. The CEO of the company is Kathy Warden.
+
+The Company has the following ratings: 
+Average ratings for Northrop Grumman:
+Business Outlook: 0.74
+
+Career Opportunities: 3.9
+Distribution: 
+	1: 585 
+	2: 946 
+	3: 1901 
+	4: 2385 
+	5: 2352 
+
+CEO: 0.86
+
+Compensation and Benefits: 3.8
+Distribution: 
+	1: 282 
+	2: 728 
+	3: 2199 
+	4: 3034 
+	5: 1918 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 659 
+	2: 749 
+	3: 1645 
+	4: 2137 
+	5: 2212 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 204 
+	2: 207 
+	3: 592 
+	4: 909 
+	5: 1748 
+
+Overall: 4
+Distribution: 
+	1: 451 
+	2: 828 
+	3: 2126 
+	4: 3713 
+	5: 2858 
+
+Senior Management: 3.4
+Distribution: 
+	1: 1122 
+	2: 1232 
+	3: 2174 
+	4: 2098 
+	5: 1458 
+
+Work Life Balance: 4.1
+Distribution: 
+	1: 453 
+	2: 674 
+	3: 1681 
+	4: 2459 
+	5: 2874 
+
+Review Count: 10069
+
+Recommend to Friend: 
+	RECOMMEND: 5423
+	WONT RECOMMEND: 1701
+
+
+
+
+The company has 11428 reviews on Glassdoor. The last review was posted on 2024-04-17T23:54:43.410. 
+There are 20 Reviews for Northrop Grumman:
+
+Review 1:
+	Job Title: Material Handling
+	Location: Lake Charles, LA
+	Review Date: 2024-03-03T11:11:45.063
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Leadership needs some more training
+
+
+	Cons: 
+		Good environment to work in
+
+
+	Summary: 
+		Great
+
+
+Review 2:
+	Job Title: Software Engineer
+	Location: Boulder, CO
+	Review Date: 2024-03-16T12:00:25.003
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Laid-back workplace
+		Good job security (notwithstanding layoffs in California)
+
+
+	Cons: 
+		No opportunity for growth. Annual raises are less than inflation and promotions are unlikely, regardless of effort put in.
+		
+		Benefits are garbage. Low-deductible plan costs too much to make financial sense, and the medium deductible plan is like not having insurance at all for a significant part of the year. Even after going through the deductible, it's hard to get insurance to cover anything.
+		
+		Full Return to Office where your coworkers get you sick + No sick leave (must use PTO) + Insurance that won't pay for your doctor visits and medication when you're sick. Quite the combination.
+		
+		Lead on my current project is not a software engineer, and it shows. Most of the work I did last year was fixing his very avoidable mistakes.
+		
+		Vesting period for employer contributions to 401(k) is 3 years, with no partial vesting. So unless you get lucky with a position that will keep you happy for three years, you get nothing.
+
+
+	Summary: 
+		Stable employment, but much to be desired.
+
+
+Review 3:
+	Job Title: Contractor
+	Location: Plymouth, MN
+	Review Date: 2024-04-10T22:20:54.283
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Good Pay, 9/80 work schedule. Great coworkers, very smart people. Interesting and meaningful work. Awesome front line managers in my dept.
+
+
+	Cons: 
+		NG senior leadership has been clearing house in the upper ranks and implementing lots of new unhelpful policies that make it very hard to get things done. Lots of upset customers. Reams of charts.
+		Teams and Managers are very overworked and burning out hard with RTO and all the other policy changes.
+		Bonus Plan is measley and annual increases are standard 2-4% per year.
+
+
+	Summary: 
+		Headed in the wrong direction
+
+
+Review 4:
+	Job Title: Software Engineer
+	Location: San Diego, CA
+	Review Date: 2024-01-25T14:00:23.560
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		First team I joined was great. Team was nice and helpful and my manager was very empathetic and understanding.
+
+
+	Cons: 
+		Second team I joined was terrible and gave me lasting work trauma. Team lead didn't know how to manage people and was set in his ways (i.e. stuck with processes he was comfortable with, even though they were unproductive). Senior SWE I worked with was a toxic micromanager (even though he wasn't even a manager lol) that did whatever he could to kiss up to the team lead, even if that meant throwing us younger SWEs under the bus. Unfortunately leadership didn't take this problem seriously and when a fellow SWE and the senior SWE got into a conflict, leadership simply decided to move fellow SWE to a new team instead of resolving the root of the problem, which was the senior SWE. Other fellow SWEs eventually left the team (I'm sure you can probably guess why) and I was left alone with all the work and the ever-toxic senior SWE. Eventually found out that turnover rate on this team was extremely high, go figure, and I quit the job. I come to work to do my job and get paid, not play office politics and deal with toxic people. We all have other things going on in our lives and the last thing we should have to worry about is toxicity in the workplace.
+
+
+	Summary: 
+		What's the key to a happy and productive work life? THE PEOPLE.
+
+
+Review 5:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-26T17:43:51.980
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Depends on the program you support but generally speaking flexibility is good.
+
+
+	Cons: 
+		NGC at BWI may not be ideal for employment. Success hinges on managerial belief and support, which has recently been lacking, especially in addressing personnel issues. The company often ignores misconduct, failing to take corrective measures depending on the individual. Favoritism and bias are prevalent in handling grievances. Seek employment with a company that values equality and ensures management and HR effectively address issues and support you.
+		Having more responsibilities doesn’t necessarily mean earning higher pay. Often, individuals take on highly stressful roles or managerial positions with additional program facing duties without receiving extra compensation, which is very backwards.
+
+
+	Summary: 
+		Find a better place to work
+
+
+Review 6:
+	Job Title: Software Engineer
+	Location: Linthicum, MD
+	Review Date: 2024-02-21T11:48:03.407
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Great starter company to spring board off of using their name.
+
+
+	Cons: 
+		Less than competent low-level management, for a technical company there is a high level of fear when it comes to embracing newer technologies.
+		Management positions and tasks are handed to people that the company feels most comfortable with. There is many an MBA leading technical teams, inserting their incorrect technical knowledge , which often slows down or derails projects; but hey, what can you do they're in charge. 
+		Those who have been around for a while are put in leadership positions, even though their technologically out of touch, I remember recently explaining how headphone jacks have changed and why the customers headsets would not work with the machines we've installed.
+		
+		Too old school: 
+		Instead of using modern software, multi-million dollar projects are tracked in Excel. 
+		Everything is documented to an extensive degree, to the point that documentation takes months and implementation can take half of that. That may work for this company, but if you leave and go elsewhere like Microsoft or Google they will laugh out of an interview with such slow throughput.
+		In summary, they are like flip phone makers that sell their wares to senior citizens; not cutting action but have a fan base, but when that fan base dies....
+
+
+	Summary: 
+		Smoke and Mirrors
+
+
+Review 7:
+	Job Title: Associate Systems Engineer
+	Location: Bethpage, NY
+	Review Date: 2024-03-22T13:23:28.573
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Competitive pay, and okay benefits
+		Work life balance is excellent due to 9/80 schedule and classified nature of majority of the work
+
+
+	Cons: 
+		Coworkers are unsocialized and unprofessional
+		Tasking is extremely slow
+		Communication is extremely poor
+		advertises flexible work environment but reality is largely not the case
+		No paper towel in the women's bathrooms but there is in the men's bathrooms
+		There is such a severe allergy to "micromanaging" at this company that it seems like no management or even basic communication is performed.
+
+
+	Summary: 
+		Exhausted
+
+
+Review 8:
+	Job Title: Sr. Principal Cyber Architect
+	Location: Chandler, AZ
+	Review Date: 2024-02-09T10:03:01.043
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Overall, the company culture is great. Younger, friendly workforce. Most look like they were plucked right out of college. You also get to work with some really smart, seasoned Subject Matter Experts here, so the opportunity to learn here is almost unlimited!
+		
+		Great diversity and inclusion/Employee Resource Groups you could join if you are Latino, Veteran, Disabled, etc. Competitive salary, medical (Anthem Blue Cross High/Med/Low deductible plans only), standard Vision/Dental/Legal/HSA/FSA/401(K) plans, company-paid S/T disability, basic Life Insurance/AD&amp;D Insurance, EAP
+		
+		There are several offices within just Chandler, Mesa and Gilbert (and multiple business division) so you have opportunity to move between offices/divisions. Hybrid work is allowed; complete remote is no longer allowed unless you get special approval.
+
+
+	Cons: 
+		Sr. Principal/Staff level engineering positions are very competitive and hard to get here...more so than in other locations like Virginia or even Huntsville, so unless you came in at that level from another office or just by sheer luck such positions became available, you may have to work years before you move past the Principal level.
+		
+		Also, bereavement benefit is shockingly dismal. I had a colleague whose mother passed away and all she got was a few days.
+
+
+	Summary: 
+		Great senior management and company culture, cool project opportunities, but...
+
+
+Review 9:
+	Job Title: Devops Engineer
+	Location: Tampa, FL
+	Review Date: 2024-03-31T09:45:10.147
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		There are no pros working at the tampa office
+
+
+	Cons: 
+		You are set up to fail. Worst manager and job. The program manager is verbally abusive, stuck in the past, swears profusely, rejects innovation, and goes out of their way to assert their dominance. Job descriptions are deliberately deceptive and bear no resemblance to the expected tasks or workload. The toxic environment sucks the enthusiasm and life right out of you. New ideas are discouraged. The turnover is extreme which has resulted in terrible on boarding practices with no training or mentorship. Existing team members talk and act as though new team members are gone before they even start. There is no effort to make you a part of the team, no matter how hard you try. They smile while watching you drown with work. Other managers are submissive to the program manager. There is no leadership. Do not make the mistake of working here for the name, it is not worth it.
+
+
+	Summary: 
+		Unbelieveably terrible in Tampa
+
+
+Review 10:
+	Job Title: Avionics Technician
+	Location: San Diego, CA
+	Review Date: 2024-04-16T14:06:15.430
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The higher ups really look out for you and never leave you in the dark. They want to see you grow and move up the ladder.
+
+
+	Cons: 
+		Some other companies offer more benefits and will put more money into your 401k. Some holidays are not paid. You will have to come in.
+
+
+	Summary: 
+		Northrop is Awesome
+
+
+Review 11:
+	Job Title: Associate Pathways Software Engineer
+	Location: Boulder, CO
+	Review Date: 2024-01-22T11:54:27.527
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Great pay for entry-level job. There are opportunities to move around and learn new things as a junior non-software engineer, Software engineers can also move around, but the vast majority of software opportunities are to maintain code from the 80s, build bad code fast, or move files. Company respected work-life balance and flexible hours.
+
+
+	Cons: 
+		In the Boulder, CO location in particular (I did not encounter this issue at the Aurora and Colorado Springs locations), there is a refusual to fire senior engineers who work from home and refuse to come into the office or maintain an online presence. They are held unaccountable for not fulfilling their responsibilities and using junior engineers to perform their own menial tasks in the classified environment so that they do not need to either come into the office.
+		
+		As much as they claim to be transitioning to Agile, software at Northrop Grumman is monolithic, messy, and completely undocumented. There is a complete lack of interest in developing quality code or maintaining software best practices. Work in software for Northrop and you will leave without transferable skills to develop software at another company.
+
+
+	Summary: 
+		Great starting company for non-software engineers
+
+
+Review 12:
+	Job Title: None
+	Location: None
+	Review Date: 2024-04-05T09:10:07.870
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Getting to code and create
+
+
+	Cons: 
+		Does not honor promises regarding hybrid work. Upper management does not care about work/family balance. Politics and greed make deadlines a nightmare. Advancement opportunities are hard to come by the higher you get in this company. A lot of zig zagging and side shuffling. Pay doesn't reflect cost of living in area of work location.
+
+
+	Summary: 
+		Beware of company greed
+
+
+Review 13:
+	Job Title: Multilayer materials & process specialist 
+	Location: Linthicum, MD
+	Review Date: 2024-04-16T14:00:43.227
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Management is fairly hands-off and co-workers are reasonable people.
+
+
+	Cons: 
+		The work itself is fairly boring, exposure to chemicals is a problem, and there is basically zero room to move up from here. Just another (well paid) brick in the wall.
+
+
+	Summary: 
+		Modest
+
+
+Review 14:
+	Job Title: Electronics Technician
+	Location: Corinne, UT
+	Review Date: 2024-04-09T09:34:41.487
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Great people, 4-days a week 4-10 schedule.
+
+
+	Cons: 
+		The whole company lies about pay. Your pay bracket could be 60k-100k. There are people here that have worked 20 years of their life that don’t make close to top out. So don’t expect a good raise or a pay bump. The place is very dirty and the equipment is very old. With the 4-10 schedule you have to work graveyard every 3ish months.
+
+
+	Summary: 
+		Some problems
+
+
+Review 15:
+	Job Title: Sr Staff Software Engineer
+	Location: None
+	Review Date: 2024-04-14T20:44:44.980
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Small programs available to work so not like working at big corporation
+
+
+	Cons: 
+		Middle management is lacking, easy to get passed over if your not good at tooting your own horn.
+
+
+	Summary: 
+		Great place to work
+
+
+Review 16:
+	Job Title: Software Engineer
+	Location: None
+	Review Date: 2024-03-12T20:52:08.333
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		The government contract means you have the potential to make a career here.
+		Managers tend to be flexible with employees’ needs.
+		Growth in the company is rapid.
+
+
+	Cons: 
+		The government contract means that the processes the company uses are crafted to meet customer demands and not what the work actually needs.
+		The government contract means that the work can change drastically or disappear entirely based on government funding allocation.
+		There are so many independent reviewers on contractor’s work that progress is slow.
+		Teams who have been around a while tend to do what worked in the past and they are inexplicably opposed to change.
+		Great performance reviews are based solely on how many hours over 80 you work.
+		Software updates take years before they get deployed, so user feedback comes rarely.
+
+
+	Summary: 
+		Stuck in the past
+
+
+Review 17:
+	Job Title: Electrical Engineer II
+	Location: Melbourne, FL
+	Review Date: 2024-04-09T14:25:21.050
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		great career development opportunities across all sectors and a lot of interesting programs.
+
+
+	Cons: 
+		raises are average (2-3%) even for excellent performers. It could be hard to move up or get promoted if you don't have a good manager who advocates for you.
+
+
+	Summary: 
+		Great Company
+
+
+Review 18:
+	Job Title: Manufacturing Analyst
+	Location: Brigham City, UT
+	Review Date: 2024-04-12T21:22:03.993
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Getting to build flight hardware for NASA. Great people to work with. Good benefits, and a positive culture.
+
+
+	Cons: 
+		It's hard to get processes improved, facilities are older. Base pay isn't as competitive. It's a 30 minute drive to the plant located in remote Utah.
+
+
+	Summary: 
+		We build awesome things!
+
+
+Review 19:
+	Job Title: HR
+	Location: Salt Lake City, UT
+	Review Date: 2024-04-15T10:15:47.803
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Remote capabilities
+		Great Manager atmosphere
+
+
+	Cons: 
+		No consideration for contractors contributions. They contribute the same as full time permanent employees and are thrown away like trash after all the hard work they contribute to the company, instead of bringing them on board as permanent employees as told they would be.
+
+
+	Summary: 
+		Human Resources 
+
+
+Review 20:
+	Job Title: Technician
+	Location: None
+	Review Date: 2024-01-14T08:25:48.630
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Well....it was a job and that's about the only pro I can list. Pay and benefits were not the best.
+
+
+	Cons: 
+		If you want to work a dead end job with dead end pay for a dead end company this place is for you. Opportunities for advancement were for all practical purposes nil and only open to friends and family therefore forget even trying...they already know who they want for the job! Entirely way too much emphasis is put on college degrees and not enough on merit and experience. What you end up with is a gaggle of people who are book smart to the nth power yet have no practical skills. Apart from that I personally saw them put people in positions that had scant or no aviation experience whatsoever over those who spent decades in aviation, especially in positions of aircraft inspection...and people wonder why I don't fly anymore! Only way to move up was to leave to which I did and now I have a whole plethora of advancement opportunities.
+		I used to hear all kinds of stories from older (all of which now retired) employees how when it was just "Northrop" and when it was just "Grumman" they were good companies but nowadays not so much. I used to laugh it off but now I see what they mean.
+
+
+	Summary: 
+		Once a great company but nowadays, not so much!
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

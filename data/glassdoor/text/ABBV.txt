@@ -1,0 +1,629 @@
+
+AbbVie is a Pharmaceuticals company based in 60064 North Chicago, Illinois. 
+The company has 50,000 employees and has a revenue of $58,054 according to Fortune 500.
+The company is valued at $281,151 and has a profit of $11,836. The CEO of the company is Richard A. Gonzalez.
+
+The Company has the following ratings: 
+Average ratings for AbbVie:
+Business Outlook: 0.75
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 310 
+	2: 364 
+	3: 807 
+	4: 885 
+	5: 829 
+
+CEO: 0.85
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 100 
+	2: 201 
+	3: 595 
+	4: 1173 
+	5: 1115 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 351 
+	2: 312 
+	3: 604 
+	4: 812 
+	5: 1092 
+
+Diversity and Inclusion: 3.9
+Distribution: 
+	1: 158 
+	2: 157 
+	3: 330 
+	4: 511 
+	5: 923 
+
+Overall: 3.9
+Distribution: 
+	1: 279 
+	2: 319 
+	3: 741 
+	4: 1276 
+	5: 1387 
+
+Senior Management: 3.4
+Distribution: 
+	1: 467 
+	2: 404 
+	3: 683 
+	4: 886 
+	5: 687 
+
+Work Life Balance: 3.6
+Distribution: 
+	1: 374 
+	2: 354 
+	3: 710 
+	4: 822 
+	5: 926 
+
+Review Count: 4013
+
+Recommend to Friend: 
+	RECOMMEND: 1906
+	WONT RECOMMEND: 678
+
+
+
+
+The company has 5089 reviews on Glassdoor. The last review was posted on 2024-04-17T20:53:57.987. 
+There are 20 Reviews for AbbVie:
+
+Review 1:
+	Job Title: Sales Manager
+	Location: Philadelphia, PA
+	Review Date: 2024-04-09T11:32:18.090
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Great culture, products and opportunities
+
+
+	Cons: 
+		Hard to grow if you cannot relocate to HQ full time
+
+
+	Summary: 
+		Great company
+
+
+Review 2:
+	Job Title: Director
+	Location: North Chicago, IL
+	Review Date: 2024-02-17T03:54:00.623
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Comp package, pension for long-time employees (program ended 2022 but 401k higher match was offered instead), exciting industry
+
+
+	Cons: 
+		The corporate politics have become almost unbearable. Finance top leadership is toxic, especially the women finance VP's (and there are not many). EEDI is way over the top and senior management is out of touch with how much the majority of people feel it is toxic, hypocritical and probably starting to venture into illegal territory.
+
+
+	Summary: 
+		Take the good with the bad - in general the good outweighs
+
+
+Review 3:
+	Job Title: Project Manager
+	Location: Mettawa, IL
+	Review Date: 2024-01-11T18:21:15.053
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		People are the best. You can find the best mentors who cheer you on and support you in your career. Ego is not a problem, most leaders recognize talent and nurture it. Benefits are great and culture is the reason most of us stay. Most people are warm, inviting, friendly and motivated people so it’s a great environment to work in.
+
+
+	Cons: 
+		Talent review cycle is not very rewarding. HR rules are too rigid and inflexible in some parts of the company. Some areas of the business let good talent walk out the door because not enough career opportunities are rewarded to the high performers. They do too much to placate the average worker who has been there longer, than they do to move up high performers. It creates an endless cycle of high talent turning over often, but they keep the mediocre workers too long. Promotions are too few in certain areas, which they expect linear growth after 7+ years of you doing the same job for a long time. They need to recognize that in order to retain high talent, people are not going to sit still for years and “pay their dues” when another function is offering them growth. Usually to move up at AbbVie you have to switch functions instead of go through the usual annual talent review cycle.
+
+
+	Summary: 
+		One of the best places to build a career
+
+
+Review 4:
+	Job Title: Project Manager
+	Location: Mettawa, IL
+	Review Date: 2024-04-17T20:53:57.987
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great work life balance environment
+
+
+	Cons: 
+		Internal politics - Cross functional team members can create difficult environment to work if you are foreigner and have an accent.
+
+
+	Summary: 
+		Pay
+
+
+Review 5:
+	Job Title: Engineer
+	Location: Waco, TX
+	Review Date: 2024-02-19T11:21:16.887
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The benefits are ok, they used to be a lot better. Over the years the company continues to chip away at them.
+
+
+	Cons: 
+		So many bad experiences with this place. A decade ago, it was a great place to work but now it's a sh!t show. The only way to move up in the company is to be bad at your current position. The bad employees are shifted from department to department every 2 years. The good ones that work hard are left in the same position without a promotion forever. The management style at this facility is the biggest problem. Plant managers are changed out every couple of years and the directors run around like children. Expect to be asked to do work for those that are incapable and have your vacation requests be denied by your manager. 
+		The company also cares more about training you to be diverse and inclusive than managing production time or being an effective leader. It's probably the last place in Waco you want to work at. It's better to be at Refresco or Mars where the workload is less, and the people are happier. Walking around this place you see so many depressed people not to mention the ruined marriages.
+
+
+	Summary: 
+		Similar to hell with less people
+
+
+Review 6:
+	Job Title: Pharmaceuticals Sales - Specialty Representative
+	Location: None
+	Review Date: 2024-03-24T19:30:05.167
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Working at AbbVie offers several advantages, such as access to top-tier Immunology and Rheumatology products with preferred coverage. AbbVie also prioritizes providing ample resources and support to its employees, customers, and patients, fostering a supportive and conducive environment for all stakeholders.
+
+
+	Cons: 
+		AbbVie is grappling with recent challenges, particularly revolving around a notable turnover in key leadership positions. Within the past year, new leaders, including the President of Immunology, Vice President of Rheumatology, and Sales Director of Rheumatology, have assumed their roles. This influx of new leadership has fostered a micromanagement culture and destabilized the organization's structure. Despite AbbVie's esteemed reputation, the company has consistently fallen short of its Rhuematology sales targets for consecutive quarters. Regrettably, this has led to an unfair distribution of blame, with sales representatives shouldering unwarranted responsibility. The elimination of profit-sharing programs, coupled with the absence of an employee stock purchase program, has resulted in significant pay cuts for sales representatives, further exacerbating employee dissatisfaction. Moreover, the flawed incentive compensation structure, which disproportionately emphasizes territory history over growth potential, has failed to deliver on promises of high earnings.
+		
+		In addition to these internal challenges, AbbVie is grappling with the aftermath of HUMIRA's loss of exclusivity. This has prompted the company to urgently position its newer products as superior alternatives for rheumatoid arthritis patients who have ceased HUMIRA treatment. This strategic pivot emphasizes the pressing need for AbbVie to adapt swiftly to evolving market dynamics and effectively promote its newer offerings to maintain its competitive edge in the industry.
+
+
+	Summary: 
+		Insights into AbbVie: Navigating the Pros and Cons of Employment
+
+
+Review 7:
+	Job Title: Senior Scientist
+	Location: North Chicago, IL
+	Review Date: 2024-03-17T07:57:08.650
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Great healthcare benefits, salary, and macro level commitment to the employees.
+
+
+	Cons: 
+		I was in PRD and my particular group was rife with abuse. There was little attempt to fix any of the problems by HR. It seemed like this was going on for years prior to my hiring and continued throughout my time there. The head of my department was promoted shortly after I left. The group produced great results, but the culture was terrible. Misaligned values in people, favoring egos above all.
+
+
+	Summary: 
+		Good company, but department
+
+
+Review 8:
+	Job Title: Regional Sales Manager
+	Location: Phoenix, AZ
+	Review Date: 2024-04-16T23:47:35.673
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Solid company and pension plan
+
+
+	Cons: 
+		Work environment is not always good
+
+
+	Summary: 
+		Abbvie
+
+
+Review 9:
+	Job Title: Principal Scientist
+	Location: Worcester, MA
+	Review Date: 2024-04-15T10:28:41.640
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Flexibility, Good benefits, location, great mission
+
+
+	Cons: 
+		opportunities are not offered equally
+
+
+	Summary: 
+		Flexibility
+
+
+Review 10:
+	Job Title: Quality Control
+	Location: Branchburg, NJ
+	Review Date: 2024-04-12T05:49:53.383
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Mostly nice co workers
+		Decent pay (not great)
+
+
+	Cons: 
+		Little room for growth
+		Company values quantity over quality
+		Lack of culture in recent months
+		Company is trying to turn employees into robots
+
+
+	Summary: 
+		Could be better
+
+
+Review 11:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-25T09:59:42.187
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Abbvie is a large company and has a sense of job security.
+
+
+	Cons: 
+		They post jobs and never hire anyone for them. I referred a few very qualified colleagues and they would always get rejected within an hour of submitting their applications. The post positions and repost positions with over 100 applicants and never fill the position. I left the company because it was disorganized and scam others out of opportunities.
+
+
+	Summary: 
+		Post Jobs and never fill them
+
+
+Review 12:
+	Job Title: Sales Representative
+	Location: Chicago, IL
+	Review Date: 2024-04-10T08:05:04.787
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Development and resources, growth opportunities for those who seek.
+
+
+	Cons: 
+		Work life balance, some managers are not the best. Lack of transparency
+
+
+	Summary: 
+		Overall it’s a good company
+
+
+Review 13:
+	Job Title: Customer Service Representative
+	Location: Austin, TX
+	Review Date: 2024-04-09T10:07:29.100
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		love the people and how the company values them
+
+
+	Cons: 
+		ever changing environment, must be adaptable to work in Pharma
+
+
+	Summary: 
+		Excellent Place to work
+
+
+Review 14:
+	Job Title: Senior Scientist I
+	Location: South San Francisco, CA
+	Review Date: 2024-01-28T18:42:42.320
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		AbbVie has some long term employees that make this place a friendly work environment, most people are very helpful.
+
+
+	Cons: 
+		Senior management does not care about the growth of non-PhDs, you’ll be working hard in the lab or driving the entire project. A new out of school PhD can join in the group with no previous management experience and you’ll suddenly be expected to follow orders and report to them. No matter how many years of experience you have. It is very hard to grow. Very bad morale within the non-PhDs in oncology discovery group because of this issue.
+
+
+	Summary: 
+		Good work environment, very little room to grow
+
+
+Review 15:
+	Job Title: Sr. Manager, Strategy and Operations
+	Location: Lake Forest, IL
+	Review Date: 2024-04-04T09:29:45.573
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		excellent benefits. nice people.good flexibility
+
+
+	Cons: 
+		culture is very dependant on your group.
+
+
+	Summary: 
+		excellent benefits
+
+
+Review 16:
+	Job Title: Account Specialist
+	Location: Portland, OR
+	Review Date: 2024-04-03T14:42:49.647
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Love my franchise. Can't speak for others.
+
+
+	Cons: 
+		Can't think of any. TBH, I am just writing this review to get 12 more months of access to Glassdoor
+
+
+	Summary: 
+		Love my particular franchise
+
+
+Review 17:
+	Job Title: Sales Representative
+	Location: None
+	Review Date: 2024-03-26T15:05:36.187
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great company with numerous benefits.
+
+
+	Cons: 
+		Reps and managers are encouraged to cross pollinate within in the organization.  When this happens too fast, there is a knowledge gap that sometimes leads to slow reactions within the organization.    Thus, leading to struggles with the business growth.
+
+
+	Summary: 
+		Abbvie
+
+
+Review 18:
+	Job Title: IT Project Manager
+	Location: North Chicago, IL
+	Review Date: 2024-04-06T19:39:48.160
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Employer focused culture is honest and contributes to job satisfaction
+
+
+	Cons: 
+		Orgs can rely heavily on hierarchy
+
+
+	Summary: 
+		Good culture, supportive leadership
+
+
+Review 19:
+	Job Title: Finance Manager
+	Location: North Chicago, IL
+	Review Date: 2024-03-28T14:28:09.550
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Employees are encouraged and supported by managers to change positions every couple of years. I haven't seen this much focus on employee development at any other company I've worked for
+
+
+	Cons: 
+		Hours can be long and teams are very lean
+
+
+	Summary: 
+		High potential for growth in finance space
+
+
+Review 20:
+	Job Title: Senior Scientist
+	Location: None
+	Review Date: 2024-04-04T15:27:00.767
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Supportive place that gives you the resources to grow.
+
+
+	Cons: 
+		None - you can achieve what you set out to do.
+
+
+	Summary: 
+		Great company and great people
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

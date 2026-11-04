@@ -1,0 +1,653 @@
+
+State Street is a Commercial Banks company based in 02111 Boston, Massachusetts. 
+The company has 42,226 employees and has a revenue of $13,692 according to Fortune 500.
+The company is valued at $26,074 and has a profit of $2,774. The CEO of the company is Ronald P. O'Hanley.
+
+The Company has the following ratings: 
+Average ratings for State Street:
+Business Outlook: 0.57
+
+Career Opportunities: 3.3
+Distribution: 
+	1: 989 
+	2: 1263 
+	3: 2251 
+	4: 1839 
+	5: 902 
+
+CEO: 0.73
+
+Compensation and Benefits: 3.2
+Distribution: 
+	1: 1026 
+	2: 1648 
+	3: 2405 
+	4: 1517 
+	5: 639 
+
+Culture and Values: 3.4
+Distribution: 
+	1: 1086 
+	2: 1028 
+	3: 1838 
+	4: 1654 
+	5: 1046 
+
+Diversity and Inclusion: 3.7
+Distribution: 
+	1: 277 
+	2: 264 
+	3: 726 
+	4: 968 
+	5: 889 
+
+Overall: 3.5
+Distribution: 
+	1: 896 
+	2: 1372 
+	3: 2977 
+	4: 2434 
+	5: 1159 
+
+Senior Management: 3.1
+Distribution: 
+	1: 1429 
+	2: 1347 
+	3: 2103 
+	4: 1520 
+	5: 771 
+
+Work Life Balance: 3.5
+Distribution: 
+	1: 917 
+	2: 1005 
+	3: 1917 
+	4: 1935 
+	5: 1447 
+
+Review Count: 8860
+
+Recommend to Friend: 
+	RECOMMEND: 3176
+	WONT RECOMMEND: 2740
+
+
+
+
+The company has 9968 reviews on Glassdoor. The last review was posted on 2024-04-17T23:23:52.040. 
+There are 20 Reviews for State Street:
+
+Review 1:
+	Job Title: Operations Associate
+	Location: Boston, MA
+	Review Date: 2024-03-31T10:57:51.980
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good culture for the company
+
+
+	Cons: 
+		Low pay relative to industry
+
+
+	Summary: 
+		Great place to work
+
+
+Review 2:
+	Job Title: Assistant Vice President
+	Location: Quincy, MA
+	Review Date: 2024-03-18T08:01:50.763
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		- Tech has improved in the last 5 years
+		- Nice office buildings in US
+		- BeWell Reimbursement
+
+
+	Cons: 
+		- Continuous US layoffs hurting US team culture &amp; moral 
+		- Much less career growth opportunities for younger US employees
+		- US moral is low due to RTO policy &amp; decreasing wages
+		- Tried to find career growth by moving laterally and was told by internal recruiter that they wouldn't be able to match my current salary due to recent budget restraints.
+
+
+	Summary: 
+		Lacking US Culture
+
+
+Review 3:
+	Job Title: Associate
+	Location: Quincy, MA
+	Review Date: 2024-01-08T09:32:31.443
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		The company is very supportive of volunteering efforts and offers paid time off for employees who volunteer for local organizations.
+
+
+	Cons: 
+		It used to be a staple in the community and a steady place of work. Unfortunately, as the company grew, long term employees became just a number, easy to replace and overworked. I was an employee for 15 years and oversaw billions of dollars on a daily basis, but wage raises were hard to come by, never kept up with inflation or added responsibilities. Moreover, when “diversity at management levels” became a priority, the person I trained as an intern became my direct manager (promoted 5 times in two years), solely based on racial bias. I got paid to leave upon taking the company to court over this matter, so I can’t disclose more. I was going to leave anyway, for both personal and professional reasons (I just wasn’t fond of their practices - both in regards to their clients and employees). I used to love working for SSB; now I just thank them for generously contributing to my early retirement.
+
+
+	Summary: 
+		You are just a number 
+
+
+Review 4:
+	Job Title: Vice President
+	Location: Boston, MA
+	Review Date: 2024-03-16T09:07:10.623
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Great colleagues (now disappearing though); used to foster an environment to learn and become a subject matter expert (used to be valued)
+
+
+	Cons: 
+		Below market salaries, no salary increases..and now 100% salary decreases for many key contributors
+
+
+	Summary: 
+		Experience &lt;&lt;&lt;&lt; Offshoring 
+
+
+Review 5:
+	Job Title: Senior Product Specialist
+	Location: None
+	Review Date: 2024-04-17T13:43:01.780
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		The benefits at State Street are competitive with other large companies.
+
+
+	Cons: 
+		The management does not seem to promote career advancement in certain positions.
+
+
+	Summary: 
+		Mixed bag
+
+
+Review 6:
+	Job Title: Assistant Vice President
+	Location: Boston, MA
+	Review Date: 2024-01-17T13:21:26.677
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		some good people. made some good friends here.
+		
+		I left SS in 2013 but Glass Door drop down doesn't go beyond 2020. I wanted to put a lot of distance between myself and this chop shop before posting a review.
+
+
+	Cons: 
+		Offices are embarrassing. run down, mice, cockroaches (literally cockroaches in the office regularly), all gray, drab, like going to work in a rainy day every day.
+		
+		Management laid people off every single year. Every december we'd wonder if we'd have a job in the new year. You were not a human to them, just a cost. We'd get this long email at the end of every year where the CEO would brag about how well the company was doing. We all knew to just skip to the 3rd paragraph where we'd learn of the cuts: layoff, 401K match cut, healthcare benefits getting worse, reduced raises and bonuses. You'd be lucky to get a 1.5% raise here. If you complained about it you'd be told you're lucky to have a job. 
+		
+		I'm not being cute here, when I say I 've NEVER met a current or former employee who had a positive thing to say about State Street I mean it. I've never met someone who was in any way proud to work there. If anything most people were embarrassed to admit working there. The company's reputation that bad in the labor market. It's an employer of last resort.
+
+
+	Summary: 
+		Run, don't walk from this dumpster fire
+
+
+Review 7:
+	Job Title: Vice President
+	Location: Boston, MA
+	Review Date: 2024-04-15T17:53:26.687
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Have had exposure to good work, good Liberty to work using my style and met good people.
+
+
+	Cons: 
+		Bureaucracy and politics at all levels
+
+
+	Summary: 
+		Experience varies with teams
+
+
+Review 8:
+	Job Title: Project Manager
+	Location: Quincy, MA
+	Review Date: 2024-03-21T13:27:27.703
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		I still have a job
+
+
+	Cons: 
+		Compensation has been terrible for the last several years with most employees not getting an increase. Additionally this past January the company made a change to no longer allow in job promotions for certain levels after the annual cycle had completed.
+		
+		Over the years I have seen several good people leave over compensation. Only to hire a replacement, with less experience, for more money than the previous employee would have stayed for.
+
+
+	Summary: 
+		Not so great
+
+
+Review 9:
+	Job Title: Associate
+	Location: None
+	Review Date: 2024-04-16T11:22:28.853
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Was a very good learning experience
+
+
+	Cons: 
+		Management and seniors could be more transparent and approachable
+
+
+	Summary: 
+		Good learning
+
+
+Review 10:
+	Job Title: Vice President
+	Location: Boston, MA
+	Review Date: 2024-04-08T13:14:49.023
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Great benefits for Officers and above. Decent pay.
+
+
+	Cons: 
+		Lots of CEOs trying to be alpha by firing people for no reason.
+
+
+	Summary: 
+		As always: it depends
+
+
+Review 11:
+	Job Title: Vice President
+	Location: Boston, MA
+	Review Date: 2024-04-04T05:17:20.553
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		The company offers competitive benefits and is an engaged corporate citizen
+
+
+	Cons: 
+		Management increasingly cares more about senior leadership than the average employee. There is a huge amount of bureaucracy and politics is a huge driver in employee promotions.
+
+
+	Summary: 
+		Culture in decline
+
+
+Review 12:
+	Job Title: Collateral Management
+	Location: Irvine, CA
+	Review Date: 2024-04-12T09:33:26.110
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Gives opportunities to inexperienced pros
+
+
+	Cons: 
+		Doesn’t pay all that much
+
+
+	Summary: 
+		Great starter
+
+
+Review 13:
+	Job Title: Vice President
+	Location: None
+	Review Date: 2023-12-31T23:53:41.957
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Big company w HUGE headaches. You get to learn the frustrations of a big messy organization.
+
+
+	Cons: 
+		1. they let go employees at the end of the year to avoid paying standard and performance based bonuses. I have seen excellent employees with due great bonuses get laid off during December. 
+		2. Benefits absolutely sucks. Even the top tier plan has multiple huge deductibles. Absolute garbage. 
+		3. Pay way below market salary. 
+		4. NO training, you supposed to figure it on your own using misguided documentation that widely incorrect, outdated, flat out poor. 
+		5. Many SVPs and MDs are egotistical and or narcissistic. They believe they own the company and have no problem been horrible working with. These people really kill the company. 
+		6. Your work experience and skills means nothing. No bonus, no mutual communication, no team collaboration, nothing. You get basic emails with poor communications. 
+		
+		My strong advice, don’t leave your current job for this place, even if it might make you a bit more money. The frustration is not worth it. ONLY join if you unemployed and in need.
+
+
+	Summary: 
+		Absolute horrible company
+
+
+Review 14:
+	Job Title: Sales Business Analyst Co-op
+	Location: Boston, MA
+	Review Date: 2024-04-10T13:38:47.720
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Access to company departments, various experiences available
+
+
+	Cons: 
+		No further direct hiring process
+
+
+	Summary: 
+		State Street Co-op salary 
+
+
+Review 15:
+	Job Title: Vice President
+	Location: Boston, MA
+	Review Date: 2024-04-10T13:02:41.773
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great people to work with
+
+
+	Cons: 
+		Low salary for tech when compared to the market
+
+
+	Summary: 
+		Eh
+
+
+Review 16:
+	Job Title: Vice President
+	Location: Newark, NJ
+	Review Date: 2024-04-07T17:20:36.297
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		They have yet to lay me off
+
+
+	Cons: 
+		They only care about shareholders. CEO is a known liar.
+
+
+	Summary: 
+		Don’t care
+
+
+Review 17:
+	Job Title: None
+	Location: None
+	Review Date: 2024-04-08T05:14:07.963
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Some good opportunities over career, and good bonuses in some years
+
+
+	Cons: 
+		Bureaucratic, resource challenges, difficult operations
+
+
+	Summary: 
+		Experience
+
+
+Review 18:
+	Job Title: Quantitative Risk Analyst
+	Location: Boston, MA
+	Review Date: 2024-03-28T02:13:50.547
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		I haven't seen any in this organization
+
+
+	Cons: 
+		Everything. No Manager support. The manager has more powers, he can remove you if he doesn't like your work. No helping hand in my team. No positive energy in the team i worked.
+
+
+	Summary: 
+		Quantitaive Risk officer
+
+
+Review 19:
+	Job Title: Officer
+	Location: Boston, MA
+	Review Date: 2024-04-04T14:49:52.850
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		• Great PTO
+		• Understanding management
+
+
+	Cons: 
+		• RTO is 4 in office days
+
+
+	Summary: 
+		Pros/Cons - State Street
+
+
+Review 20:
+	Job Title: Managing Director
+	Location: None
+	Review Date: 2024-02-16T12:52:04.397
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		- Long-standing, stable firm doing important work in a vital industry
+		- True innovation happens here, depending on where in the organization you work and how well funded it is
+		- Culture from middle-management down supports new ideas and values manager/employee relationships
+		- Decent opportunities if you're a very high performer, have a thick skin and a lot of patience
+		- Good bonuses, but again, only if you're a high performer
+
+
+	Cons: 
+		- Company can't get out of its own way with an insane level of red tape, antiquated policies and overly-complicated employee communications
+		- Innovation is squashed more often than not due to hilariously low budgets and staff resources, even in critical areas of the business
+		- While middle-manager/employee relationships are often healthy, executives (EVPs) severely undermine them with rash decisions and surprise policy changes that leave everyone wondering if they're deliberately trying to wreck the company
+		- Alarming trend down in the promotion policy that requires even junior employees to apply for their own role — if they don't get it, they're gone
+		- Forced return-to-office applies largely to the US and nowhere else in the world, leaving a huge part of the workforce feeling unfairly targeted
+		- Lower and lower base pay that is now well below market average, with no cost-of-living increases (many, many years of 0% change)
+		- The company does not invest enough in people or technology to do the essentials, so many people are constantly overworked (60, 70, 80 or more hours per week)
+
+
+	Summary: 
+		Once great firm no longer worth your time
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

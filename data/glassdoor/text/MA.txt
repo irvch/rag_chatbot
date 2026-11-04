@@ -1,0 +1,671 @@
+
+Mastercard is a Financial Data Services company based in 10577 Purchase, New York. 
+The company has 29,900 employees and has a revenue of $22,237 according to Fortune 500.
+The company is valued at $346,418 and has a profit of $9,930. The CEO of the company is Michael Miebach.
+
+The Company has the following ratings: 
+Average ratings for Mastercard:
+Business Outlook: 0.85
+
+Career Opportunities: 4.1
+Distribution: 
+	1: 281 
+	2: 367 
+	3: 883 
+	4: 1517 
+	5: 1872 
+
+CEO: 0.92
+
+Compensation and Benefits: 4.1
+Distribution: 
+	1: 108 
+	2: 231 
+	3: 883 
+	4: 1829 
+	5: 1858 
+
+Culture and Values: 4.3
+Distribution: 
+	1: 274 
+	2: 271 
+	3: 540 
+	4: 1222 
+	5: 2487 
+
+Diversity and Inclusion: 4.4
+Distribution: 
+	1: 94 
+	2: 95 
+	3: 271 
+	4: 695 
+	5: 1908 
+
+Overall: 4.2
+Distribution: 
+	1: 230 
+	2: 312 
+	3: 742 
+	4: 1912 
+	5: 2656 
+
+Senior Management: 3.8
+Distribution: 
+	1: 470 
+	2: 423 
+	3: 898 
+	4: 1465 
+	5: 1574 
+
+Work Life Balance: 4.2
+Distribution: 
+	1: 236 
+	2: 286 
+	3: 756 
+	4: 1413 
+	5: 2208 
+
+Review Count: 5868
+
+Recommend to Friend: 
+	RECOMMEND: 3745
+	WONT RECOMMEND: 698
+
+
+
+
+The company has 6777 reviews on Glassdoor. The last review was posted on 2024-04-17T11:29:03.417. 
+There are 20 Reviews for Mastercard:
+
+Review 1:
+	Job Title: Software Developer II
+	Location: Pune
+	Review Date: 2023-10-02T13:07:57.630
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		1. Great learning opportunities 2. Supportive colleagues 3. Great working environment 4.transparency
+
+
+	Cons: 
+		Nothing as of now for me
+
+
+	Summary: 
+		Dream company to work
+
+
+Review 2:
+	Job Title: Vice President
+	Location: Saint Louis, MO
+	Review Date: 2024-04-05T07:14:54.177
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Benefits and quality of life. Challenging projects and exceptional leaders.
+
+
+	Cons: 
+		None I can think of
+
+
+	Summary: 
+		Great place to work!
+
+
+Review 3:
+	Job Title: Vice President
+	Location: New York, NY
+	Review Date: 2024-01-25T06:56:50.623
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Mastercard is wonderfully collegial, and has generous pay and benefits. Six months ago, when someone asked me about work I unequivocally said that I loved my job.
+
+
+	Cons: 
+		The return to office policy moved me from considering Mastercard a place I love to work to one I don't. Dictating days of the week back in the office shows a lack of trust for the workforce, despite all the HR-speak otherwise. Having one desk for every two to three employees has made for a Hunger Games office situation. The CEO stating this was because younger workers crave face time has been seen as 'blaming' them--and they argue that this is not something they want, either.
+
+
+	Summary: 
+		New RTO policy changed my rating
+
+
+Review 4:
+	Job Title: Lead Site Reliability Engineer
+	Location: O'Fallon, MO
+	Review Date: 2024-04-15T10:30:58.700
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		- Low barrier to entry
+		- Excellent 401k, other good benefits
+		- Difficult to get fired
+		- Easy to meet expectations
+		- Great place to work if you don't do any work
+
+
+	Cons: 
+		- Full embraces ESG and DEI initiatives
+		- Mass incompetence across the board
+		- Weak leadership
+		- Very bloated management; most teams have at least 7 layers of management
+		- Health and dental insurance plans are undesirable
+		- Very bureaucratic with tons of red tape (simple tasks often turn into week-long endeavors)
+		- Extremely slow moving
+		- Not much room for growth
+		- Claims its a technology company but is at least 20 years behind any real technology company, and the gap continues to widen with each passing year
+		- Can lay you off for (or without) any reason, at any time
+		- Doesn't highly value integrity, productivity, industriousness, or creativity
+		- Very difficult place to excel as a software engineer since many self-serving managers undeservedly reap the rewards for the engineering work
+
+
+	Summary: 
+		Unimpressive Bureaucracy
+
+
+Review 5:
+	Job Title: Director
+	Location: None
+	Review Date: 2023-11-29T06:11:51.057
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Stable company, good growth trajectory, kind culture
+
+
+	Cons: 
+		Mastercard recently announced a 3 day per week RTO with a bizarre micromanagement clause that average days in office have to include Mondays and Fridays. 
+		This follows a 2023 push and very public announcement that teams are trusted here to build their own flex-work agreements and do what works best for them. 
+		Without giving flex agreements time to come to life, leadership pivoted and put out an RTO mandate. 
+		Employees everywhere are complaining that this is corporate babysitting at its finest. Even before Covid we weren’t being monitored at this level. 
+		Mastercard’s leadership approach is proving to be the old school financial institution model that the organization claims to be breaking away from.
+
+
+	Summary: 
+		No trust in employees, RTO flip flop
+
+
+Review 6:
+	Job Title: Vice President
+	Location: None
+	Review Date: 2024-04-09T16:28:50
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Strong support and dedication to ESG
+		Documented mission and values are strong
+		Lots of opportunities to contribute to culture activities
+		Opportunities to show leadership skills
+		Competitive pay and benefits
+
+
+	Cons: 
+		Ongoing budget reductions
+		Flexibility in RTO back tracked with new 3+ day in-office weekly requirement
+		Ongoing layoffs and not addressing them in transparent manner
+		Some VP roles have no promotion potential and it's not being addressed
+		Some leaders are very difficult to work for (unfriendly work conditions) and their trending behaviors are not being addressed by their own managers 
+		Reductions in onsite perks and seating available for staff making RTO even more difficult
+		Internal job opportunities are often boxed in/limited to one work location making career growth difficult without leaving the company or relocating
+
+
+	Summary: 
+		Year-over-year decline
+
+
+Review 7:
+	Job Title: L1 Enterprise Operations Engineer
+	Location: Murray, UT
+	Review Date: 2024-04-05T14:05:27.700
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		benefits are really amazing. Pay is pretty great and usually annual bonuses. This company is a great company to work for they take care of their people.
+		job security is fantastic, and they encourage career development
+
+
+	Cons: 
+		Jargon is a real issue, they use so many acronyms, many of them internal, It make following conversations and meetings difficult at times. 
+		
+		They have some old processes that can be very convoluted and difficult to follow. 
+		
+		They are large, it can be difficult to find the right person or team to get answers. this at times leads to very different answers and slow movement on projects.
+
+
+	Summary: 
+		Great Company
+
+
+Review 8:
+	Job Title: Senior BizOps Engineer
+	Location: O'Fallon, MO
+	Review Date: 2024-03-26T05:43:16.370
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		I have had some great experiences working at Mastercard and have grown quite a bit. The benefits and flex time can't be beat.
+
+
+	Cons: 
+		I have worked with some great managers and some not so great managers. My current role it seems like all of the MGMT is more worried about their career growth and the easiest path forward then taking care of the customers. There are a lot of self inflicted impacts that have hit the customer. I have done my best to try and prevent but the MGMT teams seem to either drag their feet or ignore. I have more pride than that.
+
+
+	Summary: 
+		Profit #1, Customers #3
+
+
+Review 9:
+	Job Title: Associate Consultant
+	Location: Boston, MA
+	Review Date: 2024-04-05T12:00:52.530
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		No crazy deadlines, not a ton of pressure to be a high-performer to get promoted on time, extreme flexibility remote flexibility, and benefits are good
+
+
+	Cons: 
+		somewhat biased but most projects are pretty boring in my opinion, there's also not much learning either at the company, compensation is also below market compared to other firms
+
+
+	Summary: 
+		Good company, but not necessarily if you want to advance your career
+
+
+Review 10:
+	Job Title: Director, Marketing
+	Location: Purchase, NY
+	Review Date: 2024-02-10T04:29:08.110
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Good opportunity to work with some smart and capable people around the world. Decent work life balance.
+
+
+	Cons: 
+		The increasing favoritism in some teams has led to an extremely toxic work environment to the extent that colleagues not in the "favored few" live in a constant state of fear and dread. Ageism is also blatant for everyone below EVP , so don't plan to retire from here unless you make it to the top. 
+		Be prepared to manage up to get promoted - especially in IMC
+
+
+	Summary: 
+		Exhausting politics and favoritism
+
+
+Review 11:
+	Job Title: Manager
+	Location: None
+	Review Date: 2024-03-13T20:59:19.953
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		- pay? (See below, all my pros devolve into cons)
+		- I work from home but they are steering away from this (so much for the new normal) and their handling of RTO has been a colossal mess
+		- I have (for now) an excellent manager and their manager is also great
+		- if you thrive in a dysfunctional environment and / or are better at compartmentalization than me, it might be fine
+		- some people like it (I did for a while)
+
+
+	Cons: 
+		So many. 
+		- back to the subject of pay, like a lot of companies who expect not just to make a profit and keep up with inflation, but to make a higher profit, they expect *people* to put up with “merit” increases that do not keep up with inflation and are based on rigged performance reviews.
+		- In my area, there is little opportunity for upward mobility, especially if you don’t want to be a people manager. Getting a promotion is very difficult, and apparently doesn’t help your salary much. Part of the problem is that in my area of expertise, Mastercard is like twenty years behind, so unless our leadership catches up quick (not hopeful), there won’t be any new positions senior to what I have now. So as my uncle advised me twenty years ago, if you want to make what you’re worth, you have to switch jobs. 
+		- part of the reason for being so far behind I think is that they hire from within way too often. People float around from here to there, and are very impressed with how much they know about Mastercard, but meanwhile have no real experience in highly specialized areas. And they really like to tell people who do have years of actual experience how to do their job, and they get away with that and with actively interfering while not doing their own job. This is not a generalization based on one person. It’s been a pattern for a couple years across multiple teams and continues to this day
+		- hypocrisy. Supposedly decency is a part of “the Mastercard way” but, starting with the most egregious of several examples, an awful, high ranking person, who people complained about to HR, who oversaw at least two major initiatives that utterly failed, and who sowed so much chaos and dysfunction I’m not sure our department will recover anytime soon, was rewarded with a fellowship. As if that’s not bad enough, this was announced right after layoffs (very expensive layoffs based on severance figures) that were made over budget concerns. 
+		- these concerns have also contributed to an environment where continuing education is not deemed important. Also, programs that are critical to an organization that claims to be data driven are expected to either bring in revenue or show a direct correlation to it, even though their purpose is to reduce risk and provide critical functions for programs that do bring in revenue
+		- AI hype: our leadership is very confident in their knowledge of AI, but seems to be stuck in an echo chamber that excludes so many considerations I am hearing about everywhere else. I’m also not hearing much from talk here about the huge sustainability concerns around AI, it’s just full steam ahead, which does not match the internal and external claims of a commitment to sustainability
+		 - healthcare coverage is terrible, I’m paying way more that I ever have for less. The one consolation was a free telemedicine service. They switched providers though, without any regard for the quality of the new one. Surprise, it’s terrible. Is that decent?
+		- apparently my state has a loop hole that allows employers to get away with paying out fewer vacation days, so I am no longer given my full vacation balance at the beginning of the year, which means if (when) I leave, I’ll get paid off much less, if anything, compared to what I would have if I left at the same time last test last year. So they’re cutting back on benefits, and then there’s the meager pay increases, which means people’s actual compensation has *gone down*. Is that decent?
+
+
+	Summary: 
+		Totally disillusioned
+
+
+Review 12:
+	Job Title: Account Management
+	Location: Purchase, NY
+	Review Date: 2024-03-19T18:04:49.940
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good pay and benefits, inclusive culture, promote from within the company, good training to start a career in payments, access to experts and to high quality training, and possibly most important, your customer contacts are often very senior and can yield you mentors and beneficial relationships for your entire career
+
+
+	Cons: 
+		Decision making is slow and consensus-based, don't always appreciate top talent until they are a flight risk, wide range of talent within the organization
+
+
+	Summary: 
+		Great place to work 
+
+
+Review 13:
+	Job Title: Sr Manager - Sales
+	Location: Purchase, NY
+	Review Date: 2024-04-07T22:59:02.577
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good benefits, excellent 401k match, great teammates, great international opportunities
+
+
+	Cons: 
+		Top down communication is really lacking, lots of internal politics to navigate, difficult to advance.
+
+
+	Summary: 
+		Classic large firm 
+
+
+Review 14:
+	Job Title: Business Development
+	Location: Seattle, WA
+	Review Date: 2024-04-11T10:47:01.283
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Awesome company culture and work/life balance.
+
+
+	Cons: 
+		Not the best snacks in the kitchen area.
+
+
+	Summary: 
+		GREAT COMPANY
+
+
+Review 15:
+	Job Title: Software Engineer 1
+	Location: Seattle, WA
+	Review Date: 2024-04-11T11:22:07.063
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great learning for fresh grads
+
+
+	Cons: 
+		Low paying compared to tech companies
+
+
+	Summary: 
+		Decent role
+
+
+Review 16:
+	Job Title: Vice President
+	Location: O'Fallon, MO
+	Review Date: 2024-03-20T19:05:11.483
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Best local paying company if you include benefits and bonuses
+
+
+	Cons: 
+		Too many coasters so a few to the brunt of the work.
+		RTO policy proves they're not serious about sustainability or DEI, plus completely convoluted
+		Just completed yet another mass layoff, no sign of that stopping
+
+
+	Summary: 
+		Great for Locals
+
+
+Review 17:
+	Job Title: Senior BizOps Engineer
+	Location: O'Fallon, MO
+	Review Date: 2024-02-13T13:09:13.257
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Overall a very family-friendly company, and plenty of respect for employees' time and life demands. Most company benefits are top-notch, and pay is very competitive for the region. The company encourages moving positions every few years, so this allows for learning new skills and makes openings for newer people to move up. Company performance is also very solid and it shows in both the culture and the office environment.
+
+
+	Cons: 
+		Most of the company's challenges are technical and process in nature. These are common but they can make accomplishing daily work tasks more difficult than they need to be. Along the same lines, the amount of bureaucracy has increased, which hampers agility and a transition to true DevOps.
+
+
+	Summary: 
+		A model of how to run a company right
+
+
+Review 18:
+	Job Title: Senior Analyst
+	Location: Saint Louis, MO
+	Review Date: 2024-03-21T09:06:18.250
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		People and very nice and honest, most are great to work with. Lots of exciting stuff going on and good projects to work on. Managers are also great at helping you find roles and projects you like.
+
+
+	Cons: 
+		the office is far from the city, you will probably have to live in the county
+
+
+	Summary: 
+		Great Company
+
+
+Review 19:
+	Job Title: Architectural Designer
+	Location: Northbrook, IL
+	Review Date: 2024-04-01T19:45:07.220
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Relaxed and friendly environment. Lots of knowledge in that firm.
+
+
+	Cons: 
+		I was not able to spend more time at this firm.
+
+
+	Summary: 
+		Great Person
+
+
+Review 20:
+	Job Title: None
+	Location: New York, NY
+	Review Date: 2024-03-27T07:45:25.940
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Love the people here, you really get to choose what you work on. The culture is great, support on work-life balance is much appreciated.
+
+
+	Cons: 
+		Getting promoted is challenging, but career development options are great.
+
+
+	Summary: 
+		Great place to work!
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,629 @@
+
+Aflac is a Insurance: Life, Health (Stock) company based in 31999 Columbus, Georgia. 
+The company has 12,882 employees and has a revenue of $19,502 according to Fortune 500.
+The company is valued at $39,467 and has a profit of $4,201. The CEO of the company is Daniel P. Amos.
+
+The Company has the following ratings: 
+Average ratings for Aflac:
+Business Outlook: 0.68
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 162 
+	2: 140 
+	3: 231 
+	4: 212 
+	5: 319 
+
+CEO: 0.9
+
+Compensation and Benefits: 3.7
+Distribution: 
+	1: 185 
+	2: 147 
+	3: 204 
+	4: 233 
+	5: 286 
+
+Culture and Values: 3.8
+Distribution: 
+	1: 124 
+	2: 87 
+	3: 170 
+	4: 183 
+	5: 437 
+
+Diversity and Inclusion: 4
+Distribution: 
+	1: 28 
+	2: 24 
+	3: 47 
+	4: 60 
+	5: 197 
+
+Overall: 3.8
+Distribution: 
+	1: 176 
+	2: 148 
+	3: 305 
+	4: 323 
+	5: 420 
+
+Senior Management: 3.5
+Distribution: 
+	1: 183 
+	2: 142 
+	3: 207 
+	4: 211 
+	5: 292 
+
+Work Life Balance: 3.8
+Distribution: 
+	1: 127 
+	2: 92 
+	3: 193 
+	4: 226 
+	5: 419 
+
+Review Count: 1373
+
+Recommend to Friend: 
+	RECOMMEND: 572
+	WONT RECOMMEND: 363
+
+
+
+
+The company has 4449 reviews on Glassdoor. The last review was posted on 2024-04-15T16:04:35.270. 
+There are 20 Reviews for Aflac:
+
+Review 1:
+	Job Title: Manager
+	Location: Columbus, GA
+	Review Date: 2024-03-18T10:58:41.687
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great place to work. Tons of pros
+
+
+	Cons: 
+		Great place to work. No cons.
+
+
+	Summary: 
+		Great Place
+
+
+Review 2:
+	Job Title: Data Analyst
+	Location: New York, NY
+	Review Date: 2024-04-15T16:04:35.270
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Work/life balance and company values
+
+
+	Cons: 
+		Senior management could be difficult at times.
+
+
+	Summary: 
+		Great company to work
+
+
+Review 3:
+	Job Title: Customer Service Representative (CSR)
+	Location: Columbus, GA
+	Review Date: 2024-04-01T16:04:40.917
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		They genuinely care for their employees. I work with wonderful people, and I feel like the company invests in their employees to see them grow.
+
+
+	Cons: 
+		I would not say this a con, but the environment can be faced paced many times and for some people I can see it being overwhelming if that is not a business environment, they are comfortable with,
+
+
+	Summary: 
+		Amazing company
+
+
+Review 4:
+	Job Title: Benefits Specialist
+	Location: Pittsburgh, PA
+	Review Date: 2024-04-09T16:07:05.680
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Flexability was great but no stability.
+
+
+	Cons: 
+		There is no base pay and the commission is extremely low.
+
+
+	Summary: 
+		No base salary or benefits
+
+
+Review 5:
+	Job Title: Product Owner
+	Location: Columbia, SC
+	Review Date: 2024-03-18T18:34:47.010
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		The people are nice and the middle management seems to really care about their employees.
+
+
+	Cons: 
+		Upper management tends to care less about how their decisions impact employees' lives, as they are focused on the bottom line and profits. Examples include not letting most employees work remotely, cutting staff and retirement benefits.
+
+
+	Summary: 
+		A Great Place to Work
+
+
+Review 6:
+	Job Title: None
+	Location: Columbus, GA
+	Review Date: 2024-04-02T16:23:09.833
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great place to work, they care about their employees and provide multiple opportunities for growth and advancement.
+
+
+	Cons: 
+		Work life balance can sometimes be a struggle but they try to be flexible.
+
+
+	Summary: 
+		Great Place to Work
+
+
+Review 7:
+	Job Title: State Administrator
+	Location: Milford, CT
+	Review Date: 2024-04-06T08:16:49.400
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 3
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		The flexibility was good for work/life balance and enjoyed working with the CT team.
+
+
+	Cons: 
+		There were overall limited opportunities for advancement 
+		.
+
+
+	Summary: 
+		Small Office
+
+
+Review 8:
+	Job Title: Benefits Professional
+	Location: Troy, MI
+	Review Date: 2024-02-26T13:54:24.523
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		- Make your own hours
+		- 1099 or Independent Contractor work
+		- Best job for someone who needs flexibility for their work/life balance
+
+
+	Cons: 
+		- Because it is a sales job, there isn't a consistent paycheck for the first few years
+		- If you don't pay taxes quarterly you'll be hit with a hefty tax bill come tax season
+		- Depends on where you work, but there is no financial assistance for materials or leads
+		- No Benefits
+
+
+	Summary: 
+		A good job for entrepreneurial and/or self starters 
+
+
+Review 9:
+	Job Title: Proposal Writer
+	Location: None
+	Review Date: 2024-03-20T18:47:37.630
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Aflac is truly a great company to work for. They prove by their actions that they value their employees.
+
+
+	Cons: 
+		Some positions are remote, some are hybrid, and some are onsite. Takes away from a unified team feeling.
+
+
+	Summary: 
+		Good to their employees
+
+
+Review 10:
+	Job Title: Customer Service Representative
+	Location: New York, NY
+	Review Date: 2024-03-30T19:19:32.110
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Remote, Stability, Room for Growth, Flexbility
+
+
+	Cons: 
+		Strict deadlines, lack of good management,
+
+
+	Summary: 
+		Great entry level job!
+
+
+Review 11:
+	Job Title: Claims Specialist
+	Location: Columbus, GA
+	Review Date: 2024-04-01T13:31:03.157
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		A good job with benefits
+
+
+	Cons: 
+		Really don’t get no overtime
+
+
+	Summary: 
+		N/a
+
+
+Review 12:
+	Job Title: Benefits Specialist
+	Location: Seattle, WA
+	Review Date: 2024-03-28T09:12:59.843
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Flexibility, interesting work, never the same, great branding and culture
+
+
+	Cons: 
+		Must be a self starter
+
+
+	Summary: 
+		Great company
+
+
+Review 13:
+	Job Title: Customer Care Specialist
+	Location: Columbus, GA
+	Review Date: 2024-02-01T04:07:20.897
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good medical benefits, good medical benefits.
+
+
+	Cons: 
+		Micromanagement, nothing but a number, call volume is overwhelming, impossible to get shift bids, raises are horrible if you even get a raise, pto increase only after 5 years, no sick pay, everything is in the one bucket for PTO, fmla, sick time all of that is in the little 160 hours they give you for the entire year! You only get 40 hours of uspto so if you are sick be prepare to use your pto and if you run out be prepared for corrective action and no raise. The company ONLY cares about you being in the seat. Mental health will be triggered, impossible to move up in the company don't let them convince you that after a year you and change positions because that is a lie.
+
+
+	Summary: 
+		Aflac
+
+
+Review 14:
+	Job Title: None
+	Location: New York, NY
+	Review Date: 2024-03-18T18:52:34.727
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great benefits especially medical coverage
+
+
+	Cons: 
+		Seemed to have turnover in personnel
+
+
+	Summary: 
+		Small group
+
+
+Review 15:
+	Job Title: Customer Service Representative
+	Location: Columbus, GA
+	Review Date: 2024-03-12T09:12:27.767
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		They give nice bonuses and their employee appreciation is nice.
+
+
+	Cons: 
+		It is very stressful, there is no flexibility, and you are micromanaged.
+
+
+	Summary: 
+		depends
+
+
+Review 16:
+	Job Title: Customer Service Representative
+	Location: Columbus, GA
+	Review Date: 2024-03-11T19:40:31.170
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good benefits and the company really cares for you
+
+
+	Cons: 
+		Homestly i have no cons
+
+
+	Summary: 
+		Great job
+
+
+Review 17:
+	Job Title: Associate Producer
+	Location: Mount Juliet, TN
+	Review Date: 2024-03-12T21:11:18.703
+	Business Outlook: NEGATIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		The Vetern Agents are amazing . They will help whenever they can . You meet amazing people. Aflac is a great company.
+
+
+	Cons: 
+		Managment is awful. They dont truly support you. The managers should not be in their roles.
+
+
+	Summary: 
+		DO NOT WORK HERE. 
+
+
+Review 18:
+	Job Title: Software Engineer
+	Location: Charlotte, NC
+	Review Date: 2024-03-12T17:38:58.957
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good Career opportunities
+		Good environment
+
+
+	Cons: 
+		There a re no cons
+
+
+	Summary: 
+		Career opportunities
+
+
+Review 19:
+	Job Title: Risk Analyst
+	Location: None
+	Review Date: 2024-02-28T15:10:21.350
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great company to work for
+
+
+	Cons: 
+		No cons at all for me.
+
+
+	Summary: 
+		Risk Analyst
+
+
+Review 20:
+	Job Title: Claims Specialist
+	Location: Columbus, GA
+	Review Date: 2024-02-26T06:21:31.007
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		the only pro i can think of is the bonus and paraphernalia
+
+
+	Cons: 
+		the only care about numbers and over work you
+
+
+	Summary: 
+		ok
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

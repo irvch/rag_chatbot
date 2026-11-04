@@ -1,0 +1,630 @@
+
+Mosaic is a Chemicals company based in 33602 Tampa, Florida. 
+The company has 13,570 employees and has a revenue of $19,125 according to Fortune 500.
+The company is valued at $15,438 and has a profit of $3,583. The CEO of the company is James C. O'Rourke.
+
+The Company has the following ratings: 
+Average ratings for Mosaic:
+Business Outlook: 0.69
+
+Career Opportunities: 3.5
+Distribution: 
+	1: 47 
+	2: 61 
+	3: 131 
+	4: 92 
+	5: 95 
+
+CEO: 1
+
+Compensation and Benefits: 3.9
+Distribution: 
+	1: 16 
+	2: 39 
+	3: 103 
+	4: 143 
+	5: 125 
+
+Culture and Values: 3.7
+Distribution: 
+	1: 39 
+	2: 52 
+	3: 94 
+	4: 88 
+	5: 134 
+
+Diversity and Inclusion: 3.8
+Distribution: 
+	1: 21 
+	2: 19 
+	3: 58 
+	4: 45 
+	5: 98 
+
+Overall: 4.2
+Distribution: 
+	1: 28 
+	2: 58 
+	3: 96 
+	4: 148 
+	5: 163 
+
+Senior Management: 3.5
+Distribution: 
+	1: 82 
+	2: 58 
+	3: 98 
+	4: 100 
+	5: 87 
+
+Work Life Balance: 3.7
+Distribution: 
+	1: 42 
+	2: 53 
+	3: 103 
+	4: 112 
+	5: 114 
+
+Review Count: 493
+
+Recommend to Friend: 
+	RECOMMEND: 288
+	WONT RECOMMEND: 102
+
+
+
+
+The company has 597 reviews on Glassdoor. The last review was posted on 2024-04-02T08:40:46.530. 
+There are 20 Reviews for Mosaic:
+
+Review 1:
+	Job Title: Engineering Intern
+	Location: Lithia, FL
+	Review Date: 2024-04-02T08:40:46.530
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		good entry level pay yay
+
+
+	Cons: 
+		i cant think of anything
+
+
+	Summary: 
+		Mosaic
+
+
+Review 2:
+	Job Title: Reliability Engineer
+	Location: Fort Meade, SD
+	Review Date: 2024-03-27T06:37:52.080
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good team relationships with fellow engineers &amp; some work is rewarding.
+
+
+	Cons: 
+		Most of the staff are stuck in their ways. Change in technology or processes will receive major push back even when is evidence &amp; studies backing change. Staff is technically changed will phones &amp; apps. Communication with mechanics, electricians, &amp; other managers might be difficult in the beginning.
+
+
+	Summary: 
+		Honest Review
+
+
+Review 3:
+	Job Title: Production Engineer
+	Location: Donaldsonville, LA
+	Review Date: 2024-03-21T11:01:44.377
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Loved the people. They treated me like family. Decent benefits.
+
+
+	Cons: 
+		Pay was below industry average.
+
+
+	Summary: 
+		Good company
+
+
+Review 4:
+	Job Title: Operating Mechanic
+	Location: None
+	Review Date: 2024-03-14T09:50:50.833
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Love the schedule and the money
+
+
+	Cons: 
+		Schedule can be hectic working nights
+
+
+	Summary: 
+		Great
+
+
+Review 5:
+	Job Title: Accounts Payable Specialist
+	Location: Tampa, FL
+	Review Date: 2024-02-29T16:28:10.743
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great environment and team work.
+
+
+	Cons: 
+		Connections to get another position internally are needed.
+
+
+	Summary: 
+		Great company
+
+
+Review 6:
+	Job Title: EHS
+	Location: Tampa, FL
+	Review Date: 2024-02-23T12:29:34.933
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Benefits
+		Total rewards
+		Increased technology usage
+		Work close with operations
+
+
+	Cons: 
+		Good ole boy club
+		Operations focused
+		New ideas and philosophy is not easily accepted
+
+
+	Summary: 
+		Traditional old school
+
+
+Review 7:
+	Job Title: Internal Auditor
+	Location: Tampa, FL
+	Review Date: 2024-02-02T09:30:45.230
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great place to grow and develop in your career.
+
+
+	Cons: 
+		No immediate cons, overall great place to work!
+
+
+	Summary: 
+		Great Place to Work
+
+
+Review 8:
+	Job Title: Mechanic
+	Location: None
+	Review Date: 2024-02-07T19:38:52.137
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Steady hours and OT available
+
+
+	Cons: 
+		Long shifts on top of long commute
+
+
+	Summary: 
+		Good job
+
+
+Review 9:
+	Job Title: Maintenance Clerk
+	Location: Saint James, LA
+	Review Date: 2024-02-02T14:48:14.620
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great work environment. Good place to begin career.
+
+
+	Cons: 
+		I do not have any cons
+
+
+	Summary: 
+		Great work environment
+
+
+Review 10:
+	Job Title: GIS Technician
+	Location: Tampa, FL
+	Review Date: 2024-01-24T12:44:53.100
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good work life balance, liked my coworkers
+
+
+	Cons: 
+		Commute was far for me
+
+
+	Summary: 
+		Good job
+
+
+Review 11:
+	Job Title: GIS Technician
+	Location: Tampa, FL
+	Review Date: 2024-01-24T12:44:53.100
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good work life balance, liked my coworkers
+
+
+	Cons: 
+		Commute was far for me
+
+
+	Summary: 
+		Good job
+
+
+Review 12:
+	Job Title: Finance
+	Location: Fish Hawk, FL
+	Review Date: 2023-08-28T07:52:40.397
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Mosaic has been nothing but positive for me in my time with the organization. Overall people are paid fairly, encouraged to use time off and flexible work schedules. This certainly can vary based on who you work for but I've heard very few complaints in my tenure.
+
+
+	Cons: 
+		Little bit of an old boys club that is trying to move forward with processes, technology and even leadership in some regard. If the company doesn't attempt to modernize they will be lagging behind. This can also reduce inefficiencies which are prevalent in the company.
+
+
+	Summary: 
+		Great place to work in Tampa
+
+
+Review 13:
+	Job Title: Territory Sales Representative
+	Location: Cleveland, OH
+	Review Date: 2024-01-10T10:51:39.210
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Family time 
+		Flexible 
+		Great upper management
+
+
+	Cons: 
+		Boring sometimes 
+		Not much changes day to day
+
+
+	Summary: 
+		Good
+
+
+Review 14:
+	Job Title: Project Engineer II
+	Location: Lithia, FL
+	Review Date: 2023-12-03T11:54:50.893
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great work life balance with Fridays off and adequate PTO
+
+
+	Cons: 
+		Environment is inherently not the safest place to be and exposure to ammonia, chemical mists, and leaking pipes is part of the job.
+
+
+	Summary: 
+		Build through you
+
+
+Review 15:
+	Job Title: Production Operator
+	Location: Mulberry, FL
+	Review Date: 2023-12-19T08:10:58.657
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great money people you work with
+
+
+	Cons: 
+		Long hours work slot of days
+
+
+	Summary: 
+		Pay
+
+
+Review 16:
+	Job Title: None
+	Location: Plant City, FL
+	Review Date: 2023-09-04T02:18:55.487
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Laid-back, Plenty of days off
+
+
+	Cons: 
+		Responsible for a lot of stuff that cost millions of dollars with not very good training. No money to be made very embarrassing salary. The only way you make money is if somebody quits and you have to work six months of overtime. Management is very bad and company does not care about employees. All they talk about is safety, which is a good thing but other than that they don’t care. and once you get in a position you’re not gonna get out of that position
+
+
+	Summary: 
+		Not worth the money
+
+
+Review 17:
+	Job Title: Engineer 1
+	Location: Tampa, FL
+	Review Date: 2023-12-11T05:42:51
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		like it a lot nice people
+
+
+	Cons: 
+		moving around a lot is expected
+
+
+	Summary: 
+		nice
+
+
+Review 18:
+	Job Title: Field Operator
+	Location: Riverview, FL
+	Review Date: 2023-05-11T10:16:14.233
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Shift work schedule allows more time with family. Competitive pay Okayish benefits
+
+
+	Cons: 
+		Competitive workplace that lacks necessary knowledge of preventing avoidable downtime. Health insurance is through a company that they financially back. Leaders that lack the necessary base knowledge that requires the right calls being made and the wrong calls from being placed in action.
+
+
+	Summary: 
+		Company led by untrained Leaders. “Fake it till you make it” is too common in management.
+
+
+Review 19:
+	Job Title: Superintendent
+	Location: Florida City, FL
+	Review Date: 2023-11-05T20:24:44.707
+	Business Outlook: POSITIVE
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		The salary is good for what we do
+
+
+	Cons: 
+		Need more diversity in higher positions.
+
+
+	Summary: 
+		Good job
+
+
+Review 20:
+	Job Title: Executive Assistant
+	Location: Valrico, FL
+	Review Date: 2023-11-07T06:31:03.837
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Pay is decent for Tampa
+
+
+	Cons: 
+		Very old school mentality. Still a good’ole boys network.
+
+
+	Summary: 
+		EA Salary
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

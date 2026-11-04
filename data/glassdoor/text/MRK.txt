@@ -1,0 +1,632 @@
+
+Merck is a Pharmaceuticals company based in 07065 Rahway, New Jersey. 
+The company has 68,000 employees and has a revenue of $59,283 according to Fortune 500.
+The company is valued at $270,081 and has a profit of $14,519. The CEO of the company is None.
+
+The Company has the following ratings: 
+Average ratings for Merck:
+Business Outlook: 0.8
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 518 
+	2: 793 
+	3: 1354 
+	4: 1177 
+	5: 960 
+
+CEO: 0.87
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 104 
+	2: 351 
+	3: 1150 
+	4: 1825 
+	5: 1352 
+
+Culture and Values: 4
+Distribution: 
+	1: 360 
+	2: 443 
+	3: 887 
+	4: 1155 
+	5: 1382 
+
+Diversity and Inclusion: 4.2
+Distribution: 
+	1: 71 
+	2: 71 
+	3: 210 
+	4: 444 
+	5: 856 
+
+Overall: 4.1
+Distribution: 
+	1: 246 
+	2: 523 
+	3: 1336 
+	4: 2030 
+	5: 1664 
+
+Senior Management: 3.6
+Distribution: 
+	1: 640 
+	2: 700 
+	3: 1239 
+	4: 1169 
+	5: 736 
+
+Work Life Balance: 3.9
+Distribution: 
+	1: 299 
+	2: 487 
+	3: 1185 
+	4: 1465 
+	5: 1328 
+
+Review Count: 5812
+
+Recommend to Friend: 
+	RECOMMEND: 3059
+	WONT RECOMMEND: 1103
+
+
+
+
+The company has 6978 reviews on Glassdoor. The last review was posted on 2024-04-17T13:42:45.217. 
+There are 20 Reviews for Merck:
+
+Review 1:
+	Job Title: Co-Op Student
+	Location: Cambridge, MA
+	Review Date: 2024-04-17T13:42:45.217
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		has space for employee to develop their career path and grow;
+		employee benefits;
+		great manager;
+		loving co-workers
+
+
+	Cons: 
+		Hiring process was freezing during my co-op time there
+
+
+	Summary: 
+		wonderful company and team
+
+
+Review 2:
+	Job Title: Senior Statistical Programmer, Late Stage Development
+	Location: North Wales, PA
+	Review Date: 2024-04-17T04:48:42.093
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Good salary, bonus, benefits. Most people are respectful.
+
+
+	Cons: 
+		Hazing - I was 'asked' to print out a 3000 page document and review numbers line-by-line manually by a long-term Merck Employee who was not even in Statistical Programming. I refused, citing that company policy (SOP) states that verification should be done by machine reading. My manager did not back me up on this as she had only 5 years with the company and still feels like an outsider. I was thrown under the bus for insubordination and fired.
+
+
+	Summary: 
+		Hazing, then fired
+
+
+Review 3:
+	Job Title: Senior Specialist
+	Location: West Point, PA
+	Review Date: 2024-04-11T07:38:18.190
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		- There are a lot of career options within the company so you can choose to move around while staying with Merck
+		- Pension available
+		- Hybrid model allows some work from home
+
+
+	Cons: 
+		- Work/Life balance can be a struggle but is largely dependent on your manager
+		- West Point site seems to be moving to a lot of "open floor plan" and unassigned seating, which can be very distracting/frustrating
+		- Mandated return-to-work can be tough for some people that have otherwise remote jobs
+
+
+	Summary: 
+		Good Stability
+
+
+Review 4:
+	Job Title: Sales Representative
+	Location: Orlando, FL
+	Review Date: 2024-04-16T19:21:29.180
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great company to work for. People are phenomenal!
+
+
+	Cons: 
+		You should be prepared to work in a rigid conservative environment with an eye for compliance which would be requiring more than industry average compliance requirements
+
+
+	Summary: 
+		Great company
+
+
+Review 5:
+	Job Title: UX Designer
+	Location: None
+	Review Date: 2024-04-15T11:48:41.360
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great Bonus, Great Benefits, Great Opportunity
+
+
+	Cons: 
+		Corporate Hierarchy, Slow to promote, Slow to recognize, Bad corporate communication, Salary is just okay
+
+
+	Summary: 
+		It's Okay
+
+
+Review 6:
+	Job Title: Associate Director Marketing
+	Location: Rahway, NJ
+	Review Date: 2024-04-17T12:37:16.697
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Great culture and people. A lot of development and diversity.
+
+
+	Cons: 
+		With a lot of administrative processes
+
+
+	Summary: 
+		Great company to work with
+
+
+Review 7:
+	Job Title: Sr Medical Director
+	Location: Penn, PA
+	Review Date: 2024-04-17T12:14:26.197
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Excellent salary 
+		Work-life balance
+		Benefits
+
+
+	Cons: 
+		No career advancement
+		No promotions unless Sr Management knows you
+
+
+	Summary: 
+		Good company
+
+
+Review 8:
+	Job Title: Senior Scientist
+	Location: South San Francisco, CA
+	Review Date: 2024-01-17T09:21:41.977
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Great work culture, give you the opportunity to work on potentially life changing project for patients health and doing it with brilliant colleagues. The company respect the work/life balance and you feel valued, even at the lowest rank. They give you also the opportunity for growth and are not afraid to give you the lead on projects, even if you have minimum experience. It gives you the opportunity to make mistakes and learn to be a better scientific. As a big company, the whole structure feels more solid and things move more rationally and in a smart way. Merck also try meaningfully to diversify its workforce and I believe it's a plus for every company. Benefits are great and I can see myself working here for many years.
+
+
+	Cons: 
+		As every big companies, the promotion system is slower and it will take more time to get a better position. The daily life benefits (like food, drinks and other) are not really there.
+
+
+	Summary: 
+		A company you are proud to work for
+
+
+Review 9:
+	Job Title: Sr. QA Technician
+	Location: Las Piedras, PR
+	Review Date: 2024-04-16T16:33:17.307
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		good benefits in all aspects
+
+
+	Cons: 
+		management dont see thru the eyes of the employees
+
+
+	Summary: 
+		great
+
+
+Review 10:
+	Job Title: Sales Training Manager
+	Location: Raleigh, NC
+	Review Date: 2024-04-17T05:57:56.607
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good benefits and the people
+
+
+	Cons: 
+		The "red tape" to make changes and innovation
+
+
+	Summary: 
+		Sales Training Manager
+
+
+Review 11:
+	Job Title: Senior CRA
+	Location: Detroit, MI
+	Review Date: 2024-04-06T21:27:21.073
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Amazing pipeline! Amazing senior leadership and transparency from them to the rest of us at the company also! Really try to give us work/life balance and treat the CRA's well in regards to resourcing within our region.
+
+
+	Cons: 
+		Difficult to get a promotion- highly competitive but frustrating when external candidates are hired over internal candidates.
+
+
+	Summary: 
+		Great employer!
+
+
+Review 12:
+	Job Title: Senior Business Director
+	Location: Atlanta, GA
+	Review Date: 2024-04-15T20:37:42.270
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Amazing people, give their leaders accountability and resources needed to succeed
+
+
+	Cons: 
+		Slow to act and respond
+
+
+	Summary: 
+		Great People
+
+
+Review 13:
+	Job Title: Director
+	Location: None
+	Review Date: 2024-04-05T04:38:21.713
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Merck offers gig assignments so you can try out a role to see if it’s a good fit. My managers have been supportive in helping me prioritize my work so make this gig role fit into my work without being additive.
+
+
+	Cons: 
+		Some of the politics can be a challenge but not as bad as other pharma companies I’ve worked with
+
+
+	Summary: 
+		Career growth
+
+
+Review 14:
+	Job Title: Data Scientist
+	Location: Kenilworth, NJ
+	Review Date: 2024-04-15T19:43:10.307
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Good benefits, well connected, casual
+
+
+	Cons: 
+		Bad building, low tech, HR sucks
+
+
+	Summary: 
+		Great place to work
+
+
+Review 15:
+	Job Title: Lab Technician
+	Location: West Point, PA
+	Review Date: 2024-04-14T17:38:15.080
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		gets you good shop floor experience before moving up.
+
+
+	Cons: 
+		everyweek is pretty much the same.
+
+
+	Summary: 
+		Good starting position.
+
+
+Review 16:
+	Job Title: Specialist
+	Location: West Point, PA
+	Review Date: 2024-04-16T12:16:34.343
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		changing roles is common and easy
+
+
+	Cons: 
+		promotions within groups are rare
+
+
+	Summary: 
+		Possibilities
+
+
+Review 17:
+	Job Title: Biotechnician
+	Location: West Point, PA
+	Review Date: 2024-04-14T17:26:30.610
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		ability to work OT for increase in earning
+
+
+	Cons: 
+		big divide between company and union
+
+
+	Summary: 
+		Biotech Review
+
+
+Review 18:
+	Job Title: Sales Representative
+	Location: None
+	Review Date: 2024-04-10T11:33:54.790
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Awesome place to work, they care about their employees, pay well, and respect work life balance.
+
+
+	Cons: 
+		Don’t agree with the company’s political affiliations, but thats almost all major companies today
+
+
+	Summary: 
+		Great company to work for
+
+
+Review 19:
+	Job Title: Associate Specialist
+	Location: West Point, PA
+	Review Date: 2024-04-12T13:38:08.007
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Pay, Benefits, People, Location (didn't want to work/live in the city)
+
+
+	Cons: 
+		Classic office management politics (occasionally)
+
+
+	Summary: 
+		Great place to work
+
+
+Review 20:
+	Job Title: Director
+	Location: Philadelphia, PA
+	Review Date: 2024-04-12T15:26:10.073
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		stable job, nice colleagues, and good pay
+
+
+	Cons: 
+		It can be hard to balance life and work sometimes
+
+
+	Summary: 
+		Wonderful place
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

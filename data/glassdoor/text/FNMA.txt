@@ -1,0 +1,655 @@
+
+Fannie Mae is a Diversified Financials company based in 20005 Washington, District of Columbia. 
+The company has 8,000 employees and has a revenue of $121,596 according to Fortune 500.
+The company is valued at $475 and has a profit of $12,923. The CEO of the company is Priscilla Almodovar.
+
+The Company has the following ratings: 
+Average ratings for Fannie Mae:
+Business Outlook: 0.77
+
+Career Opportunities: 3.8
+Distribution: 
+	1: 181 
+	2: 292 
+	3: 565 
+	4: 455 
+	5: 290 
+
+CEO: 0.95
+
+Compensation and Benefits: 4.3
+Distribution: 
+	1: 36 
+	2: 69 
+	3: 341 
+	4: 718 
+	5: 625 
+
+Culture and Values: 4.3
+Distribution: 
+	1: 149 
+	2: 183 
+	3: 337 
+	4: 410 
+	5: 482 
+
+Diversity and Inclusion: 4.5
+Distribution: 
+	1: 20 
+	2: 39 
+	3: 89 
+	4: 170 
+	5: 369 
+
+Overall: 4.3
+Distribution: 
+	1: 131 
+	2: 218 
+	3: 503 
+	4: 727 
+	5: 602 
+
+Senior Management: 3.9
+Distribution: 
+	1: 257 
+	2: 290 
+	3: 477 
+	4: 454 
+	5: 295 
+
+Work Life Balance: 4.5
+Distribution: 
+	1: 93 
+	2: 140 
+	3: 333 
+	4: 537 
+	5: 683 
+
+Review Count: 2184
+
+Recommend to Friend: 
+	RECOMMEND: 1077
+	WONT RECOMMEND: 460
+
+
+
+
+The company has 2593 reviews on Glassdoor. The last review was posted on 2024-04-16T12:42:49.100. 
+There are 20 Reviews for Fannie Mae:
+
+Review 1:
+	Job Title: Senior Manager
+	Location: None
+	Review Date: 2023-08-23T09:11:08.930
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		- The people and culture are AMAZING - Great benefits, monthly volunteer hours, and $10 a day to spend at onsite restaurants - Flexible schedule (location and hours to a certain extent) - Work/life balance is truly encouraged throughout the organization
+
+
+	Cons: 
+		- A little slow to innovate, but understandable given the industry
+
+
+	Summary: 
+		Such an amazing place to work
+
+
+Review 2:
+	Job Title: Data Science Associate
+	Location: Washington, DC
+	Review Date: 2024-04-16T12:42:49.100
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great, fun, happy, balanced, good
+
+
+	Cons: 
+		None, at all, not even a bit
+
+
+	Summary: 
+		Great
+
+
+Review 3:
+	Job Title: Lead Associate
+	Location: Reston, VA
+	Review Date: 2024-03-29T16:04:12.500
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great benefits, great work life balance, and for me (perhaps I am lucky), interesting projects and great coworkers. Stability of a large enterprise. So far, no serious talk about returning to office for my department. I have been to the office on average once a month in the last year. Subsidized lunch is nice when I do go.
+
+
+	Cons: 
+		Slow to adopt latest tech (low risk appetite)--probably even more conservative to others in financial industry from what I have heard. For example, I still don't have access to docker on my local machine. Finding opportunities for advancement requires a level of self-marketing and politics that I don't have a knack for, but probably similar to most large companies.
+
+
+	Summary: 
+		great place to work
+
+
+Review 4:
+	Job Title: Senior Data Scientist
+	Location: Reston, VA
+	Review Date: 2024-01-23T04:24:43.513
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Benefits are extremely generous - excellent 401k matching, lifestyle spending account that can be used for almost anything, many extra days off.
+		
+		Salaries are very competitive for the industry. The people who complain most have delusions of working for top-tier tech companies.
+		
+		Easy to impress people if you're competent.
+		
+		An excellent place to cruise until retirement.
+		
+		Most of the time work life balance is very good.
+
+
+	Cons: 
+		Everything at FNMA is about appearances with no concern for function:
+		
+		1. Managers prioritize sexy projects with questionable value rather than making sure their core products don't fall apart.
+		
+		2. Cybersecurity is mostly theater and requires insane workarounds with chains of virtual machines that often break and are extremely slow when they do work.
+		
+		3. Upper management's solution to everything is to create additional bureaucracy that covers things that were already covered.
+		
+		4. Documentation usually exists, but it is designed by and for technically incompetent audiences. It's also stored on random confluence pages that aren't kept to date.
+
+
+	Summary: 
+		Bad management, bad tech, amazing benefits
+
+
+Review 5:
+	Job Title: Project Manager
+	Location: Washington, DC
+	Review Date: 2024-04-03T14:57:51.170
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		At least 1/3 of the workforce are permanent remote, including lots of senior leaders. Great work-life balance. Benefits are pretty standard.
+		6% 401k match. 10k home down payment reimbursement. Compensation is higher than other companies in industry.
+		Fridays are about half day flexible.
+
+
+	Cons: 
+		Bonuses and annual increases are pretty low, even for high performers. Wish there was profit sharing. Government has Fannie in a conservatorship, which limits lots of Fannie's potential and opportunities.
+
+
+	Summary: 
+		Great remote company
+
+
+Review 6:
+	Job Title: Enterprise Architect
+	Location: Reston, VA
+	Review Date: 2024-04-08T09:43:17.927
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Good WLB. Lots of avenues to learn new technologies.
+
+
+	Cons: 
+		Its a rotating door and there is no consistent leadership in EA.
+
+
+	Summary: 
+		Good place - but overall experience depends on Direct manager and upper chain
+
+
+Review 7:
+	Job Title: Risk Manager
+	Location: Washington, DC
+	Review Date: 2024-04-10T13:47:35.023
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great culture, benefits, and people
+
+
+	Cons: 
+		There's really no down side except - should have part time options
+
+
+	Summary: 
+		Great place to work
+
+
+Review 8:
+	Job Title: Loan Data Analyst
+	Location: Washington, DC
+	Review Date: 2024-04-12T18:00:14.493
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		very diversed, managers offer help
+
+
+	Cons: 
+		remember to always champion your own path
+
+
+	Summary: 
+		good culture
+
+
+Review 9:
+	Job Title: Finance Intern
+	Location: Washington, DC
+	Review Date: 2024-04-03T08:47:07.907
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Team is very development oriented and focused on making you apart of the team and developing your skills
+
+
+	Cons: 
+		Very virtual, little to no in office interaction
+
+
+	Summary: 
+		Great place with great support 
+
+
+Review 10:
+	Job Title: Senior Cloud(AWS/Azure) and DevOps Engineer(Puppet/Chef/Ansible)
+	Location: None
+	Review Date: 2024-04-05T14:32:47.150
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		not to bad with the company
+
+
+	Cons: 
+		its good to get nice experience with the company
+
+
+	Summary: 
+		good
+
+
+Review 11:
+	Job Title: Business Analyst
+	Location: Washington, DC
+	Review Date: 2024-04-05T11:13:59.010
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great benefits - learning opportunities, work/life balance
+
+
+	Cons: 
+		Nothing I can think of
+
+
+	Summary: 
+		Great work/life balance
+
+
+Review 12:
+	Job Title: Project Manager - J1115-0838 | Reston, VA
+	Location: Reston, VA
+	Review Date: 2024-03-31T13:53:04.143
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great benefits and compensation package
+
+
+	Cons: 
+		Cannot think of any at this time
+
+
+	Summary: 
+		Software engineer
+
+
+Review 13:
+	Job Title: Software Engineer
+	Location: Reston, VA
+	Review Date: 2024-04-01T20:37:20.220
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		good benefit
+		flexible
+		Smart people
+		Room for improvement
+
+
+	Cons: 
+		No promotion for two years
+		Out of work sometimes
+
+
+	Summary: 
+		SWE salary
+
+
+Review 14:
+	Job Title: Full Stack Developer
+	Location: Dallas, TX
+	Review Date: 2024-03-21T07:00:48.700
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Good work environment for new developer starting in the field. Give you time to adjust to responsibility and perform tasks. Friendly and cooperative developer team to help accomplish project in effective manner.
+
+
+	Cons: 
+		Could be prone to layoff in bad economic conditions.
+
+
+	Summary: 
+		Fannie Mae Review
+
+
+Review 15:
+	Job Title: Technical Manager
+	Location: Reston, VA
+	Review Date: 2024-03-25T13:53:35.877
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great Work life Balance, Excellent Team and leadership.
+
+
+	Cons: 
+		There is nothing specific to mention
+
+
+	Summary: 
+		Great Place to Work
+
+
+Review 16:
+	Job Title: Senior Financial Engineer
+	Location: Washington, DC
+	Review Date: 2024-03-30T11:44:32.840
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		good WLB, nice people, and great benefits
+
+
+	Cons: 
+		tend to be slow in career development
+
+
+	Summary: 
+		Good WLB
+
+
+Review 17:
+	Job Title: Data Scientist
+	Location: Washington, DC
+	Review Date: 2024-02-20T18:59:06.397
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Smart and competent junior/senior analysts
+		
+		Opportunities to learn a lot of business and technical skills 
+		
+		Exposure the state of the art computing, software, and IT infrastructure
+
+
+	Cons: 
+		Most Technical Leads and Managers care only about their own careers
+		
+		Technical leads and managers over-exaggerated their skill sets and want to appear the “smartest”
+		
+		Technical leads and managers set unreasonably high standards for project and deliverables they don’t understand or are not qualified to review
+
+
+	Summary: 
+		Single Family Analytics
+
+
+Review 18:
+	Job Title: Finance Intern
+	Location: Washington, DC
+	Review Date: 2024-02-21T16:24:12.703
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Fannie Mae does a great job with managing work/life balance. Everyone I’ve met at the company has been amazing, and the hybrid schedule was perfect for over the summer.
+
+
+	Cons: 
+		I wouldn’t recommend the internship if you’re looking for something intense, the work isn’t designed to be stressful.
+
+
+	Summary: 
+		Great Experience 
+
+
+Review 19:
+	Job Title: Lead Associate
+	Location: Plano, TX
+	Review Date: 2024-03-26T19:40:02.547
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Benefits
+		Smart Co-Workers
+		Pay
+		Inclusiveness
+
+
+	Cons: 
+		Hard to move up within the company as attrition is low
+
+
+	Summary: 
+		Great place to work
+
+
+Review 20:
+	Job Title: Tech Lead
+	Location: Reston, VA
+	Review Date: 2024-03-17T06:56:38.247
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Fannie right now is the top companies caring their employees work life balance.
+
+
+	Cons: 
+		Salary wise is not as much as the tech Flag companies.
+
+
+	Summary: 
+		Good place for work life balance
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,633 @@
+
+CF Industries Holdings is a Chemicals company based in 60015 Deerfield, Illinois. 
+The company has 2,659 employees and has a revenue of $11,186 according to Fortune 500.
+The company is valued at $14,206 and has a profit of $3,346. The CEO of the company is Tony Will.
+
+The Company has the following ratings: 
+Average ratings for CF Industries Holdings:
+Business Outlook: 0.64
+
+Career Opportunities: 3.2
+Distribution: 
+	1: 23 
+	2: 26 
+	3: 39 
+	4: 40 
+	5: 39 
+
+CEO: 0.81
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 3 
+	2: 11 
+	3: 20 
+	4: 71 
+	5: 64 
+
+Culture and Values: 3.2
+Distribution: 
+	1: 28 
+	2: 13 
+	3: 23 
+	4: 55 
+	5: 43 
+
+Diversity and Inclusion: 3.5
+Distribution: 
+	1: 12 
+	2: 6 
+	3: 28 
+	4: 20 
+	5: 18 
+
+Overall: 3.4
+Distribution: 
+	1: 24 
+	2: 13 
+	3: 30 
+	4: 69 
+	5: 66 
+
+Senior Management: 2.9
+Distribution: 
+	1: 36 
+	2: 23 
+	3: 35 
+	4: 44 
+	5: 31 
+
+Work Life Balance: 2.9
+Distribution: 
+	1: 25 
+	2: 24 
+	3: 39 
+	4: 40 
+	5: 39 
+
+Review Count: 202
+
+Recommend to Friend: 
+	RECOMMEND: 109
+	WONT RECOMMEND: 41
+
+
+
+
+The company has 235 reviews on Glassdoor. The last review was posted on 2024-03-18T07:31:04.337. 
+There are 20 Reviews for CF Industries Holdings:
+
+Review 1:
+	Job Title: Operations
+	Location: Sergeant Bluff, IA
+	Review Date: 2024-02-15T12:42:35.740
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great people great pay interesting work
+
+
+	Cons: 
+		Long hours work holidays and such
+
+
+	Summary: 
+		Cf industry
+
+
+Review 2:
+	Job Title: Communications Specialist
+	Location: None
+	Review Date: 2024-01-10T08:58:10.850
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		High-pace environment
+		Mostly positive atmosphere for those willing to work hard
+		Solid benefits offerings and competitive pay
+
+
+	Cons: 
+		- High turnover for certain positions due to burn out and demands
+		- Leadership is unwilling to listen or accept feedback about essential management processes from those reporting to them
+		- Tends to have a caustic environment when stress is high
+		- Allows employees too much flexibility with "reasonable accommodations," ultimately impacting the consistency, morale, and effectiveness of work productivity and quality
+
+
+	Summary: 
+		Great projects, but poor mismanagement from leadership
+
+
+Review 3:
+	Job Title: Maintenance Technician
+	Location: Yazoo City, MS
+	Review Date: 2024-03-18T07:31:04.337
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Good pay, decent benefits, lots of good people
+
+
+	Cons: 
+		Disregard for family in times of problems at the plant, lots of things don’t make sense, will be worked like a machine, feel trapped most of the time.
+
+
+	Summary: 
+		The man keeps his thumb on you
+
+
+Review 4:
+	Job Title: E&I Technician
+	Location: Woodward, OK
+	Review Date: 2024-02-25T10:16:33.830
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Good pay and local co workers are awesome!
+		But don’t depend on this job!
+
+
+	Cons: 
+		After 15 years of service this company will fire you in a heart beat to save their skin!
+		CF (Cancel Family)and their big cooperate leaders do not care about you or your family only the money in their bank accounts.
+
+
+	Summary: 
+		They don’t give a 🤬 about you!
+
+
+Review 5:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-12T07:29:12.080
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		None. Headquarter Management is NO GOOD
+
+
+	Cons: 
+		Micro- management is their style, not good management style
+
+
+	Summary: 
+		NO!
+
+
+Review 6:
+	Job Title: Business Process Manager
+	Location: Deerfield, IL
+	Review Date: 2024-02-05T08:03:38.190
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Management in general
+		perks
+		benefits
+		pay
+		and work life balance
+
+
+	Cons: 
+		no longer have a pension. In office a minimum of 3 days a week.
+
+
+	Summary: 
+		Good place to work, depending on Manager
+
+
+Review 7:
+	Job Title: Enterprise Support Specialist
+	Location: None
+	Review Date: 2024-01-19T06:16:05.067
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Flexible hours, pay, benefits, and the people.
+
+
+	Cons: 
+		Top-down communication, hard to get through or report issues to people that will listen.
+
+
+	Summary: 
+		Used to be a neat place to work, but that changed.
+
+
+Review 8:
+	Job Title: EHS Specialist
+	Location: Northbrook, IL
+	Review Date: 2024-01-07T21:09:06.967
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Benefits, compensation, work-life balance, growth opportunities, eager to retain and promote good talent.
+
+
+	Cons: 
+		Unclear expectations, fulfilling Supervisor/Executive requests outside office hours (weekends), overwhelming work load, rigid Corporate structure (pay increase/promotions must be approved by multiple departments).
+
+
+	Summary: 
+		CF Industries
+
+
+Review 9:
+	Job Title: Senior Accountant
+	Location: Northbrook, IL
+	Review Date: 2024-01-22T18:08:50.820
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Great people to work with.
+
+
+	Cons: 
+		Work/life balance is tough during quarter-end/year-end.
+
+
+	Summary: 
+		pay
+
+
+Review 10:
+	Job Title: None
+	Location: None
+	Review Date: 2023-06-07T21:38:27.037
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Great pay/benefits Great local teams that are really helpful
+
+
+	Cons: 
+		Completely out of touch corporate group that constantly pushes policies and programs that are directly contrary to the wishes of employees. Obvious examples of corporate greed (announcing increases in insurance costs for employees in the same meeting they announced the company had $1 billion cash that they weren't sure what to do with yet). Draconian disciplinary action taken any time there is an issue. Always looking for who to blame and who to take action against as opposed to working as a team to find the best solution. Progression is based on how much you're willing to sacrifice your life/family and devote yourself to the company. If you ever make a decision to put your family first, you will be ostracized and no longer allowed to progress.
+
+
+	Summary: 
+		Out of touch
+
+
+Review 11:
+	Job Title: Manager
+	Location: Deerfield, IL
+	Review Date: 2023-08-29T09:07:14.870
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Great benefits and pay, room for growth, vital industry
+
+
+	Cons: 
+		No major cons at this time
+
+
+	Summary: 
+		Great pay, people and industry
+
+
+Review 12:
+	Job Title: None
+	Location: Deerfield, IL
+	Review Date: 2023-08-03T19:05:16.990
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Salary was good and building was clean but bare.
+
+
+	Cons: 
+		Bad, bad, bad management. Too faced, corrupt, infidelity and management sets employees up to fail. HR does nothing to help harassment and serious bad management behaviors. If you love your career and your health, stay clear of this company.
+
+
+	Summary: 
+		STAY AWAY FROM THIS COMPANY
+
+
+Review 13:
+	Job Title: Production Operator
+	Location: None
+	Review Date: 2023-06-11T18:23:20.303
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		Progressive approach to industry safety. Very training forward mentality. Good benefits package. Job security
+
+
+	Cons: 
+		Promotions lean towards college degrees over actual experience . Excessive overtime
+
+
+	Summary: 
+		College degrees over experience
+
+
+Review 14:
+	Job Title: Account Manager
+	Location: Deerfield, IL
+	Review Date: 2023-05-17T12:43:19.343
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		- Great benefits. 6% 401k match and cash balance pension plan. - Cool people - Various travel perks/corporate trips and outings - Lot's of opportunities to speak and work with upper management and veterans in the field.
+
+
+	Cons: 
+		- This could be a pro, but you have to learn about agriculture.
+
+
+	Summary: 
+		Great place to work
+
+
+Review 15:
+	Job Title: Maintenance Technician
+	Location: Sergeant Bluff, IA
+	Review Date: 2023-03-26T11:41:38.827
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Great pay at $42 an hour for tech 5, safe work for the most part
+
+
+	Cons: 
+		As with every other industrial maintenance job, safety often takes a backseat to production, but definitely the safest job Ive ever had.
+
+
+	Summary: 
+		Highly Reccomend
+
+
+Review 16:
+	Job Title: Engineering
+	Location: Verdigris, OK
+	Review Date: 2023-05-16T17:50:14.550
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		pay &amp; benefits; most would agree it's what matters the most and I would agree for the most part.
+
+
+	Cons: 
+		Constant changes in management cause long term goals to be thrown out the window. You are definitely just another cog that moves a huge money making machine.
+
+
+	Summary: 
+		Just what you'd expect working for a major corporation
+
+
+Review 17:
+	Job Title: None
+	Location: None
+	Review Date: 2023-06-03T06:58:59.613
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The people on the ground level are awesome.
+
+
+	Cons: 
+		All of there corporate distribution are incompetent of leadership. If you work here prepare to be threatened a lot with losing your job. Poor communication with senior leadership. Middle of road pay for industry.
+
+
+	Summary: 
+		Not a healthy culture.
+
+
+Review 18:
+	Job Title: Account Specialist
+	Location: Chicago, IL
+	Review Date: 2023-05-30T18:19:24.867
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Very welcoming, great environment, friendly and respectful company culture, good work/life balance.
+
+
+	Cons: 
+		Not sure yet, have only worked there for a couple months.
+
+
+	Summary: 
+		Account Specialist
+
+
+Review 19:
+	Job Title: Senior Analyst
+	Location: Chicago, IL
+	Review Date: 2023-05-16T10:55:04.683
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good salaries and benefits Excellent executive team/strategic direction
+
+
+	Cons: 
+		vacation is terrible (2 weeks to start) Not a ton of room for growth - like to hire from outside rather than promote
+
+
+	Summary: 
+		Great company to work for
+
+
+Review 20:
+	Job Title: IT Technician
+	Location: Donaldsonville, LA
+	Review Date: 2023-04-28T23:19:46.997
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Nice, family oriented, respectful staff. Highly skilled employees. Overall great place to work.
+
+
+	Cons: 
+		The train can make you late to work or keep you at work longer
+
+
+	Summary: 
+		Great place to work!
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

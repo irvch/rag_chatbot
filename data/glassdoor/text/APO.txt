@@ -1,0 +1,629 @@
+
+Apollo Global Management is a Securities company based in 10019 New York, New York. 
+The company has 4,258 employees and has a revenue of $11,627 according to Fortune 500.
+The company is valued at $36,042 and has a profit of -$3,213. The CEO of the company is Marc Rowan.
+
+The Company has the following ratings: 
+Average ratings for Apollo Global Management:
+Business Outlook: 0.67
+
+Career Opportunities: 3.6
+Distribution: 
+	1: 33 
+	2: 27 
+	3: 38 
+	4: 46 
+	5: 78 
+
+CEO: 0.87
+
+Compensation and Benefits: 4.1
+Distribution: 
+	1: 16 
+	2: 13 
+	3: 27 
+	4: 61 
+	5: 105 
+
+Culture and Values: 3.4
+Distribution: 
+	1: 45 
+	2: 29 
+	3: 26 
+	4: 49 
+	5: 68 
+
+Diversity and Inclusion: 3.6
+Distribution: 
+	1: 27 
+	2: 18 
+	3: 19 
+	4: 29 
+	5: 72 
+
+Overall: 3.8
+Distribution: 
+	1: 36 
+	2: 26 
+	3: 41 
+	4: 67 
+	5: 96 
+
+Senior Management: 3.3
+Distribution: 
+	1: 40 
+	2: 24 
+	3: 39 
+	4: 48 
+	5: 68 
+
+Work Life Balance: 3.1
+Distribution: 
+	1: 52 
+	2: 34 
+	3: 45 
+	4: 43 
+	5: 47 
+
+Review Count: 268
+
+Recommend to Friend: 
+	RECOMMEND: 122
+	WONT RECOMMEND: 68
+
+
+
+
+The company has 295 reviews on Glassdoor. The last review was posted on 2024-04-13T06:29:01.700. 
+There are 20 Reviews for Apollo Global Management:
+
+Review 1:
+	Job Title: Executive Assistant
+	Location: New York, NY
+	Review Date: 2024-03-12T17:05:10.423
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Great people. Great Boss. Grea team.
+
+
+	Cons: 
+		Super long hours at the firm.
+
+
+	Summary: 
+		Great place
+
+
+Review 2:
+	Job Title: Executive Assistant
+	Location: New York, NY
+	Review Date: 2024-01-29T08:56:10.870
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Senior Management engages with everyone. Cafeteria &amp; Coffee Bar is completely free. Gym on the 8th Floor is nice, Good Trainers. Work from Home on Fridays. Other days are flexible.
+
+
+	Cons: 
+		No growth unless your Partner fights for you. If you don’t support a Partner you can forget it. The Principal in charge of EA’s plays Favoritism. Same rules don’t apply to everyone.. They keep the Temps for years with false promises of employment.
+
+
+	Summary: 
+		Leadership needs new Management for Admins!
+
+
+Review 3:
+	Job Title: Associate, Insurance Solutions Group
+	Location: El Segundo, CA
+	Review Date: 2023-11-16T12:53:00.653
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 5
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		- They pay over market average for junior employees since the turnover rate is so high (they can't retain top talent because nobody wants to work under such a toxic environment). Although you are paid slightly above market (+15K) the company is at such an early stage of its life where there are no real processes in place and you spend more time doing manual excel / sql work than learning the business (like for example our reporting is all done through excel files and everyone does their own thing and finds data from wherever they want). 90% of "Front Office" jobs are dead end.
+		- Theres free lunch
+		- You get an iphone since you'll be on call 24/7
+
+
+	Cons: 
+		- Horrible work/life balance
+		- Management is extremely disrespectful / rude to its employees. 
+		- Get ready to get cursed out on calls on a weekly basis
+		-Insurance solutions group was originally a D- tier asset manager which just so happened to get acquired by Apollo. They never invested in building out their technical systems / hiring software engineers and they are constantly haunted by data quality issues in databases. We literally lost a client because they said we had mickey mouse analytics. We have our CIO doing data quality checks because nobody else wants to do it.
+		- Not a collaborative culture and many employees throw each other under the bus all the time. No sharing of information to gain a competitive edge. This is probably the worst part about working here.
+		-
+
+
+	Summary: 
+		RUN AWAY
+
+
+Review 4:
+	Job Title: Associate Director
+	Location: New York, NY
+	Review Date: 2024-01-06T14:13:55.917
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Surrounded by smart motivated people who care about doing a good job. Pay is good, benefits are good.
+
+
+	Cons: 
+		Everybody works very hard, which is a good culture to have but if you want to stand out you need to put in some serious hours. Can be political at times. 45% of my take home pay was an end of year bonus.
+
+
+	Summary: 
+		Great Place to Work, Not for the faint of heart
+
+
+Review 5:
+	Job Title: Sales Associate
+	Location: New York, NY
+	Review Date: 2024-01-31T07:59:39.497
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great opportunities and benefits/remuneration and career progression.
+
+
+	Cons: 
+		Have to work hard but what do you expect?
+
+
+	Summary: 
+		Great
+
+
+Review 6:
+	Job Title: Associate Director - Tax
+	Location: New York, NY
+	Review Date: 2023-12-11T10:24:53.070
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Very challenging and complex work environment. Gives the opportunity to get involved in many projects and work streams. Usually not a boring experience.
+
+
+	Cons: 
+		Company is constantly changing and ad hoc requests make it difficult to meet deadlines and plan. Company is tough on expenses, limited insight to salaries/bonus.
+
+
+	Summary: 
+		Challenging - potentially rewarding
+
+
+Review 7:
+	Job Title: Busniss Analyst
+	Location: New York, NY
+	Review Date: 2024-01-01T21:46:14.303
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Great work environment with a friendly community
+
+
+	Cons: 
+		There are no fully remote positions that I am aware of despite it making sense since every meeting is over zoom
+
+
+	Summary: 
+		Love working here
+
+
+Review 8:
+	Job Title: Associate
+	Location: None
+	Review Date: 2024-01-02T05:25:24.563
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Good benefits, large company culture, long-term career stability
+
+
+	Cons: 
+		Figure it out yourself culture, lack of collaboration
+
+
+	Summary: 
+		Fine place to work
+
+
+Review 9:
+	Job Title: Associate
+	Location: New York, NY
+	Review Date: 2023-12-21T06:24:53.663
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Access to senior leadership, responsibility that grows with good work
+
+
+	Cons: 
+		Tough work life balance, feeling of being always on
+
+
+	Summary: 
+		Rewards hard work
+
+
+Review 10:
+	Job Title: Operations Associate
+	Location: None
+	Review Date: 2023-11-15T08:24:03.137
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Free breakfast and lunch, fully stocked kitchen
+
+
+	Cons: 
+		Incredibly cliquey- feels like I'm living through another experience of my high school days. Management are awful human beings who make no attempt to hide their favorites. Operations division is a joke.
+
+
+	Summary: 
+		Worst company ever
+
+
+Review 11:
+	Job Title: Software Engineer
+	Location: New York, NY
+	Review Date: 2023-08-08T11:46:15.870
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good salary and benefits Good culture and values Good work/life balance Lots of career growth opportunities Compared to working at larger firms, working at Apollo offers the following benefits: * not as stressful or bureaucratic - you will feel more independence, and it's easier to make your voice heard * growing at a much faster pace - you will be part of a company that is not afraid to try new things, and has that start-up mentality when it comes to your contributions and career growth
+
+
+	Cons: 
+		If you prefer working at a large company riddled with bureaucracy and constant stress, in exchange for bragging rights and somewhat higher pay, Apollo is not for you
+
+
+	Summary: 
+		Great company to grow along with
+
+
+Review 12:
+	Job Title: None
+	Location: New York, NY
+	Review Date: 2023-11-08T05:32:08.740
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Benefits, compensation, great place to learn
+
+
+	Cons: 
+		work life balance could be better
+
+
+	Summary: 
+		Great high-growth company
+
+
+Review 13:
+	Job Title: Credit Associate
+	Location: New York, NY
+	Review Date: 2023-10-20T08:44:04.837
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: APPROVE
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		good pay, improved culture and work life balance
+
+
+	Cons: 
+		can be difficult to advance without access to sr. management
+
+
+	Summary: 
+		Improved culture, little access to Sr. Mgmt
+
+
+Review 14:
+	Job Title: Administrative Assistant
+	Location: New York, NY
+	Review Date: 2023-09-14T14:23:47.487
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Environment is Good, Lots of Perks
+
+
+	Cons: 
+		4 Days in the Office . no more work from home except Fridays
+
+
+	Summary: 
+		Love it
+
+
+Review 15:
+	Job Title: Associate Director
+	Location: New York, NY
+	Review Date: 2023-07-05T13:17:35.897
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Smart people, decent compensation, interesting product/strategies
+
+
+	Cons: 
+		Leadership doesn't do the best with tone and culture. Paternity leave is way behind competitors. Enforced stock compensation as part of package. 3 year to vest even a dollar of 401K match (unheard of in the multiple places I work which tier it 20-35% per year vesting)
+
+
+	Summary: 
+		Strong Asset Manager
+
+
+Review 16:
+	Job Title: Associate Director
+	Location: New York, NY
+	Review Date: 2023-05-22T18:08:03.163
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 4
+	Work Life Balance: 1
+
+	Pros: 
+		Looks great on a resume
+
+
+	Cons: 
+		Face time is really important. Hearing people say good night to their kids over the phone every night was heartbreaking and I’ll never forget it.
+
+
+	Summary: 
+		Looks great on a resume
+
+
+Review 17:
+	Job Title: Administrative Assistant
+	Location: New York, NY
+	Review Date: 2023-08-16T21:08:24.753
+	Business Outlook: NEUTRAL
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Company culture, people, benefits, and salary
+
+
+	Cons: 
+		Four days a week in the office
+
+
+	Summary: 
+		Salaries
+
+
+Review 18:
+	Job Title: Analyst
+	Location: New York, NY
+	Review Date: 2023-07-13T03:45:15.703
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good benefits, great team culture, respected name in PE
+
+
+	Cons: 
+		Long hours but rewarded for it
+
+
+	Summary: 
+		Love working at Apollo
+
+
+Review 19:
+	Job Title: Associate Director
+	Location: New York, NY
+	Review Date: 2023-05-13T15:23:17.600
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 2
+	Culture and Values: 2
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Your job is secure within the large organization
+
+
+	Cons: 
+		Management was very political. I was told to dial it back on my performance because I was making others look bad multiple times. They wanted to extend our projects longer on purpose. It was really difficult to purposely work slower, less hard, and get paid. As crazy as that sounds. Some people may enjoy that.
+
+
+	Summary: 
+		Good Company Poor Management
+
+
+Review 20:
+	Job Title: Director
+	Location: New York, NY
+	Review Date: 2023-07-19T10:01:35.957
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		People were great and helpful.
+
+
+	Cons: 
+		Long hours and difficult work.
+
+
+	Summary: 
+		Director.
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

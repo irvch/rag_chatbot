@@ -1,0 +1,631 @@
+
+Nucor is a Metals company based in 28211 Charlotte, North Carolina. 
+The company has 31,400 employees and has a revenue of $41,513 according to Fortune 500.
+The company is valued at $38,917 and has a profit of $7,607. The CEO of the company is Leon J. Topalian.
+
+The Company has the following ratings: 
+Average ratings for Nucor:
+Business Outlook: 0.87
+
+Career Opportunities: 4.3
+Distribution: 
+	1: 35 
+	2: 47 
+	3: 98 
+	4: 94 
+	5: 194 
+
+CEO: 0.95
+
+Compensation and Benefits: 4.4
+Distribution: 
+	1: 20 
+	2: 28 
+	3: 70 
+	4: 130 
+	5: 218 
+
+Culture and Values: 4.4
+Distribution: 
+	1: 36 
+	2: 39 
+	3: 54 
+	4: 90 
+	5: 239 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 21 
+	2: 20 
+	3: 41 
+	4: 45 
+	5: 129 
+
+Overall: 4.4
+Distribution: 
+	1: 36 
+	2: 46 
+	3: 88 
+	4: 135 
+	5: 259 
+
+Senior Management: 4.1
+Distribution: 
+	1: 68 
+	2: 50 
+	3: 80 
+	4: 104 
+	5: 162 
+
+Work Life Balance: 3.7
+Distribution: 
+	1: 62 
+	2: 76 
+	3: 130 
+	4: 77 
+	5: 123 
+
+Review Count: 565
+
+Recommend to Friend: 
+	RECOMMEND: 329
+	WONT RECOMMEND: 100
+
+
+
+
+The company has 649 reviews on Glassdoor. The last review was posted on 2024-04-16T10:20:51.610. 
+There are 20 Reviews for Nucor:
+
+Review 1:
+	Job Title: Heavy Equipment Operator
+	Location: None
+	Review Date: 2024-04-16T10:20:51.610
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		The companies sound forward, thinking, and compassionate
+
+
+	Cons: 
+		Like any career, you have to be willing to grow and thrive with contrast. A.k.a. other humans not willing to grow or thrive in contrast lol.
+
+
+	Summary: 
+		Solid foundation and track record
+
+
+Review 2:
+	Job Title: Lead Man
+	Location: Jackson, TN
+	Review Date: 2024-02-20T21:03:26.180
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Nucor is a great organization I have no complaints on that they help provide for my family for 15 years
+
+
+	Cons: 
+		They do not want you to look for better opportunities I’m not saying it Nucor but the company (river metal recycle) I devoted 15 years of my life to one of the greatest still company on earth / but I was very disappointed when I found something better for my family an the common courtesy to give my management one month in advance so they can prepare themselves, and I, as the lead man could help train but no to my surprise they forced me out that same day they did pay me my two weeks notice and the rest of my vacation 15 years of my life thrown away like a paper towel ?- You’re just a number. Very disappointing.
+
+
+	Summary: 
+		15 years of my life
+
+
+Review 3:
+	Job Title: Maintenance Electrician
+	Location: Marion, OH
+	Review Date: 2024-04-11T11:22:52.040
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 2
+
+	Pros: 
+		Good pay and benefits, great teammates
+
+
+	Cons: 
+		Tough work schedule, lack of communication between upper management and workers
+
+
+	Summary: 
+		Not bad, not great
+
+
+Review 4:
+	Job Title: Network Engineer
+	Location: Bourbonnais, IL
+	Review Date: 2024-04-05T06:58:08.727
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Highly focused on safety
+		Somewhat flexible schedule
+		Good pay
+		Great bonuses
+		No layoffs
+		Forbes 500
+
+
+	Cons: 
+		Can sometimes be demanding
+		Still trying to organize their architecture
+
+
+	Summary: 
+		Good company to work for
+
+
+Review 5:
+	Job Title: Accounting Supervisor
+	Location: Wallingford, CT
+	Review Date: 2024-04-03T08:09:41.957
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 2
+
+	Pros: 
+		Good compensation package, family enviroment
+
+
+	Cons: 
+		Must be on site everyday
+
+
+	Summary: 
+		Great Company
+
+
+Review 6:
+	Job Title: Sr. Plant Metallurgist
+	Location: Blytheville, AR
+	Review Date: 2024-03-30T17:44:32.043
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Stability, fair employment, growth opportunities
+
+
+	Cons: 
+		Fixed work schedule, far from major cities
+
+
+	Summary: 
+		Great job
+
+
+Review 7:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-25T18:37:41.257
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		great company to work for
+
+
+	Cons: 
+		there isnt any that i know
+
+
+	Summary: 
+		great
+
+
+Review 8:
+	Job Title: Process Engineer
+	Location: Plymouth, UT
+	Review Date: 2024-03-13T22:58:44.007
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Best Care for the employees
+
+
+	Cons: 
+		Extra time of work and duties
+
+
+	Summary: 
+		Best Manufacturing company to work with
+
+
+Review 9:
+	Job Title: Power system  Engineer 
+	Location: Louisville, KY
+	Review Date: 2024-03-12T08:22:08.233
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Great place to work, great management
+
+
+	Cons: 
+		Harsh environment, location, stress and long hours of work
+
+
+	Summary: 
+		. 
+
+
+Review 10:
+	Job Title: Steel Worker
+	Location: Iuka, TX
+	Review Date: 2024-03-10T09:45:42.760
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Good place to work indeed
+
+
+	Cons: 
+		There is not a single con
+
+
+	Summary: 
+		Good pay
+
+
+Review 11:
+	Job Title: Lab Lead
+	Location: None
+	Review Date: 2024-02-27T14:24:32.553
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Safety is the cultural that we live
+
+
+	Cons: 
+		Swing shifts can be taxing
+
+
+	Summary: 
+		Amazing
+
+
+Review 12:
+	Job Title: IT Systems Engineer
+	Location: Dallas, TX
+	Review Date: 2024-02-14T08:00:23.893
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		This is the best company I have ever worked at. If you are lucky enough to get hired into Nucor, you will have a rewarding, lifetime career.
+
+
+	Cons: 
+		None that I can think of. Truly blessed to work here.
+
+
+	Summary: 
+		Outstanding Company!
+
+
+Review 13:
+	Job Title: Machine Operator
+	Location: Waterloo, IN
+	Review Date: 2024-01-09T15:49:10.993
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Safety is first when it comes to NIPG, and you'll feel that whenever you are at work. Yet, you'll also be making great money in a building that tries to limit physical demand on the body with better processes.
+
+
+	Cons: 
+		When the workload increases, you can expect to work extra hours to meet demand. This isn't overly common compared to many factories, but it does occur specifically toward the end of the year.
+
+
+	Summary: 
+		Great place to work with great benefits
+
+
+Review 14:
+	Job Title: Supervisor
+	Location: Jackson, MS
+	Review Date: 2024-02-03T20:31:59.030
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Fair share of profitability 
+		Safety first is not a slogan - way of life
+		Down to earth culture
+
+
+	Cons: 
+		Promotions typically require relocation. 
+		Healthcare cost sharing keeps climbing
+
+
+	Summary: 
+		Are what they say they are
+
+
+Review 15:
+	Job Title: Project Manager
+	Location: Moon Township, PA
+	Review Date: 2024-02-02T08:17:24.437
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 2
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Bonuses are pretty significant. Relatively stable company.
+
+
+	Cons: 
+		We were acquired by Nucor and eventually they decided to eliminate our office. So.... that stinks.
+
+
+	Summary: 
+		Good Company - great bonus structure
+
+
+Review 16:
+	Job Title: Environmental Engineer
+	Location: None
+	Review Date: 2024-02-12T10:56:59.110
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good company to work for
+
+
+	Cons: 
+		sites are mainly in remote locations
+
+
+	Summary: 
+		Environmental Engineer
+
+
+Review 17:
+	Job Title: Electrician
+	Location: Columbia, SC
+	Review Date: 2024-02-06T09:56:08.763
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Great company to work for!
+
+
+	Cons: 
+		Hours can get changed if something goes down
+
+
+	Summary: 
+		Great place to work
+
+
+Review 18:
+	Job Title: Automation Engineer
+	Location: Mount Pleasant, SC
+	Review Date: 2023-12-18T07:55:56.487
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Big on safety. Good pay, stock options &amp; benefits. Treats people well. Big corporate culture which is good. People are not afraid to make application changes to systems. Work hard and play hard.
+
+
+	Cons: 
+		Working hours can be hectic during maintenance. Some of the workplaces are remote. 10 years wait time for 3 weeks of vacation which is a lot.
+
+
+	Summary: 
+		Big on Safety
+
+
+Review 19:
+	Job Title: Accounts Payable
+	Location: Blytheville, AR
+	Review Date: 2024-01-26T10:29:51.933
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Salary, people, benefits, security, industry
+
+
+	Cons: 
+		Environment, advancements, people, base pay, distance
+
+
+	Summary: 
+		Hi
+
+
+Review 20:
+	Job Title: Product Metallurgist
+	Location: Ghent, KY
+	Review Date: 2024-01-08T10:47:59.753
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Introduced some WFH flex scheduling for salaried/hourly positions that can accommodate.
+
+
+	Cons: 
+		Believe in "recognition" over pay. Compliments don't pay the bills. They often think that being part of the "Nucor Family" is great enough.
+
+
+	Summary: 
+		Compliments Don't Pay
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

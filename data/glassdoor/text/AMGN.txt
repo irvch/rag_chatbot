@@ -1,0 +1,630 @@
+
+Amgen is a Pharmaceuticals company based in 91320 Thousand Oaks, California. 
+The company has 25,200 employees and has a revenue of $26,323 according to Fortune 500.
+The company is valued at $129,089 and has a profit of $6,552. The CEO of the company is Robert A. Bradway.
+
+The Company has the following ratings: 
+Average ratings for Amgen:
+Business Outlook: 0.75
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 309 
+	2: 486 
+	3: 871 
+	4: 748 
+	5: 617 
+
+CEO: 0.87
+
+Compensation and Benefits: 4
+Distribution: 
+	1: 58 
+	2: 140 
+	3: 537 
+	4: 1163 
+	5: 1126 
+
+Culture and Values: 4
+Distribution: 
+	1: 255 
+	2: 315 
+	3: 540 
+	4: 714 
+	5: 922 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 71 
+	2: 74 
+	3: 164 
+	4: 318 
+	5: 600 
+
+Overall: 4.2
+Distribution: 
+	1: 169 
+	2: 298 
+	3: 750 
+	4: 1264 
+	5: 1150 
+
+Senior Management: 3.7
+Distribution: 
+	1: 454 
+	2: 473 
+	3: 745 
+	4: 759 
+	5: 545 
+
+Work Life Balance: 3.9
+Distribution: 
+	1: 238 
+	2: 361 
+	3: 654 
+	4: 915 
+	5: 844 
+
+Review Count: 3632
+
+Recommend to Friend: 
+	RECOMMEND: 1940
+	WONT RECOMMEND: 712
+
+
+
+
+The company has 4379 reviews on Glassdoor. The last review was posted on 2024-04-15T04:57:25.887. 
+There are 20 Reviews for Amgen:
+
+Review 1:
+	Job Title: Senior Scientist
+	Location: Thousand Oaks, CA
+	Review Date: 2024-03-31T13:03:04.413
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Good work life balance of course
+
+
+	Cons: 
+		low payment, slow career path
+
+
+	Summary: 
+		Good WLB
+
+
+Review 2:
+	Job Title: strategy sr manager
+	Location: Thousand Oaks, CA
+	Review Date: 2024-04-01T19:15:24.160
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 4
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Decent benefits, remote work focused
+
+
+	Cons: 
+		Extremely toxic management who only care about themselves. Promotions are based off of who you suck up to, not how good of a job you do. The chances of being laid off are extremely high because management doesn’t know how to adequately plan for the future. No focus on employee growth or talent or retention. They do not care about their employees. You are just a number in this company unless you are an SVP or higher. HR will not help you, they will always side with upper management.
+
+
+	Summary: 
+		Toxic workplace with bad leadership
+
+
+Review 3:
+	Job Title: HR Specialist
+	Location: None
+	Review Date: 2024-04-15T04:57:25.887
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		People here truly care about working together, and quickly, to benefit patients.
+
+
+	Cons: 
+		Too much travel to corporate headquarters, sometimes up to 50%. With modern technology this seems wasteful.
+
+
+	Summary: 
+		Strong sense of purpose
+
+
+Review 4:
+	Job Title: Scientist
+	Location: Thousand Oaks, CA
+	Review Date: 2024-04-10T11:40:42.407
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Location and pay and science is great.
+
+
+	Cons: 
+		Terrible team players, no recognition,
+		and terrible cost of living and bonus.
+
+
+	Summary: 
+		Not good
+
+
+Review 5:
+	Job Title: Senior Director
+	Location: None
+	Review Date: 2024-03-01T15:18:05.247
+	Business Outlook: POSITIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 1
+
+	Pros: 
+		Great benefits and solid business model. Allow 100% remote work for most roles
+
+
+	Cons: 
+		No opportunity for executive growth  - you will be stuck in middle management forever. For those who have to visit the office the company drank the open office Kool-Aid and you will be forced to sit at a group table all day and carry your things around in a bucket they give you on the first day.
+
+
+	Summary: 
+		Excellent Company - no opportunities for growth
+
+
+Review 6:
+	Job Title: Senior Oncology Sales Specialist
+	Location: Seattle, WA
+	Review Date: 2024-04-04T11:05:14.957
+	Business Outlook: None
+	Career Opportunities: 1
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Pay, awards and spiffs are good
+
+
+	Cons: 
+		Culture and favoritism. Turnover is high for managers and reps.
+
+
+	Summary: 
+		Oncology Sales
+
+
+Review 7:
+	Job Title: Associate Scientist
+	Location: Cambridge, MA
+	Review Date: 2024-04-03T09:31:48.967
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Reimbursed well for work at the company for experience.
+
+
+	Cons: 
+		No cons for this position.
+
+
+	Summary: 
+		Good experience
+
+
+Review 8:
+	Job Title: Regulatory Affairs Manager
+	Location: Thousand Oaks, CA
+	Review Date: 2023-10-22T18:57:41.363
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 2
+
+	Pros: 
+		I work with some very talented, kind people. Benefits are great. I am well-compensated; however, the pay across the same department for the same role can vary quite a lot. I enjoy flex-work. My direct line manager is kind, understanding, supportive, and respectful.
+
+
+	Cons: 
+		The work/life balance in the RACMC organization can be very poor, and generally, cross-functional team members who work on regulatory filings experience the same excessive workload. Upper management assume people leave because the pay is more attractive elsewhere, and while that may factor in for some, the heavy workload and seemingly random promotion decisions play a large role as well. Some people with limited experience will be promoted quickly, where others with many years of experience, in the same department, who have made very significant contributions, will be passed over.
+
+
+	Summary: 
+		Poor Work/Life Balance; Difficulty Getting Deserved Promotions
+
+
+Review 9:
+	Job Title: Senior Associate
+	Location: Thousand Oaks, CA
+	Review Date: 2024-03-22T23:31:43.250
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great work/life balance. PTO is plentiful. Work load is Moderate to low stress. Great benefits, no one ever keaves
+
+
+	Cons: 
+		Mass layoffs every 5-8 years
+
+
+	Summary: 
+		Great benefits
+
+
+Review 10:
+	Job Title: Senior Associate
+	Location: Tampa, FL
+	Review Date: 2024-03-28T21:01:46.007
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great culture and mission driven. Committed to serve patients.
+
+
+	Cons: 
+		Large hierarchy, some processes take too long
+
+
+	Summary: 
+		Innovative culture
+
+
+Review 11:
+	Job Title: AVP-Commercial
+	Location: Thousand Oaks, CA
+	Review Date: 2024-03-19T15:28:37.180
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Great culture, open for remote/hybrid roles, 10% 401K contribution,
+
+
+	Cons: 
+		Thousand Oaks area is expensive.
+
+
+	Summary: 
+		AVP, Commercial
+
+
+Review 12:
+	Job Title: GTM
+	Location: Thousand Oaks, CA
+	Review Date: 2024-03-22T07:38:02.573
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 3
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		Flexibility and opportunity for advancement
+
+
+	Cons: 
+		lower pay rate than other companies
+
+
+	Summary: 
+		GTM
+
+
+Review 13:
+	Job Title: Speciality Sales Representative
+	Location: Miami, FL
+	Review Date: 2024-03-19T10:37:52.400
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Great company culture, amazing team
+
+
+	Cons: 
+		I personally don’t have anything negative to say
+
+
+	Summary: 
+		Short title
+
+
+Review 14:
+	Job Title: Marketing Director
+	Location: Thousand Oaks, CA
+	Review Date: 2024-03-12T06:57:16.500
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 3
+
+	Pros: 
+		Brilliant colleagues, great facilities, compensation and benefits. Interesting projects, good career progression opportunities. Supportive culture.
+
+
+	Cons: 
+		Long hours culture, constant downsizing and doing more with same resources
+
+
+	Summary: 
+		Great company
+
+
+Review 15:
+	Job Title: Medical Affairs
+	Location: Thousand Oaks, CA
+	Review Date: 2024-03-07T07:38:00.507
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Ain’t to maintain a positive culture
+		Prioritizes work life balance
+		Lots of employees to share responsibility
+
+
+	Cons: 
+		Large company so very process and procedure oriented 
+		Not nimble like small biotech
+
+
+	Summary: 
+		Amgen- Big Pharma but employee centric
+
+
+Review 16:
+	Job Title: Associate Manufacturing
+	Location: Juncos, PR
+	Review Date: 2024-03-04T18:39:16.107
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 2
+
+	Pros: 
+		A lot of over time pay.
+		
+		Good co-workers, tips from them
+
+
+	Cons: 
+		12 hour shifts which will make you feel tire most of the time.
+
+
+	Summary: 
+		Work as Associate manufacturer Cell Culture / Temporal Job Kelly Services
+
+
+Review 17:
+	Job Title: Process Development Scientist
+	Location: Cambridge, MA
+	Review Date: 2023-04-27T20:15:18.783
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		-Good work-life balance -Good time-off policy -Competitive pay to start -Absolutely excellent practices, processes, and quality of work and employees; gold standard for biotech companies in terms of doing the right thing and ensuring quality -Good benefits -All employees I interacted with were good to amazing; never had an issue with anyone else
+
+
+	Cons: 
+		-Pay fell behind industry standards after staying for only a few years and it was very obvious; no promotion talks so I was effectively forced to leave eventually -Large company culture means everything is very corporate and there is very little in the way of immediate-team building that doesn't feel forced. Key Comparison: My new company does nice SMALL team dinners/events that are actually fun and each is fully funded and covered by the company to encourage teams to have a good time and bond naturally whereas at Amgen the most that ever happened was a forced happy hour that the company wasn't even willing to pay for. I do not *love* corporate events, but Amgen's were nonexistent or awkward whereas my new company's are fun, engaging and actually make me happy to attend -Growth opportunities in my department were strict and limited to internal compared to other, similar companies where external opportunities were encouraged and fully funded to promote staff growth
+
+
+	Summary: 
+		Pretty good company to work for
+
+
+Review 18:
+	Job Title: Senior Manager
+	Location: Tampa, FL
+	Review Date: 2024-03-07T15:41:39.757
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Diversity, PTO, Salary, and opportunities for promotion
+
+
+	Cons: 
+		I haven’t come across any as if yet.
+
+
+	Summary: 
+		Best Place To Work
+
+
+Review 19:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-03T19:05:23.473
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Good benefits and lots of opportunities
+
+
+	Cons: 
+		Lots of company politics
+		Pay is lower for industry
+		Don’t take care of their sales people
+
+
+	Summary: 
+		It’s okay
+
+
+Review 20:
+	Job Title: Undergrad Co-op
+	Location: Juncos, PR
+	Review Date: 2024-03-03T11:18:18.797
+	Business Outlook: None
+	Career Opportunities: 5
+	CEO: None
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 5
+	Work Life Balance: 3
+
+	Pros: 
+		Great for career growth and good benefits
+
+
+	Cons: 
+		It can be a lot of work and low work life balance.
+
+
+	Summary: 
+		Insights
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

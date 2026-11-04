@@ -1,0 +1,696 @@
+
+Capital One Financial is a Commercial Banks company based in 22102 McLean, Virginia. 
+The company has 55,943 employees and has a revenue of $38,373 according to Fortune 500.
+The company is valued at $36,776 and has a profit of $7,360. The CEO of the company is Richard D. Fairbank.
+
+The Company has the following ratings: 
+Average ratings for Capital One Financial:
+Business Outlook: 0.65
+
+Career Opportunities: 3.7
+Distribution: 
+	1: 616 
+	2: 676 
+	3: 1538 
+	4: 2059 
+	5: 2497 
+
+CEO: 0.83
+
+Compensation and Benefits: 4.1
+Distribution: 
+	1: 207 
+	2: 320 
+	3: 1192 
+	4: 2449 
+	5: 3195 
+
+Culture and Values: 3.9
+Distribution: 
+	1: 561 
+	2: 476 
+	3: 955 
+	4: 1700 
+	5: 3631 
+
+Diversity and Inclusion: 4.1
+Distribution: 
+	1: 301 
+	2: 269 
+	3: 663 
+	4: 1250 
+	5: 2795 
+
+Overall: 3.9
+Distribution: 
+	1: 541 
+	2: 548 
+	3: 1574 
+	4: 3110 
+	5: 4188 
+
+Senior Management: 3.4
+Distribution: 
+	1: 961 
+	2: 796 
+	3: 1439 
+	4: 2021 
+	5: 2048 
+
+Work Life Balance: 4
+Distribution: 
+	1: 424 
+	2: 477 
+	3: 1098 
+	4: 1806 
+	5: 3513 
+
+Review Count: 15224
+
+Recommend to Friend: 
+	RECOMMEND: 4839
+	WONT RECOMMEND: 1440
+
+
+
+
+The company has 17003 reviews on Glassdoor. The last review was posted on 2024-04-18T02:10:26.137. 
+There are 20 Reviews for Capital One Financial:
+
+Review 1:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-27T12:24:21.993
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		Fantastic work climate and culture
+
+
+	Cons: 
+		Large scale org can lead to siloing
+
+
+	Summary: 
+		Awesome culture
+
+
+Review 2:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-14T05:21:31.260
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		You will meet some amazing, talented and kind hearted people in this organization
+
+
+	Cons: 
+		I've got to be honest, working at Capital One has been a mixed bag. On one hand, the mission to change banking for good caught my attention and got me excited. On the other, the reality of their stack ranking system has been a tough pill to swallow. Even when you're doing everything right—meeting deadlines, delivering quality work—it feels like it doesn't matter unless you're in favor with the ranking system and your managers favorite. 
+		
+		What really gets to me is seeing how everyone can be working hard to bring the bank forward, that would make their performance review “strong” but because of this system, some associates are still forced to the bottom or hit with a PIP. I’ve seen this not just in one part of the bank but I’ve experienced this in retail and commercial bank, and this has been happening more on commercial as attrition is at an all time high, managers play favorites and show little support to their team. It's disheartening, especially knowing that big names like Google, Microsoft, and GE have already moved past such outdated practices.
+		
+		The constant manager turnover doesn't help, making it feel like you're always trying to prove yourself all over again. It's a lot, and it contradicts the whole "changing banking for good" message.
+		
+		We really need to rethink this approach. If we're serious about making a difference in banking, it should start with how we're treated and evaluated. It's about time we supported the people putting in the work day in and day out.
+
+
+	Summary: 
+		Time for a change at Capital One
+
+
+Review 3:
+	Job Title: Brand Associate
+	Location: Richmond, VA
+	Review Date: 2024-04-08T21:13:20.470
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		A good brand to have on your resume. You'll get the chance to see how a Fortune 100 brand builds their marketing. Good pay and benefits. Work life balance is great.
+
+
+	Cons: 
+		Blatant sycophant behavior would take place in front of my manager and director during stand-ups. Team members who were on the more genuine side would be quite uncomfortable. Meanwhile, the leaders would either turn their head, or enable them if they felt it was coming from an Associate who was savvy politically or had rising popularity within the department. (What was advantageous for the career climb was more important than substance.)
+		
+		If you're mainly looking to apply yourself creatively or strategically you'll be disappointed. At times, I found that my manager (who was quite patronizing despite demonstrating limited ability) struggled to understand high-level brand concepts. It seemed like most of the department was designed not to build that unconventional 'What's in your Wallet' advertising you see in mass media (that's done by external ad agencies, btw)—but instead, are there simply to maintain the corporate brand's status quo. 
+		
+		As a result, there's a lot of hive mind. And deviation from that poses the risk of coming off as threatening to management, who's mind is too far gone from the concept of any sort of individual imagination.
+
+
+	Summary: 
+		Sycophant behavior. Toxic politics.
+
+
+Review 4:
+	Job Title: Lead Software Engineer
+	Location: Richmond, VA
+	Review Date: 2024-04-14T17:05:34.053
+	Business Outlook: None
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The people are good and you learn a lot. Lots of great open source and AWS tech to work with.
+
+
+	Cons: 
+		Their twice a year performance review process is horrible for outsiders joining. You will be compared against everyone with the same role in your org and they don't account for how long you've been at the company. 12% of employees in each role must be put in the poor performance bucket every review period. 
+		Despite the claim of a good work/life balance, I have not seen that in the tech teams at Capital One, particularly at the team lead and above positions. It's somewhat of a cutthroat environment in my opinion for the reviews. They've also become hostile to fully remote positions.
+
+
+	Summary: 
+		Outside hires pray you can match performance of everyone in your role
+
+
+Review 5:
+	Job Title: Product Manager
+	Location: None
+	Review Date: 2023-12-07T15:30:49.883
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Some managers are phenomenal and uphold very high standards while creating a very enjoyable work experience 
+		
+		Family-like atmosphere with mutually supportive colleagues 
+		
+		Compensation is reasonable
+		
+		Work-life balance is excellent
+		
+		Good severance package
+
+
+	Cons: 
+		Astonishingly bad talent management, often putting people into roles that they are not qualified for such as placing non technical people in technical roles
+		
+		Unpredictable performance levels that often have little to do with actual performance
+		
+		The misuse of talent tied to the bizarre performance ranking system combine to force top talent into situations where they cannot succeed and are penalized financially and in their career progression 
+		
+		Once someone is caught in this position and get a negative review, they are not able to rotate out until they do succeed, which traps employees in a rigid no-win situation when a new assignment would resolve the issue
+		
+		All of the above combine into a method of putting employees onto a PIP and then laying them off without saying that it is a layoff, adding in legalese that puts the onus on the employee for choosing not to take reasonable steps to improve using the PIP
+		
+		The PIP is treated as an acknowledgement of poor performance and a choice not to improve rather than what it is, an opportunity to get severance and escape a bad situation
+
+
+	Summary: 
+		Could be an amazing place, but…
+
+
+Review 6:
+	Job Title: Senior Software Engineer
+	Location: McLean, VA
+	Review Date: 2024-01-15T17:59:28.970
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		They value work/life balance a lot. Expect to work no more than 40 hours a week unless you have a really unfortunate manager or you yourself really want to. Also expect to be able to fully take advantage of all of their awesome benefits. If you want to take a class, or have a baby, they will pay for it without a second thought. If you have COVID, don’t feel embarrassed about taking that unlimited sick leave to get better. Also, the pay is pretty good for the DC area with decent opportunities for growth (especially if you get hired in Card).
+
+
+	Cons: 
+		They say they are doing remote in various positions, but I’ve heard horror stories from more than a few people. Getting hired remote, but it’s not written in their contract, so they get mandated to visit the office anyways. Or people who have guarantees from managers but HR doesn’t agree years later. Also, they are trying to say they aren’t doing layoffs, when in reality they are doing everything but to copy Silicon Valley for the shareholders. There have been mass layoffs of anyone who got below a certain threshold of reviews as “fired for the employees poor performance”. I think the remote debacles are on a similar note as well.
+
+
+	Summary: 
+		It’s a pretty cool place, but don’t expect remote options
+
+
+Review 7:
+	Job Title: Software Engineer
+	Location: None
+	Review Date: 2023-12-14T13:14:34.023
+	Business Outlook: NEGATIVE
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		- Smart people generally
+		- Modern technology stack (this is dependent on team)
+		- Pretty good pay (around 75th percentile of market), good 401k match
+		- Nice campus, they require 50% of time to be spent in office.
+
+
+	Cons: 
+		Capital One practices stack ranking. This was somewhat relaxed during the pandemic, but the low performance bucket was as high as 15-20% at 2023 mid year. They seem to have historically used this as a mechanism to lay people off without having the negative press that accompanies it. Read other reviews to get a sense of what kind of behavior this incentivizes and what sort of culture it creates. If you join as a new employee you will be at a disadvantage compared to those who have been there for a while/have connections within their organization. Even if it does not immediately worry you, I have seen driven, talented engineers driven out of the company because eventually someone in their upper management disliked them.
+		
+		There's definitely a fake nice culture, people will be friendly but knives come out behind closed doors during performance calibrations.
+		
+		A big source of the company's revenue (credit card interest) comes from people trapping themselves in debt. It doesn't feel great to contribute to that.
+
+
+	Summary: 
+		Decent place to start your career, but best not to stay long
+
+
+Review 8:
+	Job Title: Executive Assistant
+	Location: Plano, TX
+	Review Date: 2024-04-16T20:02:44.023
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Process of requesting meetings and partnership with other EAs or PM across the org is highly organized and structured. They only hire EAs with exceptional experience, something I have rarely seen in other organizations. Experience is absolutely required. High performance is widely recognized and leadership is very supportive. The benefits here are very generous such as 401k, spot bonuses and annual bonuses. The Plano campus offers plenty of amenities such as shuttle service, onsite cafeteria for each buildings, etc.
+
+
+	Cons: 
+		The Women's Network is a bit flawed and bias as there are several folks that run this organization and they only empower leadership in their panels.
+
+
+	Summary: 
+		Best Place to Work
+
+
+Review 9:
+	Job Title: Senior Machine Learning Engineer
+	Location: None
+	Review Date: 2024-03-14T05:02:49.157
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 4
+
+	Pros: 
+		Strong enterprise DevOps infrastructure. Good for early careers (one to two years) out of college.
+
+
+	Cons: 
+		Here is the reality of being a machine learning engineer at C1, despite all the social media marketing: you are rebuilding a tool that readily exists in commercial and open-source projects, which no one else uses within the company, except the MLEs who are building it, in order to justify continuing to build it.
+		
+		At the end of the day, you are reproducing an overengineered solution, which is also (in-part) intended to remove the need for your role (and data scientists). Modeling experience is largely non-existent since your time is best spent reinventing the wheel,
+		
+		Furthermore, you are also going to end up in effectively the only MLE org within the company, which also has one of the worst happiness and management cultures within all of Capital One. Prepare to spend everyday working with mostly arrogant and unpleasant (to put it mildly) managers, who lack tech experience in many instances, while privately commiserating with coworkers in Slack. If you have experience elsewhere, you will be amazed to see such joyless teams.
+
+
+	Summary: 
+		MLEs Chase Their Own Tails (&amp; Cry Themselves to Sleep)
+
+
+Review 10:
+	Job Title: Senior Software Engineer
+	Location: McLean, VA
+	Review Date: 2024-03-27T20:23:06.993
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 5
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		There are great people who work here, my team is fantastic, and the work I do is 60/40. Used to feel 100/0.
+
+
+	Cons: 
+		The whole RTO process is stupid. They don't care anymore for the work you do, they care about you coming in for x amount of hours. You can literally sit and do nothing for 2 days a week, be lazy and watch YouTube, and Capital One will be happy that you're in the office.
+		The performance review ladder is garbage, there's literally no room for growth. The bar keeps getting raised every year, and it's gotten to the point of doing an insane amount of work, and then your leaders saying "That's great, but you can do more" - I literally don't have the capacity to sell my soul.
+		I used to recommend this place for friends to work at, but after 2023, not anymore.
+
+
+	Summary: 
+		Culture that's changed to crap
+
+
+Review 11:
+	Job Title: Senior Business Analyst
+	Location: Plano, TX
+	Review Date: 2024-03-10T14:13:49.350
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		- Amazing Culture, bi-weekly team building events, happy hours, bday celebrations in the office
+		- Good amenities on site with the on campus pharmacy, doctors, the slide is fun, and the corporate gym is a great deal. The food is good for an office cafeteria also!
+		- Lots of communication from leadership down to employees
+		- Benefits and PTO policy are good!
+
+
+	Cons: 
+		- The adjustment to Hybrid was been tricky with some employees seeming to get more leeway for their own situations compared to other employees. Enforcement and flexibility should be offered more fairly to all employees
+		- The ADP program is amazing but experienced hires are definitely an afterthought with little to no onboarding. At times I've felt there was some bias against me as an non-ADP because I wasn't trained the "capital one way" yet and was often treated as a 2nd/3rd choice to projects and opportunities.
+
+
+	Summary: 
+		Great Culture and great place to learn and grow
+
+
+Review 12:
+	Job Title: Senior Software Engineer
+	Location: New York, NY
+	Review Date: 2024-03-14T09:33:47.803
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		- Decent Base Salary especially for early career (but no RSU)
+		- VERY Team dependent but some teams are very high functioning and have good modern tech,
+
+
+	Cons: 
+		Focus on stack ranking has turned this company into a PIP factory.
+		The company forces a distribution of 10-15% of people being put into the "below expectations" bucket every 6 months and these people get put into a PIP. It makes you resent your high performing peers because their success means you are 1 step closer to being put in the below expectations bucket. 
+		
+		They are trying to be like amazon with half the pay.
+		
+		I read the same negative reviews before I joined and chose to ignore them thinking that only disgruntled people would be writing them but they turned out to be 100% accurate. Do yourself a favor and avoid C1.
+
+
+	Summary: 
+		TOXIC Stack Ranking Culture permeates every level of the business
+
+
+Review 13:
+	Job Title: Senior Fraud Account Supervisor
+	Location: Tampa, FL
+	Review Date: 2024-04-14T10:34:54.347
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 1
+	Overall: 3
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		Healthcare was amazing, with different tiers for Medical and Dental. Vision insurance was mediocre and did not full cater to eye needs.
+
+
+	Cons: 
+		Not a great work environment—managers are not interested in your upward growth in the company. Also little opportunity to form lasting professional relationships with managers as my level of employees were often cycled to different managers every 3-6 months. Not a lot of opportunity for personal growth in the company.
+
+
+	Summary: 
+		Great Benefits, Okay Company
+
+
+Review 14:
+	Job Title: Cyber Risk Manager
+	Location: McLean, VA
+	Review Date: 2024-03-24T07:06:40.747
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 5
+
+	Pros: 
+		- Compensation is extremely competitive, only beat by big tech from what I’ve seen
+		- Management generally tries to do the right thing compared to the easier thing
+		- Great work life balance. I work very hard during the time I’m working, but average barely over 40 hours a week
+		- The office space is incredible with all the amenities you could ever need. For WFH, management will provide whatever you need (within reason) to be productive at home
+
+
+	Cons: 
+		- Fast paced. If you are used to a government-like pace, this is probably not the place for you
+		- As with all companies this size, politics can get in the way of getting work done from time to time
+		- Bell curve performance management
+
+
+	Summary: 
+		Great place to work - well balanced
+
+
+Review 15:
+	Job Title: Senior Software Engineer
+	Location: Plano, TX
+	Review Date: 2024-04-11T08:28:44.003
+	Business Outlook: NEUTRAL
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		- For 90% of teams, work/life balance is fantastic
+		- Pay is well above average for the area (in Texas)
+		- Software stacks are modern
+		- Quality engineers to work with
+
+
+	Cons: 
+		- Extremely political culture--stack ranking encourages sandbagging others and results in people being unfairly thrown under the bus
+		- Leadership silos each line of business causing a lot of repeat work and multiple products that serve the same goal
+		- Business priorities change too rapidly, causing engineer teams to scramble to try and keep up while keeping their promised deliverables
+
+
+	Summary: 
+		Quality Engineers, but Company Culture can be hit or miss
+
+
+Review 16:
+	Job Title: Software Engineer
+	Location: Richmond, VA
+	Review Date: 2024-01-31T08:24:55.790
+	Business Outlook: NEGATIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 5
+	Culture and Values: 2
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		- Benefits are second to none in the area
+		- Compensation is Good
+		- The People are talented
+		- Products are interesting and engaging and organized to work on
+		- Always room to move to areas you are more interested in
+		- Great potential to create a network
+
+
+	Cons: 
+		- Direct Management quality has high amounts of variance and turnover
+		- Your manager and skip have more impact on your compensation and perception of you than your actual work does
+		- Middle and Upper Management has no idea what happens day to day for much of the company, and is slowly squeezing its limited resources 
+		- Promotions and compensation often feels arbitrary
+		- General direction of company is not focused on its people, but reusing tools and using as few resources as possible, makes promotions and getting adequate staffing impossible
+
+
+	Summary: 
+		Great People and Great Products held back by management
+
+
+Review 17:
+	Job Title: Loan Operations Associate
+	Location: Bethesda, MD
+	Review Date: 2024-04-15T07:42:08.533
+	Business Outlook: NEUTRAL
+	Career Opportunities: 1
+	CEO: APPROVE
+	Compensation and Benefits: 5
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 1
+	Work Life Balance: 5
+
+	Pros: 
+		Good work life balance and benefits.
+
+
+	Cons: 
+		Management was so out of focus from day to day tasks. They were constantly in and out of meetings all day and was never part of the actual work. They would create big decisions around the team without knowing how things work. Really created an inefficient environment.
+
+
+	Summary: 
+		Easy Job
+
+
+Review 18:
+	Job Title: Senior Associate Product Manager
+	Location: New York, NY
+	Review Date: 2024-04-14T17:38:11.383
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 2
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		If you play the game right, you can actually have good work life balance.
+
+
+	Cons: 
+		The worst of Corporate America. I've been rated in the top 5% of associates, yet have not been promoted due to manager turnover. I've had 10 managers in just over two years and sadly I am only slightly above average.
+
+
+	Summary: 
+		The Epitome of Corporate Politics
+
+
+Review 19:
+	Job Title: Software Engineer
+	Location: Plano, TX
+	Review Date: 2024-04-10T12:02:08.643
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 4
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 4
+
+	Pros: 
+		Your experience will be highly dependent on your team. Pros - high pay, good vacation, health insurance, etc.
+
+
+	Cons: 
+		Especially in the TDP program, if you get placed on a bad team you might end up doing minimum software development - instead you might be stuck doing user support all day. Little upward momentum and you might get switched into a team you dislike and you will be unable to move.
+
+
+	Summary: 
+		Team Dependent
+
+
+Review 20:
+	Job Title: Senior Software Engineer
+	Location: McLean, VA
+	Review Date: 2024-04-09T11:46:25.367
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 1
+	Diversity and Inclusion: 2
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Decent pay and the hours aren't that bad.
+
+
+	Cons: 
+		Performance management is awful
+		Culture is getting worse
+		Morale on my team is low as we have attrition and our manager isn't very good.
+		Way too many short term foreign contractors
+
+
+	Summary: 
+		On the decline
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+

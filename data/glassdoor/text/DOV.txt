@@ -1,0 +1,622 @@
+
+Dover is a Industrial Machinery company based in 60515 Downers Grove, Illinois. 
+The company has 25,000 employees and has a revenue of $8,508 according to Fortune 500.
+The company is valued at $21,237 and has a profit of $1,065. The CEO of the company is Richard J. Tobin.
+
+The Company has the following ratings: 
+Average ratings for Dover:
+Business Outlook: 0.67
+
+Career Opportunities: 3.4
+Distribution: 
+	1: 58 
+	2: 59 
+	3: 79 
+	4: 79 
+	5: 89 
+
+CEO: 0.79
+
+Compensation and Benefits: 3.6
+Distribution: 
+	1: 30 
+	2: 39 
+	3: 88 
+	4: 116 
+	5: 89 
+
+Culture and Values: 3.4
+Distribution: 
+	1: 62 
+	2: 37 
+	3: 72 
+	4: 74 
+	5: 109 
+
+Diversity and Inclusion: 3.4
+Distribution: 
+	1: 23 
+	2: 14 
+	3: 28 
+	4: 38 
+	5: 61 
+
+Overall: 3.6
+Distribution: 
+	1: 51 
+	2: 53 
+	3: 91 
+	4: 116 
+	5: 118 
+
+Senior Management: 3.1
+Distribution: 
+	1: 75 
+	2: 60 
+	3: 59 
+	4: 76 
+	5: 76 
+
+Work Life Balance: 3.5
+Distribution: 
+	1: 52 
+	2: 38 
+	3: 80 
+	4: 89 
+	5: 100 
+
+Review Count: 430
+
+Recommend to Friend: 
+	RECOMMEND: 215
+	WONT RECOMMEND: 118
+
+
+
+
+The company has 466 reviews on Glassdoor. The last review was posted on 2024-04-09T11:07:14.857. 
+There are 20 Reviews for Dover:
+
+Review 1:
+	Job Title: Materials Engineer
+	Location: Houston, TX
+	Review Date: 2024-01-03T09:24:51.317
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 5
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		learn hands on experience, project management, data analysis
+
+
+	Cons: 
+		communication, prefer to have more feedback
+
+
+	Summary: 
+		intern
+
+
+Review 2:
+	Job Title: None
+	Location: Downers Grove, IL
+	Review Date: 2024-03-28T14:14:21.840
+	Business Outlook: POSITIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		Life/work balance, Benefits. Hybrid Schedule.
+
+
+	Cons: 
+		Negative energy culture coming from top down, low employee morale, little opportunity for promotion, Unprofessional, gossipy, retaliatory, backstabbing HR leadership.
+
+
+	Summary: 
+		Look elsewhere
+
+
+Review 3:
+	Job Title: Financial Analyst
+	Location: Downers Grove, IL
+	Review Date: 2024-03-29T19:53:20.423
+	Business Outlook: NEUTRAL
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Free lunch and good benefits
+
+
+	Cons: 
+		Long Hours and poor systems
+
+
+	Summary: 
+		Stable boring job
+
+
+Review 4:
+	Job Title: None
+	Location: None
+	Review Date: 2024-03-18T19:35:44.053
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Focused on DEI, good benefits, nice people,
+
+
+	Cons: 
+		Too many small companies make up the conglomerate with varying needs
+
+
+	Summary: 
+		Great Company with Balanced Financial Approach
+
+
+Review 5:
+	Job Title: None
+	Location: None
+	Review Date: 2023-07-06T19:50:25.443
+	Business Outlook: NEUTRAL
+	Career Opportunities: 2
+	CEO: NO_OPINION
+	Compensation and Benefits: 3
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 3
+
+	Pros: 
+		1) Prior to the Dover Digital team taking over I worked with a highly effective Engineering team that I was proud to be a member. 2) I got out when I did and no longer have to deal with the misery that the leadership
+
+
+	Cons: 
+		By my departure, the Dover Digital leadership team had taken over and dismantled everything that worked, suggesting they had a better way. This better way was to bring online managers who didn't understand the business or the products and believed forcing people into multi-hour meetings was the secret to getting results. What had been a &lt;15-minute standup had become &gt;90-minute meetings with the team being interrogated by management. Time management was excessive, having to log time in 3 places, with the team members expected to deliver over 40 hours of development on top of any of the meetings they attended. Management regularly showed up to meetings late and left early without notice despite being a key participant. When a decision was made, it typically came from an idea that the team raised numerous times to management, who would not only take credit for but act as if they had uncovered the secret to what was wrong and actually berated the team for not recognizing the solution.
+
+
+	Summary: 
+		Once amazing company dragged down by a continued failure in leadership to recognize the issues
+
+
+Review 6:
+	Job Title: IT Project Manager
+	Location: Downers Grove, IL
+	Review Date: 2024-01-07T08:37:44.983
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: NO_OPINION
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Friendly and professional, great bonus, great incentives
+
+
+	Cons: 
+		Nothing bad to share here
+
+
+	Summary: 
+		Good company to work for
+
+
+Review 7:
+	Job Title: Fabricator
+	Location: Eagle Rock, VA
+	Review Date: 2023-12-07T09:24:05.363
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 5
+
+	Pros: 
+		Flexible on time off and mostly left alone to work
+
+
+	Cons: 
+		Could be better pay and better management
+
+
+	Summary: 
+		Good for some
+
+
+Review 8:
+	Job Title: Office Administrator
+	Location: Houston, TX
+	Review Date: 2023-12-04T07:46:47.220
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Good people to work with, flexible schedule available.
+
+
+	Cons: 
+		Somewhat short-staffed at times, leaving employees spread thin.
+
+
+	Summary: 
+		Good place to work
+
+
+Review 9:
+	Job Title: Global Sales Director
+	Location: Chicago, IL
+	Review Date: 2023-12-02T08:48:24.413
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 5
+
+	Pros: 
+		Highly complex manufacturing environment that challenges you daily.
+
+
+	Cons: 
+		Not many, other then standard administration and reporting requirements.
+
+
+	Summary: 
+		Great company
+
+
+Review 10:
+	Job Title: Product Manager
+	Location: Sylmar, CA
+	Review Date: 2023-11-14T12:00:51.693
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 3
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 4
+
+	Pros: 
+		Solid Conglomerated, multiple growth opportunities and very good salaries.
+
+
+	Cons: 
+		Local Op Co legacy leaders usually shown resistance to corporate initiatives, wasting great opportunities to make better business for the future.
+
+
+	Summary: 
+		Solid
+
+
+Review 11:
+	Job Title: Project Coordinator
+	Location: Phoenix, AZ
+	Review Date: 2023-10-24T08:37:49.170
+	Business Outlook: None
+	Career Opportunities: 2
+	CEO: None
+	Compensation and Benefits: 3
+	Culture and Values: 2
+	Diversity and Inclusion: 3
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 2
+
+	Pros: 
+		Job security was never a concern, company was always busy
+
+
+	Cons: 
+		If you didn’t butter up management, you didn’t stand a chance to move up or promote.
+
+
+	Summary: 
+		Culture and success based on favoritism
+
+
+Review 12:
+	Job Title: Senior IT Manager
+	Location: Charlotte, NC
+	Review Date: 2023-11-02T05:45:47.053
+	Business Outlook: None
+	Career Opportunities: 0
+	CEO: None
+	Compensation and Benefits: 0
+	Culture and Values: 0
+	Diversity and Inclusion: 0
+	Overall: 4
+	Recommend to Friend: None
+	Senior Leadership: 0
+	Work Life Balance: 0
+
+	Pros: 
+		good work Life balance if you land a decent role
+
+
+	Cons: 
+		not very great growth prospects
+
+
+	Summary: 
+		Decent Company
+
+
+Review 13:
+	Job Title: Global Product Manager
+	Location: Chicago, IL
+	Review Date: 2023-10-30T16:20:51.757
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 3
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Rewarded for your efforts and impact
+
+
+	Cons: 
+		Dover is a relatively flat organization at the Opco level
+
+
+	Summary: 
+		Great Company
+
+
+Review 14:
+	Job Title: Senior Global Benefits Analyst
+	Location: None
+	Review Date: 2023-09-23T05:19:40.013
+	Business Outlook: POSITIVE
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 3
+	Culture and Values: 3
+	Diversity and Inclusion: 3
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 3
+	Work Life Balance: 3
+
+	Pros: 
+		Remote work, great team spirit, Great pay/benefits.
+
+
+	Cons: 
+		Some systems/processes are outdated 18 operating companies under one umbrella, each with their own HR team.
+
+
+	Summary: 
+		Great Company
+
+
+Review 15:
+	Job Title: Retail Sales Analyst
+	Location: Mineola, NY
+	Review Date: 2023-10-27T06:40:13.860
+	Business Outlook: NEGATIVE
+	Career Opportunities: 1
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 1
+	Diversity and Inclusion: 1
+	Overall: 1
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 1
+	Work Life Balance: 1
+
+	Pros: 
+		The company was close to my house.
+
+
+	Cons: 
+		The hours were not good. The bosses were not good. The pay was not good.
+
+
+	Summary: 
+		Bad Company to Work For
+
+
+Review 16:
+	Job Title: None
+	Location: Downers Grove, IL
+	Review Date: 2023-05-25T09:09:16.347
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 4
+	Diversity and Inclusion: 4
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 4
+	Work Life Balance: 4
+
+	Pros: 
+		Employees are proud to work for Dover and Dover owned companies around the world. Recent employee surveys illustrated strong favorable responses regarding DEI, and surprisingly positive perception of managers and supervisors. This company feels very global even though it is US based. CEO is a savvy leader that values innovation and independence as levers to enable results.
+
+
+	Cons: 
+		The Dover employment brand is not well known. Wish more people knew about the wide variety of jobs and career opportunities.
+
+
+	Summary: 
+		Well run global MFG co with an inclusive culture
+
+
+Review 17:
+	Job Title: HR Specialist
+	Location: Downers Grove, IL
+	Review Date: 2023-09-01T22:39:47.160
+	Business Outlook: None
+	Career Opportunities: 3
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 3
+	Diversity and Inclusion: 5
+	Overall: 4
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 5
+
+	Pros: 
+		Good growth, good team, nice people, good work life balance
+
+
+	Cons: 
+		Vision is a little skewed of the business and leaders don’t communicate
+
+
+	Summary: 
+		Okay company
+
+
+Review 18:
+	Job Title: Software Engineer
+	Location: Austin, TX
+	Review Date: 2023-08-10T04:58:35.323
+	Business Outlook: NEGATIVE
+	Career Opportunities: 2
+	CEO: DISAPPROVE
+	Compensation and Benefits: 1
+	Culture and Values: 3
+	Diversity and Inclusion: 1
+	Overall: 2
+	Recommend to Friend: NEGATIVE
+	Senior Leadership: 2
+	Work Life Balance: 3
+
+	Pros: 
+		Great people to work with
+
+
+	Cons: 
+		Always fast paced No bonus out of 7 of 10 years
+
+
+	Summary: 
+		Mixed experience
+
+
+Review 19:
+	Job Title: Senior Talent Acquisition Specialist
+	Location: Downers Grove, IL
+	Review Date: 2023-07-15T19:01:32.983
+	Business Outlook: POSITIVE
+	Career Opportunities: 5
+	CEO: APPROVE
+	Compensation and Benefits: 4
+	Culture and Values: 5
+	Diversity and Inclusion: 5
+	Overall: 5
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 5
+	Work Life Balance: 4
+
+	Pros: 
+		Great people! Opportunity for training and advancement.
+
+
+	Cons: 
+		Never had the chance to meet the CEO face to face.
+
+
+	Summary: 
+		Great Company
+
+
+Review 20:
+	Job Title: Machine Operator
+	Location: None
+	Review Date: 2023-08-25T20:28:02.503
+	Business Outlook: POSITIVE
+	Career Opportunities: 4
+	CEO: None
+	Compensation and Benefits: 4
+	Culture and Values: 2
+	Diversity and Inclusion: 2
+	Overall: 1
+	Recommend to Friend: POSITIVE
+	Senior Leadership: 2
+	Work Life Balance: 1
+
+	Pros: 
+		Good pay and plenty of hours
+
+
+	Cons: 
+		Too many hours can lead to mental illness
+
+
+	Summary: 
+		Rules are wishy washy
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
