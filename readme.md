@@ -1,7 +1,5 @@
-Financial News Chatbot -- Big Data Science Final Project
+## Financial News Chatbot -- Big Data Science Final Project
 by Irvin Chadraa, Chris Xu, and Jerry Yao
-ic2184, qx428, jy2916@nyu.edu
-
 
 The "source_code" folder contains code written entirely in Python for acquiring the data in our model's knowledge base as well as the code to run the chatbot itself. All code can be separately run within individual Jupyter Notebooks on Google Colab. For recreating results, begin by running the Glassdoor scraping code since the SEC scraper needs the list of companies made by findTop500.py. Any necessary libraries and dependencies should be ideally be accounted for within the notebooks for each file. If not, a simple "pip install {insert_name}" should suffice in the command line interface for .py files or run "!pip install {insert_name}" in a code block for .ipynb files.
 
